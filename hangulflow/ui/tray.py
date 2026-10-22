@@ -22,6 +22,9 @@ class TrayIcon(QSystemTrayIcon):
         menu.addAction("Next word", widget.go_next)
         self._pause_action = menu.addAction("Pause rotation", widget.toggle_pause)
         menu.addSeparator()
+        menu.addAction("Add my own word…", widget.add_word)
+        menu.addAction("Statistics…", widget.show_statistics)
+        menu.addSeparator()
         menu.addAction("Quit HangulFlow", widget.quit_requested.emit)
         menu.aboutToShow.connect(self._refresh_menu)
         self._menu = menu  # keep a reference; the tray does not own its menu

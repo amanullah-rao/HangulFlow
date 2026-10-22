@@ -87,6 +87,10 @@ _GLYPHS = {
     "more": ("", "⋯"),
     "compact": ("", "▭"),
     "expand": ("", "▢"),
+    "speak": ("", "🔊"),
+    "star": ("", "☆"),
+    "starred": ("", "★"),
+    "add": ("", "+"),
 }
 
 
@@ -196,6 +200,18 @@ def stylesheet(fonts: Fonts, p: Palette) -> str:
     QLabel#goal[done="true"] {{ color: {p.accent}; font-weight: 600; }}
 
     QDialog#statsDialog {{ background: {p.bg_bottom}; }}
+    QDialog#statsDialog QLineEdit, QDialog#statsDialog QComboBox {{
+        background: {p.menu_bg}; border: 1px solid {p.border}; border-radius: 6px; padding: 5px 8px;
+    }}
+    QDialog#statsDialog QLineEdit:focus {{ border: 1px solid {p.accent}; }}
+    QDialog#statsDialog QPushButton {{
+        background: {rgba(p.accent, 40)}; color: {p.accent_text}; border: 1px solid {rgba(p.accent, 110)};
+        border-radius: 7px; padding: 6px 16px;
+    }}
+    QDialog#statsDialog QPushButton:hover {{ background: {rgba(p.accent, 72)}; }}
+
+    QToolButton#iconButton[active="true"] {{ color: {p.accent}; }}
+    QLabel#korean[placeholder="true"] {{ color: {p.faint}; }}
     QLabel#statValue {{ font-size: 18pt; font-weight: 600; color: {p.heading}; }}
     QLabel#statLabel {{ color: {p.muted}; font-size: 8.5pt; }}
     QLabel#statTitle {{ color: {p.faint}; font-size: 8pt; letter-spacing: 0.5px; }}

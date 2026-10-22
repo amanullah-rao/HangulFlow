@@ -124,6 +124,13 @@ class VocabRepository:
             )
         return cur.lastrowid
 
+    def find(self, korean: str, meaning_en: str) -> int | None:
+        """Id of the word with this Korean text and English meaning, if it exists."""
+        row = self.conn.execute(
+            "SELECT id FROM vocabulary WHERE korean = ? AND meaning_en = ?", (korean.strip(), meaning_en.strip())
+        ).fetchone()
+        return row[0] if row else None
+
     def set_starred(self, vocab_id: int, starred: bool) -> None:
         with self.conn:
             self.conn.execute("UPDATE vocabulary SET starred = ? WHERE id = ?", (int(starred), vocab_id))

@@ -18,6 +18,9 @@ log = logging.getLogger(__name__)
 INTERVAL_CHOICES = (1, 5, 10, 15, 20, 30)  # minutes; 1 is mainly for testing
 DAILY_GOAL_CHOICES = (10, 20, 30, 50)  # words rated per day
 REVEAL_MODES = ("hidden", "shown")
+# Which side of the card is shown first: Korean, the meaning (recall the Korean), or a mix.
+CARD_DIRECTIONS = ("korean", "meaning", "mixed")
+MIXED_REVERSE_SHARE = 0.3  # in "mixed", about 3 in 10 cards show the meaning first
 MIN_WIDTH, MAX_WIDTH = 260, 560
 LAYERS = ("desktop", "normal", "top")  # behind all windows | like any window | always on top
 THEME_KEYS =("midnight", "graphite", "ocean", "forest", "paper", "hanji")  # see ui/theme.py
@@ -30,6 +33,7 @@ class Settings:
     daily_goal: int = 20
     paused: bool = False
     reveal_mode: str = "hidden"  # "hidden": click Reveal; "shown": meanings visible at once
+    card_direction: str = "korean"
     compact: bool = False
     opacity: float = 0.95
     layer: str = "desktop"
@@ -51,6 +55,7 @@ class Settings:
             daily_goal=self.daily_goal if self.daily_goal in DAILY_GOAL_CHOICES else defaults.daily_goal,
             paused=bool(self.paused),
             reveal_mode=self.reveal_mode if self.reveal_mode in REVEAL_MODES else defaults.reveal_mode,
+            card_direction=self.card_direction if self.card_direction in CARD_DIRECTIONS else defaults.card_direction,
             compact=bool(self.compact),
             opacity=min(1.0, max(0.3, float(self.opacity)))
             if isinstance(self.opacity, (int, float)) and not isinstance(self.opacity, bool)

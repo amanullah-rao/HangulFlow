@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import math
+import random
 import time
 from datetime import datetime, timezone
 
@@ -25,8 +26,18 @@ from PySide6.QtWidgets import (
 from .. import presence, srs
 from ..repository import Vocab, VocabRepository
 from ..rotation import WordSession
-from ..settings import DAILY_GOAL_CHOICES, INTERVAL_CHOICES, MAX_WIDTH, MIN_WIDTH, Settings, SettingsStore
+from ..settings import (
+    DAILY_GOAL_CHOICES,
+    INTERVAL_CHOICES,
+    MAX_WIDTH,
+    MIN_WIDTH,
+    MIXED_REVERSE_SHARE,
+    Settings,
+    SettingsStore,
+)
 from . import desktop_layer, theme
+from .add_word_dialog import AddWordDialog
+from .speech import INSTALL_HINT, KoreanSpeaker
 from .stats_dialog import StatsDialog
 
 RATING_BUTTONS = (  # (rating, label, key)
@@ -90,6 +101,9 @@ class VocabWidget(QWidget):
         self._desktop_pin = desktop_layer.DesktopPin()
         self._flash_text = ""
         self._flash_until = 0.0  # status line shows _flash_text until then (e.g. "Copied ✓")
+        self._reverse = False  # current card shows the meaning first
+        self._rng = random.Random()
+        self._speaker = KoreanSpeaker(self)
 
         self.setWindowTitle("HangulFlow")
         self.setWindowFlags(self._window_flags())
@@ -138,6 +152,8 @@ class VocabWidget(QWidget):
         header.setSpacing(2)
         self._category = QLabel(objectName="category")
         header.addWidget(self._category, 1)
+        self._star_button = self._icon_button("star", "Save to favourites", self.toggle_star)
+        header.addWidget(self._star_button)
         self._compact_button = self._icon_button("compact", "Compact mode", lambda: self._act_compact.toggle())
         self._hide_button = self._icon_button("hide", "Hide to tray (HangulFlow keeps running)", self.hide_to_tray)
         self._more_button = self._icon_button("more", "Settings", None)
@@ -169,6 +185,8 @@ class VocabWidget(QWidget):
         word_row.addWidget(self._korean)
         word_row.addWidget(self._hanja, 0, Qt.AlignmentFlag.AlignBottom)
         word_row.addStretch(1)
+        self._speak_word_button = self._icon_button("speak", "Listen to the word (S)", self.speak_word)
+        word_row.addWidget(self._speak_word_button, 0, Qt.AlignmentFlag.AlignVCenter)
         content.addLayout(word_row)
         content.addWidget(self._romanization)
         content.addSpacing(4)
@@ -177,7 +195,12 @@ class VocabWidget(QWidget):
         content.addSpacing(2)
         content.addWidget(self._divider)
         content.addSpacing(2)
-        content.addWidget(self._example_ko)
+        example_row = QHBoxLayout()
+        example_row.setSpacing(4)
+        example_row.addWidget(self._example_ko, 1)
+        self._speak_example_button = self._icon_button("speak", "Listen to the example sentence", self.speak_example)
+        example_row.addWidget(self._speak_example_button, 0, Qt.AlignmentFlag.AlignTop)
+        content.addLayout(example_row)
         content.addWidget(self._example_en)
         content.addWidget(self._example_ur)
         content.addWidget(self._notes)
@@ -261,6 +284,15 @@ class VocabWidget(QWidget):
                 if label is not obj and label.hasSelectedText():
                     label.setSelection(0, 0)
             self._last_selected = obj
+        # A plain click (not a text selection) on the card's text reveals the answer.
+        elif (
+            event.type() == QEvent.Type.MouseButtonRelease
+            and event.button() == Qt.MouseButton.LeftButton
+            and obj in self._text_labels
+            and not self._revealed
+            and not obj.hasSelectedText()
+        ):
+            QTimer.singleShot(0, self.reveal)
         return super().eventFilter(obj, event)
 
     def _label(self, name: str, rtl: bool = False) -> QLabel:
@@ -291,6 +323,7 @@ class VocabWidget(QWidget):
         menu.aboutToShow.connect(lambda: self._act_copy_selection.setEnabled(self._selected_text() != ""))
         menu.addSeparator()
 
+        menu.addAction("Add my own word…", self.add_word)
         menu.addAction("Mark as learned (skip for 2 months)", self.mark_learned)
         menu.addAction("Statistics…", self.show_statistics)
         goal_menu = menu.addMenu("Daily goal")
@@ -331,6 +364,18 @@ class VocabWidget(QWidget):
             opacity_group.addAction(action)
 
         menu.addSeparator()
+        direction_menu = menu.addMenu("Card direction")
+        direction_group = QActionGroup(self)
+        for key, label in (
+            ("korean", "Korean first (recognise the meaning)"),
+            ("meaning", "Meaning first (recall the Korean)"),
+            ("mixed", "Mixed (about 3 in 10 reversed)"),
+        ):
+            action = direction_menu.addAction(label)
+            action.setCheckable(True)
+            action.setChecked(key == self._settings.card_direction)
+            action.triggered.connect(lambda _checked=False, k=key: self.set_card_direction(k))
+            direction_group.addAction(action)
         self._act_show_meanings = self._check_action(
             menu, "Show meanings immediately", self._settings.reveal_mode == "shown", self.set_show_meanings
         )
@@ -389,7 +434,13 @@ class VocabWidget(QWidget):
             self._example_ur.setText(v.example_ur)
             self._notes.setText(v.notes)
 
-        self._revealed = self._settings.reveal_mode == "shown"
+        direction = self._settings.card_direction
+        self._reverse = v is not None and v.part_of_speech != "grammar" and (
+            direction == "meaning" or (direction == "mixed" and self._rng.random() < MIXED_REVERSE_SHARE)
+        )
+        # A reversed card always starts hidden, otherwise there is nothing to recall.
+        self._revealed = self._settings.reveal_mode == "shown" and not self._reverse
+        self._refresh_star()
         self._prev_button.setEnabled(self._session.can_go_back)
         self._settings.current_vocab_id = v.id if v else None
         self._update_visibility()
@@ -406,15 +457,28 @@ class VocabWidget(QWidget):
 
     def _update_visibility(self) -> None:
         compact = self._settings.compact
-        show = self._revealed and self._vocab is not None
-        self._meaning_en.setVisible(show and bool(self._meaning_en.text()))
-        self._meaning_ur.setVisible(show and bool(self._meaning_ur.text()))
+        v = self._vocab
+        show = self._revealed and v is not None
+        # Reversed card, not yet revealed: show the meaning, hide everything that gives the Korean away.
+        hide_korean = self._reverse and not self._revealed and v is not None
+        if v is not None:
+            self._korean.setText("?" if hide_korean else v.korean)
+        show_meaning = (show or hide_korean)
+        self._meaning_en.setVisible(show_meaning and bool(self._meaning_en.text()))
+        self._meaning_ur.setVisible(show_meaning and bool(self._meaning_ur.text()))
         details = [self._example_ko, self._example_en, self._example_ur, self._notes]
         for label in details:
             label.setVisible(show and not compact and bool(label.text()))
         self._divider.setVisible(any(not label.isHidden() for label in details))
-        self._romanization.setVisible(bool(self._romanization.text()))
-        self._reveal_button.setVisible(self._vocab is not None and not self._revealed)
+        self._romanization.setVisible(bool(self._romanization.text()) and not hide_korean)
+        self._reveal_button.setVisible(v is not None and not self._revealed)
+        reveal_text = "Show Korean word" if self._reverse else "Reveal meaning"
+        if self._reveal_button.text() != reveal_text:
+            self._reveal_button.setText(reveal_text)
+            self._reveal_button.setMinimumWidth(self._reveal_button.sizeHint().width())
+        self._speak_word_button.setVisible(v is not None and not hide_korean)
+        self._speak_example_button.setVisible(not self._example_ko.isHidden())
+        self._star_button.setVisible(v is not None)
         self._rating_row.setVisible(show)
         if show:
             state = self._repo.card_state(self._vocab.id)
@@ -423,7 +487,8 @@ class VocabWidget(QWidget):
                 after = srs.schedule(state, rating, now)
                 self._rating_buttons[rating].setToolTip(f"{text} ({key}) · back in {srs.describe_interval(after.interval_days)}")
 
-        self._hanja.setVisible(bool(self._hanja.text()))
+        self._hanja.setVisible(bool(self._hanja.text()) and not hide_korean)
+        self._korean.setProperty("placeholder", hide_korean)
         for label in (self._korean, self._hanja):
             label.setProperty("compact", compact)
             label.style().unpolish(label)
@@ -527,6 +592,61 @@ class VocabWidget(QWidget):
         self._repo.mark_learned(self._vocab.id)
         self.go_next()
         self._flash_status("Marked as learned ✓", seconds=3)
+
+    def speak_word(self) -> None:
+        if self._vocab is not None and (self._revealed or not self._reverse):
+            self._speak(self._vocab.korean)
+
+    def speak_example(self) -> None:
+        if self._vocab is not None:
+            self._speak(self._vocab.example_ko)
+
+    def _speak(self, text: str) -> None:
+        if not self._speaker.speak(text):
+            self._flash_status("No Korean voice installed", seconds=4)
+            self._speak_word_button.setToolTip(INSTALL_HINT)
+
+    def toggle_star(self) -> None:
+        if self._vocab is None:
+            return
+        starred = not self._vocab.starred
+        self._repo.set_starred(self._vocab.id, starred)
+        self._vocab = self._repo.get(self._vocab.id)
+        self._refresh_star()
+        self._flash_status("Saved to favourites ★" if starred else "Removed from favourites")
+
+    def _refresh_star(self) -> None:
+        starred = bool(self._vocab and self._vocab.starred)
+        self._star_button.setText(self._fonts.glyph("starred" if starred else "star"))
+        self._star_button.setToolTip("Remove from favourites" if starred else "Save to favourites")
+        if self._star_button.property("active") != starred:
+            self._star_button.setProperty("active", starred)
+            self._star_button.style().unpolish(self._star_button)
+            self._star_button.style().polish(self._star_button)
+
+    def add_word(self) -> None:
+        dialog = AddWordDialog(self._fonts.urdu)
+        dialog.setWindowIcon(self.windowIcon())
+        if dialog.exec() != AddWordDialog.DialogCode.Accepted:
+            return
+        values = dialog.values()
+        existing = self._repo.find(values["korean"], values["meaning_en"])
+        if existing is not None:  # don't crash on the UNIQUE rule - just show the word
+            self._repo.set_starred(existing, True)
+            self._show_vocab(self._session.show(existing))
+            self._restart_cycle()
+            self._flash_status("Already in your words - starred ★", seconds=3)
+            return
+        vocab_id = self._repo.add_word(**values)
+        self._show_vocab(self._session.show(vocab_id))
+        self._restart_cycle()
+        self._flash_status("Word added to My Words ★", seconds=3)
+
+    def set_card_direction(self, direction: str) -> None:
+        self._settings.card_direction = direction
+        self._schedule_save()
+        if self._vocab is not None:
+            self._show_vocab(self._vocab.id, animate=False)  # re-apply to the current card
 
     def set_daily_goal(self, goal: int) -> None:
         self._settings.daily_goal = goal
@@ -790,6 +910,8 @@ class VocabWidget(QWidget):
             self.reveal()
         elif key == Qt.Key.Key_P:
             self.toggle_pause()
+        elif key == Qt.Key.Key_S:
+            self.speak_word()
         elif key in (Qt.Key.Key_1, Qt.Key.Key_2, Qt.Key.Key_3):
             self.rate(RATING_BUTTONS[key - Qt.Key.Key_1][0])
         elif key == Qt.Key.Key_Escape:

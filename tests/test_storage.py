@@ -1,6 +1,8 @@
 import json
 import sqlite3
 
+import pytest
+
 from datetime import datetime, timedelta, timezone
 
 from hangulflow import srs
@@ -96,6 +98,10 @@ def test_add_word_and_star(tmp_path):
     assert v.starred and v.source == "user" and v.category == "My Words"
     repo.set_starred(vid, False)
     assert not repo.get(vid).starred
+    assert repo.find(" 눈치 ", "tact, social awareness") == vid  # used to avoid duplicate inserts
+    assert repo.find("눈치", "something else") is None
+    with pytest.raises(ValueError):
+        repo.add_word("  ", "x")
 
 
 def test_record_view_updates_progress(tmp_path):

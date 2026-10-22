@@ -121,6 +121,12 @@ class WordSession:
             self._push(chosen)
         return chosen
 
+    def show(self, vocab_id: int) -> int:
+        """Jump to a specific word (e.g. one the learner just added)."""
+        self._source.record_view(vocab_id)
+        self._push(vocab_id)
+        return vocab_id
+
     def previous(self) -> int | None:
         if self.can_go_back:
             self._pos -= 1
