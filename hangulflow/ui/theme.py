@@ -134,8 +134,15 @@ def detect_fonts() -> Fonts:
     )
 
 
+# Unknown / Difficult / Known - the same hues in every theme so they stay recognisable.
+RATE_COLORS = ("#E5484D", "#F5A524", "#30A46C")
+_RATE_TEXT_DARK = ("#FF9DA0", "#FFCB7A", "#74D9A6")
+_RATE_TEXT_LIGHT = ("#B4232A", "#8A5300", "#1B6E45")
+
+
 def stylesheet(fonts: Fonts, p: Palette) -> str:
     icon_family = f'"{fonts.icons}"' if fonts.icons else f'"{fonts.ui}"'
+    rate_text = _RATE_TEXT_DARK if p.dark else _RATE_TEXT_LIGHT
     return f"""
     QWidget {{
         color: {p.text}; font-family: "{fonts.ui}"; font-size: 10pt;
@@ -174,6 +181,24 @@ def stylesheet(fonts: Fonts, p: Palette) -> str:
         padding: 6px 14px; font-size: 9.5pt;
     }}
     QPushButton#revealButton:hover {{ background: {rgba(p.accent, 72)}; }}
+
+    QPushButton#rateUnknown, QPushButton#rateDifficult, QPushButton#rateKnown {{
+        border-radius: 9px; padding: 5px 4px; font-size: 9pt; font-weight: 500;
+    }}
+    QPushButton#rateUnknown {{ background: {rgba(RATE_COLORS[0], 34)}; color: {rate_text[0]}; border: 1px solid {rgba(RATE_COLORS[0], 90)}; }}
+    QPushButton#rateDifficult {{ background: {rgba(RATE_COLORS[1], 34)}; color: {rate_text[1]}; border: 1px solid {rgba(RATE_COLORS[1], 90)}; }}
+    QPushButton#rateKnown {{ background: {rgba(RATE_COLORS[2], 34)}; color: {rate_text[2]}; border: 1px solid {rgba(RATE_COLORS[2], 90)}; }}
+    QPushButton#rateUnknown:hover {{ background: {rgba(RATE_COLORS[0], 70)}; }}
+    QPushButton#rateDifficult:hover {{ background: {rgba(RATE_COLORS[1], 70)}; }}
+    QPushButton#rateKnown:hover {{ background: {rgba(RATE_COLORS[2], 70)}; }}
+
+    QLabel#goal {{ color: {p.muted}; font-size: 8pt; padding-right: 6px; }}
+    QLabel#goal[done="true"] {{ color: {p.accent}; font-weight: 600; }}
+
+    QDialog#statsDialog {{ background: {p.bg_bottom}; }}
+    QLabel#statValue {{ font-size: 18pt; font-weight: 600; color: {p.heading}; }}
+    QLabel#statLabel {{ color: {p.muted}; font-size: 8.5pt; }}
+    QLabel#statTitle {{ color: {p.faint}; font-size: 8pt; letter-spacing: 0.5px; }}
 
     QProgressBar#countdown {{ background: {rgba(p.text, 20)}; border: none; border-radius: 1px; }}
     QProgressBar#countdown::chunk {{ background: {p.accent}; border-radius: 1px; }}

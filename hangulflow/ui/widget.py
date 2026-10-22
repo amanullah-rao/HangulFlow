@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import math
 import time
+from datetime import datetime, timezone
 
 from PySide6.QtCore import QEasingCurve, QEvent, QPoint, QPropertyAnimation, QRectF, Qt, QTimer, Signal
 from PySide6.QtGui import QAction, QActionGroup, QGuiApplication, QKeySequence, QLinearGradient, QPainter, QPainterPath, QPen
@@ -21,11 +22,19 @@ from PySide6.QtWidgets import (
     QWidget,
 )
 
-from .. import presence
+from .. import presence, srs
 from ..repository import Vocab, VocabRepository
 from ..rotation import WordSession
-from ..settings import INTERVAL_CHOICES, MAX_WIDTH, MIN_WIDTH, Settings, SettingsStore
+from ..settings import DAILY_GOAL_CHOICES, INTERVAL_CHOICES, MAX_WIDTH, MIN_WIDTH, Settings, SettingsStore
 from . import desktop_layer, theme
+from .stats_dialog import StatsDialog
+
+RATING_BUTTONS = (  # (rating, label, key)
+    (srs.UNKNOWN, "Unknown", "1"),
+    (srs.DIFFICULT, "Difficult", "2"),
+    (srs.KNOWN, "Known", "3"),
+)
+RATING_OBJECT_NAMES = {srs.UNKNOWN: "rateUnknown", srs.DIFFICULT: "rateDifficult", srs.KNOWN: "rateKnown"}
 
 OPACITY_CHOICES = (1.0, 0.95, 0.9, 0.8, 0.7, 0.6)
 PRESENCE_CHECK_MS = 10_000
@@ -111,6 +120,7 @@ class VocabWidget(QWidget):
         self._presence_timer.start()
 
         self._refresh_pause_button()
+        self._refresh_goal()
         self._show_vocab(self._session.start(settings.current_vocab_id), animate=False)
         self._restore_geometry()
         self._update_countdown()
@@ -183,6 +193,21 @@ class VocabWidget(QWidget):
         reveal_row.addStretch(1)
         content.addLayout(reveal_row)
 
+        # Shown once the meaning is visible: how well did you know it?
+        self._rating_row = QWidget()
+        rating_layout = QHBoxLayout(self._rating_row)
+        rating_layout.setContentsMargins(0, 6, 0, 0)
+        rating_layout.setSpacing(6)
+        self._rating_buttons: dict[str, QPushButton] = {}
+        for rating, text, key in RATING_BUTTONS:
+            button = QPushButton(text, objectName=RATING_OBJECT_NAMES[rating])
+            button.setCursor(Qt.CursorShape.PointingHandCursor)
+            button.setFocusPolicy(Qt.FocusPolicy.NoFocus)
+            button.clicked.connect(lambda _checked=False, r=rating: self.rate(r))
+            rating_layout.addWidget(button, 1)
+            self._rating_buttons[rating] = button
+        content.addWidget(self._rating_row)
+
         self._fade = QGraphicsOpacityEffect(self._content)
         self._fade.setOpacity(1.0)
         self._content.setGraphicsEffect(self._fade)
@@ -207,6 +232,9 @@ class VocabWidget(QWidget):
         footer.addWidget(self._pause_button)
         footer.addWidget(self._next_button)
         footer.addStretch(1)
+        self._goal = QLabel(objectName="goal")
+        self._goal.setToolTip("Words rated today / daily goal")
+        footer.addWidget(self._goal)
         self._status = QLabel(objectName="status")
         footer.addWidget(self._status)
         root.addLayout(footer)
@@ -261,6 +289,18 @@ class VocabWidget(QWidget):
         menu.addAction("Copy word", self.copy_word)
         menu.addAction("Copy whole card", self.copy_card)
         menu.aboutToShow.connect(lambda: self._act_copy_selection.setEnabled(self._selected_text() != ""))
+        menu.addSeparator()
+
+        menu.addAction("Mark as learned (skip for 2 months)", self.mark_learned)
+        menu.addAction("Statistics…", self.show_statistics)
+        goal_menu = menu.addMenu("Daily goal")
+        goal_group = QActionGroup(self)
+        for goal in DAILY_GOAL_CHOICES:
+            action = goal_menu.addAction(f"{goal} words")
+            action.setCheckable(True)
+            action.setChecked(goal == self._settings.daily_goal)
+            action.triggered.connect(lambda _checked=False, g=goal: self.set_daily_goal(g))
+            goal_group.addAction(action)
         menu.addSeparator()
 
         interval_menu = menu.addMenu("Change word every")
@@ -375,6 +415,13 @@ class VocabWidget(QWidget):
         self._divider.setVisible(any(not label.isHidden() for label in details))
         self._romanization.setVisible(bool(self._romanization.text()))
         self._reveal_button.setVisible(self._vocab is not None and not self._revealed)
+        self._rating_row.setVisible(show)
+        if show:
+            state = self._repo.card_state(self._vocab.id)
+            now = datetime.now(timezone.utc)
+            for rating, text, key in RATING_BUTTONS:
+                after = srs.schedule(state, rating, now)
+                self._rating_buttons[rating].setToolTip(f"{text} ({key}) · back in {srs.describe_interval(after.interval_days)}")
 
         self._hanja.setVisible(bool(self._hanja.text()))
         for label in (self._korean, self._hanja):
@@ -465,8 +512,45 @@ class VocabWidget(QWidget):
         self._update_countdown()
         QTimer.singleShot(int(seconds * 1000) + 50, self._update_countdown)
 
+    def rate(self, rating: str) -> None:
+        """Save how well the learner knew this word, then move on."""
+        if self._vocab is None or not self._revealed:
+            return
+        after = self._repo.rate(self._vocab.id, rating)
+        label = dict((r, t) for r, t, _ in RATING_BUTTONS)[rating]
+        self.go_next()
+        self._flash_status(f"{label} · back in {srs.describe_interval(after.interval_days)}", seconds=3)
+
+    def mark_learned(self) -> None:
+        if self._vocab is None:
+            return
+        self._repo.mark_learned(self._vocab.id)
+        self.go_next()
+        self._flash_status("Marked as learned ✓", seconds=3)
+
+    def set_daily_goal(self, goal: int) -> None:
+        self._settings.daily_goal = goal
+        self._refresh_goal()
+        self._schedule_save()
+
+    def _refresh_goal(self) -> None:
+        done = self._repo.stats().rated_today
+        goal = self._settings.daily_goal
+        reached = done >= goal
+        self._goal.setText(f"{'✓' if reached else '●'} {done}/{goal}")
+        if self._goal.property("done") != reached:
+            self._goal.setProperty("done", reached)
+            self._goal.style().unpolish(self._goal)
+            self._goal.style().polish(self._goal)
+
+    def show_statistics(self) -> None:
+        dialog = StatsDialog(self._repo.stats(), self._settings.daily_goal, theme.palette(self._settings.theme), self._fonts)
+        dialog.setWindowIcon(self.windowIcon())
+        dialog.exec()
+
     def go_next(self) -> None:
         self._show_vocab(self._session.next())
+        self._refresh_goal()
         self._restart_cycle()
 
     def go_previous(self) -> None:
@@ -706,6 +790,8 @@ class VocabWidget(QWidget):
             self.reveal()
         elif key == Qt.Key.Key_P:
             self.toggle_pause()
+        elif key in (Qt.Key.Key_1, Qt.Key.Key_2, Qt.Key.Key_3):
+            self.rate(RATING_BUTTONS[key - Qt.Key.Key_1][0])
         elif key == Qt.Key.Key_Escape:
             self.hide_to_tray()
         else:

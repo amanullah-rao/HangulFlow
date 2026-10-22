@@ -16,6 +16,7 @@ from pathlib import Path
 log = logging.getLogger(__name__)
 
 INTERVAL_CHOICES = (1, 5, 10, 15, 20, 30)  # minutes; 1 is mainly for testing
+DAILY_GOAL_CHOICES = (10, 20, 30, 50)  # words rated per day
 REVEAL_MODES = ("hidden", "shown")
 MIN_WIDTH, MAX_WIDTH = 260, 560
 LAYERS = ("desktop", "normal", "top")  # behind all windows | like any window | always on top
@@ -26,6 +27,7 @@ THEME_KEYS =("midnight", "graphite", "ocean", "forest", "paper", "hanji")  # see
 class Settings:
     interval_minutes: int = 10
     theme: str = "paper"
+    daily_goal: int = 20
     paused: bool = False
     reveal_mode: str = "hidden"  # "hidden": click Reveal; "shown": meanings visible at once
     compact: bool = False
@@ -46,6 +48,7 @@ class Settings:
             if _is_int(self.interval_minutes) and self.interval_minutes in INTERVAL_CHOICES
             else defaults.interval_minutes,
             theme=self.theme if self.theme in THEME_KEYS else defaults.theme,
+            daily_goal=self.daily_goal if self.daily_goal in DAILY_GOAL_CHOICES else defaults.daily_goal,
             paused=bool(self.paused),
             reveal_mode=self.reveal_mode if self.reveal_mode in REVEAL_MODES else defaults.reveal_mode,
             compact=bool(self.compact),

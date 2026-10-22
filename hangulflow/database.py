@@ -14,7 +14,7 @@ from pathlib import Path
 
 log = logging.getLogger(__name__)
 
-SCHEMA_VERSION = 2
+SCHEMA_VERSION = 3
 
 SCHEMA_V1 = """
 CREATE TABLE IF NOT EXISTS vocabulary (
@@ -103,6 +103,12 @@ def migrate(conn: sqlite3.Connection) -> None:
             "ALTER TABLE vocabulary ADD COLUMN hanja TEXT NOT NULL DEFAULT '';\nPRAGMA user_version = 2;"
         )
         log.info("Database migrated to v2 (hanja column).")
+    if version < 3:
+        # Words the learner saved/starred ("My words").
+        conn.executescript(
+            "ALTER TABLE vocabulary ADD COLUMN starred INTEGER NOT NULL DEFAULT 0;\nPRAGMA user_version = 3;"
+        )
+        log.info("Database migrated to v3 (starred column).")
 
 
 def open_database(path: Path) -> sqlite3.Connection:

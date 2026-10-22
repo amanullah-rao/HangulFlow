@@ -1,4 +1,5 @@
 import random
+from datetime import datetime, timedelta, timezone
 
 from hangulflow.rotation import Candidate, WordSession, choose_next, recent_window
 
@@ -44,6 +45,34 @@ def test_unseen_words_are_preferred():
     rng = random.Random(7)
     picks = [choose_next(cands, [], rng) for _ in range(1000)]
     assert picks.count(1) > picks.count(2) * 10
+
+
+NOW = datetime(2026, 10, 22, 12, 0, tzinfo=timezone.utc)
+
+
+def test_due_words_come_first_even_if_recent():
+    cands = [
+        Candidate(1, 0),                                                  # new
+        Candidate(2, 3, "learning", NOW - timedelta(minutes=5)),         # due
+        Candidate(3, 3, "review", NOW - timedelta(days=2)),              # more overdue
+        Candidate(4, 3, "review", NOW + timedelta(days=3)),              # not due
+    ]
+    assert choose_next(cands, [9, 3], random.Random(1), NOW) == 3
+    assert choose_next(cands, [3], random.Random(1), NOW) == 2   # never the same word twice in a row
+
+
+def test_new_words_before_early_practice():
+    cands = [Candidate(1, 5, "review", NOW + timedelta(days=1)), Candidate(2, 0)]
+    assert choose_next(cands, [], random.Random(1), NOW) == 2
+
+
+def test_early_practice_prefers_unlearned_soonest():
+    cands = [
+        Candidate(1, 5, "learned", NOW + timedelta(hours=1)),
+        Candidate(2, 5, "review", NOW + timedelta(days=4)),
+        Candidate(3, 5, "review", NOW + timedelta(days=2)),
+    ]
+    assert choose_next(cands, [], random.Random(1), NOW) == 3
 
 
 def test_recent_window_is_bounded():

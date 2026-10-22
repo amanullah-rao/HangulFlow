@@ -1,14 +1,24 @@
 """Choosing which word to show next, plus Previous/Next history.
 
-Kept free of Qt and SQL so it can be unit-tested directly. Phase 3 will
-replace the weighting in `choose_next` with spaced-repetition due dates.
+Priority (see choose_next):
+1. Words that are due for review (most overdue first) - this is how
+   difficult and unknown words come back quickly.
+2. New words, favouring ones seen least often.
+3. If nothing is due and nothing is new: early practice with the word whose
+   review is closest, preferring words not yet learned.
+Recently shown words are skipped so the same few words don't repeat.
+
+Kept free of Qt and SQL so it can be unit-tested directly.
 """
 
 from __future__ import annotations
 
 import random
 from dataclasses import dataclass
-from typing import Protocol
+from datetime import datetime, timezone
+from typing import Callable, Protocol
+
+from .srs import LEARNED, NEW
 
 MAX_HISTORY = 100
 
@@ -17,6 +27,8 @@ MAX_HISTORY = 100
 class Candidate:
     vocab_id: int
     times_seen: int
+    status: str = NEW
+    due_at: datetime | None = None
 
 
 def recent_window(total_words: int) -> int:
@@ -28,18 +40,33 @@ def choose_next(
     candidates: list[Candidate],
     recent_ids: list[int],
     rng: random.Random | None = None,
+    now: datetime | None = None,
 ) -> int | None:
-    """Pick a word id, skipping recently shown words and favouring rarely seen ones."""
     if not candidates:
         return None
     rng = rng or random.Random()
+    now = now or datetime.now(timezone.utc)
+    last = recent_ids[0] if recent_ids else None
+
+    # 1. Due reviews win, even if shown recently - just never twice in a row.
+    due = [c for c in candidates if c.due_at is not None and c.due_at <= now and c.vocab_id != last]
+    if due:
+        return min(due, key=lambda c: c.due_at).vocab_id
+
     recent = set(recent_ids)
     pool = [c for c in candidates if c.vocab_id not in recent]
     if not pool:
-        last = recent_ids[0] if recent_ids else None
         pool = [c for c in candidates if c.vocab_id != last] or list(candidates)
-    weights = [1.0 / (1 + c.times_seen) for c in pool]  # unseen words weigh 1.0
-    return rng.choices(pool, weights=weights, k=1)[0].vocab_id
+
+    # 2. New words, weighted towards the least seen.
+    new = [c for c in pool if c.status == NEW]
+    if new:
+        weights = [1.0 / (1 + c.times_seen) for c in new]
+        return rng.choices(new, weights=weights, k=1)[0].vocab_id
+
+    # 3. Early practice: closest review first, learned words last.
+    far = datetime.max.replace(tzinfo=timezone.utc)
+    return min(pool, key=lambda c: (c.status == LEARNED, c.due_at or far)).vocab_id
 
 
 class _Source(Protocol):
@@ -51,9 +78,15 @@ class _Source(Protocol):
 class WordSession:
     """Tracks what is on screen and lets the user step back and forward."""
 
-    def __init__(self, source: _Source, rng: random.Random | None = None) -> None:
+    def __init__(
+        self,
+        source: _Source,
+        rng: random.Random | None = None,
+        clock: Callable[[], datetime] | None = None,
+    ) -> None:
         self._source = source
         self._rng = rng or random.Random()
+        self._clock = clock or (lambda: datetime.now(timezone.utc))
         self._history: list[int] = []
         self._pos = -1
 
@@ -81,6 +114,7 @@ class WordSession:
             candidates,
             self._source.recent_view_ids(recent_window(len(candidates))),
             self._rng,
+            self._clock(),
         )
         if chosen is not None:
             self._source.record_view(chosen)
