@@ -14,7 +14,7 @@ from pathlib import Path
 
 log = logging.getLogger(__name__)
 
-SCHEMA_VERSION = 3
+SCHEMA_VERSION = 4
 
 SCHEMA_V1 = """
 CREATE TABLE IF NOT EXISTS vocabulary (
@@ -109,6 +109,15 @@ def migrate(conn: sqlite3.Connection) -> None:
             "ALTER TABLE vocabulary ADD COLUMN starred INTEGER NOT NULL DEFAULT 0;\nPRAGMA user_version = 3;"
         )
         log.info("Database migrated to v3 (starred column).")
+    if version < 4:
+        # Explicit "the learner edited this word" flag, so bundled-list updates never
+        # overwrite their changes (comparing timestamps was unreliable within one second).
+        conn.executescript(
+            "ALTER TABLE vocabulary ADD COLUMN edited INTEGER NOT NULL DEFAULT 0;\n"
+            "UPDATE vocabulary SET edited = 1 WHERE updated_at != created_at;\n"
+            "PRAGMA user_version = 4;"
+        )
+        log.info("Database migrated to v4 (edited column).")
 
 
 def open_database(path: Path) -> sqlite3.Connection:

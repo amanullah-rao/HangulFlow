@@ -210,6 +210,50 @@ def stylesheet(fonts: Fonts, p: Palette) -> str:
     }}
     QDialog#statsDialog QPushButton:hover {{ background: {rgba(p.accent, 72)}; }}
 
+    QMainWindow#libraryWindow, QWidget#page, QMessageBox {{ background: {p.bg_bottom}; }}
+    QTabWidget::pane {{ border: 1px solid {p.border}; border-radius: 10px; background: {p.bg_top}; top: -1px; }}
+    QTabWidget > QWidget > QWidget {{ background: {p.bg_top}; }}
+    QTabBar::tab {{ background: transparent; color: {p.muted}; padding: 8px 18px; border: none; margin-right: 2px; }}
+    QTabBar::tab:selected {{ color: {p.heading}; border-bottom: 2px solid {p.accent}; font-weight: 600; }}
+    QTabBar::tab:hover {{ color: {p.text}; }}
+    QTableWidget, QListWidget {{
+        background: {p.menu_bg}; alternate-background-color: {rgba(p.text, 9)};
+        border: 1px solid {p.border}; border-radius: 8px; gridline-color: transparent;
+        selection-background-color: {rgba(p.accent, 75)}; selection-color: {p.heading};
+    }}
+    QTableWidget::item, QListWidget::item {{ padding: 0 6px; border: none; }}
+    QTableWidget::item:selected, QListWidget::item:selected {{ background: {rgba(p.accent, 75)}; color: {p.heading}; }}
+    QHeaderView::section {{
+        background: {p.bg_top}; color: {p.muted}; border: none; border-bottom: 1px solid {p.border};
+        padding: 6px; font-weight: 600;
+    }}
+    QTableCornerButton::section {{ background: {p.bg_top}; border: none; }}
+    QMainWindow#libraryWindow QLineEdit, QMainWindow#libraryWindow QComboBox {{
+        background: {p.menu_bg}; border: 1px solid {p.border}; border-radius: 6px; padding: 5px 8px;
+    }}
+    QMainWindow#libraryWindow QLineEdit:focus {{ border: 1px solid {p.accent}; }}
+    QComboBox QAbstractItemView {{
+        background: {p.menu_bg}; color: {p.text}; border: 1px solid {p.border};
+        selection-background-color: {rgba(p.accent, 75)};
+    }}
+    QMainWindow#libraryWindow QPushButton, QMessageBox QPushButton {{
+        background: {rgba(p.accent, 34)}; color: {p.accent_text}; border: 1px solid {rgba(p.accent, 100)};
+        border-radius: 7px; padding: 6px 14px; min-width: 64px;
+    }}
+    QMainWindow#libraryWindow QPushButton:hover, QMessageBox QPushButton:hover {{ background: {rgba(p.accent, 68)}; }}
+    QMainWindow#libraryWindow QPushButton:disabled {{ color: {p.faint}; border-color: {p.border}; background: transparent; }}
+    QGroupBox {{
+        border: 1px solid {p.border}; border-radius: 10px; margin-top: 16px; padding: 14px 12px 10px 12px;
+        font-weight: 600; color: {p.muted};
+    }}
+    QGroupBox::title {{ subcontrol-origin: margin; left: 12px; padding: 0 4px; }}
+    QCheckBox {{ spacing: 8px; }}
+    QScrollBar:vertical {{ background: transparent; width: 10px; margin: 2px; }}
+    QScrollBar::handle:vertical {{ background: {rgba(p.text, 50)}; border-radius: 4px; min-height: 30px; }}
+    QScrollBar:horizontal {{ background: transparent; height: 10px; margin: 2px; }}
+    QScrollBar::handle:horizontal {{ background: {rgba(p.text, 50)}; border-radius: 4px; min-width: 30px; }}
+    QScrollBar::add-line, QScrollBar::sub-line, QScrollBar::add-page, QScrollBar::sub-page {{ background: none; border: none; }}
+
     QToolButton#iconButton[active="true"] {{ color: {p.accent}; }}
     QLabel#korean[placeholder="true"] {{ color: {p.faint}; }}
     QLabel#statValue {{ font-size: 18pt; font-weight: 600; color: {p.heading}; }}

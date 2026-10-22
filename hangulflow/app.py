@@ -16,6 +16,7 @@ from .rotation import WordSession
 from .settings import SettingsStore
 from .single_instance import SingleInstance
 from .ui import theme
+from .ui.main_window import MainWindow
 from .ui.tray import TrayIcon
 from .ui.widget import VocabWidget
 
@@ -78,6 +79,17 @@ def main() -> int:
     widget = VocabWidget(repo, WordSession(repo), settings, store, fonts)
     widget.quit_requested.connect(app.quit)
     guard.activation_requested.connect(widget.bring_to_front)
+
+    library: list[MainWindow] = []  # created on first use to keep start-up light
+
+    def open_library() -> None:
+        if not library:
+            window = MainWindow(repo, conn, widget, settings, fonts)
+            window.setWindowIcon(icon)
+            library.append(window)
+        library[0].present()
+
+    widget.library_requested.connect(open_library)
 
     tray = None
     if QSystemTrayIcon.isSystemTrayAvailable():

@@ -60,8 +60,7 @@ def test_seed_refresh_respects_user_edits(tmp_path):
     conn = open_database(tmp_path / "t.db")
     repo = VocabRepository(conn)
     repo.import_seed(write_seed(1, "old"))
-    with conn:  # the learner edits one word
-        conn.execute("UPDATE vocabulary SET notes = 'mine', updated_at = 'later' WHERE korean = '과제'")
+    repo.update_word(repo.find("과제", "assignment"), notes="mine")  # the learner edits one word
     repo.import_seed(write_seed(2, "new"))
 
     notes = dict(conn.execute("SELECT korean, notes FROM vocabulary").fetchall())

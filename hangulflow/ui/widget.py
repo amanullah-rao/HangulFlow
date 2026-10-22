@@ -36,7 +36,7 @@ from ..settings import (
     SettingsStore,
 )
 from . import desktop_layer, theme
-from .add_word_dialog import AddWordDialog
+from .word_dialog import WordDialog
 from .speech import INSTALL_HINT, KoreanSpeaker
 from .stats_dialog import StatsDialog
 
@@ -76,6 +76,8 @@ class VocabWidget(QWidget):
     hidden_by_user = Signal()
     pause_changed = Signal(bool)
     quit_requested = Signal()
+    library_requested = Signal()
+    data_changed = Signal()  # the widget changed words (e.g. added one); the library should refresh
 
     def __init__(
         self,
@@ -323,6 +325,7 @@ class VocabWidget(QWidget):
         menu.aboutToShow.connect(lambda: self._act_copy_selection.setEnabled(self._selected_text() != ""))
         menu.addSeparator()
 
+        menu.addAction("Open library (all words, search, import/export)…", self.library_requested.emit)
         menu.addAction("Add my own word…", self.add_word)
         menu.addAction("Mark as learned (skip for 2 months)", self.mark_learned)
         menu.addAction("Statistics…", self.show_statistics)
@@ -402,6 +405,13 @@ class VocabWidget(QWidget):
         menu.addAction("Hide to tray", self.hide_to_tray)
         menu.addAction("Quit HangulFlow", self.quit_requested.emit)
         return menu
+
+    def rebuild_menu(self) -> None:
+        """Re-create the menu so its check marks match settings changed elsewhere (the library window)."""
+        old = self._menu
+        self._menu = self._build_menu()
+        self._more_button.setMenu(self._menu)
+        old.deleteLater()
 
     def _check_action(self, menu: QMenu, text: str, checked: bool, slot) -> QAction:
         action = menu.addAction(text)
@@ -627,22 +637,36 @@ class VocabWidget(QWidget):
             self._star_button.style().polish(self._star_button)
 
     def add_word(self) -> None:
-        dialog = AddWordDialog(self._fonts.urdu)
+        dialog = WordDialog(self._fonts.urdu, self._repo.categories())
         dialog.setWindowIcon(self.windowIcon())
-        if dialog.exec() != AddWordDialog.DialogCode.Accepted:
+        if dialog.exec() != WordDialog.DialogCode.Accepted:
             return
         values = dialog.values()
         existing = self._repo.find(values["korean"], values["meaning_en"])
         if existing is not None:  # don't crash on the UNIQUE rule - just show the word
             self._repo.set_starred(existing, True)
-            self._show_vocab(self._session.show(existing))
-            self._restart_cycle()
+            self.show_word(existing)
             self._flash_status("Already in your words - starred ★", seconds=3)
             return
-        vocab_id = self._repo.add_word(**values)
+        self.show_word(self._repo.add_word(**values))
+        self.data_changed.emit()
+        self._flash_status("Word added to My Words ★", seconds=3)
+
+    def show_word(self, vocab_id: int) -> None:
+        """Put a specific word on the card (e.g. chosen in the library)."""
         self._show_vocab(self._session.show(vocab_id))
         self._restart_cycle()
-        self._flash_status("Word added to My Words ★", seconds=3)
+        if not self.isVisible():
+            self.bring_to_front()
+
+    def refresh_current(self) -> None:
+        """Re-read the current word after the library edited, deleted or restored data."""
+        current = self._vocab.id if self._vocab else None
+        if current is not None and self._repo.get(current) is not None:
+            self._show_vocab(current, animate=False)
+        else:
+            self._show_vocab(self._session.next(), animate=False)
+        self._refresh_goal()
 
     def set_card_direction(self, direction: str) -> None:
         self._settings.card_direction = direction

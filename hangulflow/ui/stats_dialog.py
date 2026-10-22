@@ -64,6 +64,16 @@ class StatsDialog(QDialog):
         self.setWindowTitle("HangulFlow - Statistics")
         self.setMinimumWidth(400)
         layout = QVBoxLayout(self)
+        layout.setContentsMargins(0, 0, 0, 0)
+        layout.addWidget(StatsPanel(stats, goal, palette, fonts))
+
+
+class StatsPanel(QWidget):
+    """Today, totals and the 7-day chart (used by the dialog and the library window)."""
+
+    def __init__(self, stats: Stats, goal: int, palette: theme.Palette, fonts: theme.Fonts) -> None:
+        super().__init__()
+        layout = QVBoxLayout(self)
         layout.setContentsMargins(22, 18, 22, 18)
         layout.setSpacing(10)
 

@@ -22,6 +22,7 @@ class TrayIcon(QSystemTrayIcon):
         menu.addAction("Next word", widget.go_next)
         self._pause_action = menu.addAction("Pause rotation", widget.toggle_pause)
         menu.addSeparator()
+        menu.addAction("Open library…", widget.library_requested.emit)
         menu.addAction("Add my own word…", widget.add_word)
         menu.addAction("Statistics…", widget.show_statistics)
         menu.addSeparator()

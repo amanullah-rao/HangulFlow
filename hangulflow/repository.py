@@ -18,6 +18,7 @@ _FIELDS = (
     "korean", "hanja", "romanization", "part_of_speech", "meaning_en", "meaning_ur",
     "example_ko", "example_en", "example_ur", "notes", "category", "difficulty",
 )
+WORD_FIELDS = _FIELDS  # public name, used by import/export
 # Fields the bundled list may refresh on words the learner has never edited.
 _REFRESHABLE = tuple(f for f in _FIELDS if f not in ("korean", "meaning_en"))
 
@@ -39,6 +40,37 @@ class Vocab:
     difficulty: int
     source: str
     starred: bool = False
+
+
+@dataclass(frozen=True)
+class LibraryRow:
+    id: int
+    korean: str
+    hanja: str
+    meaning_en: str
+    meaning_ur: str
+    category: str
+    difficulty: int
+    starred: bool
+    source: str
+    status: str
+    due_at: datetime | None
+    times_seen: int
+    lapses: int
+
+
+def _clean_fields(raw: dict) -> dict:
+    """Validate and normalise word fields coming from a form or an import file."""
+    values = {f: str(raw.get(f, "") or "").strip() for f in _FIELDS if f != "difficulty"}
+    if not values["korean"] or not values["meaning_en"]:
+        raise ValueError("Korean word and English meaning are required")
+    values["category"] = values["category"] or "My Words"
+    try:
+        difficulty = int(raw.get("difficulty") or 2)
+    except (TypeError, ValueError):
+        raise ValueError(f"difficulty must be a number 1-5, got {raw.get('difficulty')!r}") from None
+    values["difficulty"] = min(5, max(1, difficulty))
+    return values
 
 
 @dataclass(frozen=True)
@@ -108,21 +140,128 @@ class VocabRepository:
         example_ur: str = "",
         notes: str = "",
         category: str = "My Words",
+        hanja: str = "",
+        difficulty: int = 2,
+        source: str = "user",
+        starred: bool = True,
     ) -> int:
-        """Add the learner's own word (starred, so it is easy to find). Returns its id."""
-        korean, meaning_en = korean.strip(), meaning_en.strip()
-        if not korean or not meaning_en:
-            raise ValueError("Korean word and English meaning are required")
+        """Add a word (the learner's own words are starred, so they are easy to find). Returns its id."""
+        values = _clean_fields({
+            "korean": korean, "hanja": hanja, "romanization": romanization, "part_of_speech": part_of_speech,
+            "meaning_en": meaning_en, "meaning_ur": meaning_ur, "example_ko": example_ko, "example_en": example_en,
+            "example_ur": example_ur, "notes": notes, "category": category, "difficulty": difficulty,
+        })
         now = to_iso(utc_now())
         with self.conn:
             cur = self.conn.execute(
-                "INSERT INTO vocabulary (korean, romanization, part_of_speech, meaning_en, meaning_ur, example_ko,"
-                " example_en, example_ur, notes, category, difficulty, source, starred, created_at, updated_at)"
-                " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 2, 'user', 1, ?, ?)",
-                (korean, romanization.strip(), part_of_speech.strip(), meaning_en, meaning_ur.strip(),
-                 example_ko.strip(), example_en.strip(), example_ur.strip(), notes.strip(), category, now, now),
+                f"INSERT INTO vocabulary ({', '.join(_FIELDS)}, source, starred, created_at, updated_at)"
+                f" VALUES ({', '.join('?' * len(_FIELDS))}, ?, ?, ?, ?)",
+                (*(values[f] for f in _FIELDS), source, int(starred), now, now),
             )
         return cur.lastrowid
+
+    def update_word(self, vocab_id: int, **fields) -> None:
+        """Edit a word. Marks it as edited, so bundled-list updates never overwrite it."""
+        current = self.get(vocab_id)
+        if current is None:
+            raise KeyError(vocab_id)
+        merged = {f: fields.get(f, getattr(current, f)) for f in _FIELDS}
+        values = _clean_fields(merged)
+        clash = self.find(values["korean"], values["meaning_en"])
+        if clash is not None and clash != vocab_id:
+            raise ValueError("Another word already has this Korean text and English meaning")
+        with self.conn:
+            self.conn.execute(
+                f"UPDATE vocabulary SET {', '.join(f'{f} = ?' for f in _FIELDS)}, updated_at = ?, edited = 1 WHERE id = ?",
+                (*(values[f] for f in _FIELDS), to_iso(utc_now()), vocab_id),
+            )
+
+    def delete_word(self, vocab_id: int) -> None:
+        """Delete a word together with its progress and history (ON DELETE CASCADE)."""
+        with self.conn:
+            self.conn.execute("DELETE FROM vocabulary WHERE id = ?", (vocab_id,))
+
+    def categories(self) -> list[str]:
+        return [r[0] for r in self.conn.execute("SELECT DISTINCT category FROM vocabulary ORDER BY category")]
+
+    def library(
+        self,
+        text: str = "",
+        category: str | None = None,
+        status: str | None = None,
+        difficulty: int | None = None,
+        now: datetime | None = None,
+    ) -> list[LibraryRow]:
+        """Words for the library table. `status` is a srs status, 'due', 'starred' or 'mine'."""
+        where, params = [], []
+        if text.strip():
+            like = f"%{text.strip()}%"
+            where.append(
+                "(v.korean LIKE ? OR v.hanja LIKE ? OR v.romanization LIKE ? OR v.meaning_en LIKE ? OR v.meaning_ur LIKE ?)"
+            )
+            params += [like] * 5
+        if category:
+            where.append("v.category = ?")
+            params.append(category)
+        if difficulty:
+            where.append("v.difficulty = ?")
+            params.append(difficulty)
+        if status == "due":
+            where.append("p.due_at IS NOT NULL AND p.due_at <= ?")
+            params.append(to_iso(now or utc_now()))
+        elif status == "starred":
+            where.append("v.starred = 1")
+        elif status == "mine":
+            where.append("v.source = 'user'")
+        elif status:
+            where.append("COALESCE(p.status, 'new') = ?")
+            params.append(status)
+        sql = (
+            "SELECT v.id, v.korean, v.hanja, v.meaning_en, v.meaning_ur, v.category, v.difficulty, v.starred,"
+            " v.source, COALESCE(p.status, 'new') AS status, p.due_at, COALESCE(p.times_seen, 0) AS times_seen,"
+            " COALESCE(p.lapses, 0) AS lapses"
+            " FROM vocabulary v LEFT JOIN progress p ON p.vocab_id = v.id"
+            + (" WHERE " + " AND ".join(where) if where else "")
+            + " ORDER BY v.category, v.id"
+        )
+        return [
+            LibraryRow(**{**dict(r), "starred": bool(r["starred"]), "due_at": from_iso(r["due_at"])})
+            for r in self.conn.execute(sql, params)
+        ]
+
+    def review_history(self, limit: int = 500) -> list[tuple[datetime, str, str, str, float]]:
+        """Most recent ratings: (time, korean, meaning, rating, new interval in days)."""
+        rows = self.conn.execute(
+            "SELECT r.reviewed_at, v.korean, v.meaning_en, r.rating, r.interval_after FROM review_log r"
+            " JOIN vocabulary v ON v.id = r.vocab_id ORDER BY r.reviewed_at DESC, r.id DESC LIMIT ?",
+            (limit,),
+        ).fetchall()
+        return [(from_iso(r[0]), r[1], r[2], r[3], r[4] or 0.0) for r in rows]
+
+    # --- import / export ------------------------------------------------------
+
+    def export_entries(self) -> list[dict]:
+        """Every word as a plain dict (the same fields as the bundled list, plus starred)."""
+        rows = self.conn.execute(f"SELECT {', '.join(_FIELDS)}, starred FROM vocabulary ORDER BY id").fetchall()
+        return [{**{f: r[f] for f in _FIELDS}, "starred": bool(r["starred"])} for r in rows]
+
+    def import_entries(self, entries: list[dict]) -> tuple[int, int, list[str]]:
+        """Add words from an import. Returns (added, skipped duplicates, problems)."""
+        added, skipped, problems = 0, 0, []
+        for number, entry in enumerate(entries, start=1):
+            try:
+                korean, meaning = str(entry.get("korean", "")), str(entry.get("meaning_en", ""))
+                if self.find(korean, meaning) is not None:
+                    skipped += 1
+                    continue
+                fields = {f: entry.get(f, "") for f in _FIELDS if f in entry}
+                fields.setdefault("category", "Imported")
+                starred = str(entry.get("starred", "")).strip().lower() in ("1", "true", "yes")
+                self.add_word(**fields, source="imported", starred=starred)
+                added += 1
+            except (ValueError, TypeError) as exc:
+                problems.append(f"row {number}: {exc}")
+        return added, skipped, problems
 
     def find(self, korean: str, meaning_en: str) -> int | None:
         """Id of the word with this Korean text and English meaning, if it exists."""
@@ -139,8 +278,8 @@ class VocabRepository:
         """Load the bundled curated list if its version is newer than the last import.
 
         New words are added. Existing curated words are refreshed (e.g. new
-        Hanja or notes) only if the learner never edited them, i.e. their
-        updated_at still equals created_at. Returns the number of new words.
+        Hanja or notes) only if the learner never edited them (edited = 0).
+        Returns the number of new words.
         """
         try:
             data = json.loads(path.read_text(encoding="utf-8"))
@@ -169,7 +308,7 @@ class VocabRepository:
                     refresh = {f: values[_FIELDS.index(f)] for f in _REFRESHABLE}
                     self.conn.execute(
                         f"UPDATE vocabulary SET {', '.join(f'{f} = ?' for f in refresh)}"
-                        " WHERE korean = ? AND meaning_en = ? AND source = 'curated' AND updated_at = created_at",
+                        " WHERE korean = ? AND meaning_en = ? AND source = 'curated' AND edited = 0",
                         (*refresh.values(), entry["korean"], entry["meaning_en"]),
                     )
             self.conn.execute(
