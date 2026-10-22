@@ -36,6 +36,10 @@ def lock_path() -> Path:
     return data_dir() / "hangulflow.lock"
 
 
+def backup_dir() -> Path:
+    return data_dir() / "backups"
+
+
 def log_dir() -> Path:
     path = data_dir() / "logs"
     path.mkdir(parents=True, exist_ok=True)

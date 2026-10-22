@@ -6,9 +6,10 @@ import logging
 import sys
 from logging.handlers import RotatingFileHandler
 
+from PySide6.QtCore import QTimer
 from PySide6.QtWidgets import QApplication, QSystemTrayIcon
 
-from . import __version__, paths
+from . import __version__, backup, paths
 from .database import open_database
 from .repository import VocabRepository
 from .rotation import WordSession
@@ -68,6 +69,11 @@ def main() -> int:
     repo = VocabRepository(conn)
     repo.import_seed(paths.seed_vocabulary_path())
     log.info("Vocabulary words in database: %d", repo.count())
+    backup.daily_backup(conn, paths.backup_dir())
+    backup_timer = QTimer(app)  # the app may run for days; check every 6 hours
+    backup_timer.setInterval(6 * 60 * 60 * 1000)
+    backup_timer.timeout.connect(lambda: backup.daily_backup(conn, paths.backup_dir()))
+    backup_timer.start()
 
     widget = VocabWidget(repo, WordSession(repo), settings, store, fonts)
     widget.quit_requested.connect(app.quit)

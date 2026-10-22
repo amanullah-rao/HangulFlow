@@ -7,8 +7,8 @@ import random
 import time
 from datetime import datetime, timezone
 
-from PySide6.QtCore import QEasingCurve, QEvent, QPoint, QPropertyAnimation, QRectF, Qt, QTimer, Signal
-from PySide6.QtGui import QAction, QActionGroup, QGuiApplication, QKeySequence, QLinearGradient, QPainter, QPainterPath, QPen
+from PySide6.QtCore import QEasingCurve, QEvent, QPoint, QPropertyAnimation, QRectF, Qt, QTimer, QUrl, Signal
+from PySide6.QtGui import QAction, QActionGroup, QDesktopServices, QGuiApplication, QKeySequence, QLinearGradient, QPainter, QPainterPath, QPen
 from PySide6.QtWidgets import (
     QApplication,
     QFrame,
@@ -23,7 +23,7 @@ from PySide6.QtWidgets import (
     QWidget,
 )
 
-from .. import presence, srs
+from .. import paths, presence, srs, startup
 from ..repository import Vocab, VocabRepository
 from ..rotation import WordSession
 from ..settings import (
@@ -395,6 +395,8 @@ class VocabWidget(QWidget):
         self._act_auto_pause = self._check_action(
             menu, "Pause when away, locked or fullscreen", self._settings.auto_pause, self.set_auto_pause
         )
+        self._act_startup = self._check_action(menu, "Start with Windows", startup.is_enabled(), self.set_start_with_windows)
+        menu.addAction("Open data folder (backups, logs)", self.open_data_folder)
 
         menu.addSeparator()
         menu.addAction("Hide to tray", self.hide_to_tray)
@@ -733,6 +735,18 @@ class VocabWidget(QWidget):
     @property
     def _on_desktop(self) -> bool:
         return self._settings.layer == "desktop" and desktop_layer.supported()
+
+    def set_start_with_windows(self, enabled: bool) -> None:
+        if startup.set_enabled(enabled):
+            self._flash_status("Starts with Windows ✓" if enabled else "Won't start with Windows", seconds=3)
+        else:
+            self._act_startup.blockSignals(True)
+            self._act_startup.setChecked(startup.is_enabled())
+            self._act_startup.blockSignals(False)
+            self._flash_status("Couldn't change the startup setting", seconds=4)
+
+    def open_data_folder(self) -> None:
+        QDesktopServices.openUrl(QUrl.fromLocalFile(str(paths.data_dir())))
 
     def set_auto_pause(self, enabled: bool) -> None:
         self._settings.auto_pause = enabled
