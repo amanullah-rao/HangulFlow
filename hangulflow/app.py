@@ -51,6 +51,11 @@ def main() -> int:
     app.setApplicationName(paths.APP_NAME)
     app.setQuitOnLastWindowClosed(False)  # the widget lives on in the tray
 
+    if "--self-test" in sys.argv:
+        from .selftest import run
+
+        return run(app)
+
     guard = SingleInstance(paths.lock_path())
     if not guard.acquire():
         log.info("HangulFlow is already running; asked it to show the widget.")
