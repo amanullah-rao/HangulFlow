@@ -1,0 +1,193 @@
+# Intermediate: food, cooking, eating out
++ 재료 | 材料 | jaeryo | noun | ingredients, materials | اجزاء، سامان | Food & Cooking | 2 |
+> 김치찌개 재료를 사러 마트에 갔어요. | I went to the supermarket to buy kimchi stew ingredients. | کمچی سالن کا سامان لینے سپر مارکیٹ گیا۔
+> 신선한 재료가 맛의 비결이에요. | Fresh ingredients are the secret to flavor. | تازہ اجزاء ہی ذائقے کا راز ہیں۔
+> 이 가방은 가죽 재료로 만들었어요. | This bag is made of leather. | یہ بیگ چمڑے سے بنا ہے۔
++ 양념 |  | yangnyeom | noun | seasoning, sauce | مصالحہ | Food & Cooking | 2 | 양념치킨 = seasoned fried chicken.
+> 고기에 양념을 해서 하룻밤 두었어요. | I seasoned the meat and left it overnight. | میں نے گوشت میں مصالحہ لگا کر رات بھر رکھا۔
+> 이 양념은 맵고 달아요. | This sauce is spicy and sweet. | یہ مصالحہ تیز اور میٹھا ہے۔
+> 양념치킨이 제일 맛있어요. | Seasoned chicken is the tastiest. | مصالحے والی چکن سب سے مزے دار ہے۔
++ 볶다 |  | bokda | verb | to stir-fry, to roast | بھوننا | Food & Cooking | 2 | 볶음밥 = fried rice.
+> 야채를 기름에 볶았어요. | I stir-fried the vegetables in oil. | میں نے سبزیاں تیل میں بھونیں۔
+> 남은 밥으로 볶음밥을 만들었어요. | I made fried rice with leftover rice. | بچے ہوئے چاولوں سے فرائیڈ رائس بنائے۔
+> 커피콩을 볶는 냄새가 좋아요. | The smell of roasting coffee beans is nice. | کافی کے دانے بھوننے کی خوشبو اچھی ہے۔
++ 튀기다 |  | twigida | verb | to deep-fry | تلنا | Food & Cooking | 2 | 튀김 = fried food (tempura).
+> 감자를 튀겨서 먹었어요. | I deep-fried potatoes and ate them. | میں نے آلو تل کر کھائے۔
+> 튀긴 음식은 맛있지만 몸에 안 좋아요. | Fried food is tasty but bad for you. | تلی ہوئی چیزیں مزے دار ہیں مگر صحت کے لیے اچھی نہیں۔
+> 새우튀김을 주문했어요. | I ordered fried shrimp. | میں نے تلے ہوئے جھینگے منگوائے۔
++ 찌다 |  | jjida | verb | to steam; to gain weight (살이 찌다) | بھاپ میں پکانا؛ موٹا ہونا | Food & Cooking | 2 |
+> 만두를 찜기에 쪘어요. | I steamed the dumplings in a steamer. | میں نے پکوڑوں کو بھاپ میں پکایا۔
+> 고구마를 쪄서 간식으로 먹어요. | I steam sweet potatoes and eat them as a snack. | میں شکر قندی ابال کر ناشتے میں کھاتا ہوں۔
+> 방학 동안 살이 쪘어요. | I gained weight during vacation. | چھٹیوں میں میرا وزن بڑھ گیا۔
++ 삶다 |  | samda | verb | to boil (food) | ابالنا | Food & Cooking | 2 | 끓이다 = boil (liquid, soup); 삶다 = boil food in water.
+> 계란을 10분 동안 삶았어요. | I boiled the eggs for ten minutes. | میں نے انڈے دس منٹ ابالے۔
+> 국수를 삶아서 찬물에 헹구세요. | Boil the noodles and rinse them in cold water. | نوڈلز ابال کر ٹھنڈے پانی سے دھوئیں۔
+> 옥수수를 삶아 먹었어요. | I boiled corn and ate it. | میں نے بھٹے ابال کر کھائے۔
++ 데우다 |  | deuda | verb | to heat up, to warm up | گرم کرنا | Food & Cooking | 2 |
+> 국을 다시 데워 드릴까요? | Shall I heat the soup up again? | کیا میں سوپ دوبارہ گرم کر دوں؟
+> 전자레인지로 도시락을 데웠어요. | I heated my lunch box in the microwave. | میں نے کھانے کا ڈبا مائیکرو ویو میں گرم کیا۔
+> 우유를 따뜻하게 데워 마셨어요. | I warmed the milk and drank it. | میں نے دودھ گرم کر کے پیا۔
++ 식다 |  | sikda | verb | to cool down, to get cold | ٹھنڈا ہونا | Food & Cooking | 2 | 식히다 = to cool (something).
+> 커피가 다 식었어요. | The coffee has gone cold. | کافی ٹھنڈی ہو گئی۔
+> 뜨거우니까 좀 식혀서 드세요. | It's hot, so let it cool a bit before eating. | گرم ہے، تھوڑا ٹھنڈا کر کے کھائیں۔
+> 그에 대한 관심이 식었어요. | My interest in him cooled. | اس میں میری دلچسپی کم ہو گئی۔
++ 상하다 | 傷- | sanghada | verb | to go bad, to spoil; to be hurt | خراب ہونا؛ دل دکھنا | Food & Cooking | 2 | 마음이 상하다 = to feel hurt.
+> 우유가 상해서 버렸어요. | The milk went bad, so I threw it out. | دودھ خراب ہو گیا، اس لیے پھینک دیا۔
+> 여름에는 음식이 쉽게 상해요. | Food spoils easily in summer. | گرمیوں میں کھانا جلدی خراب ہو جاتا ہے۔
+> 친구 말에 마음이 상했어요. | My feelings were hurt by my friend's words. | دوست کی بات سے دل دکھا۔
++ 썰다 |  | sseolda | verb | to slice, to chop | کاٹنا (ٹکڑے) | Food & Cooking | 2 | ㄹ-irregular: 써는.
+> 양파를 얇게 썰어 주세요. | Please slice the onion thinly. | پیاز باریک کاٹ دیں۔
+> 칼로 고기를 썰었어요. | I sliced the meat with a knife. | میں نے چھری سے گوشت کاٹا۔
+> 파를 썰어서 국에 넣으세요. | Chop the green onion and add it to the soup. | ہری پیاز کاٹ کر سوپ میں ڈالیں۔
++ 맛보다 |  | matboda | verb | to taste (try) | چکھنا | Food & Cooking | 2 |
+> 소금을 넣기 전에 맛보세요. | Taste before adding salt. | نمک ڈالنے سے پہلے چکھ لیں۔
+> 다양한 한국 음식을 맛봤어요. | I tasted various Korean foods. | میں نے مختلف کوریائی کھانے چکھے۔
+> 성공의 기쁨을 맛봤어요. | I tasted the joy of success. | میں نے کامیابی کی خوشی کا مزہ چکھا۔
++ 싱겁다 |  | singgeopda | adjective | bland, not salty enough | پھیکا | Food & Cooking | 2 | ㅂ-irregular: 싱거워요. Opposite: 짜다.
+> 국이 좀 싱거워요. | The soup is a bit bland. | سوپ تھوڑا پھیکا ہے۔
+> 싱거우면 소금을 더 넣으세요. | If it's bland, add more salt. | پھیکا ہو تو مزید نمک ڈالیں۔
+> 건강을 위해 싱겁게 먹어요. | I eat lightly salted food for my health. | صحت کے لیے کم نمک والا کھانا کھاتا ہوں۔
++ 고소하다 |  | gosohada | adjective | nutty, savory (pleasant roasted taste/smell) | خستہ مزے دار، بھنی خوشبو والا | Food & Cooking | 2 |
+> 참기름 냄새가 고소해요. | Sesame oil smells nutty. | تل کے تیل کی خوشبو بھنی بھنی ہے۔
+> 땅콩이 고소하고 맛있어요. | Peanuts are nutty and delicious. | مونگ پھلی خستہ اور مزے دار ہے۔
+> 고소한 빵 냄새가 나요. | There's a savory smell of bread. | روٹی کی سوندھی خوشبو آ رہی ہے۔
++ 느끼하다 |  | neukkihada | adjective | greasy, oily (too rich) | چکنا، زیادہ تیل والا | Food & Cooking | 2 |
+> 이 피자는 너무 느끼해요. | This pizza is too greasy. | یہ پیزا بہت چکنا ہے۔
+> 느끼할 때는 김치를 먹어요. | When something is too rich, I eat kimchi. | جب کھانا بھاری لگے تو کمچی کھاتا ہوں۔
+> 기름진 음식을 먹었더니 속이 느끼해요. | I feel queasy after eating greasy food. | چکنی چیزیں کھانے سے طبیعت بوجھل ہے۔
++ 담백하다 | 淡白- | dambaekhada | adjective | light and clean-tasting | ہلکا اور سادہ ذائقہ | Food & Cooking | 2 |
+> 이 국은 맛이 담백해요. | This soup tastes light and clean. | اس سوپ کا ذائقہ ہلکا اور سادہ ہے۔
+> 저는 담백한 음식을 좋아해요. | I like light, plain food. | مجھے ہلکا پھلکا کھانا پسند ہے۔
+> 생선을 담백하게 구웠어요. | I grilled the fish simply. | میں نے مچھلی سادہ طریقے سے بھونی۔
++ 쫄깃하다 |  | jjolgithada | adjective | chewy | ربڑ جیسا نرم، چبانے والا | Food & Cooking | 2 |
+> 떡이 쫄깃해서 맛있어요. | The rice cake is chewy and tasty. | چاول کا کیک ربڑ جیسا نرم اور مزے دار ہے۔
+> 이 면은 정말 쫄깃해요. | These noodles are really chewy. | یہ نوڈلز بہت لچکدار ہیں۔
+> 쫄깃한 식감을 좋아해요. | I like a chewy texture. | مجھے چبانے والی بناوٹ پسند ہے۔
++ 바삭하다 |  | basakhada | adjective | crispy | خستہ، کرکرا | Food & Cooking | 2 |
+> 튀김이 바삭바삭해요. | The fried food is very crispy. | تلی ہوئی چیز خوب خستہ ہے۔
+> 바삭한 과자를 좋아해요. | I like crispy snacks. | مجھے کرکرے بسکٹ پسند ہیں۔
+> 식으면 바삭하지 않아요. | It's not crispy once it cools. | ٹھنڈا ہونے پر خستہ نہیں رہتا۔
++ 얼큰하다 |  | eolkeunhada | adjective | spicy and hot (pleasantly, of soup) | مرچ دار گرم (سوپ) | Food & Cooking | 2 |
+> 비 오는 날에는 얼큰한 국물이 좋아요. | Spicy hot soup is good on rainy days. | بارش کے دن مرچ دار گرم سوپ اچھا لگتا ہے۔
+> 얼큰한 육개장을 먹었어요. | I ate spicy beef soup. | میں نے مرچ دار گوشت کا سوپ کھایا۔
+> 국물이 얼큰해서 땀이 나요. | The broth is so spicy-hot I'm sweating. | شوربا اتنا تیز ہے کہ پسینہ آ رہا ہے۔
++ 외식 | 外食 | oesik | noun | eating out | باہر کھانا | Food & Cooking | 2 | 외식하다.
+> 주말에 가족과 외식했어요. | We ate out as a family on the weekend. | ہفتے کے آخر میں ہم نے گھر والوں کے ساتھ باہر کھانا کھایا۔
+> 외식을 너무 자주 하면 돈이 많이 들어요. | Eating out too often costs a lot. | زیادہ باہر کھانے سے بہت پیسے لگتے ہیں۔
+> 오늘은 외식할까요? | Shall we eat out today? | آج باہر کھانا کھائیں؟
++ 야식 | 夜食 | yasik | noun | late-night snack | رات کا ہلکا کھانا | Food & Cooking | 2 |
+> 야식으로 치킨을 시켰어요. | I ordered chicken as a late-night snack. | رات کو میں نے چکن منگوائی۔
+> 야식은 건강에 좋지 않아요. | Late-night snacks aren't healthy. | رات کو کھانا صحت کے لیے اچھا نہیں۔
+> 시험 기간에는 야식을 자주 먹어요. | I often eat late at night during exams. | امتحانات کے دنوں میں اکثر رات کو کھاتا ہوں۔
++ 편식 | 偏食 | pyeonsik | noun | picky eating | کھانے میں نخرے | Food & Cooking | 2 | 편식하다.
+> 아이가 편식을 해서 걱정이에요. | I'm worried because my child is a picky eater. | بچہ کھانے میں نخرے کرتا ہے، فکر ہے۔
+> 편식하지 말고 골고루 먹어. | Don't be picky; eat a bit of everything. | نخرے مت کرو، ہر چیز کھاؤ۔
+> 편식은 영양 불균형을 일으켜요. | Picky eating causes nutritional imbalance. | کھانے میں نخرے سے غذائیت کا توازن بگڑتا ہے۔
++ 과식 | 過食 | gwasik | noun | overeating | زیادہ کھانا | Food & Cooking | 2 | 과식하다.
+> 명절에 과식해서 배가 아파요. | I overate during the holiday and my stomach hurts. | تہوار پر زیادہ کھا لیا، پیٹ میں درد ہے۔
+> 과식하지 않도록 천천히 드세요. | Eat slowly so you don't overeat. | زیادہ نہ کھا جائیں، آہستہ کھائیں۔
+> 과식은 소화 불량의 원인이에요. | Overeating causes indigestion. | زیادہ کھانا بدہضمی کا سبب ہے۔
++ 소화 | 消化 | sohwa | noun | digestion | ہاضمہ | Health | 2 | 소화가 안 되다 = to have indigestion.
+> 밥을 급하게 먹어서 소화가 안 돼요. | I ate too fast and have indigestion. | جلدی کھانے سے ہضم نہیں ہو رہا۔
+> 소화제를 먹었어요. | I took a digestive aid. | میں نے ہاضمے کی دوا لی۔
+> 걸으면 소화에 도움이 돼요. | Walking helps digestion. | چلنے سے ہاضمہ بہتر ہوتا ہے۔
++ 한식 | 韓食 | hansik | noun | Korean food | کوریائی کھانا | Food & Cooking | 2 | 양식 Western, 중식 Chinese, 일식 Japanese.
+> 저는 한식을 제일 좋아해요. | I like Korean food the most. | مجھے کوریائی کھانا سب سے زیادہ پسند ہے۔
+> 한식은 반찬이 많아요. | Korean meals come with many side dishes. | کوریائی کھانے میں بہت سی ڈشیں ہوتی ہیں۔
+> 오늘 점심은 중식으로 할까요? | Shall we have Chinese food for lunch today? | آج دوپہر چینی کھانا کھائیں؟
++ 분식 | 粉食 | bunsik | noun | Korean snack food (tteokbokki, gimbap, etc.) | کوریائی فاسٹ فوڈ | Food & Cooking | 2 | 분식집 = snack bar.
+> 학교 앞 분식집에서 떡볶이를 먹었어요. | I ate tteokbokki at the snack bar in front of school. | اسکول کے سامنے والی دکان پر تیوک بوکی کھائی۔
+> 분식은 싸고 맛있어요. | Korean snack food is cheap and tasty. | کوریائی فاسٹ فوڈ سستا اور مزے دار ہے۔
+> 바쁠 때는 분식으로 간단히 먹어요. | When busy, I eat something quick from a snack bar. | مصروف ہوں تو جلدی سے کچھ ہلکا کھا لیتا ہوں۔
++ 후식 | 後食 | husik | noun | dessert | میٹھا (کھانے کے بعد) | Food & Cooking | 2 | Also 디저트.
+> 후식으로 과일이 나왔어요. | Fruit was served for dessert. | میٹھے میں پھل آئے۔
+> 후식은 뭐로 하시겠어요? | What would you like for dessert? | میٹھے میں کیا لیں گے؟
+> 배불러서 후식은 못 먹겠어요. | I'm full, so I can't eat dessert. | پیٹ بھرا ہے، میٹھا نہیں کھا سکوں گا۔
++ 요리법 | 料理法 | yoribeop | noun | recipe, cooking method | ترکیب | Food & Cooking | 2 | Also 레시피.
+> 어머니의 요리법을 배웠어요. | I learned my mother's recipe. | میں نے امی کی ترکیب سیکھی۔
+> 인터넷에서 요리법을 찾았어요. | I found a recipe online. | میں نے انٹرنیٹ پر ترکیب ڈھونڈی۔
+> 이 요리법은 간단해요. | This recipe is simple. | یہ ترکیب آسان ہے۔
++ 냉동 | 冷凍 | naengdong | noun | frozen; freezing | منجمد | Food & Cooking | 2 | 냉동실 = freezer; 냉장 = refrigerated.
+> 고기를 냉동실에 넣었어요. | I put the meat in the freezer. | میں نے گوشت فریزر میں رکھا۔
+> 냉동 만두를 데워 먹었어요. | I heated frozen dumplings and ate them. | میں نے منجمد پکوڑے گرم کر کے کھائے۔
+> 냉동식품을 자주 먹지 마세요. | Don't eat frozen food too often. | منجمد کھانے زیادہ نہ کھائیں۔
++ 유기농 | 有機農 | yuginong | noun | organic (farming) | نامیاتی | Food & Cooking | 2 |
+> 유기농 채소는 좀 비싸요. | Organic vegetables are a bit expensive. | نامیاتی سبزیاں تھوڑی مہنگی ہیں۔
+> 아이에게 유기농 우유를 먹여요. | I give my child organic milk. | میں بچے کو نامیاتی دودھ پلاتا ہوں۔
+> 유기농으로 농사를 지어요. | They farm organically. | وہ نامیاتی کاشتکاری کرتے ہیں۔
++ 원산지 | 原産地 | wonsanji | noun | country of origin | اصل ملک (پیداوار) | Food & Cooking | 2 |
+> 소고기의 원산지를 확인했어요. | I checked where the beef came from. | میں نے گائے کے گوشت کا اصل ملک دیکھا۔
+> 원산지 표시는 법으로 정해져 있어요. | Origin labeling is required by law. | اصل ملک کی نشاندہی قانوناً ضروری ہے۔
+> 이 쌀의 원산지는 한국이에요. | This rice is from Korea. | یہ چاول کوریا کے ہیں۔
++ 칼로리 |  | kallori | noun | calorie | کیلوری | Health | 2 |
+> 이 음식은 칼로리가 높아요. | This food is high in calories. | اس کھانے میں کیلوریز زیادہ ہیں۔
+> 하루에 몇 칼로리를 먹어야 해요? | How many calories should I eat a day? | روزانہ کتنی کیلوریز لینی چاہئیں؟
+> 칼로리가 낮은 간식을 골랐어요. | I chose a low-calorie snack. | میں نے کم کیلوری والا ناشتہ چنا۔
++ 채식 | 菜食 | chaesik | noun | vegetarian diet | سبزی خوری | Food & Cooking | 2 | 채식주의자 = vegetarian.
+> 저는 채식주의자예요. | I'm a vegetarian. | میں سبزی خور ہوں۔
+> 채식 메뉴가 있어요? | Do you have a vegetarian menu? | کیا سبزی والا مینو ہے؟
+> 건강을 위해 채식을 시작했어요. | I started a vegetarian diet for my health. | صحت کے لیے سبزی خوری شروع کی۔
++ 할랄 |  | hallal | noun | halal | حلال | Food & Cooking | 2 | Halal restaurants are common around Itaewon.
+> 이태원에 할랄 식당이 많아요. | There are many halal restaurants in Itaewon. | اتےوون میں بہت سے حلال ریستوران ہیں۔
+> 할랄 인증을 받은 제품이에요. | It's a halal-certified product. | یہ حلال سرٹیفائیڈ پروڈکٹ ہے۔
+> 이 고기는 할랄인가요? | Is this meat halal? | کیا یہ گوشت حلال ہے؟
++ 입맛 |  | immat | noun | appetite; taste (preference) | ذائقہ، بھوک | Food & Cooking | 2 | 입맛에 맞다 = to suit one's taste.
+> 한국 음식이 제 입맛에 맞아요. | Korean food suits my taste. | کوریائی کھانا مجھے پسند آتا ہے۔
+> 아파서 입맛이 없어요. | I'm sick, so I have no appetite. | بیماری کی وجہ سے بھوک نہیں ہے۔
+> 입맛이 까다로운 편이에요. | I'm rather picky about taste. | میں ذائقے کے معاملے میں کچھ نخریلا ہوں۔
++ 배달 앱 |  | baedal aep | noun | food delivery app | ڈیلیوری ایپ | Food & Cooking | 2 |
+> 배달 앱으로 저녁을 주문했어요. | I ordered dinner through a delivery app. | میں نے ڈیلیوری ایپ سے رات کا کھانا منگوایا۔
+> 배달 앱 덕분에 편해졌어요. | Delivery apps made life convenient. | ڈیلیوری ایپس سے زندگی آسان ہو گئی۔
+> 배달 앱 수수료가 비싸요. | Delivery app fees are high. | ڈیلیوری ایپ کی فیس زیادہ ہے۔
++ 맛집 |  | matjip | noun | famous/good restaurant | مشہور اچھا ریستوران | Food & Cooking | 2 |
+> 이 동네 맛집을 알려 주세요. | Tell me a good restaurant around here. | اس علاقے کا کوئی اچھا ریستوران بتائیں۔
+> 그 맛집은 항상 줄이 길어요. | That popular restaurant always has a long line. | اس مشہور ریستوران پر ہمیشہ لمبی قطار ہوتی ہے۔
+> 여행 가면 맛집을 찾아다녀요. | When I travel, I look for good restaurants. | سفر میں میں اچھے ریستوران ڈھونڈتا ہوں۔
++ 혼밥 |  | honbap | noun | eating alone (slang) | اکیلے کھانا | Food & Cooking | 2 | Short for 혼자 밥 먹기. Also 혼술.
+> 요즘은 혼밥하는 사람이 많아요. | Many people eat alone these days. | آج کل بہت لوگ اکیلے کھانا کھاتے ہیں۔
+> 혼밥하기 좋은 식당이에요. | It's a good restaurant for eating alone. | یہ اکیلے کھانے کے لیے اچھا ریستوران ہے۔
+> 혼밥도 괜찮아요. | Eating alone is fine too. | اکیلے کھانا بھی ٹھیک ہے۔
++ 식탁 | 食卓 | siktak | noun | dining table | کھانے کی میز | Food & Cooking | 2 |
+> 식탁 위에 음식을 차렸어요. | I set the food on the dining table. | میں نے کھانا میز پر لگا دیا۔
+> 가족이 식탁에 둘러앉았어요. | The family sat around the table. | گھر والے میز کے گرد بیٹھ گئے۔
+> 식탁을 닦아 주세요. | Please wipe the table. | میز صاف کر دیں۔
++ 차리다 |  | charida | verb | to set (a table), to prepare (a meal); to open (a shop) | (کھانا) لگانا؛ (دکان) کھولنا | Food & Cooking | 2 | 정신을 차리다 = to come to one's senses.
+> 어머니가 저녁상을 차리셨어요. | My mother set the dinner table. | امی نے رات کا کھانا لگایا۔
+> 형이 식당을 차렸어요. | My brother opened a restaurant. | بھائی نے ریستوران کھولا۔
+> 정신 차리세요! | Pull yourself together! | ہوش میں آئیں!
++ 덜다 |  | deolda | verb | to take some (out of), to reduce | نکالنا (حصہ)، کم کرنا | Food & Cooking | 2 | ㄹ-irregular.
+> 음식을 앞접시에 덜어 드세요. | Take some food onto your own plate. | کھانا اپنی پلیٹ میں نکال کر کھائیں۔
+> 짐을 좀 덜어 드릴게요. | Let me take some of your load. | میں آپ کا کچھ بوجھ ہلکا کر دوں۔
+> 걱정을 덜었어요. | My worries eased. | فکر کم ہو گئی۔
++ 남기다 |  | namgida | verb | to leave (food, a message); to leave behind | چھوڑنا، باقی رکھنا | Food & Cooking | 2 | Intransitive: 남다.
+> 음식을 남기지 마세요. | Don't leave food. | کھانا ضائع نہ کریں۔
+> 메모를 남겨 두었어요. | I left a memo. | میں نے نوٹ چھوڑ دیا۔
+> 그는 많은 작품을 남겼어요. | He left behind many works. | اس نے بہت سی تخلیقات چھوڑیں۔
++ 남다 |  | namda | verb | to remain, to be left over | باقی رہنا | Common Verbs & Adjectives | 2 |
+> 케이크가 반 남았어요. | Half the cake is left. | آدھا کیک بچا ہے۔
+> 시간이 10분 남았어요. | There are ten minutes left. | دس منٹ باقی ہیں۔
+> 그 말이 기억에 남아요. | Those words stay in my memory. | وہ بات یاد میں رہ گئی ہے۔
++ 그릇을 비우다 |  | geureuseul biuda | expression | to clean one's plate | پلیٹ صاف کرنا | Food & Cooking | 2 | 비우다 = to empty.
+> 아이가 그릇을 깨끗이 비웠어요. | The child cleaned their plate. | بچے نے پلیٹ صاف کر دی۔
+> 맛있어서 금방 그릇을 비웠어요. | It was so tasty I emptied the bowl quickly. | اتنا مزے دار تھا کہ جلدی پیالہ خالی ہو گیا۔
+> 방을 비워야 해요. | I have to vacate the room. | مجھے کمرہ خالی کرنا ہے۔
++ 간을 보다 |  | ganeul boda | expression | to taste for seasoning | نمک مرچ چکھنا | Food & Cooking | 2 | 간 = seasoning (saltiness).
+> 간을 보고 소금을 넣으세요. | Taste for seasoning, then add salt. | ذائقہ چکھ کر نمک ڈالیں۔
+> 국 간이 딱 맞아요. | The soup is seasoned just right. | سوپ کا نمک بالکل ٹھیک ہے۔
+> 간이 좀 세요. | It's a bit too salty. | نمک تھوڑا زیادہ ہے۔
++ 식중독 | 食中毒 | sikjungdok | noun | food poisoning | فوڈ پوائزننگ | Health | 2 |
+> 상한 음식을 먹고 식중독에 걸렸어요. | I got food poisoning from spoiled food. | خراب کھانا کھا کر فوڈ پوائزننگ ہو گئی۔
+> 여름철 식중독을 조심하세요. | Watch out for food poisoning in summer. | گرمیوں میں فوڈ پوائزننگ سے بچیں۔
+> 식중독 증상은 복통과 설사예요. | Food poisoning symptoms are stomachache and diarrhea. | فوڈ پوائزننگ کی علامات پیٹ درد اور اسہال ہیں۔
++ 단골집 | 單骨- | dangoljip | noun | regular haunt (favorite restaurant) | پسندیدہ دکان | Food & Cooking | 2 |
+> 여기가 제 단골집이에요. | This is my regular place. | یہ میری پسندیدہ جگہ ہے۔
+> 단골집 사장님이 반겨 주셨어요. | The owner of my regular place welcomed me. | پسندیدہ دکان کے مالک نے خوش آمدید کہا۔
+> 단골집이 문을 닫아서 아쉬워요. | It's a pity my regular place closed. | پسندیدہ ریستوران بند ہو گیا، افسوس ہے۔
++ 포장마차 | 布帳馬車 | pojangmacha | noun | street food tent | سڑک کنارے کھانے کا خیمہ | Food & Cooking | 2 |
+> 밤에 포장마차에서 어묵을 먹었어요. | I ate fish cakes at a street tent at night. | رات کو سڑک کنارے خیمے میں فش کیک کھائے۔
+> 포장마차는 한국 드라마에 자주 나와요. | Street tents often appear in Korean dramas. | یہ خیمے کوریائی ڈراموں میں اکثر نظر آتے ہیں۔
+> 겨울에는 포장마차의 떡볶이가 최고예요. | Street-tent tteokbokki is the best in winter. | سردیوں میں سڑک کنارے کی تیوک بوکی بہترین ہے۔
++ 길거리 음식 |  | gilgeori eumsik | noun | street food | سڑک کا کھانا | Food & Cooking | 2 |
+> 명동에서 길거리 음식을 먹었어요. | I ate street food in Myeongdong. | میں نے میونگ دونگ میں سڑک کے کھانے کھائے۔
+> 길거리 음식은 싸고 맛있어요. | Street food is cheap and tasty. | سڑک کے کھانے سستے اور مزے دار ہیں۔
+> 라호르의 길거리 음식이 그리워요. | I miss Lahore's street food. | مجھے لاہور کے سڑک کے کھانے یاد آتے ہیں۔
