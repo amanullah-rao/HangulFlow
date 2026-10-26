@@ -79,6 +79,9 @@ def main(check: bool = False) -> int:
             if line[0] == "+":
                 ko, hanja, rom, pos, en, ur, cat, level, notes = split(line, 8, 9, where)
                 key = (ko, en)
+                missing = [n for n, v in (("romanization", rom), ("part of speech", pos), ("Urdu", ur), ("category", cat)) if not v]
+                if missing:
+                    raise SystemExit(f"{where}: {ko} is missing {', '.join(missing)}")
                 if " (" in ko and not ko.startswith("-"):
                     raise SystemExit(f"{where}: put notes in the notes field, not in the Korean word: {ko!r}")
                 if key in seen_new:

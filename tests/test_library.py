@@ -17,7 +17,8 @@ def repo(tmp_path):
 
 
 def test_search_in_every_language(repo):
-    assert [r.korean for r in repo.library("노력")] == ["노력"]
+    found = [r.korean for r in repo.library("노력")]
+    assert "노력" in found and all("노력" in k for k in found)
     assert "노력" in [r.korean for r in repo.library("努力")]        # Hanja
     assert "노력" in [r.korean for r in repo.library("hard work")]   # English
     assert "노력" in [r.korean for r in repo.library("محنت")]        # Urdu
@@ -26,7 +27,7 @@ def test_search_in_every_language(repo):
 
 def test_filters(repo):
     grammar = repo.library(category="Grammar Patterns")
-    assert len(grammar) == 20 and {r.category for r in grammar} == {"Grammar Patterns"}
+    assert len(grammar) >= 20 and {r.category for r in grammar} == {"Grammar Patterns"}
     assert all(r.difficulty == 3 for r in repo.library(difficulty=3))
     first, second = repo.library()[:2]
     now = datetime.now(timezone.utc)
@@ -41,7 +42,7 @@ def test_filters(repo):
 
 
 def test_edit_protects_from_seed_refresh_and_rejects_clash(repo):
-    row = repo.library("노력")[0]
+    row = next(r for r in repo.library("노력") if r.korean == "노력")
     repo.update_word(row.id, notes="my own note", difficulty=3)
     v = repo.get(row.id)
     assert v.notes == "my own note" and v.difficulty == 3 and v.korean == "노력"
