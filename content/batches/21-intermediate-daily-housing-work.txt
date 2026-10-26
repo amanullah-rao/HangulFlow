@@ -1,0 +1,209 @@
+# Intermediate: housing, daily life, work
++ 전세 | 傳貰 | jeonse | noun | jeonse (large lump-sum deposit lease) | جیونسے (بڑی ضمانت پر کرایہ داری) | Daily Life in Korea | 2 | Unique Korean lease: big deposit, no monthly rent. Compare 월세.
+> 전세로 집을 구하고 있어요. | I'm looking for a place on a jeonse lease. | میں جیونسے پر گھر ڈھونڈ رہا ہوں۔
+> 전세는 월세가 없지만 보증금이 아주 커요. | Jeonse has no monthly rent, but the deposit is very large. | جیونسے میں ماہانہ کرایہ نہیں، مگر ضمانت بہت زیادہ ہوتی ہے۔
+> 요즘 전세 가격이 많이 올랐어요. | Jeonse prices have risen a lot recently. | آج کل جیونسے کی قیمتیں کافی بڑھ گئی ہیں۔
++ 보증금 | 保證金 | bojeunggeum | noun | (security) deposit | زرِ ضمانت | Daily Life in Korea | 2 |
+> 보증금은 계약할 때 내요. | You pay the deposit when you sign the contract. | زرِ ضمانت معاہدے کے وقت دیا جاتا ہے۔
+> 이사 나갈 때 보증금을 돌려받았어요. | I got my deposit back when I moved out. | گھر چھوڑتے وقت ضمانت واپس مل گئی۔
+> 보증금이 천만 원이에요. | The deposit is ten million won. | زرِ ضمانت ایک کروڑ وون ہے۔
++ 원룸 |  | wollum | noun | studio apartment (one-room) | ایک کمرے کا فلیٹ | Daily Life in Korea | 2 |
+> 학교 근처 원룸에 살아요. | I live in a studio near the school. | میں اسکول کے قریب ایک کمرے کے فلیٹ میں رہتا ہوں۔
+> 원룸은 혼자 살기 좋아요. | A studio is good for living alone. | اکیلے رہنے کے لیے ایک کمرے کا فلیٹ اچھا ہے۔
+> 원룸이 좁아서 짐을 줄였어요. | My studio is small, so I cut down my belongings. | فلیٹ چھوٹا ہے، اس لیے سامان کم کیا۔
++ 아파트 |  | apateu | noun | apartment (complex) | اپارٹمنٹ | Daily Life in Korea | 2 | In Korea usually a large high-rise complex.
+> 한국 사람들은 아파트에 많이 살아요. | Many Koreans live in apartments. | زیادہ تر کوریائی لوگ اپارٹمنٹس میں رہتے ہیں۔
+> 우리 아파트는 20층이에요. | Our apartment building has 20 floors. | ہماری عمارت بیس منزلہ ہے۔
+> 아파트 값이 너무 비싸요. | Apartment prices are too high. | اپارٹمنٹس کی قیمتیں بہت زیادہ ہیں۔
++ 부동산 | 不動産 | budongsan | noun | real estate; real estate agency | جائیداد؛ پراپرٹی ڈیلر | Economy & Business | 2 |
+> 부동산에서 집을 소개받았어요. | A real estate agency showed me a house. | پراپرٹی ڈیلر نے مجھے ایک گھر دکھایا۔
+> 부동산 가격이 계속 오르고 있어요. | Real estate prices keep rising. | جائیداد کی قیمتیں مسلسل بڑھ رہی ہیں۔
+> 부동산 투자는 위험할 수도 있어요. | Real estate investment can be risky. | جائیداد میں سرمایہ کاری خطرناک بھی ہو سکتی ہے۔
++ 이웃사촌 | -四寸 | iutsachon | noun | close neighbor (like family) | قریبی پڑوسی (رشتہ دار جیسا) | Daily Life in Korea | 2 | Proverb idea: a close neighbor is better than a distant relative.
+> 이웃사촌이 먼 친척보다 나아요. | A close neighbor is better than a distant relative. | قریبی پڑوسی دور کے رشتہ دار سے بہتر ہے۔
+> 우리는 이웃사촌처럼 지내요. | We get along like family with our neighbors. | ہم پڑوسیوں کے ساتھ رشتہ داروں کی طرح رہتے ہیں۔
+> 이웃사촌이 아이를 봐 줬어요. | A close neighbor looked after my child. | ایک قریبی پڑوسی نے میرے بچے کو سنبھالا۔
++ 층간 소음 | 層間騷音 | cheunggan soeum | noun | noise between floors (apartment) | منزلوں کے درمیان شور | Daily Life in Korea | 2 | A common source of disputes in Korean apartments.
+> 층간 소음 때문에 이웃과 다퉜어요. | I argued with a neighbor over noise between floors. | اوپر نیچے کے شور پر پڑوسی سے جھگڑا ہو گیا۔
+> 밤에는 층간 소음을 조심하세요. | Be careful about noise for downstairs at night. | رات کو نیچے والوں کے لیے شور کا خیال رکھیں۔
+> 층간 소음은 큰 사회 문제예요. | Inter-floor noise is a big social problem. | منزلوں کا شور ایک بڑا سماجی مسئلہ ہے۔
++ 경비원 | 警備員 | gyeongbiwon | noun | security guard | چوکیدار | Daily Life in Korea | 2 |
+> 경비원 아저씨가 택배를 맡아 주셨어요. | The security guard kept my parcel for me. | چوکیدار نے میرا پارسل رکھ لیا۔
+> 아파트 경비원은 24시간 일해요. | Apartment security guards work 24 hours. | اپارٹمنٹ کے چوکیدار چوبیس گھنٹے کام کرتے ہیں۔
+> 경비원에게 인사를 해요. | I greet the security guard. | میں چوکیدار کو سلام کرتا ہوں۔
++ 보일러 |  | boilleo | noun | (home heating) boiler | بوائلر (گھر گرم کرنے کا) | Daily Life in Korea | 2 | Korean floors are heated (온돌).
+> 추워서 보일러를 켰어요. | It was cold, so I turned on the boiler. | سردی تھی، اس لیے بوائلر چلایا۔
+> 보일러가 고장 나서 물이 차가워요. | The boiler broke, so the water is cold. | بوائلر خراب ہو گیا، پانی ٹھنڈا ہے۔
+> 바닥이 따뜻해서 좋아요. | It's nice that the floor is warm. | فرش گرم ہے، اچھا لگتا ہے۔
++ 가전제품 | 家電製品 | gajeonjepum | noun | home appliances | گھریلو برقی آلات | Daily Life in Korea | 2 |
+> 이사하면서 가전제품을 새로 샀어요. | I bought new appliances when I moved. | گھر بدلتے وقت نئے برقی آلات خریدے۔
+> 가전제품 매장은 3층에 있어요. | The appliance store is on the third floor. | برقی آلات کی دکان تیسری منزل پر ہے۔
+> 이 원룸은 가전제품이 다 있어요. | This studio comes with all appliances. | اس فلیٹ میں تمام برقی آلات موجود ہیں۔
++ 가구 | 家具 | gagu | noun | furniture | فرنیچر | Daily Life in Korea | 2 | 가구 (家口) also means "household".
+> 새 가구를 들여놨어요. | I brought in new furniture. | میں نے نیا فرنیچر رکھوایا۔
+> 이 가구는 나무로 만들었어요. | This furniture is made of wood. | یہ فرنیچر لکڑی کا بنا ہے۔
+> 중고 가구를 싸게 샀어요. | I bought used furniture cheaply. | میں نے پرانا فرنیچر سستا خریدا۔
++ 중고 | 中古 | junggo | noun | second-hand, used | استعمال شدہ | Shopping & Money | 2 |
+> 중고 자전거를 샀어요. | I bought a used bicycle. | میں نے پرانی سائیکل خریدی۔
+> 중고 거래 앱을 자주 써요. | I often use a second-hand trading app. | میں اکثر پرانی چیزوں کی خرید و فروخت والی ایپ استعمال کرتا ہوں۔
+> 중고라도 상태가 좋아요. | Even though it's used, it's in good condition. | استعمال شدہ ہونے کے باوجود حالت اچھی ہے۔
++ 생활비 | 生活費 | saenghwalbi | noun | living expenses | گزر بسر کا خرچ | Economy & Business | 2 |
+> 서울은 생활비가 많이 들어요. | Living expenses in Seoul are high. | سیول میں رہنے کا خرچ زیادہ ہے۔
+> 아르바이트로 생활비를 벌어요. | I earn my living expenses with a part-time job. | پارٹ ٹائم کام سے گزر بسر کا خرچ نکالتا ہوں۔
+> 생활비를 아끼려고 요리해 먹어요. | I cook for myself to save on living costs. | خرچ بچانے کے لیے خود کھانا بناتا ہوں۔
++ 교통비 | 交通費 | gyotongbi | noun | transportation costs | سفر کا خرچ | Economy & Business | 2 |
+> 한 달 교통비가 얼마나 들어요? | How much do you spend on transport a month? | مہینے میں سفر پر کتنا خرچ آتا ہے؟
+> 회사에서 교통비를 지원해 줘요. | The company covers transport costs. | کمپنی سفر کا خرچ دیتی ہے۔
+> 걸어 다니면 교통비를 아낄 수 있어요. | Walking saves on transport costs. | پیدل چلنے سے سفر کا خرچ بچتا ہے۔
++ 용돈 | 用- | yongdon | noun | pocket money, allowance | جیب خرچ | Economy & Business | 2 |
+> 부모님께 용돈을 드렸어요. | I gave my parents some spending money. | میں نے والدین کو خرچ کے لیے پیسے دیے۔
+> 어렸을 때 용돈을 모아서 게임기를 샀어요. | As a kid, I saved my allowance and bought a game console. | بچپن میں جیب خرچ جمع کر کے گیم خریدا۔
+> 한 달 용돈이 얼마예요? | How much is your monthly allowance? | آپ کا ماہانہ جیب خرچ کتنا ہے؟
++ 대출 | 貸出 | daechul | noun | loan; borrowing (library) | قرض؛ (کتاب) جاری کرنا | Economy & Business | 2 |
+> 은행에서 대출을 받았어요. | I got a loan from the bank. | میں نے بینک سے قرض لیا۔
+> 대출 이자가 너무 높아요. | The loan interest is too high. | قرض کا سود بہت زیادہ ہے۔
+> 도서관에서 책을 세 권 대출했어요. | I checked out three books from the library. | میں نے لائبریری سے تین کتابیں جاری کروائیں۔
++ 이자 | 利子 | ija | noun | interest (on money) | سود، منافع | Economy & Business | 2 |
+> 이 통장은 이자가 높아요. | This account pays high interest. | اس کھاتے پر منافع زیادہ ملتا ہے۔
+> 대출 이자를 매달 내요. | I pay loan interest every month. | میں ہر مہینے قرض کا سود ادا کرتا ہوں۔
+> 이자 없이 빌려줬어요. | They lent it without interest. | انہوں نے بغیر سود کے ادھار دیا۔
++ 통장 | 通帳 | tongjang | noun | bankbook, bank account | بینک کی پاس بک | Economy & Business | 2 |
+> 은행에서 통장을 만들었어요. | I opened an account at the bank. | میں نے بینک میں کھاتہ کھولا۔
+> 월급이 통장에 들어왔어요. | My salary came into my account. | تنخواہ کھاتے میں آ گئی۔
+> 통장 잔액을 확인했어요. | I checked my account balance. | میں نے کھاتے کا بیلنس دیکھا۔
++ 잔액 | 殘額 | janaek | noun | balance (remaining amount) | بقایا رقم | Economy & Business | 2 |
+> 교통카드 잔액이 부족해요. | My transport card balance is low. | ٹرانسپورٹ کارڈ میں رقم کم ہے۔
+> 잔액을 확인하고 싶어요. | I'd like to check my balance. | میں بیلنس دیکھنا چاہتا ہوں۔
+> 잔액이 천 원밖에 없어요. | There's only 1,000 won left. | صرف ایک ہزار وون باقی ہیں۔
++ 영업 | 營業 | yeongeop | noun | business (operation); sales | کاروبار؛ فروخت | Economy & Business | 2 | 영업시간 = business hours.
+> 영업시간은 오전 10시부터예요. | Business hours start at 10 a.m. | کاروباری اوقات صبح دس بجے سے ہیں۔
+> 오늘은 영업을 하지 않습니다. | We're closed today. | آج کاروبار بند ہے۔
+> 형은 영업 부서에서 일해요. | My older brother works in sales. | بڑا بھائی سیلز کے شعبے میں کام کرتا ہے۔
++ 매출 | 賣出 | maechul | noun | sales (revenue) | فروخت (آمدنی) | Economy & Business | 2 |
+> 이번 달 매출이 많이 늘었어요. | Sales rose a lot this month. | اس مہینے فروخت کافی بڑھ گئی۔
+> 매출이 떨어져서 걱정이에요. | I'm worried because sales dropped. | فروخت کم ہو گئی ہے، فکر ہے۔
+> 온라인 매출이 매장보다 많아요. | Online sales exceed in-store sales. | آن لائن فروخت دکان سے زیادہ ہے۔
++ 손해 | 損害 | sonhae | noun | loss, damage | نقصان، گھاٹا | Economy & Business | 2 | Opposite: 이익.
+> 이번 거래에서 손해를 봤어요. | I made a loss on this deal. | اس سودے میں نقصان ہوا۔
+> 손해를 보더라도 약속은 지킬게요. | Even if I lose out, I'll keep my promise. | نقصان ہو تب بھی وعدہ نبھاؤں گا۔
+> 늦게 사면 손해예요. | You lose out if you buy late. | دیر سے خریدیں تو گھاٹا ہے۔
++ 이익 | 利益 | iik | noun | profit, benefit | فائدہ، منافع | Economy & Business | 2 |
+> 회사가 큰 이익을 냈어요. | The company made a large profit. | کمپنی نے بڑا منافع کمایا۔
+> 모두에게 이익이 되는 방법을 찾아요. | Let's find a way that benefits everyone. | ایسا طریقہ ڈھونڈیں جس میں سب کا فائدہ ہو۔
+> 개인의 이익보다 공공의 이익이 중요해요. | The public good matters more than personal gain. | ذاتی فائدے سے زیادہ عوامی فائدہ اہم ہے۔
++ 회의실 | 會議室 | hoeuisil | noun | meeting room, conference room | میٹنگ روم | Work & Employment | 2 |
+> 회의실을 예약했어요. | I booked the meeting room. | میں نے میٹنگ روم بک کیا۔
+> 회의실에 사람들이 모였어요. | People gathered in the meeting room. | لوگ میٹنگ روم میں جمع ہو گئے۔
+> 회의실이 너무 추워요. | The meeting room is too cold. | میٹنگ روم بہت ٹھنڈا ہے۔
++ 자료 | 資料 | jaryo | noun | materials, data, documents | مواد، معلومات | Work & Employment | 2 |
+> 발표 자료를 준비했어요. | I prepared presentation materials. | میں نے پریزنٹیشن کا مواد تیار کیا۔
+> 이 자료를 참고하세요. | Refer to these materials. | یہ مواد دیکھیں۔
+> 인터넷에서 자료를 찾았어요. | I found information online. | میں نے انٹرنیٹ سے معلومات حاصل کیں۔
++ 서류 | 書類 | seoryu | noun | documents, papers | دستاویزات | Work & Employment | 2 |
+> 필요한 서류를 다 준비했어요. | I prepared all the necessary documents. | میں نے تمام ضروری دستاویزات تیار کر لیں۔
+> 서류에 서명해 주세요. | Please sign the document. | دستاویز پر دستخط کریں۔
+> 서류가 하나 빠졌어요. | One document is missing. | ایک دستاویز کم ہے۔
++ 도장 | 圖章 | dojang | noun | stamp, seal | مہر | Work & Employment | 2 | Koreans often use a personal seal instead of a signature.
+> 여기에 도장을 찍어 주세요. | Please stamp your seal here. | یہاں مہر لگائیں۔
+> 도장 대신 서명해도 돼요. | You may sign instead of using a seal. | مہر کی جگہ دستخط بھی کر سکتے ہیں۔
+> 쿠폰에 도장을 열 개 모으면 커피가 무료예요. | Collect ten stamps on the coupon and get a free coffee. | کوپن پر دس مہریں جمع ہوں تو کافی مفت ملتی ہے۔
++ 서명 | 署名 | seomyeong | noun | signature | دستخط | Work & Employment | 2 | 서명하다. Also 사인.
+> 계약서에 서명했어요. | I signed the contract. | میں نے معاہدے پر دستخط کیے۔
+> 서명이 필요한 곳에 표시했어요. | I marked where signatures are needed. | جہاں دستخط چاہئیں وہاں نشان لگا دیا۔
+> 서명 운동에 참여했어요. | I joined a signature campaign. | میں نے دستخطی مہم میں حصہ لیا۔
++ 승인 | 承認 | seungin | noun | approval | منظوری | Work & Employment | 2 | 승인하다 / 승인되다.
+> 휴가 신청이 승인됐어요. | My leave request was approved. | میری چھٹی کی درخواست منظور ہو گئی۔
+> 부장님의 승인이 필요해요. | The manager's approval is needed. | منیجر کی منظوری ضروری ہے۔
+> 카드 결제가 승인되지 않았어요. | The card payment wasn't approved. | کارڈ کی ادائیگی منظور نہیں ہوئی۔
++ 일정표 | 日程表 | iljeongpyo | noun | schedule, timetable | شیڈول | Work & Employment | 2 |
+> 회의 일정표를 보내 드릴게요. | I'll send you the meeting schedule. | میں آپ کو میٹنگ کا شیڈول بھیج دوں گا۔
+> 일정표를 확인해 보세요. | Check the schedule. | شیڈول دیکھ لیں۔
+> 일정표에 맞춰서 움직여요. | We move according to the schedule. | ہم شیڈول کے مطابق کام کرتے ہیں۔
++ 기한 | 期限 | gihan | noun | deadline, time limit | مقررہ مدت | Work & Employment | 2 | 유통 기한 = expiration date.
+> 제출 기한이 언제예요? | When is the submission deadline? | جمع کرانے کی آخری تاریخ کب ہے؟
+> 우유 유통 기한이 지났어요. | The milk has passed its expiration date. | دودھ کی میعاد ختم ہو گئی۔
+> 기한 안에 일을 끝냈어요. | I finished the work within the deadline. | میں نے مقررہ وقت میں کام ختم کر لیا۔
++ 연장하다 | 延長- | yeonjanghada | verb | to extend | توسیع کرنا | Work & Employment | 2 |
+> 비자를 1년 연장했어요. | I extended my visa by a year. | میں نے ویزا ایک سال بڑھوا لیا۔
+> 회의가 30분 연장됐어요. | The meeting was extended by 30 minutes. | میٹنگ تیس منٹ بڑھا دی گئی۔
+> 계약을 연장하고 싶어요. | I'd like to extend the contract. | میں معاہدے میں توسیع چاہتا ہوں۔
++ 담당자 | 擔當者 | damdangja | noun | person in charge | ذمہ دار شخص | Work & Employment | 2 |
+> 담당자와 통화하고 싶어요. | I'd like to speak with the person in charge. | میں ذمہ دار شخص سے بات کرنا چاہتا ہوں۔
+> 담당자가 지금 자리에 없어요. | The person in charge isn't here now. | ذمہ دار شخص اس وقت موجود نہیں۔
+> 담당자에게 이메일을 보냈어요. | I emailed the person in charge. | میں نے متعلقہ شخص کو ای میل بھیجی۔
++ 부장 | 部長 | bujang | noun | department head, manager | شعبے کا سربراہ | Work & Employment | 2 | Ranks: 사원 < 대리 < 과장 < 차장 < 부장.
+> 부장님께 보고서를 드렸어요. | I gave the report to the department head. | میں نے رپورٹ شعبے کے سربراہ کو دی۔
+> 부장님이 회의를 주재하셨어요. | The department head chaired the meeting. | سربراہ نے میٹنگ کی صدارت کی۔
+> 그는 3년 만에 부장이 됐어요. | He became a department head in three years. | وہ تین سال میں شعبے کا سربراہ بن گیا۔
++ 과장 | 課長 | gwajang | noun | section chief, manager | سیکشن چیف | Work & Employment | 2 | 과장하다 (誇張) = to exaggerate.
+> 김 과장님은 친절하세요. | Manager Kim is kind. | کم صاحب (سیکشن چیف) مہربان ہیں۔
+> 과장으로 승진했어요. | I was promoted to section chief. | مجھے سیکشن چیف کے عہدے پر ترقی ملی۔
+> 너무 과장해서 말하지 마세요. | Don't exaggerate so much. | اتنا بڑھا چڑھا کر بات نہ کریں۔
++ 대기업 | 大企業 | daegieop | noun | large company, conglomerate | بڑی کمپنی | Work & Employment | 2 | 중소기업 = small and medium enterprise.
+> 많은 졸업생이 대기업에 가고 싶어 해요. | Many graduates want to work for big companies. | بہت سے فارغ التحصیل طلبہ بڑی کمپنیوں میں جانا چاہتے ہیں۔
+> 중소기업에서도 배울 게 많아요. | There's a lot to learn at smaller companies too. | چھوٹی کمپنیوں میں بھی سیکھنے کو بہت کچھ ہے۔
+> 그 대기업은 해외에 공장이 있어요. | That conglomerate has factories overseas. | اس بڑی کمپنی کے بیرون ملک کارخانے ہیں۔
++ 공장 | 工場 | gongjang | noun | factory | کارخانہ | Work & Employment | 2 |
+> 아버지는 자동차 공장에서 일하세요. | My father works at a car factory. | ابو گاڑیوں کے کارخانے میں کام کرتے ہیں۔
+> 공장에서 연기가 나와요. | Smoke is coming from the factory. | کارخانے سے دھواں نکل رہا ہے۔
+> 외국인 노동자가 공장에서 많이 일해요. | Many foreign workers work in factories. | کئی غیر ملکی مزدور کارخانوں میں کام کرتے ہیں۔
++ 노동자 | 勞動者 | nodongja | noun | worker, laborer | مزدور | Work & Employment | 2 | 근로자 is used in law/official contexts.
+> 노동자의 권리를 보호해야 해요. | Workers' rights must be protected. | مزدوروں کے حقوق کا تحفظ ضروری ہے۔
+> 외국인 노동자를 위한 상담 센터가 있어요. | There's a counseling center for foreign workers. | غیر ملکی مزدوروں کے لیے مشاورتی مرکز موجود ہے۔
+> 노동자들이 파업을 했어요. | The workers went on strike. | مزدوروں نے ہڑتال کی۔
++ 최저 임금 | 最低賃金 | choejeo imgeum | noun | minimum wage | کم از کم اجرت | Work & Employment | 2 |
+> 올해 최저 임금이 올랐어요. | The minimum wage went up this year. | اس سال کم از کم اجرت بڑھ گئی۔
+> 외국인도 최저 임금을 받아야 해요. | Foreigners must also receive the minimum wage. | غیر ملکیوں کو بھی کم از کم اجرت ملنی چاہیے۔
+> 최저 임금보다 적게 주면 불법이에요. | Paying less than the minimum wage is illegal. | کم از کم اجرت سے کم دینا غیر قانونی ہے۔
++ 시급 | 時給 | sigeup | noun | hourly wage | فی گھنٹہ اجرت | Work & Employment | 2 | 시급하다 (時急) = urgent.
+> 이 편의점은 시급이 얼마예요? | What's the hourly wage at this convenience store? | اس کنویننس اسٹور میں فی گھنٹہ اجرت کتنی ہے؟
+> 시급이 올라서 기뻐요. | I'm glad my hourly wage went up. | فی گھنٹہ اجرت بڑھ گئی، خوشی ہے۔
+> 이 문제는 시급하게 해결해야 해요. | This problem must be solved urgently. | یہ مسئلہ فوری حل کرنا ہوگا۔
++ 근무 시간 | 勤務時間 | geunmu sigan | noun | working hours | کام کے اوقات | Work & Employment | 2 |
+> 근무 시간이 너무 길어요. | The working hours are too long. | کام کے اوقات بہت لمبے ہیں۔
+> 근무 시간에는 개인 일을 하지 마세요. | Don't do personal things during working hours. | کام کے اوقات میں ذاتی کام نہ کریں۔
+> 이 회사는 근무 시간이 자유로워요. | This company has flexible working hours. | اس کمپنی میں کام کے اوقات لچکدار ہیں۔
++ 재택근무 | 在宅勤務 | jaetaekgeunmu | noun | working from home, remote work | گھر سے کام | Work & Employment | 2 |
+> 일주일에 두 번 재택근무를 해요. | I work from home twice a week. | میں ہفتے میں دو بار گھر سے کام کرتا ہوں۔
+> 재택근무를 하면 출퇴근 시간이 절약돼요. | Working from home saves commuting time. | گھر سے کام کرنے سے آنے جانے کا وقت بچتا ہے۔
+> 재택근무가 일반화됐어요. | Remote work has become common. | گھر سے کام کرنا عام ہو گیا ہے۔
++ 경력직 | 經歷職 | gyeongnyeokjik | noun | experienced hire (position for experienced workers) | تجربہ کار عہدہ | Work & Employment | 2 | 신입 = entry-level.
+> 이 회사는 경력직만 뽑아요. | This company only hires experienced people. | یہ کمپنی صرف تجربہ کار لوگ رکھتی ہے۔
+> 경력직으로 이직했어요. | I changed jobs as an experienced hire. | میں تجربہ کار کی حیثیت سے دوسری نوکری پر گیا۔
+> 신입과 경력직의 월급이 달라요. | Entry-level and experienced salaries differ. | نئے اور تجربہ کار ملازمین کی تنخواہ مختلف ہے۔
++ 이직하다 | 移職- | ijikhada | verb | to change jobs | نوکری بدلنا | Work & Employment | 2 |
+> 더 좋은 조건으로 이직했어요. | I changed jobs for better conditions. | بہتر شرائط پر میں نے نوکری بدلی۔
+> 요즘 젊은 사람들은 이직을 많이 해요. | Young people change jobs a lot these days. | آج کل نوجوان بہت نوکریاں بدلتے ہیں۔
+> 이직을 고민하고 있어요. | I'm thinking about changing jobs. | میں نوکری بدلنے کا سوچ رہا ہوں۔
++ 해고 | 解雇 | haego | noun | dismissal, being fired | برطرفی | Work & Employment | 2 | 해고하다 / 해고당하다.
+> 회사가 어려워서 직원들을 해고했어요. | The company was struggling and laid off employees. | کمپنی مشکل میں تھی، اس لیے ملازمین کو نکال دیا۔
+> 그는 갑자기 해고당했어요. | He was suddenly fired. | اسے اچانک نوکری سے نکال دیا گیا۔
+> 부당 해고는 신고할 수 있어요. | Unfair dismissal can be reported. | ناجائز برطرفی کی شکایت کی جا سکتی ہے۔
++ 은퇴 | 隱退 | euntoe | noun | retirement | ریٹائرمنٹ | Work & Employment | 2 | 은퇴하다. Also 정년퇴직.
+> 아버지는 작년에 은퇴하셨어요. | My father retired last year. | ابو پچھلے سال ریٹائر ہو گئے۔
+> 은퇴 후에 시골에서 살고 싶어요. | I want to live in the countryside after retirement. | ریٹائرمنٹ کے بعد گاؤں میں رہنا چاہتا ہوں۔
+> 그 선수는 은퇴를 발표했어요. | That athlete announced their retirement. | اس کھلاڑی نے ریٹائرمنٹ کا اعلان کیا۔
++ 연금 | 年金 | yeongeum | noun | pension | پنشن | Economy & Business | 2 |
+> 은퇴 후에 연금을 받아요. | I receive a pension after retirement. | ریٹائرمنٹ کے بعد پنشن ملتی ہے۔
+> 국민연금을 매달 내요. | I pay into the national pension every month. | میں ہر مہینے قومی پنشن میں رقم جمع کراتا ہوں۔
+> 연금만으로 생활하기 어려워요. | It's hard to live on a pension alone. | صرف پنشن پر گزارہ مشکل ہے۔
++ 복지 | 福祉 | bokji | noun | welfare | فلاح و بہبود | Society & Culture | 2 |
+> 이 회사는 직원 복지가 좋아요. | This company has good employee benefits. | اس کمپنی میں ملازمین کی سہولیات اچھی ہیں۔
+> 노인 복지에 투자해야 해요. | We should invest in welfare for the elderly. | بزرگوں کی فلاح میں سرمایہ لگانا چاہیے۔
+> 복지 센터에서 도움을 받았어요. | I got help from the welfare center. | مجھے فلاحی مرکز سے مدد ملی۔
++ 지원 | 支援 | jiwon | noun | support, aid | مدد، معاونت | Society & Culture | 2 | 지원 (志願) = application.
+> 정부 지원을 받아서 창업했어요. | I started a business with government support. | حکومتی مدد سے میں نے کاروبار شروع کیا۔
+> 지원이 필요한 사람에게 연락하세요. | Contact those who need support. | جنہیں مدد کی ضرورت ہے ان سے رابطہ کریں۔
+> 회사가 교육비를 지원해 줘요. | The company supports education costs. | کمپنی تعلیم کا خرچ دیتی ہے۔
++ 창업 | 創業 | changeop | noun | starting a business | کاروبار شروع کرنا | Economy & Business | 2 | 창업하다; 스타트업 = startup.
+> 대학 졸업 후 창업했어요. | I started a business after graduating. | فراغت کے بعد میں نے کاروبار شروع کیا۔
+> 창업에는 용기가 필요해요. | Starting a business takes courage. | کاروبار شروع کرنے کے لیے ہمت چاہیے۔
+> 청년 창업을 지원하는 프로그램이 많아요. | There are many programs supporting youth startups. | نوجوانوں کے کاروبار کی مدد کے کئی پروگرام ہیں۔
++ 손님맞이 |  | sonnimmaji | noun | receiving guests | مہمان نوازی، مہمانوں کا استقبال | Daily Life in Korea | 2 |
+> 손님맞이 준비로 바빠요. | I'm busy getting ready to receive guests. | مہمانوں کے استقبال کی تیاری میں مصروف ہوں۔
+> 명절 손님맞이 음식을 만들었어요. | I made food to welcome holiday guests. | تہوار کے مہمانوں کے لیے کھانا بنایا۔
+> 손님맞이 청소를 했어요. | I cleaned up before the guests arrived. | مہمانوں کے آنے سے پہلے صفائی کی۔
++ 집들이 |  | jipdeuri | noun | housewarming party | نئے گھر کی دعوت | Daily Life in Korea | 2 | Common gifts: toilet paper, detergent (for good luck).
+> 토요일에 집들이를 해요. | We're having a housewarming party on Saturday. | ہفتے کو نئے گھر کی دعوت ہے۔
+> 집들이 선물로 휴지를 사 갔어요. | I brought toilet paper as a housewarming gift. | نئے گھر کے تحفے کے طور پر ٹشو پیپر لے گیا۔
+> 친구 집들이에 초대받았어요. | I was invited to a friend's housewarming. | مجھے دوست کے نئے گھر کی دعوت ملی۔

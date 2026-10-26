@@ -1,0 +1,197 @@
+# Intermediate: common Sino-Korean 하다 verbs
++ 결심하다 | 決心- | gyeolsimhada | verb | to resolve, to make up one's mind | عزم کرنا | Common Verbs & Adjectives | 2 | Noun: 결심.
+> 매일 운동하기로 결심했어요. | I resolved to exercise every day. | میں نے روز ورزش کرنے کا عزم کیا۔
+> 그는 유학을 가기로 결심했어요. | He made up his mind to study abroad. | اس نے بیرون ملک پڑھنے کا پختہ ارادہ کر لیا۔
+> 새해 결심을 지키기 어려워요. | It's hard to keep New Year's resolutions. | نئے سال کے عزم پر قائم رہنا مشکل ہے۔
++ 고려하다 | 考慮- | goryeohada | verb | to consider, to take into account | غور کرنا، مدنظر رکھنا | Academic & Formal | 2 |
+> 가격과 품질을 모두 고려해야 해요. | You have to consider both price and quality. | قیمت اور معیار دونوں کو مدنظر رکھنا چاہیے۔
+> 다른 사람의 입장도 고려해 주세요. | Please consider other people's positions too. | دوسروں کا نقطۂ نظر بھی مدنظر رکھیں۔
+> 이직을 고려하고 있어요. | I'm considering changing jobs. | میں نوکری بدلنے پر غور کر رہا ہوں۔
++ 관찰하다 | 觀察- | gwanchalhada | verb | to observe | مشاہدہ کرنا | Academic & Formal | 2 |
+> 아이들은 새를 관찰했어요. | The children observed the birds. | بچوں نے پرندوں کا مشاہدہ کیا۔
+> 환자의 상태를 계속 관찰하고 있어요. | We're continuously observing the patient's condition. | ہم مریض کی حالت پر مسلسل نظر رکھے ہوئے ہیں۔
+> 주변을 잘 관찰하면 아이디어가 생겨요. | If you observe your surroundings well, ideas come. | اردگرد غور سے دیکھیں تو خیالات آتے ہیں۔
++ 극복하다 | 克服- | geukbokhada | verb | to overcome | قابو پانا | Emotions & Relationships | 2 |
+> 어려움을 극복하고 성공했어요. | They overcame difficulties and succeeded. | انہوں نے مشکلات پر قابو پا کر کامیابی حاصل کی۔
+> 두려움을 극복하는 것이 중요해요. | Overcoming fear is important. | خوف پر قابو پانا ضروری ہے۔
+> 그 선수는 부상을 극복했어요. | That athlete overcame the injury. | اس کھلاڑی نے چوٹ پر قابو پایا۔
++ 기록하다 | 記錄- | girokhada | verb | to record, to write down | ریکارڈ کرنا، لکھ لینا | Academic & Formal | 2 | Noun: 기록 (record).
+> 매일 지출을 기록해요. | I record my spending every day. | میں روز اپنا خرچ لکھتا ہوں۔
+> 그 선수가 세계 기록을 깼어요. | That athlete broke the world record. | اس کھلاڑی نے عالمی ریکارڈ توڑ دیا۔
+> 여행 이야기를 블로그에 기록했어요. | I recorded my travel stories on a blog. | میں نے سفر کی کہانیاں بلاگ پر لکھیں۔
++ 동의하다 | 同意- | donguihada | verb | to agree | متفق ہونا | Academic & Formal | 2 | Noun: 동의. Agree with: -에 동의하다.
+> 저는 그 의견에 동의해요. | I agree with that opinion. | میں اس رائے سے متفق ہوں۔
+> 부모님의 동의가 필요해요. | Parental consent is required. | والدین کی رضامندی ضروری ہے۔
+> 모두가 동의하지는 않았어요. | Not everyone agreed. | سب متفق نہیں تھے۔
++ 반복하다 | 反復- | banbokhada | verb | to repeat | دہرانا | Education & University | 2 |
+> 같은 실수를 반복하지 마세요. | Don't repeat the same mistake. | ایک ہی غلطی مت دہرائیں۔
+> 단어를 반복해서 외웠어요. | I memorized the words by repetition. | میں نے الفاظ بار بار دہرا کر یاد کیے۔
+> 역사는 반복된다고 해요. | They say history repeats itself. | کہتے ہیں تاریخ خود کو دہراتی ہے۔
++ 방문하다 | 訪問- | bangmunhada | verb | to visit | ملاقات کرنا، دورہ کرنا | Travel & Transportation | 2 |
+> 내년에 한국을 다시 방문할 거예요. | I'll visit Korea again next year. | میں اگلے سال دوبارہ کوریا جاؤں گا۔
+> 친구 집을 방문했어요. | I visited a friend's house. | میں دوست کے گھر گیا۔
+> 홈페이지를 방문해 주셔서 감사합니다. | Thank you for visiting our website. | ہماری ویب سائٹ پر آنے کا شکریہ۔
++ 방해하다 | 妨害- | banghaehada | verb | to disturb, to interfere | خلل ڈالنا | Common Verbs & Adjectives | 2 | Noun: 방해.
+> 공부하는 동생을 방해하지 마세요. | Don't disturb your sibling who's studying. | پڑھنے والے بھائی کو تنگ نہ کریں۔
+> 소음이 잠을 방해해요. | Noise disturbs my sleep. | شور نیند میں خلل ڈالتا ہے۔
+> 방해해서 죄송합니다. | Sorry to interrupt. | خلل ڈالنے پر معذرت۔
++ 보관하다 | 保管- | bogwanhada | verb | to keep, to store | محفوظ رکھنا | Daily Life in Korea | 2 |
+> 이 약은 냉장고에 보관하세요. | Keep this medicine in the refrigerator. | یہ دوا فریج میں رکھیں۔
+> 짐을 호텔에 보관했어요. | I left my luggage at the hotel. | میں نے سامان ہوٹل میں رکھوا دیا۔
+> 영수증을 잘 보관하세요. | Keep the receipt safe. | رسید سنبھال کر رکھیں۔
++ 부담하다 | 負擔- | budamhada | verb | to bear (a cost, burden) | بوجھ اٹھانا، برداشت کرنا | Economy & Business | 2 | Noun: 부담 (burden, pressure).
+> 교통비는 회사가 부담해요. | The company covers transport costs. | سفر کا خرچ کمپنی اٹھاتی ہے۔
+> 너무 부담 갖지 마세요. | Don't feel too much pressure. | زیادہ دباؤ نہ لیں۔
+> 학비가 부담돼요. | Tuition is a burden. | فیس بوجھ لگتی ہے۔
++ 상의하다 | 相議- | sanguihada | verb | to discuss, to consult with | مشورہ کرنا | Work & Employment | 2 | Also 의논하다.
+> 부모님과 상의해 보고 결정할게요. | I'll talk it over with my parents and decide. | والدین سے مشورہ کر کے فیصلہ کروں گا۔
+> 이 문제는 팀장님과 상의하세요. | Discuss this issue with the team leader. | اس مسئلے پر ٹیم لیڈر سے بات کریں۔
+> 상의할 일이 있어요. | There's something I need to discuss. | ایک بات پر مشورہ کرنا ہے۔
++ 생산하다 | 生産- | saengsanhada | verb | to produce, to manufacture | پیدا کرنا، تیار کرنا | Economy & Business | 2 | Noun: 생산.
+> 이 공장은 자동차를 생산해요. | This factory produces cars. | یہ کارخانہ گاڑیاں بناتا ہے۔
+> 우리 지역은 쌀을 많이 생산해요. | Our region produces a lot of rice. | ہمارا علاقہ بہت چاول پیدا کرتا ہے۔
+> 생산 비용이 올랐어요. | Production costs have gone up. | پیداواری لاگت بڑھ گئی ہے۔
++ 설득하다 | 說得- | seoldeukhada | verb | to persuade | قائل کرنا | Emotions & Relationships | 2 |
+> 부모님을 설득해서 유학을 왔어요. | I persuaded my parents and came to study abroad. | میں نے والدین کو منا کر بیرون ملک پڑھنے آیا۔
+> 그를 설득하기는 쉽지 않아요. | Persuading him isn't easy. | اسے قائل کرنا آسان نہیں۔
+> 설득력 있는 발표였어요. | It was a persuasive presentation. | یہ ایک قائل کرنے والی پریزنٹیشن تھی۔
++ 성장하다 | 成長- | seongjanghada | verb | to grow, to develop | بڑھنا، ترقی کرنا | Economy & Business | 2 | Noun: 성장.
+> 회사가 빠르게 성장하고 있어요. | The company is growing fast. | کمپنی تیزی سے ترقی کر رہی ہے۔
+> 실패를 통해 성장했어요. | I grew through failure. | میں ناکامی کے ذریعے آگے بڑھا۔
+> 아이들은 사랑을 받으며 성장해요. | Children grow while being loved. | بچے محبت میں پروان چڑھتے ہیں۔
++ 실천하다 | 實踐- | silcheonhada | verb | to put into practice | عمل کرنا | Common Verbs & Adjectives | 2 |
+> 아는 것보다 실천하는 것이 중요해요. | Putting it into practice matters more than knowing. | جاننے سے زیادہ عمل کرنا اہم ہے۔
+> 환경 보호를 생활 속에서 실천해요. | I practice environmental protection in daily life. | میں روزمرہ زندگی میں ماحول کی حفاظت پر عمل کرتا ہوں۔
+> 계획만 세우지 말고 실천하세요. | Don't just make plans; act on them. | صرف منصوبے نہ بنائیں، عمل بھی کریں۔
++ 양보하다 | 讓步- | yangbohada | verb | to yield, to give way, to give up (a seat) | جگہ دینا، رعایت کرنا | Society & Culture | 2 |
+> 지하철에서 할머니께 자리를 양보했어요. | I gave up my seat to an elderly woman on the subway. | میٹرو میں میں نے ایک بزرگ خاتون کو سیٹ دی۔
+> 서로 조금씩 양보합시다. | Let's each give in a little. | ہم سب تھوڑا تھوڑا رعایت کریں۔
+> 차가 길을 양보해 줬어요. | A car gave way to me. | ایک گاڑی نے مجھے راستہ دیا۔
++ 완성하다 | 完成- | wanseonghada | verb | to complete, to finish | مکمل کرنا | Common Verbs & Adjectives | 2 | Passive: 완성되다.
+> 드디어 그림을 완성했어요. | I finally completed the painting. | آخرکار میں نے تصویر مکمل کر لی۔
+> 보고서가 거의 완성됐어요. | The report is almost complete. | رپورٹ تقریباً مکمل ہو گئی ہے۔
+> 이 건물은 2년 만에 완성됐어요. | This building was completed in two years. | یہ عمارت دو سال میں مکمل ہوئی۔
++ 요구하다 | 要求- | yoguhada | verb | to demand, to require | مطالبہ کرنا | Society & Culture | 2 | Noun: 요구.
+> 직원들이 월급 인상을 요구했어요. | The employees demanded a raise. | ملازمین نے تنخواہ میں اضافے کا مطالبہ کیا۔
+> 이 일은 많은 시간을 요구해요. | This work requires a lot of time. | اس کام میں بہت وقت لگتا ہے۔
+> 고객의 요구에 맞춰 제품을 만들어요. | We make products to meet customer needs. | ہم گاہکوں کی ضرورت کے مطابق مصنوعات بناتے ہیں۔
++ 요청하다 | 要請- | yocheonghada | verb | to request | درخواست کرنا | Work & Employment | 2 | More formal than 부탁하다.
+> 도움을 요청했어요. | I requested help. | میں نے مدد کی درخواست کی۔
+> 회의 자료를 요청드립니다. | I'm requesting the meeting materials. | میں میٹنگ کا مواد طلب کرتا ہوں۔
+> 인터뷰 요청을 받았어요. | I received an interview request. | مجھے انٹرویو کی درخواست ملی۔
++ 운영하다 | 運營- | unyeonghada | verb | to run, to operate (a business) | چلانا (کاروبار) | Economy & Business | 2 |
+> 부모님은 식당을 운영하세요. | My parents run a restaurant. | میرے والدین ایک ریستوران چلاتے ہیں۔
+> 이 도서관은 시에서 운영해요. | This library is run by the city. | یہ لائبریری شہر کی انتظامیہ چلاتی ہے۔
+> 온라인 쇼핑몰을 운영하고 있어요. | I'm running an online store. | میں ایک آن لائن دکان چلا رہا ہوں۔
++ 의논하다 | 議論- | uinonhada | verb | to discuss, to talk over | مشورہ کرنا، بات چیت کرنا | Work & Employment | 2 |
+> 가족과 의논해서 결정했어요. | I decided after talking it over with my family. | گھر والوں سے مشورہ کر کے فیصلہ کیا۔
+> 이 문제를 같이 의논해 봅시다. | Let's discuss this problem together. | اس مسئلے پر مل کر بات کرتے ہیں۔
+> 의논할 시간이 필요해요. | We need time to discuss. | بات چیت کے لیے وقت چاہیے۔
++ 이동하다 | 移動- | idonghada | verb | to move, to travel (from place to place) | منتقل ہونا، جانا | Travel & Transportation | 2 |
+> 다음 장소로 이동하겠습니다. | We'll move to the next location. | اب اگلی جگہ چلتے ہیں۔
+> 지하철로 이동하면 빨라요. | It's fast to get around by subway. | میٹرو سے آنا جانا تیز ہے۔
+> 사람들이 출구 쪽으로 이동했어요. | People moved toward the exit. | لوگ باہر نکلنے کے دروازے کی طرف بڑھے۔
++ 인정하다 | 認定- | injeonghada | verb | to admit, to acknowledge, to recognize | تسلیم کرنا | Emotions & Relationships | 2 | 인정받다 = to be recognized.
+> 제 실수를 인정합니다. | I admit my mistake. | میں اپنی غلطی تسلیم کرتا ہوں۔
+> 그의 실력을 모두가 인정해요. | Everyone acknowledges his skill. | سب اس کی مہارت تسلیم کرتے ہیں۔
+> 회사에서 능력을 인정받았어요. | My ability was recognized at the company. | کمپنی میں میری صلاحیت کی قدر کی گئی۔
++ 전하다 | 傳- | jeonhada | verb | to convey, to pass on | پہنچانا (پیغام) | Common Verbs & Adjectives | 2 | 안부를 전하다 = send regards.
+> 부모님께 안부 전해 주세요. | Please give my regards to your parents. | والدین کو میرا سلام کہیے گا۔
+> 이 소식을 친구에게 전했어요. | I passed this news on to my friend. | میں نے یہ خبر دوست تک پہنچائی۔
+> 감사의 마음을 전하고 싶어요. | I want to convey my gratitude. | میں شکریہ ادا کرنا چاہتا ہوں۔
++ 전달하다 | 傳達- | jeondalhada | verb | to deliver, to convey | پہنچانا | Work & Employment | 2 |
+> 이 서류를 부장님께 전달해 주세요. | Please deliver this document to the manager. | یہ دستاویز منیجر تک پہنچا دیں۔
+> 의견을 정확히 전달하는 것이 중요해요. | It's important to convey your opinion accurately. | اپنی رائے صحیح طرح پہنچانا ضروری ہے۔
+> 메시지를 전달했어요. | I passed on the message. | میں نے پیغام پہنچا دیا۔
++ 접수하다 | 接受- | jeopsuhada | verb | to receive (an application), to register | (درخواست) وصول کرنا، رجسٹر کرنا | Daily Life in Korea | 2 |
+> 병원에 가면 먼저 접수하세요. | When you go to a hospital, register first. | ہسپتال جائیں تو پہلے اندراج کرائیں۔
+> 신청서는 다음 주까지 접수해요. | Applications are accepted until next week. | درخواستیں اگلے ہفتے تک جمع ہوں گی۔
+> 접수 번호를 확인하세요. | Check your registration number. | اپنا اندراج نمبر دیکھیں۔
++ 조절하다 | 調節- | jojeolhada | verb | to adjust, to control | قابو کرنا، ایڈجسٹ کرنا | Common Verbs & Adjectives | 2 |
+> 에어컨 온도를 조절해 주세요. | Please adjust the AC temperature. | اے سی کا درجۂ حرارت ٹھیک کر دیں۔
+> 감정을 조절하는 법을 배웠어요. | I learned how to control my emotions. | میں نے جذبات پر قابو پانا سیکھا۔
+> 식사량을 조절하고 있어요. | I'm controlling how much I eat. | میں کھانے کی مقدار کم زیادہ کر رہا ہوں۔
++ 증명하다 | 證明- | jeungmyeonghada | verb | to prove | ثابت کرنا | Academic & Formal | 2 | 증명서 = certificate.
+> 그는 자신의 실력을 증명했어요. | He proved his ability. | اس نے اپنی صلاحیت ثابت کی۔
+> 재학 증명서가 필요해요. | I need a certificate of enrollment. | مجھے زیرِ تعلیم ہونے کا سرٹیفکیٹ چاہیے۔
+> 이 사실을 증명할 수 있어요? | Can you prove this fact? | کیا آپ یہ بات ثابت کر سکتے ہیں؟
++ 진행하다 | 進行- | jinhaenghada | verb | to proceed, to carry on, to host | جاری رکھنا، چلانا | Work & Employment | 2 | 진행자 = host, MC.
+> 회의를 진행하겠습니다. | Let's proceed with the meeting. | میٹنگ شروع کرتے ہیں۔
+> 공사가 계획대로 진행되고 있어요. | Construction is proceeding as planned. | تعمیر منصوبے کے مطابق جاری ہے۔
+> 그 프로그램은 유명한 가수가 진행해요. | A famous singer hosts that program. | وہ پروگرام ایک مشہور گلوکار چلاتا ہے۔
++ 추천하다 | 推薦- | chucheonhada | verb | to recommend | تجویز کرنا، سفارش کرنا | Common Verbs & Adjectives | 2 | Noun: 추천.
+> 맛있는 식당을 추천해 주세요. | Please recommend a good restaurant. | کوئی اچھا ریستوران بتائیں۔
+> 선생님이 이 책을 추천하셨어요. | The teacher recommended this book. | استاد نے یہ کتاب تجویز کی۔
+> 추천서를 써 주셨어요. | They wrote me a letter of recommendation. | انہوں نے میرے لیے سفارشی خط لکھا۔
++ 출연하다 | 出演- | churyeonhada | verb | to appear (on a show, in a film) | (ٹی وی، فلم میں) آنا | Media & Technology | 2 |
+> 그 배우가 새 드라마에 출연해요. | That actor appears in a new drama. | وہ اداکار نئے ڈرامے میں آ رہا ہے۔
+> 친구가 텔레비전에 출연했어요. | My friend appeared on TV. | میرا دوست ٹی وی پر آیا۔
+> 출연자들이 무대에 올라갔어요. | The performers went up on stage. | فنکار اسٹیج پر گئے۔
++ 판단하다 | 判斷- | pandanhada | verb | to judge, to decide | فیصلہ کرنا، جانچنا | Academic & Formal | 2 | Noun: 판단.
+> 겉모습으로 사람을 판단하지 마세요. | Don't judge people by appearance. | ظاہری شکل سے لوگوں کو مت پرکھیں۔
+> 상황을 잘 판단해야 해요. | You must judge the situation well. | صورتحال کو اچھی طرح سمجھنا چاہیے۔
+> 제 판단이 틀렸어요. | My judgment was wrong. | میرا اندازہ غلط تھا۔
++ 평가하다 | 評價- | pyeonggahada | verb | to evaluate, to assess | جائزہ لینا، اندازہ لگانا | Academic & Formal | 2 | Noun: 평가.
+> 선생님이 학생들의 발표를 평가했어요. | The teacher evaluated the students' presentations. | استاد نے طلبہ کی پریزنٹیشن کا جائزہ لیا۔
+> 그 영화는 좋은 평가를 받았어요. | That movie received good reviews. | اس فلم کو اچھے تبصرے ملے۔
+> 자신을 너무 낮게 평가하지 마세요. | Don't underestimate yourself. | اپنے آپ کو کم نہ سمجھیں۔
++ 포함하다 | 包含- | pohamhada | verb | to include | شامل کرنا | Common Verbs & Adjectives | 2 | Passive: 포함되다.
+> 가격에 세금이 포함돼 있어요. | Tax is included in the price. | قیمت میں ٹیکس شامل ہے۔
+> 저를 포함해서 다섯 명이에요. | There are five people including me. | میرے سمیت پانچ لوگ ہیں۔
+> 아침 식사가 포함됩니까? | Is breakfast included? | کیا ناشتہ شامل ہے؟
++ 표시하다 | 表示- | pyosihada | verb | to mark, to indicate | نشان لگانا، ظاہر کرنا | Common Verbs & Adjectives | 2 |
+> 중요한 부분에 표시하세요. | Mark the important parts. | اہم حصوں پر نشان لگائیں۔
+> 지도에 우리 집을 표시했어요. | I marked my house on the map. | میں نے نقشے پر اپنا گھر نشان زد کیا۔
+> 감사의 표시로 선물을 드렸어요. | I gave a gift as a token of thanks. | شکریے کے اظہار کے طور پر تحفہ دیا۔
++ 해석하다 | 解釋- | haeseokhada | verb | to interpret, to translate | تشریح کرنا، مطلب نکالنا | Education & University | 2 |
+> 이 문장을 어떻게 해석해요? | How do you interpret this sentence? | اس جملے کا کیا مطلب ہے؟
+> 그 말은 여러 가지로 해석할 수 있어요. | That can be interpreted in several ways. | اس بات کے کئی مطلب نکل سکتے ہیں۔
+> 시를 해석하기 어려워요. | Poems are hard to interpret. | شاعری کی تشریح مشکل ہے۔
++ 환영하다 | 歡迎- | hwanyeonghada | verb | to welcome | خوش آمدید کہنا | Basics & Greetings | 2 |
+> 한국에 오신 것을 환영합니다. | Welcome to Korea. | کوریا میں خوش آمدید۔
+> 신입생 환영회가 있어요. | There's a welcome party for new students. | نئے طلبہ کے استقبال کی تقریب ہے۔
+> 언제든지 환영해요. | You're welcome anytime. | آپ کا ہمیشہ خیر مقدم ہے۔
++ 훈련하다 | 訓鍊- | hullyeonhada | verb | to train | تربیت دینا، مشق کرنا | Hobbies & Leisure | 2 |
+> 선수들이 매일 훈련해요. | The athletes train every day. | کھلاڑی روز تربیت کرتے ہیں۔
+> 강아지를 훈련했어요. | I trained the puppy. | میں نے کتے کو سدھایا۔
+> 소방 훈련이 있었어요. | There was a fire drill. | آگ سے بچاؤ کی مشق ہوئی۔
++ 확대하다 | 擴大- | hwakdaehada | verb | to expand, to enlarge | وسعت دینا، بڑا کرنا | Academic & Formal | 2 | Opposite: 축소하다.
+> 사진을 확대해서 봤어요. | I zoomed in on the photo. | میں نے تصویر بڑی کر کے دیکھی۔
+> 회사가 사업을 해외로 확대했어요. | The company expanded its business abroad. | کمپنی نے کاروبار بیرون ملک تک بڑھا دیا۔
+> 지원 대상이 확대됐어요. | The scope of support was expanded. | امداد کا دائرہ بڑھا دیا گیا۔
++ 신고 | 申告 | singo | noun | report (to authorities), declaration | اطلاع، رپورٹ | Society & Culture | 2 | 신고하다 is in an earlier batch; this is the noun.
+> 화재 신고가 들어왔어요. | A fire report came in. | آگ لگنے کی اطلاع ملی۔
+> 분실 신고를 했어요. | I reported the item as lost. | میں نے گمشدگی کی رپورٹ درج کرائی۔
+> 세금 신고 기간이에요. | It's tax filing season. | ٹیکس جمع کرانے کا وقت ہے۔
++ 예약하다 | 豫約- | yeyakhada | verb | to reserve, to book | بکنگ کرنا | Travel & Transportation | 2 |
+> 호텔을 온라인으로 예약했어요. | I booked the hotel online. | میں نے ہوٹل آن لائن بک کیا۔
+> 병원 진료를 예약하고 싶어요. | I'd like to book a doctor's appointment. | میں ڈاکٹر کا وقت لینا چاہتا ہوں۔
+> 예약하지 않으면 자리가 없어요. | There are no seats without a reservation. | بکنگ کے بغیر جگہ نہیں ملتی۔
++ 오해하다 | 誤解- | ohaehada | verb | to misunderstand | غلط سمجھنا | Emotions & Relationships | 2 |
+> 제 말을 오해하지 마세요. | Don't misunderstand what I said. | میری بات کو غلط مت سمجھیں۔
+> 친구가 저를 오해했어요. | My friend misunderstood me. | دوست نے مجھے غلط سمجھا۔
+> 오해해서 미안해요. | Sorry I misunderstood. | غلط سمجھنے پر معذرت۔
++ 약속하다 | 約束- | yaksokhada | verb | to promise; to make an appointment | وعدہ کرنا | Daily Life in Korea | 2 |
+> 다시는 늦지 않겠다고 약속했어요. | I promised I'd never be late again. | میں نے وعدہ کیا کہ پھر دیر نہیں کروں گا۔
+> 친구와 영화를 보기로 약속했어요. | I made plans with a friend to see a movie. | دوست سے فلم دیکھنے کا وعدہ کیا۔
+> 약속해요? | Promise? | وعدہ؟
++ 대화하다 | 對話- | daehwahada | verb | to converse, to talk | بات چیت کرنا | Emotions & Relationships | 2 | Noun: 대화.
+> 부모님과 자주 대화하세요. | Talk with your parents often. | والدین سے اکثر بات چیت کریں۔
+> 한국 사람과 대화하면서 실력이 늘었어요. | My skills improved by talking with Koreans. | کوریائی لوگوں سے بات کرتے ہوئے مہارت بڑھی۔
+> 대화로 문제를 해결합시다. | Let's solve the problem through dialogue. | بات چیت سے مسئلہ حل کرتے ہیں۔
++ 자랑하다 |  | jaranghada | verb | to boast, to show off, to be proud of | فخر کرنا، شیخی بگھارنا | Emotions & Relationships | 2 | Noun: 자랑.
+> 그는 새 차를 자랑했어요. | He showed off his new car. | اس نے اپنی نئی گاڑی کی شیخی بگھاری۔
+> 우리 딸이 저의 자랑이에요. | Our daughter is my pride. | ہماری بیٹی میرا فخر ہے۔
+> 너무 자랑하면 싫어해요. | People dislike it if you boast too much. | زیادہ شیخی ماریں تو لوگ ناپسند کرتے ہیں۔
++ 불평하다 | 不平- | bulpyeonghada | verb | to complain | شکایت کرنا | Emotions & Relationships | 2 | Also 불만 (dissatisfaction).
+> 그는 항상 음식에 대해 불평해요. | He always complains about the food. | وہ ہمیشہ کھانے کی شکایت کرتا ہے۔
+> 불평만 하지 말고 방법을 찾아요. | Don't just complain; find a way. | صرف شکایت نہ کریں، حل ڈھونڈیں۔
+> 손님의 불만을 들었어요. | I listened to the customer's complaints. | میں نے گاہک کی شکایات سنیں۔
++ 공감하다 | 共感- | gonggamhada | verb | to empathize, to relate to | ہمدردی رکھنا، اتفاق کرنا | Emotions & Relationships | 2 | Noun: 공감.
+> 그 이야기에 많이 공감했어요. | I related to that story a lot. | میں اس کہانی سے بہت متاثر ہوا۔
+> 친구의 마음에 공감해 주세요. | Empathize with your friend's feelings. | دوست کے جذبات کو سمجھیں۔
+> 많은 사람들이 그 노래에 공감해요. | Many people relate to that song. | بہت سے لوگ اس گانے سے خود کو جوڑتے ہیں۔
++ 존재하다 | 存在- | jonjaehada | verb | to exist | موجود ہونا | Academic & Formal | 2 | Noun: 존재.
+> 이 문제는 오래전부터 존재했어요. | This problem has existed for a long time. | یہ مسئلہ بہت عرصے سے موجود ہے۔
+> 외계인이 존재할까요? | Do aliens exist? | کیا خلائی مخلوق موجود ہے؟
+> 당신은 저에게 소중한 존재예요. | You are a precious presence in my life. | آپ میرے لیے بہت قیمتی ہیں۔
