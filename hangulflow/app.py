@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import faulthandler
 import logging
 import sys
 from logging.handlers import RotatingFileHandler
@@ -19,6 +20,7 @@ from .ui import theme
 from .ui.main_window import MainWindow
 from .ui.tray import TrayIcon
 from .ui.widget import VocabWidget
+from .updater import WordUpdater
 
 log = logging.getLogger("hangulflow")
 
@@ -41,6 +43,14 @@ def setup_logging() -> None:
         log.critical("Uncaught exception", exc_info=(exc_type, exc, tb))
 
     sys.excepthook = log_uncaught
+    # Native crashes (inside Qt or Windows) bypass excepthook; faulthandler still
+    # writes their stack here, so a silent exit leaves a trace.
+    global _crash_file
+    _crash_file = open(paths.log_dir() / "crash.log", "a", encoding="utf-8")
+    faulthandler.enable(_crash_file)
+
+
+_crash_file = None
 
 
 def main() -> int:
@@ -101,6 +111,19 @@ def main() -> int:
         tray = TrayIcon(widget, icon, settings, store)
         tray.show()
 
+    updater = WordUpdater(repo)
+    widget.set_updater(updater)
+    if tray is not None:
+        updater.finished.connect(
+            lambda added, _error: added
+            and tray.showMessage("HangulFlow", f"{added} new words were added to your list.", icon, 6000)
+        )
+    update_timer = QTimer(app)  # hourly tick; the updater itself limits real checks to once a day
+    update_timer.setInterval(60 * 60 * 1000)
+    update_timer.timeout.connect(lambda: settings.auto_update and updater.check())
+    update_timer.start()
+    QTimer.singleShot(60_000, lambda: settings.auto_update and updater.check())  # let start-up settle first
+
     def shutdown() -> None:
         widget.save_now()
         if tray is not None:
@@ -109,6 +132,13 @@ def main() -> int:
         guard.release()
         log.info("HangulFlow closed cleanly.")
 
+    def session_ending(_manager) -> None:
+        # Windows is signing out or shutting down; it may end the process before
+        # aboutToQuit runs, so save now.
+        log.info("Windows session is ending; saving.")
+        widget.save_now()
+
     app.aboutToQuit.connect(shutdown)
+    app.commitDataRequest.connect(session_ending)
     widget.show()
     return app.exec()

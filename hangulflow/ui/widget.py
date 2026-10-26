@@ -117,6 +117,8 @@ class VocabWidget(QWidget):
         self.setMaximumWidth(MAX_WIDTH)
 
         self._build_ui()
+        self._updater = None  # WordUpdater, attached by the app via set_updater()
+        self._manual_word_check = False
         self._menu = self._build_menu()
         self._more_button.setMenu(self._menu)
 
@@ -399,6 +401,8 @@ class VocabWidget(QWidget):
             menu, "Pause when away, locked or fullscreen", self._settings.auto_pause, self.set_auto_pause
         )
         self._act_startup = self._check_action(menu, "Start with Windows", startup.is_enabled(), self.set_start_with_windows)
+        self._check_action(menu, "Get new words online (daily)", self._settings.auto_update, self.set_auto_update)
+        menu.addAction("Check for new words now", self.check_for_words)
         menu.addAction("Open data folder (backups, logs)", self.open_data_folder)
 
         menu.addSeparator()
@@ -768,6 +772,31 @@ class VocabWidget(QWidget):
             self._act_startup.setChecked(startup.is_enabled())
             self._act_startup.blockSignals(False)
             self._flash_status("Couldn't change the startup setting", seconds=4)
+
+    def set_updater(self, updater) -> None:
+        self._updater = updater
+        updater.finished.connect(self._on_words_checked)
+
+    def set_auto_update(self, enabled: bool) -> None:
+        self._settings.auto_update = enabled
+        self._schedule_save()
+        if enabled and self._updater is not None:
+            self._updater.check()
+
+    def check_for_words(self) -> None:
+        if self._updater is None:
+            return
+        self._manual_word_check = True
+        self._updater.check(force=True)
+        self._flash_status("Checking for new words…", seconds=5)
+
+    def _on_words_checked(self, added: int, error: str) -> None:
+        manual, self._manual_word_check = self._manual_word_check, False
+        if added:
+            self.data_changed.emit()
+            self._flash_status(f"{added} new words downloaded", seconds=5)
+        elif manual:
+            self._flash_status("No internet connection or update server" if error else "Your word list is up to date", seconds=4)
 
     def open_data_folder(self) -> None:
         QDesktopServices.openUrl(QUrl.fromLocalFile(str(paths.data_dir())))

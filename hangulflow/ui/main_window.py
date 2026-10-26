@@ -377,6 +377,7 @@ class MainWindow(QMainWindow):
         row = QHBoxLayout()
         row.addWidget(self._button("Import words from CSV / JSON…", self.import_words))
         row.addWidget(self._button("Export all words…", self.export_words))
+        row.addWidget(self._button("Check for new words online", self._widget.check_for_words))
         row.addStretch(1)
         t.addLayout(row)
         layout.addWidget(transfer_box)
@@ -513,6 +514,7 @@ class MainWindow(QMainWindow):
         form.addRow("", check("Compact card", s.compact, w.set_compact))
         form.addRow("", check("Pause when away, locked or a fullscreen app is running", s.auto_pause, w.set_auto_pause))
         form.addRow("", check("Start HangulFlow when I sign in to Windows", startup.is_enabled(), w.set_start_with_windows))
+        form.addRow("", check("Download new words online once a day", s.auto_update, w.set_auto_update))
         outer.addWidget(box)
         outer.addWidget(QLabel(
             "These are the same options as the card's right-click menu. Changes apply immediately.",

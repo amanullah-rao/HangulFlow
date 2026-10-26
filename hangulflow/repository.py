@@ -286,18 +286,37 @@ class VocabRepository:
         except (OSError, ValueError):
             log.exception("Could not read seed vocabulary from %s", path)
             return 0
+        return self.apply_word_list(data)
 
+    def meta(self, key: str) -> str | None:
+        row = self.conn.execute("SELECT value FROM meta WHERE key = ?", (key,)).fetchone()
+        return row[0] if row is not None else None
+
+    def set_meta(self, key: str, value: str) -> None:
+        with self.conn:
+            self.conn.execute(
+                "INSERT INTO meta(key, value) VALUES (?, ?) ON CONFLICT(key) DO UPDATE SET value = excluded.value",
+                (key, value),
+            )
+
+    def word_list_version(self) -> int:
+        return int(self.meta("seed_version") or 0)
+
+    def apply_word_list(self, data: dict) -> int:
+        """Merge a curated word list (bundled or downloaded) if it is newer."""
         version = int(data.get("version", 0))
-        row = self.conn.execute("SELECT value FROM meta WHERE key = 'seed_version'").fetchone()
-        if row is not None and int(row[0]) >= version:
+        if self.word_list_version() >= version:
             return 0
 
         now = to_iso(utc_now())
         added = 0
         with self.conn:
             for entry in data.get("entries", []):
-                values = [entry.get(f, "") for f in _FIELDS]
-                values[_FIELDS.index("difficulty")] = int(entry.get("difficulty", 2))
+                try:
+                    clean = _clean_fields(entry if isinstance(entry, dict) else {})
+                except ValueError:
+                    continue  # a broken entry must not block the rest of the list
+                values = [clean[f] for f in _FIELDS]
                 cur = self.conn.execute(
                     f"INSERT OR IGNORE INTO vocabulary ({', '.join(_FIELDS)}, source, created_at, updated_at)"
                     f" VALUES ({', '.join('?' * len(_FIELDS))}, 'curated', ?, ?)",
@@ -309,7 +328,7 @@ class VocabRepository:
                     self.conn.execute(
                         f"UPDATE vocabulary SET {', '.join(f'{f} = ?' for f in refresh)}"
                         " WHERE korean = ? AND meaning_en = ? AND source = 'curated' AND edited = 0",
-                        (*refresh.values(), entry["korean"], entry["meaning_en"]),
+                        (*refresh.values(), clean["korean"], clean["meaning_en"]),
                     )
             self.conn.execute(
                 "INSERT INTO meta(key, value) VALUES ('seed_version', ?)"

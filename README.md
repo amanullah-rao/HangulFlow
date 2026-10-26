@@ -7,7 +7,8 @@ Rate each word as *Known*, *Difficult* or *Unknown*, and spaced repetition bring
 back the words you forget while spacing out the ones you know.
 
 It is built for intermediate learners (around TOPIK 3, aiming for 4+), runs fully
-offline, and needs no account, AI service or internet connection.
+offline, and needs no account or AI service. Internet is only used, optionally,
+to download new words once a day.
 
 <p align="center">
   <img src="docs/screenshots/card-question.png" alt="A HangulFlow card showing the word 노력 with a Reveal button" width="340">
@@ -68,19 +69,32 @@ Meanings and translations were written with care, but if you spot a mistake,
 please open an issue or correct it in the library window. Your edits are kept,
 even when the built-in list is updated.
 
+**New words online.** Once a day HangulFlow downloads the latest
+`hangulflow/resources/seed_vocabulary.json` from this repository. When its
+`version` number is higher than the one you have, new words are added and
+unedited words get any corrections. Nothing about you is sent, and without
+internet the app simply keeps working offline. Turn it off with right-click →
+**Get new words online (daily)**. To publish new words, add entries to that
+file, raise `version` by one and push.
+
 ## Install and run
 
-### Option A: the Windows build (no Python needed)
-1. Download or build the `HangulFlow` folder (see *Build the .exe* below).
-2. Put the folder anywhere you like, e.g. `C:\Users\<you>\Apps\HangulFlow`.
-3. Run `HangulFlow.exe`. To launch it at sign-in, right-click the card → **Start with Windows**.
+### Option A: the installer (recommended, no Python needed)
+1. Run `HangulFlow-Setup-<version>.exe` (see *Build the installer* below).
+   It installs for your Windows account only, so no administrator rights are needed.
+2. Choose whether to add a desktop shortcut and start HangulFlow at sign-in.
+3. Start it from the Start menu. Uninstall from **Settings → Apps**; your words and
+   progress in `%LOCALAPPDATA%\HangulFlow` are kept.
+
+Windows may show "Windows protected your PC" because the installer is not code-signed:
+click **More info → Run anyway**.
 
 ### Option B: from source
 Requires Windows 10/11 and [Python 3.13](https://www.python.org/downloads/) from python.org.
 The Microsoft Store version of Python redirects app data to a private folder, so the python.org version is recommended.
 
 ```powershell
-git clone <this repository> HangulFlow
+git clone https://github.com/amanullah-rao/HangulFlow.git
 cd HangulFlow
 py -3.13 -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
@@ -129,6 +143,7 @@ hangulflow/
   backup.py         daily / manual backups and restore
   presence.py       away / locked / fullscreen detection (Win32)
   startup.py        optional launch at Windows sign-in
+  updater.py        optional daily download of a newer word list
   ui/               desktop card, library window, dialogs, themes, speech, tray
   resources/        curated word list and bundled fonts
 tests/              pytest suite
@@ -143,9 +158,21 @@ tools/              icon and screenshot generators
 dist\HangulFlow\HangulFlow.exe --self-test
 ```
 
-The build is written to `dist\HangulFlow\` (about 90 MB). Copy the whole folder,
-not only the `.exe`. `--self-test` checks the fonts, the database and Korean
-speech, and writes the result to `self-test.txt` in the data folder.
+The build is written to `dist\HangulFlow\` (about 90 MB). `--self-test` checks
+the fonts, the database and Korean speech, and writes the result to
+`self-test.txt` in the data folder.
+
+### Build the installer
+
+Install [Inno Setup 6](https://jrsoftware.org/isinfo.php), build the .exe as above, then:
+
+```powershell
+& "$env:LOCALAPPDATA\Programs\Inno Setup 6\ISCC.exe" installer\hangulflow.iss
+```
+
+This writes `dist\HangulFlow-Setup-<version>.exe` (about 27 MB), a single file
+you can copy to any Windows 10/11 PC. Keep `AppVersion` in the script equal to
+`__version__` in `hangulflow/__init__.py`.
 
 ## License
 

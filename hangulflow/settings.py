@@ -38,6 +38,7 @@ class Settings:
     opacity: float = 0.95
     layer: str = "desktop"
     auto_pause: bool = True  # pause when locked/idle; hide during fullscreen apps
+    auto_update: bool = True  # download newer curated word lists once a day
     x: int | None = None
     y: int | None = None
     width: int = 340
@@ -62,6 +63,7 @@ class Settings:
             else defaults.opacity,
             layer=self.layer if self.layer in LAYERS else defaults.layer,
             auto_pause=bool(self.auto_pause),
+            auto_update=bool(self.auto_update),
             x=self.x if _is_int(self.x) else None,
             y=self.y if _is_int(self.y) else None,
             width=min(MAX_WIDTH, max(MIN_WIDTH, self.width)) if _is_int(self.width) else defaults.width,
