@@ -108,7 +108,7 @@ def test_restore_rejects_damaged_file(repo, tmp_path):
 
 
 def test_example_sentences_rotate(repo):
-    vocab_id = repo.find("노력", "effort, hard work")
+    vocab_id = repo.add_word("시험용", "test word", example_ko="첫째 문장")
     with repo.conn:
         repo.conn.executemany(
             "INSERT INTO examples(vocab_id, ko, en, ur) VALUES (?, ?, ?, ?)",
@@ -118,7 +118,7 @@ def test_example_sentences_rotate(repo):
     for _ in range(4):
         repo.record_view(vocab_id)
         shown.append(repo.get(vocab_id).example_for_display()[0])
-    assert shown == ["노력하면 성공할 수 있어요.", "둘째 문장", "셋째 문장", "노력하면 성공할 수 있어요."]
+    assert shown == ["첫째 문장", "둘째 문장", "셋째 문장", "첫째 문장"]
     repo.delete_word(vocab_id)  # extra sentences go with the word
     assert repo.conn.execute("SELECT COUNT(*) FROM examples WHERE vocab_id = ?", (vocab_id,)).fetchone()[0] == 0
 

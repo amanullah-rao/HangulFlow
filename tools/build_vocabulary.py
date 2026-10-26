@@ -1,4 +1,4 @@
-"""Merge word batches from content/batches/*.txt into the bundled word list.
+"""Build the bundled word list: content/base_vocabulary.json + content/batches/*.txt.
 
     .venv\\Scripts\\python.exe tools\\build_vocabulary.py
 
@@ -11,8 +11,9 @@ Batch format (one item per line, fields separated by "|"):
     # comment
 
 Level: 1 beginner, 2 intermediate, 3 advanced (curated estimates, not official TOPIK levels).
-The list's version goes up by one whenever something changed, so installed apps pick
-it up (bundled on the next build, or downloaded by the daily online check).
+The output is rebuilt from scratch every run, so the tool can be re-run safely. Its
+version goes up by one whenever the result differs from the current file, so installed
+apps pick it up (bundled on the next build, or downloaded by the daily online check).
 """
 
 from __future__ import annotations
@@ -24,6 +25,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SEED = ROOT / "hangulflow" / "resources" / "seed_vocabulary.json"
+BASE = ROOT / "content" / "base_vocabulary.json"
 BATCHES = ROOT / "content" / "batches"
 MIN_SENTENCES = 3
 
@@ -39,10 +41,12 @@ def split(line: str, required: int, total: int, where: str) -> list[str]:
 
 
 def main() -> int:
-    data = json.loads(SEED.read_text(encoding="utf-8"))
+    current_seed = json.loads(SEED.read_text(encoding="utf-8"))
+    data = json.loads(BASE.read_text(encoding="utf-8"))
     entries: list[dict] = data["entries"]
     index = {(e["korean"], e["meaning_en"]): e for e in entries}
-    before = json.dumps(entries, ensure_ascii=False, sort_keys=True)
+    before = json.dumps(current_seed["entries"], ensure_ascii=False, sort_keys=True)
+    data["version"] = int(current_seed["version"])
     warnings: list[str] = []
     seen_new: set[tuple[str, str]] = set()
 
