@@ -1,0 +1,205 @@
+# Counters, units, shapes, materials
++ 명 | 名 | myeong | noun | counter for people | (لوگوں کی گنتی) افراد | Time & Numbers | 1 | Polite: 분. Used with native numbers: 한 명, 두 명.
+> 우리 반 학생은 스무 명이에요. | There are twenty students in our class. | ہماری کلاس میں بیس طالب علم ہیں۔
+> 몇 명이 오세요? | How many people are coming? | کتنے لوگ آ رہے ہیں؟
+> 세 명이 앉을 자리가 있어요? | Is there a table for three? | کیا تین لوگوں کی جگہ ہے؟
++ 마리 |  | mari | noun | counter for animals | (جانوروں کی گنتی) عدد | Time & Numbers | 1 |
+> 우리 집에는 고양이가 두 마리 있어요. | We have two cats at home. | ہمارے گھر میں دو بلیاں ہیں۔
+> 물고기 열 마리를 잡았어요. | I caught ten fish. | میں نے دس مچھلیاں پکڑیں۔
+> 치킨 한 마리 주세요. | One whole chicken, please. | ایک پوری چکن دے دیں۔
++ 권 | 卷 | gwon | noun | counter for books | (کتابوں کی گنتی) جلد | Time & Numbers | 1 |
+> 한 달에 책을 세 권 읽어요. | I read three books a month. | میں مہینے میں تین کتابیں پڑھتا ہوں۔
+> 공책 두 권 주세요. | Two notebooks, please. | دو کاپیاں دے دیں۔
+> 도서관에서 다섯 권까지 빌릴 수 있어요. | You can borrow up to five books from the library. | لائبریری سے پانچ کتابیں تک لی جا سکتی ہیں۔
++ 장 | 張 | jang | noun | counter for flat things (paper, tickets, photos) | (کاغذ، ٹکٹ کی گنتی) عدد | Time & Numbers | 1 |
+> 영화표 두 장 주세요. | Two movie tickets, please. | فلم کے دو ٹکٹ دیں۔
+> 종이 한 장만 빌려줄래요? | Can you lend me one sheet of paper? | ایک کاغذ دے سکتے ہیں؟
+> 사진을 백 장 넘게 찍었어요. | I took over a hundred photos. | میں نے سو سے زیادہ تصویریں کھینچیں۔
++ 병 | 甁 | byeong | noun | bottle; counter for bottles | بوتل | Time & Numbers | 1 | 병 (病) also means "illness".
+> 물 한 병 주세요. | One bottle of water, please. | پانی کی ایک بوتل دیں۔
+> 콜라 두 병을 샀어요. | I bought two bottles of cola. | میں نے کولا کی دو بوتلیں خریدیں۔
+> 빈 병은 재활용하세요. | Recycle empty bottles. | خالی بوتلیں ری سائیکل کریں۔
++ 잔 | 盞 | jan | noun | cup, glass; counter for drinks | کپ، گلاس | Time & Numbers | 1 |
+> 커피 한 잔 할래요? | Do you want a cup of coffee? | ایک کپ کافی پئیں گے؟
+> 하루에 물을 여덟 잔 마셔요. | I drink eight glasses of water a day. | میں دن میں آٹھ گلاس پانی پیتا ہوں۔
+> 차 한 잔의 여유를 즐겨요. | I enjoy the leisure of a cup of tea. | چائے کے ایک کپ کا سکون اٹھاتا ہوں۔
++ 대 | 臺 | dae | noun | counter for vehicles and machines | (گاڑیوں، مشینوں کی گنتی) عدد | Time & Numbers | 1 |
+> 우리 집에는 차가 두 대 있어요. | Our family has two cars. | ہمارے گھر میں دو گاڑیاں ہیں۔
+> 컴퓨터 세 대를 새로 샀어요. | We bought three new computers. | ہم نے تین نئے کمپیوٹر خریدے۔
+> 주차장에 차 열 대를 세울 수 있어요. | Ten cars can park in the lot. | پارکنگ میں دس گاڑیاں کھڑی ہو سکتی ہیں۔
++ 벌 |  | beol | noun | counter for sets of clothes | (کپڑوں کے جوڑے کی گنتی) جوڑا | Time & Numbers | 2 |
+> 정장 한 벌을 샀어요. | I bought a suit. | میں نے ایک سوٹ خریدا۔
+> 여행 갈 때 옷 세 벌을 챙겼어요. | I packed three outfits for the trip. | سفر کے لیے تین جوڑے کپڑے رکھے۔
+> 한복 한 벌은 꽤 비싸요. | A set of hanbok is quite expensive. | ایک ہانبوک کا جوڑا کافی مہنگا ہے۔
++ 켤레 |  | kyeolle | noun | counter for pairs (shoes, socks) | جوڑی (جوتے، موزے) | Time & Numbers | 2 |
+> 운동화 한 켤레를 샀어요. | I bought a pair of sneakers. | میں نے جوگرز کی ایک جوڑی خریدی۔
+> 양말 다섯 켤레에 만 원이에요. | Five pairs of socks for 10,000 won. | پانچ جوڑی موزے دس ہزار وون کے ہیں۔
+> 신발이 열 켤레나 있어요. | I have as many as ten pairs of shoes. | میرے پاس دس جوڑی جوتے ہیں۔
++ 송이 |  | songi | noun | counter for flowers, bunches of fruit | گچھا (پھول، پھل) | Time & Numbers | 2 |
+> 장미 한 송이를 선물했어요. | I gave a single rose as a gift. | میں نے ایک گلاب تحفے میں دیا۔
+> 포도 두 송이 주세요. | Two bunches of grapes, please. | انگور کے دو گچھے دیں۔
+> 꽃 백 송이로 꽃다발을 만들었어요. | I made a bouquet of a hundred flowers. | سو پھولوں کا گلدستہ بنایا۔
++ 그루 |  | geuru | noun | counter for trees | (درختوں کی گنتی) عدد | Time & Numbers | 2 |
+> 정원에 나무 세 그루를 심었어요. | We planted three trees in the garden. | باغ میں تین درخت لگائے۔
+> 마을 입구에 큰 나무 한 그루가 있어요. | There's a big tree at the village entrance. | گاؤں کے داخلی راستے پر ایک بڑا درخت ہے۔
+> 식목일에 나무를 한 그루씩 심어요. | On Arbor Day, everyone plants a tree. | شجرکاری کے دن ہر کوئی ایک درخت لگاتا ہے۔
++ 채 |  | chae | noun | counter for houses, buildings | (مکانوں کی گنتی) عدد | Time & Numbers | 2 |
+> 이 동네에는 집이 열 채 있어요. | There are ten houses in this neighborhood. | اس محلے میں دس گھر ہیں۔
+> 그는 집을 두 채 가지고 있어요. | He owns two houses. | اس کے دو گھر ہیں۔
+> 한옥 한 채를 수리했어요. | We renovated a traditional house. | ہم نے ایک روایتی گھر کی مرمت کی۔
++ 군데 |  | gunde | noun | counter for places | (جگہوں کی گنتی) مقام | Time & Numbers | 2 |
+> 오늘 세 군데를 돌아다녔어요. | I went around to three places today. | آج میں تین جگہوں پر گیا۔
+> 이력서를 다섯 군데에 냈어요. | I submitted my résumé to five places. | میں نے پانچ جگہوں پر سی وی دیا۔
+> 여러 군데 물어봤지만 없었어요. | I asked at several places, but there was none. | کئی جگہ پوچھا مگر نہیں ملا۔
++ 번 | 番 | beon | noun | time (occurrence); number | بار؛ نمبر | Time & Numbers | 1 | 한 번 = once; 1번 (Sino) = number one.
+> 한국에 두 번 가 봤어요. | I've been to Korea twice. | میں دو بار کوریا جا چکا ہوں۔
+> 몇 번 버스를 타요? | Which bus number do you take? | کون سے نمبر کی بس لیتے ہیں؟
+> 한 번만 더 기회를 주세요. | Give me just one more chance. | ایک بار اور موقع دیں۔
++ 층수 | 層數 | cheungsu | noun | number of floors | منزلوں کی تعداد | Time & Numbers | 2 |
+> 이 건물의 층수는 몇 층이에요? | How many floors does this building have? | اس عمارت کی کتنی منزلیں ہیں؟
+> 층수가 높을수록 전망이 좋아요. | The higher the floor, the better the view. | منزل جتنی اونچی، منظر اتنا اچھا۔
+> 아파트 층수 제한이 있어요. | There's a limit on the number of floors for apartments. | اپارٹمنٹ کی منزلوں پر پابندی ہے۔
++ 킬로그램 |  | killogeuraem | noun | kilogram | کلوگرام | Time & Numbers | 1 | Short: 킬로. Also 그램 (gram).
+> 쌀 10킬로그램을 샀어요. | I bought 10 kilograms of rice. | میں نے دس کلو چاول خریدے۔
+> 몸무게가 2킬로 늘었어요. | My weight went up 2 kilos. | میرا وزن دو کلو بڑھ گیا۔
+> 이 가방은 무게가 5킬로그램이에요. | This bag weighs 5 kilograms. | اس بیگ کا وزن پانچ کلوگرام ہے۔
++ 미터 |  | miteo | noun | meter | میٹر | Time & Numbers | 1 | 킬로미터 = kilometer; 센티미터 = centimeter.
+> 키가 1미터 80센티예요. | I'm 1 meter 80 tall. | میرا قد ایک میٹر اسی سینٹی میٹر ہے۔
+> 역까지 500미터 정도 걸어가면 돼요. | It's about a 500-meter walk to the station. | اسٹیشن تک تقریباً پانچ سو میٹر پیدل ہے۔
+> 서울에서 부산까지 400킬로미터예요. | It's 400 kilometers from Seoul to Busan. | سیول سے بوسان چار سو کلومیٹر ہے۔
++ 리터 |  | riteo | noun | liter | لیٹر | Time & Numbers | 1 |
+> 하루에 물을 2리터 마셔요. | I drink 2 liters of water a day. | میں دن میں دو لیٹر پانی پیتا ہوں۔
+> 우유 1리터를 샀어요. | I bought a liter of milk. | میں نے ایک لیٹر دودھ خریدا۔
+> 기름을 30리터 넣었어요. | I put in 30 liters of fuel. | میں نے تیس لیٹر پیٹرول ڈلوایا۔
++ 도 | 度 | do | noun | degree (temperature, angle) | ڈگری | Time & Numbers | 1 |
+> 오늘 기온은 영하 5도예요. | Today's temperature is minus 5 degrees. | آج درجۂ حرارت منفی پانچ ڈگری ہے۔
+> 열이 38도까지 올랐어요. | My fever went up to 38 degrees. | بخار اڑتیس ڈگری تک گیا۔
+> 오븐을 180도로 맞추세요. | Set the oven to 180 degrees. | اوون ایک سو اسی ڈگری پر رکھیں۔
++ 퍼센트 |  | peosenteu | noun | percent | فیصد | Time & Numbers | 2 | Also 프로 (casual).
+> 배터리가 20퍼센트 남았어요. | 20 percent battery left. | بیٹری بیس فیصد رہ گئی ہے۔
+> 전체의 60퍼센트가 찬성했어요. | 60 percent of the total agreed. | کل کا ساٹھ فیصد متفق تھا۔
+> 참가자의 90퍼센트가 만족했어요. | 90 percent of participants were satisfied. | نوے فیصد شرکاء مطمئن تھے۔
++ 배 | 倍 | bae | noun | times (multiplied), -fold | گنا | Time & Numbers | 2 | 두 배 = double.
+> 가격이 두 배로 올랐어요. | The price doubled. | قیمت دگنی ہو گئی۔
+> 서울은 우리 도시보다 열 배 커요. | Seoul is ten times bigger than our city. | سیول ہمارے شہر سے دس گنا بڑا ہے۔
+> 노력을 세 배로 늘렸어요. | I tripled my effort. | میں نے اپنی محنت تین گنا کر دی۔
++ 절반 | 折半 | jeolban | noun | half | آدھا | Time & Numbers | 2 | Also 반.
+> 케이크를 절반으로 나눴어요. | I divided the cake in half. | میں نے کیک آدھا آدھا کیا۔
+> 학생의 절반이 결석했어요. | Half the students were absent. | آدھے طلبہ غیر حاضر تھے۔
+> 일을 절반쯤 끝냈어요. | I've finished about half the work. | تقریباً آدھا کام ہو گیا۔
++ 모양 | 模樣 | moyang | noun | shape, form, appearance | شکل | Common Verbs & Adjectives | 2 | -는 모양이다 = it seems.
+> 하트 모양 케이크를 만들었어요. | I made a heart-shaped cake. | میں نے دل کی شکل کا کیک بنایا۔
+> 구름 모양이 동물 같아요. | The cloud is shaped like an animal. | بادل کی شکل جانور جیسی ہے۔
+> 친구가 바쁜 모양이에요. | It seems my friend is busy. | لگتا ہے دوست مصروف ہے۔
++ 동그랗다 |  | donggeurata | adjective | round, circular | گول | Common Verbs & Adjectives | 2 | ㅎ-irregular: 동그래요. Noun: 동그라미 (circle).
+> 보름달이 동그래요. | The full moon is round. | پورا چاند گول ہے۔
+> 아이가 눈을 동그랗게 떴어요. | The child opened their eyes wide. | بچے نے آنکھیں گول گول کر کے کھولیں۔
+> 정답에 동그라미를 치세요. | Circle the correct answer. | صحیح جواب پر دائرہ لگائیں۔
++ 네모 |  | nemo | noun | square, rectangle | چوکور | Common Verbs & Adjectives | 2 | 세모 = triangle; 네모나다 = square-shaped.
+> 네모난 상자에 선물을 넣었어요. | I put the gift in a square box. | تحفہ چوکور ڈبے میں رکھا۔
+> 세모, 네모, 동그라미를 그려 보세요. | Try drawing a triangle, a square and a circle. | تکون، چوکور اور دائرہ بنائیں۔
+> 이 식탁은 네모 모양이에요. | This table is rectangular. | یہ میز چوکور ہے۔
++ 크기 |  | keugi | noun | size | سائز، حجم | Common Verbs & Adjectives | 2 |
+> 두 가방의 크기가 비슷해요. | The two bags are similar in size. | دونوں بیگوں کا سائز ملتا جلتا ہے۔
+> 크기가 다른 상자들이 있어요. | There are boxes of different sizes. | مختلف سائز کے ڈبے ہیں۔
+> 사진 크기를 줄여 주세요. | Please reduce the photo size. | تصویر کا سائز کم کر دیں۔
++ 길이 |  | giri | noun | length | لمبائی | Common Verbs & Adjectives | 2 |
+> 바지 길이를 줄였어요. | I shortened the pants length. | پتلون کی لمبائی کم کی۔
+> 이 다리의 길이는 1킬로미터예요. | This bridge is one kilometer long. | اس پل کی لمبائی ایک کلومیٹر ہے۔
+> 글의 길이는 600자 이내로 쓰세요. | Write within 600 characters. | چھ سو حروف کے اندر لکھیں۔
++ 무게 |  | muge | noun | weight | وزن | Common Verbs & Adjectives | 2 |
+> 짐 무게가 20킬로를 넘으면 안 돼요. | Luggage must not exceed 20 kilos. | سامان کا وزن بیس کلو سے زیادہ نہیں ہونا چاہیے۔
+> 이 상자의 무게를 재 주세요. | Please weigh this box. | اس ڈبے کا وزن کر دیں۔
+> 책임의 무게를 느꼈어요. | I felt the weight of responsibility. | ذمہ داری کا بوجھ محسوس ہوا۔
++ 높이 |  | nopi | noun | height (of things) | اونچائی | Common Verbs & Adjectives | 2 | Person's height: 키.
+> 이 산의 높이는 1,950미터예요. | This mountain is 1,950 meters high. | اس پہاڑ کی اونچائی انیس سو پچاس میٹر ہے۔
+> 책상 높이를 조절할 수 있어요. | You can adjust the desk height. | میز کی اونچائی بدلی جا سکتی ہے۔
+> 공이 높이 날아갔어요. | The ball flew high. | گیند اونچی اڑ گئی۔
++ 깊이 |  | gipi | noun | depth | گہرائی | Common Verbs & Adjectives | 2 | 깊다 = deep.
+> 이 호수의 깊이는 10미터예요. | This lake is ten meters deep. | اس جھیل کی گہرائی دس میٹر ہے۔
+> 깊이 생각해 보세요. | Think about it deeply. | گہرائی سے سوچیں۔
+> 바다가 깊어서 위험해요. | The sea is deep, so it's dangerous. | سمندر گہرا ہے، خطرناک ہے۔
++ 넓이 |  | neolbi | noun | area, width | رقبہ، چوڑائی | Common Verbs & Adjectives | 2 |
+> 방의 넓이가 얼마예요? | What's the area of the room? | کمرے کا رقبہ کتنا ہے؟
+> 이 공원은 넓이가 축구장 열 개만 해요. | This park is as big as ten soccer fields. | یہ پارک دس فٹبال میدانوں جتنا بڑا ہے۔
+> 넓이를 계산하는 문제예요. | It's a problem calculating area. | یہ رقبہ نکالنے کا سوال ہے۔
++ 나무로 만든 |  | namuro mandeun | expression | made of wood | لکڑی کا بنا | Common Verbs & Adjectives | 2 | Pattern: [material]로 만든 = made of.
+> 나무로 만든 장난감이 안전해요. | Toys made of wood are safe. | لکڑی کے کھلونے محفوظ ہوتے ہیں۔
+> 이 의자는 나무로 만든 거예요. | This chair is made of wood. | یہ کرسی لکڑی کی بنی ہے۔
+> 나무로 만든 집은 따뜻해요. | Wooden houses are warm. | لکڑی کے گھر گرم ہوتے ہیں۔
++ 유리 | 琉璃 | yuri | noun | glass (material) | شیشہ | Common Verbs & Adjectives | 2 |
+> 유리컵이 깨졌어요. | The glass cup broke. | شیشے کا گلاس ٹوٹ گیا۔
+> 창문 유리를 닦았어요. | I cleaned the window glass. | میں نے کھڑکی کا شیشہ صاف کیا۔
+> 유리는 재활용할 수 있어요. | Glass can be recycled. | شیشہ ری سائیکل ہو سکتا ہے۔
++ 금속 | 金屬 | geumsok | noun | metal | دھات | Common Verbs & Adjectives | 2 | 철 = iron; 금 = gold; 은 = silver.
+> 이 젓가락은 금속으로 만들었어요. | These chopsticks are made of metal. | یہ چاپ اسٹکس دھات کی ہیں۔
+> 금속은 전기가 잘 통해요. | Metal conducts electricity well. | دھات میں بجلی اچھی طرح گزرتی ہے۔
+> 금반지를 선물 받았어요. | I received a gold ring as a gift. | مجھے سونے کی انگوٹھی تحفے میں ملی۔
++ 가죽 |  | gajuk | noun | leather | چمڑا | Common Verbs & Adjectives | 2 |
+> 가죽 가방은 오래 써요. | Leather bags last a long time. | چمڑے کے بیگ دیر تک چلتے ہیں۔
+> 가죽 재킷을 샀어요. | I bought a leather jacket. | میں نے چمڑے کی جیکٹ خریدی۔
+> 가죽 제품은 비싸요. | Leather goods are expensive. | چمڑے کی اشیاء مہنگی ہیں۔
++ 면 | 綿 | myeon | noun | cotton | سوتی کپڑا | Common Verbs & Adjectives | 2 | 면 (麵) also = noodles.
+> 이 셔츠는 면 100%예요. | This shirt is 100% cotton. | یہ قمیض سو فیصد سوتی ہے۔
+> 여름에는 면 옷이 시원해요. | Cotton clothes are cool in summer. | گرمیوں میں سوتی کپڑے ٹھنڈے رہتے ہیں۔
+> 면 소재는 피부에 좋아요. | Cotton is good for the skin. | سوتی کپڑا جلد کے لیے اچھا ہے۔
++ 종류 | 種類 | jongnyu | noun | kind, type, sort | قسم | Common Verbs & Adjectives | 2 | 여러 종류 = various kinds.
+> 이 가게에는 여러 종류의 빵이 있어요. | This shop has many kinds of bread. | اس دکان میں کئی قسم کی روٹیاں ہیں۔
+> 무슨 종류의 영화를 좋아해요? | What kind of movies do you like? | آپ کو کس قسم کی فلمیں پسند ہیں؟
+> 김치의 종류는 수백 가지예요. | There are hundreds of kinds of kimchi. | کمچی کی سینکڑوں اقسام ہیں۔
++ 가지 |  | gaji | noun | kind, sort (counter); branch; eggplant | قسم؛ ٹہنی؛ بینگن | Common Verbs & Adjectives | 2 | 여러 가지 = various.
+> 여러 가지 방법을 시도했어요. | I tried various methods. | میں نے مختلف طریقے آزمائے۔
+> 세 가지 이유가 있어요. | There are three reasons. | تین وجوہات ہیں۔
+> 나뭇가지에 새가 앉아 있어요. | A bird is sitting on a branch. | ٹہنی پر ایک پرندہ بیٹھا ہے۔
++ 개수 | 個數 | gaesu | noun | number (of items), count | تعداد | Time & Numbers | 2 |
+> 사과 개수를 세어 보세요. | Count the number of apples. | سیبوں کی تعداد گنیں۔
+> 의자 개수가 부족해요. | There aren't enough chairs. | کرسیوں کی تعداد کم ہے۔
+> 문제 개수가 너무 많아요. | There are too many questions. | سوالوں کی تعداد بہت زیادہ ہے۔
++ 합계 | 合計 | hapgye | noun | total, sum | کل میزان | Time & Numbers | 2 |
+> 합계가 얼마예요? | What's the total? | کل کتنا ہوا؟
+> 점수 합계는 85점이에요. | The total score is 85. | کل نمبر پچاسی ہیں۔
+> 합계를 다시 계산했어요. | I recalculated the total. | میں نے کل دوبارہ گنا۔
++ 평균 | 平均 | pyeonggyun | noun | average | اوسط | Time & Numbers | 2 |
+> 시험 평균 점수가 70점이에요. | The average exam score is 70. | امتحان کا اوسط اسکور ستر ہے۔
+> 한국인의 평균 수명은 83세예요. | Koreans' average life expectancy is 83. | کوریائی لوگوں کی اوسط عمر تراسی سال ہے۔
+> 평균보다 키가 커요. | I'm taller than average. | میرا قد اوسط سے زیادہ ہے۔
++ 숫자 | 數字 | sutja | noun | number, numeral | عدد، ہندسہ | Time & Numbers | 1 |
+> 한국어 숫자는 두 가지가 있어요. | Korean has two number systems. | کورین میں گنتی کے دو نظام ہیں۔
+> 숫자를 크게 써 주세요. | Please write the numbers large. | ہندسے بڑے لکھیں۔
+> 저는 숫자에 약해요. | I'm bad with numbers. | میں حساب میں کمزور ہوں۔
++ 반쯤 | 半- | banjjeum | adverb | about half, halfway | تقریباً آدھا | Time & Numbers | 2 |
+> 책을 반쯤 읽었어요. | I've read about half the book. | میں نے تقریباً آدھی کتاب پڑھ لی۔
+> 문이 반쯤 열려 있어요. | The door is half open. | دروازہ آدھا کھلا ہے۔
+> 반쯤 왔으니까 조금만 더 가요. | We're about halfway, so let's go a bit more. | آدھا راستہ آ گئے، تھوڑا اور چلیں۔
++ 대략 | 大略 | daeryak | adverb | roughly, approximately | تقریباً | Time & Numbers | 2 | Also 약, 대충.
+> 대략 100명쯤 왔어요. | Roughly a hundred people came. | تقریباً سو لوگ آئے۔
+> 대략적인 일정을 알려 주세요. | Please tell me the rough schedule. | تقریبی شیڈول بتائیں۔
+> 거리는 대략 5킬로미터예요. | The distance is about five kilometers. | فاصلہ تقریباً پانچ کلومیٹر ہے۔
++ 약 | 約 | yak | determiner | about, approximately | تقریباً | Time & Numbers | 2 | Same spelling as 약 (藥) "medicine".
+> 서울 인구는 약 천만 명이에요. | Seoul's population is about ten million. | سیول کی آبادی تقریباً ایک کروڑ ہے۔
+> 약 30분 후에 도착합니다. | We'll arrive in about 30 minutes. | تقریباً تیس منٹ میں پہنچیں گے۔
+> 약 두 시간이 걸렸어요. | It took about two hours. | تقریباً دو گھنٹے لگے۔
++ 이상 | 以上 | isang | noun | more than, over; the above | سے زیادہ؛ اوپر بیان کردہ | Time & Numbers | 2 | 이하 = or less. 이상 (異常) = abnormal.
+> 19세 이상만 들어갈 수 있어요. | Only those 19 and over may enter. | صرف انیس سال یا اس سے زیادہ عمر والے داخل ہو سکتے ہیں۔
+> 3만 원 이상 사면 배송이 무료예요. | Shipping is free over 30,000 won. | تیس ہزار وون سے زیادہ پر ترسیل مفت ہے۔
+> 이상으로 발표를 마치겠습니다. | That concludes my presentation. | اسی کے ساتھ میری پریزنٹیشن ختم ہوتی ہے۔
++ 이하 | 以下 | iha | noun | or less, under, below | سے کم | Time & Numbers | 2 |
+> 7세 이하 어린이는 무료예요. | Children 7 and under are free. | سات سال یا اس سے کم عمر بچوں کے لیے مفت ہے۔
+> 기온이 영하 10도 이하로 떨어졌어요. | The temperature fell below minus 10. | درجۂ حرارت منفی دس سے نیچے گر گیا۔
+> 1분 이하로 말해 주세요. | Please speak for a minute or less. | ایک منٹ یا اس سے کم میں بات کریں۔
++ 미만 | 未滿 | miman | noun | less than, under (not including) | سے کم (شامل نہیں) | Time & Numbers | 2 | 초과 = exceeding.
+> 18세 미만은 투표할 수 없어요. | Those under 18 cannot vote. | اٹھارہ سال سے کم عمر والے ووٹ نہیں دے سکتے۔
+> 만 원 미만은 카드 결제가 안 돼요. | Card payment isn't allowed under 10,000 won. | دس ہزار وون سے کم پر کارڈ نہیں چلتا۔
+> 10명 미만이면 수업이 취소됩니다. | The class is canceled if fewer than ten people sign up. | دس سے کم لوگ ہوں تو کلاس منسوخ ہو جائے گی۔
++ 차례로 | 次例- | charyero | adverb | in order, one after another | باری باری | Time & Numbers | 2 |
+> 이름을 차례로 불렀어요. | Names were called in order. | نام باری باری پکارے گئے۔
+> 차례로 줄을 서 주세요. | Please line up in order. | باری باری قطار بنائیں۔
+> 손님들이 차례로 도착했어요. | Guests arrived one after another. | مہمان ایک ایک کر کے آئے۔
++ 첫째 |  | cheotjjae | numeral | first (ordinal) | پہلا | Time & Numbers | 1 | 둘째, 셋째, 넷째 ... Also 첫 번째.
+> 첫째, 매일 단어를 외우세요. | First, memorize words every day. | پہلی بات، روز الفاظ یاد کریں۔
+> 저는 집에서 첫째예요. | I'm the eldest child at home. | میں گھر میں سب سے بڑا ہوں۔
+> 첫째 아들은 군대에 갔어요. | My eldest son went into the military. | میرا بڑا بیٹا فوج میں گیا ہے۔
++ 번째 | 番- | beonjjae | noun | -th (ordinal counter) | ویں (ترتیب) | Time & Numbers | 1 | 첫 번째, 두 번째, 세 번째.
+> 오른쪽에서 두 번째 집이에요. | It's the second house from the right. | دائیں سے دوسرا گھر ہے۔
+> 이번이 세 번째 방문이에요. | This is my third visit. | یہ میرا تیسرا دورہ ہے۔
+> 첫 번째 질문에 대답해 주세요. | Please answer the first question. | پہلے سوال کا جواب دیں۔
