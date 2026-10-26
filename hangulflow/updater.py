@@ -11,6 +11,7 @@ from __future__ import annotations
 import json
 import logging
 import threading
+import urllib.error
 import urllib.request
 from datetime import timedelta
 
@@ -35,6 +36,17 @@ def parse_word_list(raw: bytes) -> dict:
     if not isinstance(data.get("version"), int):
         raise ValueError("word list has no version number")
     return data
+
+
+def describe_error(exc: Exception) -> str:
+    """A short, learner-friendly reason for a failed check."""
+    if isinstance(exc, urllib.error.HTTPError):
+        if exc.code == 404:
+            return "No online word list has been published yet"
+        return f"Update server error ({exc.code})"
+    if isinstance(exc, (urllib.error.URLError, TimeoutError, ConnectionError)):
+        return "No internet connection"
+    return "The online word list could not be read"
 
 
 def download(url: str = WORDS_URL) -> dict:
@@ -79,7 +91,8 @@ class WordUpdater(QObject):
         try:
             self._downloaded.emit(download(self._url), "")
         except Exception as exc:  # network errors, bad JSON, HTTP 404 ... all non-fatal
-            self._downloaded.emit(None, str(exc) or exc.__class__.__name__)
+            log.info("Word list download failed: %r", exc)
+            self._downloaded.emit(None, describe_error(exc))
 
     def _merge(self, data: dict | None, error: str) -> None:
         self._busy = False

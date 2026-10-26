@@ -796,7 +796,7 @@ class VocabWidget(QWidget):
             self.data_changed.emit()
             self._flash_status(f"{added} new words downloaded", seconds=5)
         elif manual:
-            self._flash_status("No internet connection or update server" if error else "Your word list is up to date", seconds=4)
+            self._flash_status(error or "Your word list is up to date", seconds=5)
 
     def open_data_folder(self) -> None:
         QDesktopServices.openUrl(QUrl.fromLocalFile(str(paths.data_dir())))
