@@ -1,0 +1,229 @@
+# Beginner: daily routine, home life, time expressions
++ 오전 | 午前 | ojeon | noun | morning, a.m. | قبل دوپہر | Time & Numbers | 1 |
+> 오전 9시에 회의가 있어요. | There's a meeting at 9 a.m. | صبح نو بجے میٹنگ ہے۔
+> 오전에는 집에 있어요. | I'm at home in the morning. | صبح کے وقت میں گھر پر ہوتا ہوں۔
+> 은행은 오전에 덜 붐벼요. | The bank is less crowded in the morning. | بینک میں صبح کم رش ہوتا ہے۔
++ 오후 | 午後 | ohu | noun | afternoon, p.m. | دوپہر کے بعد | Time & Numbers | 1 |
+> 오후 3시에 만나요. | Let's meet at 3 p.m. | سہ پہر تین بجے ملتے ہیں۔
+> 오후에 비가 온대요. | They say it will rain in the afternoon. | کہتے ہیں دوپہر کے بعد بارش ہوگی۔
+> 오늘 오후에는 수업이 없어요. | I have no classes this afternoon. | آج دوپہر کے بعد کوئی کلاس نہیں۔
++ 밤 |  | bam | noun | night | رات | Time & Numbers | 1 | 밤 also means "chestnut".
+> 어젯밤에 잠을 못 잤어요. | I couldn't sleep last night. | کل رات میں سو نہیں سکا۔
+> 밤에는 위험하니까 조심하세요. | It's dangerous at night, so be careful. | رات کو خطرہ ہوتا ہے، احتیاط کریں۔
+> 밤하늘에 달이 떴어요. | The moon has risen in the night sky. | رات کے آسمان پر چاند نکل آیا۔
++ 매일 | 每日 | maeil | adverb | every day | ہر روز | Time & Numbers | 1 |
+> 매일 한국어를 공부해요. | I study Korean every day. | میں ہر روز کورین پڑھتا ہوں۔
+> 매일 아침 7시에 일어나요. | I get up at 7 every morning. | میں ہر صبح سات بجے اٹھتا ہوں۔
+> 매일 같은 길로 출근해요. | I take the same route to work every day. | میں روز ایک ہی راستے سے دفتر جاتا ہوں۔
++ 요즘 |  | yojeum | noun | these days, lately | آج کل | Time & Numbers | 1 |
+> 요즘 어떻게 지내요? | How are you doing these days? | آج کل کیسے گزر رہی ہے؟
+> 요즘 날씨가 좋아요. | The weather is nice these days. | آج کل موسم اچھا ہے۔
+> 요즘 이 노래가 인기가 많아요. | This song is very popular these days. | آج کل یہ گانا بہت مقبول ہے۔
++ 이번 | -番 | ibeon | noun | this time; this (week, month) | اس بار | Time & Numbers | 1 | 다음 = next, 지난 = last.
+> 이번 주말에 바빠요? | Are you busy this weekend? | کیا اس ہفتے کے آخر میں مصروف ہیں؟
+> 이번에는 꼭 합격할 거예요. | This time I'll definitely pass. | اس بار میں ضرور کامیاب ہوں گا۔
+> 이번 달 월급이 들어왔어요. | This month's salary came in. | اس مہینے کی تنخواہ آ گئی۔
++ 다음 |  | daeum | noun | next | اگلا | Time & Numbers | 1 |
+> 다음 주에 만나요. | See you next week. | اگلے ہفتے ملتے ہیں۔
+> 다음 역은 서울역입니다. | The next station is Seoul Station. | اگلا اسٹیشن سیول اسٹیشن ہے۔
+> 다음에 또 오세요. | Please come again next time. | اگلی بار پھر آئیں۔
++ 지난 |  | jinan | determiner | last, past | پچھلا، گزشتہ | Time & Numbers | 1 | 지난주, 지난달, 작년 (last year).
+> 지난 주말에 뭐 했어요? | What did you do last weekend? | پچھلے ہفتے کے آخر میں کیا کیا؟
+> 지난달에 한국에 왔어요. | I came to Korea last month. | میں پچھلے مہینے کوریا آیا۔
+> 지난 일은 잊어버리세요. | Forget what's past. | جو گزر گیا اسے بھول جائیں۔
++ 동안 |  | dongan | noun | during, for (a period) | دوران، تک | Time & Numbers | 1 |
+> 방학 동안 고향에 있었어요. | I was in my hometown during the vacation. | چھٹیوں کے دوران میں اپنے شہر میں تھا۔
+> 두 시간 동안 기다렸어요. | I waited for two hours. | میں نے دو گھنٹے انتظار کیا۔
+> 오랫동안 연락을 못 했어요. | I couldn't keep in touch for a long time. | بہت عرصے تک رابطہ نہیں ہو سکا۔
++ 전 | 前 | jeon | noun | before, ago | پہلے | Time & Numbers | 1 | -기 전에 = before doing; 3년 전 = 3 years ago.
+> 자기 전에 이를 닦아요. | I brush my teeth before going to bed. | سونے سے پہلے دانت صاف کرتا ہوں۔
+> 3년 전에 한국에 왔어요. | I came to Korea three years ago. | میں تین سال پہلے کوریا آیا۔
+> 출발하기 전에 전화하세요. | Call before you leave. | نکلنے سے پہلے فون کریں۔
++ 후 | 後 | hu | noun | after, later | بعد | Time & Numbers | 1 | -(으)ㄴ 후에 = after doing.
+> 수업이 끝난 후에 만나요. | Let's meet after class. | کلاس کے بعد ملتے ہیں۔
+> 식사 후에 약을 드세요. | Take the medicine after meals. | کھانے کے بعد دوا لیں۔
+> 일주일 후에 결과가 나와요. | The results come out in a week. | ایک ہفتے بعد نتیجہ آئے گا۔
++ 때 |  | ttae | noun | time, when | وقت، جب | Time & Numbers | 1 | -(으)ㄹ 때 = when ...: 어릴 때 = when I was young.
+> 어릴 때 시골에서 살았어요. | I lived in the countryside when I was young. | بچپن میں میں گاؤں میں رہتا تھا۔
+> 시간 있을 때 연락하세요. | Contact me when you have time. | وقت ملے تو رابطہ کریں۔
+> 밥 먹을 때 텔레비전을 봐요. | I watch TV when I eat. | کھانا کھاتے وقت میں ٹی وی دیکھتا ہوں۔
++ 일찍 |  | iljjik | adverb | early | جلدی، سویرے | Time & Numbers | 1 |
+> 내일은 일찍 일어나야 해요. | I have to get up early tomorrow. | کل مجھے جلدی اٹھنا ہے۔
+> 오늘은 일찍 퇴근했어요. | I left work early today. | آج میں دفتر سے جلدی نکلا۔
+> 일찍 자고 일찍 일어나세요. | Go to bed early and get up early. | جلدی سوئیں اور جلدی اٹھیں۔
++ 늦다 |  | neutda | adjective | late | دیر ہونا، دیر سے | Time & Numbers | 1 | Adverb: 늦게. 늦잠 = oversleeping.
+> 늦어서 죄송합니다. | Sorry I'm late. | دیر سے آنے پر معذرت۔
+> 어제 늦게까지 일했어요. | I worked until late yesterday. | کل میں دیر تک کام کرتا رہا۔
+> 지금 출발하면 늦을 거예요. | If you leave now, you'll be late. | ابھی نکلیں تو دیر ہو جائے گی۔
++ 청소하다 | 淸掃- | cheongsohada | verb | to clean | صفائی کرنا | Daily Life in Korea | 1 | Noun: 청소. Vacuum cleaner: 청소기.
+> 주말에 방을 청소해요. | I clean my room on weekends. | ہفتے کے آخر میں کمرے کی صفائی کرتا ہوں۔
+> 청소기를 돌렸어요. | I ran the vacuum cleaner. | میں نے ویکیوم کلینر چلایا۔
+> 손님이 오기 전에 청소했어요. | I cleaned before the guests came. | مہمانوں کے آنے سے پہلے صفائی کی۔
++ 빨래 |  | ppallae | noun | laundry | کپڑے دھونا، دھلائی | Daily Life in Korea | 1 | 빨래하다 = to do the laundry.
+> 오늘 빨래를 해야 해요. | I have to do the laundry today. | آج کپڑے دھونے ہیں۔
+> 빨래가 아직 안 말랐어요. | The laundry isn't dry yet. | کپڑے ابھی تک نہیں سوکھے۔
+> 빨래를 개서 옷장에 넣었어요. | I folded the laundry and put it in the wardrobe. | میں نے کپڑے تہہ کر کے الماری میں رکھ دیے۔
++ 설거지 |  | seolgeoji | noun | washing dishes | برتن دھونا | Daily Life in Korea | 1 | 설거지하다.
+> 밥을 먹고 설거지를 했어요. | After eating, I washed the dishes. | کھانے کے بعد میں نے برتن دھوئے۔
+> 오늘은 제가 설거지할게요. | I'll do the dishes today. | آج برتن میں دھوؤں گا۔
+> 설거지가 산더미처럼 쌓였어요. | The dishes are piled up like a mountain. | برتنوں کا ڈھیر لگ گیا ہے۔
++ 샤워하다 |  | syawohada | verb | to take a shower | نہانا (شاور) | Daily Life in Korea | 1 | Bath: 목욕하다.
+> 운동하고 샤워했어요. | I took a shower after exercising. | ورزش کے بعد میں نے غسل کیا۔
+> 아침에 샤워해요, 저녁에 샤워해요? | Do you shower in the morning or evening? | آپ صبح نہاتے ہیں یا شام کو؟
+> 더워서 하루에 두 번 샤워해요. | It's hot, so I shower twice a day. | گرمی ہے، اس لیے دن میں دو بار نہاتا ہوں۔
++ 이 |  | i | noun | tooth | دانت | Health | 1 | 이를 닦다 = brush teeth. Also 치아 (formal).
+> 밥 먹은 후에 이를 닦아요. | I brush my teeth after eating. | کھانے کے بعد میں دانت صاف کرتا ہوں۔
+> 이가 아파서 치과에 갔어요. | My tooth hurt, so I went to the dentist. | دانت میں درد تھا، اس لیے ڈینٹسٹ کے پاس گیا۔
+> 아이가 이가 빠졌어요. | The child lost a tooth. | بچے کا دانت گر گیا۔
++ 아르바이트 |  | areubaiteu | noun | part-time job | پارٹ ٹائم نوکری | Work & Employment | 1 | Short: 알바.
+> 주말에 카페에서 아르바이트를 해요. | I work part-time at a café on weekends. | ہفتے کے آخر میں کیفے میں پارٹ ٹائم کام کرتا ہوں۔
+> 아르바이트로 학비를 벌어요. | I earn my school fees from a part-time job. | پارٹ ٹائم کام سے فیس کماتا ہوں۔
+> 편의점 아르바이트는 힘들어요. | A convenience-store part-time job is hard. | کنویننس اسٹور کا پارٹ ٹائم کام مشکل ہے۔
++ 직업 | 職業 | jigeop | noun | occupation, job | پیشہ | Work & Employment | 1 |
+> 직업이 뭐예요? | What's your occupation? | آپ کا پیشہ کیا ہے؟
+> 저는 직업으로 번역을 해요. | I work as a translator. | میرا پیشہ ترجمہ ہے۔
+> 직업을 바꾸고 싶어요. | I want to change jobs. | میں اپنا پیشہ بدلنا چاہتا ہوں۔
++ 문자 | 文字 | munja | noun | text message; letters, script | پیغام (ایس ایم ایس)؛ حروف | Media & Technology | 1 | 문자를 보내다 = send a text.
+> 도착하면 문자 보내 주세요. | Text me when you arrive. | پہنچ کر پیغام بھیج دیں۔
+> 문자를 받았는데 누군지 모르겠어요. | I got a text but I don't know who it's from. | پیغام آیا ہے مگر پتا نہیں کس کا ہے۔
+> 한글은 세종대왕이 만든 문자예요. | Hangul is a script created by King Sejong. | ہنگل وہ رسم الخط ہے جو بادشاہ سیجونگ نے بنایا۔
++ 이메일 |  | imeil | noun | email | ای میل | Media & Technology | 1 |
+> 이메일 주소를 알려 주세요. | Please tell me your email address. | اپنا ای میل پتہ بتائیں۔
+> 선생님께 이메일을 보냈어요. | I sent an email to the teacher. | میں نے استاد کو ای میل بھیجی۔
+> 이메일을 확인해 보세요. | Please check your email. | اپنی ای میل دیکھ لیں۔
++ 인터넷 |  | inteonet | noun | internet | انٹرنیٹ | Media & Technology | 1 |
+> 한국은 인터넷이 정말 빨라요. | The internet in Korea is really fast. | کوریا میں انٹرنیٹ واقعی بہت تیز ہے۔
+> 인터넷으로 옷을 샀어요. | I bought clothes online. | میں نے انٹرنیٹ پر کپڑے خریدے۔
+> 여기서 인터넷을 쓸 수 있어요? | Can I use the internet here? | کیا یہاں انٹرنیٹ استعمال کر سکتا ہوں؟
++ 번호 | 番號 | beonho | noun | number | نمبر | Time & Numbers | 1 | 전화번호 = phone number.
+> 전화번호 좀 알려 주세요. | Please tell me your phone number. | اپنا فون نمبر بتائیں۔
+> 몇 번 버스를 타요? | Which bus number do you take? | آپ کون سے نمبر کی بس لیتے ہیں؟
+> 번호표를 뽑고 기다리세요. | Take a number ticket and wait. | نمبر والی پرچی لے کر انتظار کریں۔
++ 주소 | 住所 | juso | noun | address | پتہ | Daily Life in Korea | 1 |
+> 주소가 어떻게 되세요? | What's your address? | آپ کا پتہ کیا ہے؟
+> 택배 주소를 잘못 썼어요. | I wrote the wrong delivery address. | میں نے پارسل کا غلط پتہ لکھ دیا۔
+> 새 주소로 이사했어요. | I moved to a new address. | میں نئے پتے پر منتقل ہو گیا۔
++ 열쇠 |  | yeolsoe | noun | key | چابی | Daily Life in Korea | 1 | Many Korean homes use a door code: 비밀번호.
+> 열쇠를 집에 두고 왔어요. | I left my keys at home. | میں چابی گھر پر بھول آیا۔
+> 이 열쇠로 문을 열 수 있어요. | You can open the door with this key. | اس چابی سے دروازہ کھل جائے گا۔
+> 자동차 열쇠를 잃어버렸어요. | I lost my car keys. | میری گاڑی کی چابی گم ہو گئی۔
++ 지갑 | 紙匣 | jigap | noun | wallet, purse | بٹوا | Daily Life in Korea | 1 |
+> 지갑에 돈이 없어요. | There's no money in my wallet. | بٹوے میں پیسے نہیں ہیں۔
+> 지갑을 잃어버려서 경찰서에 갔어요. | I lost my wallet, so I went to the police station. | بٹوا گم ہو گیا، اس لیے تھانے گیا۔
+> 생일 선물로 지갑을 받았어요. | I got a wallet as a birthday present. | مجھے سالگرہ پر بٹوا تحفے میں ملا۔
++ 안경 | 眼鏡 | angyeong | noun | glasses, spectacles | عینک | Daily Life in Korea | 1 | 안경을 쓰다 = to wear glasses.
+> 안경을 안 쓰면 잘 안 보여요. | I can't see well without glasses. | عینک کے بغیر مجھے ٹھیک سے نظر نہیں آتا۔
+> 새 안경을 맞췄어요. | I got new glasses made. | میں نے نئی عینک بنوائی۔
+> 안경이 어디 있는지 모르겠어요. | I don't know where my glasses are. | پتا نہیں میری عینک کہاں ہے۔
++ 모자 | 帽子 | moja | noun | hat, cap | ٹوپی | Shopping & Money | 1 | 모자를 쓰다 = to wear a hat.
+> 햇빛이 강해서 모자를 썼어요. | The sun was strong, so I wore a hat. | دھوپ تیز تھی، اس لیے میں نے ٹوپی پہنی۔
+> 모자가 잘 어울려요. | The hat suits you well. | ٹوپی آپ پر اچھی لگ رہی ہے۔
+> 바람에 모자가 날아갔어요. | My hat flew away in the wind. | ہوا سے میری ٹوپی اڑ گئی۔
++ 바지 |  | baji | noun | pants, trousers | پتلون | Shopping & Money | 1 | 청바지 = jeans; 치마 = skirt.
+> 이 바지는 좀 길어요. | These pants are a bit long. | یہ پتلون تھوڑی لمبی ہے۔
+> 청바지를 자주 입어요. | I often wear jeans. | میں اکثر جینز پہنتا ہوں۔
+> 바지를 줄여 주실 수 있어요? | Could you shorten these pants? | کیا آپ یہ پتلون چھوٹی کر سکتے ہیں؟
++ 날 |  | nal | noun | day | دن | Time & Numbers | 1 | 어느 날 = one day; 다음 날 = the next day.
+> 오늘은 정말 좋은 날이에요. | Today is a really good day. | آج واقعی اچھا دن ہے۔
+> 비 오는 날에는 집에 있어요. | On rainy days I stay home. | بارش کے دن میں گھر پر رہتا ہوں۔
+> 어느 날 갑자기 연락이 왔어요. | One day, out of the blue, I heard from them. | ایک دن اچانک ان کا رابطہ آیا۔
++ 하루 |  | haru | noun | (one) day; a day's time | ایک دن | Time & Numbers | 1 | 하루 종일 = all day.
+> 하루 종일 비가 왔어요. | It rained all day. | سارا دن بارش ہوتی رہی۔
+> 하루에 몇 시간 자요? | How many hours a day do you sleep? | آپ دن میں کتنے گھنٹے سوتے ہیں؟
+> 오늘 하루도 수고 많으셨어요. | Thank you for your hard work today. | آج کے دن کی محنت کا شکریہ۔
++ 잠 |  | jam | noun | sleep | نیند | Daily Life in Korea | 1 | 잠이 들다 = fall asleep; 늦잠 = sleeping in.
+> 어젯밤에 잠이 안 왔어요. | I couldn't fall asleep last night. | کل رات نیند نہیں آئی۔
+> 늦잠을 자서 지각했어요. | I overslept and was late. | دیر تک سونے کی وجہ سے مجھے دیر ہو گئی۔
+> 잠을 충분히 자야 건강해요. | You have to get enough sleep to be healthy. | صحت مند رہنے کے لیے پوری نیند ضروری ہے۔
++ 꿈 |  | kkum | noun | dream | خواب | Daily Life in Korea | 1 | 꿈을 꾸다 = to dream.
+> 어젯밤에 이상한 꿈을 꿨어요. | I had a strange dream last night. | کل رات میں نے ایک عجیب خواب دیکھا۔
+> 제 꿈은 한국에서 일하는 거예요. | My dream is to work in Korea. | میرا خواب کوریا میں کام کرنا ہے۔
+> 꿈을 포기하지 마세요. | Don't give up on your dreams. | اپنے خواب مت چھوڑیں۔
++ 이야기 |  | iyagi | noun | story, talk | کہانی، بات | Daily Life in Korea | 1 | Short: 얘기. 이야기하다 = to talk.
+> 재미있는 이야기를 들었어요. | I heard an interesting story. | میں نے ایک دلچسپ کہانی سنی۔
+> 친구와 오래 이야기했어요. | I talked with a friend for a long time. | میں نے دوست سے کافی دیر بات کی۔
+> 그 이야기는 나중에 해요. | Let's talk about that later. | وہ بات بعد میں کرتے ہیں۔
++ 말 |  | mal | noun | words, speech, language; horse | بات، الفاظ؛ گھوڑا | Daily Life in Korea | 1 | Honorific: 말씀. 한국말 = Korean language.
+> 제 말을 잘 들어 보세요. | Listen to what I say carefully. | میری بات غور سے سنیں۔
+> 한국말을 잘하시네요. | You speak Korean well. | آپ اچھی کورین بولتے ہیں۔
+> 제주도에서 말을 탔어요. | I rode a horse on Jeju Island. | میں نے جیجو جزیرے پر گھڑ سواری کی۔
++ 소리 |  | sori | noun | sound, noise; voice | آواز | Daily Life in Korea | 1 |
+> 이상한 소리가 들려요. | I hear a strange sound. | عجیب سی آواز آ رہی ہے۔
+> 텔레비전 소리를 줄여 주세요. | Please turn down the TV sound. | ٹی وی کی آواز کم کر دیں۔
+> 새소리를 들으면 기분이 좋아요. | Hearing birdsong puts me in a good mood. | پرندوں کی آواز سن کر موڈ اچھا ہو جاتا ہے۔
++ 기분 | 氣分 | gibun | noun | mood, feeling | موڈ، طبیعت | Emotions & Relationships | 1 | 기분이 좋다/나쁘다.
+> 오늘 기분이 어때요? | How are you feeling today? | آج آپ کا موڈ کیسا ہے؟
+> 칭찬을 들어서 기분이 좋아요. | I'm in a good mood because I got praised. | تعریف سن کر طبیعت خوش ہو گئی۔
+> 기분 나쁘게 생각하지 마세요. | Please don't take it badly. | برا مت مانیے۔
++ 마음 |  | maeum | noun | heart, mind, feelings | دل، من | Emotions & Relationships | 1 | 마음에 들다 = to like (something).
+> 이 옷이 마음에 들어요. | I like these clothes. | یہ کپڑے مجھے پسند آئے۔
+> 마음이 따뜻한 사람이에요. | They are a warm-hearted person. | وہ نرم دل انسان ہیں۔
+> 제 마음을 알아줘서 고마워요. | Thank you for understanding how I feel. | میرے جذبات سمجھنے کا شکریہ۔
++ 걱정 |  | geokjeong | noun | worry | فکر، پریشانی | Emotions & Relationships | 1 | 걱정하다 = to worry. 걱정 마세요 = Don't worry.
+> 걱정하지 마세요. 잘될 거예요. | Don't worry. It'll go well. | فکر نہ کریں، سب ٹھیک ہو جائے گا۔
+> 시험 걱정 때문에 잠을 못 자요. | I can't sleep because I'm worried about the exam. | امتحان کی فکر میں نیند نہیں آتی۔
+> 부모님이 제 걱정을 많이 하세요. | My parents worry about me a lot. | والدین کو میری بہت فکر رہتی ہے۔
++ 약속 | 約束 | yaksok | noun | promise; appointment, plans | وعدہ؛ ملاقات کا وقت | Daily Life in Korea | 1 | 약속이 있다 = to have plans.
+> 오늘 저녁에 약속이 있어요. | I have plans this evening. | آج شام میری ایک ملاقات ہے۔
+> 약속을 꼭 지킬게요. | I'll definitely keep my promise. | میں اپنا وعدہ ضرور نبھاؤں گا۔
+> 약속 시간에 늦었어요. | I was late for our appointment. | میں ملاقات کے وقت پر دیر سے پہنچا۔
++ 결혼 | 結婚 | gyeolhon | noun | marriage, wedding | شادی | Family & People | 1 | 결혼하다; 결혼식 = wedding ceremony.
+> 언제 결혼했어요? | When did you get married? | آپ کی شادی کب ہوئی؟
+> 다음 달에 친구 결혼식이 있어요. | My friend's wedding is next month. | اگلے مہینے دوست کی شادی ہے۔
+> 결혼 축하해요! | Congratulations on your wedding! | شادی مبارک ہو!
++ 축하하다 | 祝賀- | chukahada | verb | to congratulate | مبارکباد دینا | Basics & Greetings | 1 |
+> 생일 축하해요! | Happy birthday! | سالگرہ مبارک!
+> 졸업을 축하합니다. | Congratulations on your graduation. | فراغت پر مبارکباد۔
+> 친구들이 합격을 축하해 줬어요. | My friends congratulated me on passing. | دوستوں نے کامیابی پر مجھے مبارکباد دی۔
++ 초대하다 | 招待- | chodaehada | verb | to invite | دعوت دینا | Daily Life in Korea | 1 | 초대장 = invitation card.
+> 친구를 집에 초대했어요. | I invited a friend to my house. | میں نے دوست کو گھر بلایا۔
+> 결혼식에 초대해 주셔서 감사합니다. | Thank you for inviting me to the wedding. | شادی پر بلانے کا شکریہ۔
+> 생일 파티에 누구를 초대할 거예요? | Who will you invite to the birthday party? | سالگرہ پر کس کو بلائیں گے؟
++ 인사하다 | 人事- | insahada | verb | to greet | سلام کرنا | Basics & Greetings | 1 | Noun: 인사. Koreans bow when greeting.
+> 아침에 이웃에게 인사했어요. | I greeted my neighbor in the morning. | صبح میں نے پڑوسی کو سلام کیا۔
+> 새로 온 직원이 인사하러 왔어요. | The new employee came to say hello. | نیا ملازم سلام کرنے آیا۔
+> 어른께는 고개를 숙여서 인사해요. | We bow our heads to greet elders. | بزرگوں کو سر جھکا کر سلام کرتے ہیں۔
++ 소개하다 | 紹介- | sogaehada | verb | to introduce | تعارف کرانا | Basics & Greetings | 1 | 자기소개 = self-introduction.
+> 제 친구를 소개할게요. | Let me introduce my friend. | میں اپنے دوست کا تعارف کراتا ہوں۔
+> 자기소개를 해 주세요. | Please introduce yourself. | اپنا تعارف کرائیں۔
+> 좋은 식당을 소개해 줘서 고마워요. | Thanks for recommending a good restaurant. | اچھا ریستوران بتانے کا شکریہ۔
++ 연락하다 | 連絡- | yeollakhada | verb | to contact, to get in touch | رابطہ کرنا | Daily Life in Korea | 1 | Noun: 연락. 연락처 = contact details.
+> 시간 나면 연락하세요. | Get in touch when you have time. | وقت ملے تو رابطہ کریں۔
+> 오랫동안 연락이 없었어요. | I hadn't heard from them in a long time. | بہت دنوں سے کوئی رابطہ نہیں تھا۔
+> 연락처를 알려 주세요. | Please give me your contact details. | اپنا رابطہ نمبر دیں۔
++ 준비하다 | 準備- | junbihada | verb | to prepare, to get ready | تیاری کرنا | Daily Life in Korea | 1 | Noun: 준비.
+> 시험을 준비하고 있어요. | I'm preparing for an exam. | میں امتحان کی تیاری کر رہا ہوں۔
+> 저녁 준비 다 됐어요. | Dinner is all ready. | رات کا کھانا تیار ہے۔
+> 여행 준비로 바빠요. | I'm busy getting ready for the trip. | سفر کی تیاری میں مصروف ہوں۔
++ 사용하다 | 使用- | sayonghada | verb | to use | استعمال کرنا | Daily Life in Korea | 1 | Casual: 쓰다.
+> 이 컴퓨터를 사용해도 돼요? | May I use this computer? | کیا میں یہ کمپیوٹر استعمال کر سکتا ہوں؟
+> 사용 방법을 알려 주세요. | Please tell me how to use it. | اسے استعمال کرنے کا طریقہ بتائیں۔
+> 회의실은 지금 사용 중이에요. | The meeting room is in use now. | میٹنگ روم اس وقت استعمال میں ہے۔
++ 이용하다 | 利用- | iyonghada | verb | to use (a service, facility) | فائدہ اٹھانا، استعمال کرنا | Daily Life in Korea | 1 |
+> 지하철을 이용해서 출근해요. | I use the subway to commute. | میں دفتر جانے کے لیے میٹرو استعمال کرتا ہوں۔
+> 도서관은 누구나 이용할 수 있어요. | Anyone can use the library. | لائبریری ہر کوئی استعمال کر سکتا ہے۔
+> 이용해 주셔서 감사합니다. | Thank you for using our service. | ہماری سروس استعمال کرنے کا شکریہ۔
++ 가지다 |  | gajida | verb | to have, to hold, to take | رکھنا، پاس ہونا | Common Verbs & Adjectives | 1 | 가지고 오다/가다 = bring/take (short: 가져오다).
+> 우산 가지고 왔어요? | Did you bring an umbrella? | چھتری لائے ہیں؟
+> 이 책을 가져도 돼요? | May I keep this book? | کیا یہ کتاب رکھ سکتا ہوں؟
+> 여권을 꼭 가지고 가세요. | Be sure to take your passport. | پاسپورٹ ضرور ساتھ لے جائیں۔
++ 놓다 |  | nota | verb | to put, to place | رکھنا | Common Verbs & Adjectives | 1 | 놓고 오다 = to leave behind.
+> 가방을 의자 위에 놓으세요. | Put your bag on the chair. | بیگ کرسی پر رکھیں۔
+> 휴대폰을 책상에 놓고 왔어요. | I left my phone on the desk. | فون میز پر چھوڑ آیا۔
+> 꽃병을 창가에 놓았어요. | I placed the vase by the window. | میں نے گلدان کھڑکی کے پاس رکھا۔
++ 들다 |  | deulda | verb | to hold, to lift; to cost; to enter | اٹھانا، پکڑنا؛ (خرچ) آنا | Common Verbs & Adjectives | 1 | ㄹ-irregular. 돈이 들다 = to cost money. 마음에 들다 = to like.
+> 무거운 가방을 들었어요. | I lifted a heavy bag. | میں نے بھاری بیگ اٹھایا۔
+> 여행에 돈이 많이 들었어요. | The trip cost a lot. | سفر پر بہت پیسے لگے۔
+> 이 신발이 마음에 들어요. | I like these shoes. | یہ جوتے مجھے پسند آئے۔
++ 배달하다 | 配達- | baedalhada | verb | to deliver | ڈیلیوری کرنا | Daily Life in Korea | 1 | 배달시키다 = to have something delivered.
+> 피자를 배달시켰어요. | I had pizza delivered. | میں نے پیزا منگوایا۔
+> 이 식당은 배달 안 해요. | This restaurant doesn't deliver. | یہ ریستوران ڈیلیوری نہیں کرتا۔
+> 우유를 집까지 배달해 줘요. | They deliver milk to my home. | وہ دودھ گھر تک پہنچاتے ہیں۔
++ 쓰레기 |  | sseuregi | noun | trash, garbage | کچرا | Daily Life in Korea | 1 | 쓰레기를 버리다 = throw away trash.
+> 쓰레기를 버리러 나갔어요. | I went out to take out the trash. | میں کچرا پھینکنے باہر گیا۔
+> 길에 쓰레기를 버리지 마세요. | Don't litter on the street. | سڑک پر کچرا نہ پھینکیں۔
+> 쓰레기봉투를 사야 해요. | I need to buy trash bags. | مجھے کچرے کے تھیلے خریدنے ہیں۔
++ 버리다 |  | beorida | verb | to throw away; (-아/어 버리다) to end up doing completely | پھینکنا؛ (کام) ختم کر ڈالنا | Daily Life in Korea | 1 | 먹어 버렸다 = ate it all up (with a sense of finality).
+> 오래된 옷을 버렸어요. | I threw away old clothes. | میں نے پرانے کپڑے پھینک دیے۔
+> 동생이 케이크를 다 먹어 버렸어요. | My younger sibling ate up the whole cake. | چھوٹا بھائی سارا کیک کھا گیا۔
+> 나쁜 습관을 버리고 싶어요. | I want to get rid of my bad habits. | میں اپنی بری عادتیں چھوڑنا چاہتا ہوں۔

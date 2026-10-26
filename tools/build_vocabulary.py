@@ -2,7 +2,7 @@
 
     .venv\\Scripts\\python.exe tools\\build_vocabulary.py
 
-Batch format (one item per line, fields separated by " | "):
+Batch format (one item per line, fields separated by "|"):
 
     + korean | hanja | romanization | part of speech | English | Urdu | category | level | notes
     > Korean sentence | English | Urdu          (3 or more per word; the first is the main example)
@@ -30,7 +30,9 @@ MIN_SENTENCES = 3
 
 def split(line: str, required: int, total: int, where: str) -> list[str]:
     """The fields after the marker character, padded with "" to `total`."""
-    parts = [p.strip() for p in line[1:].split(" | ")]
+    parts = [p.strip() for p in line[1:].split("|")]
+    while len(parts) > total and not parts[-1]:
+        parts.pop()
     if not required <= len(parts) <= total:
         raise SystemExit(f"{where}: expected {required}-{total} fields, got {len(parts)}: {line!r}")
     return parts + [""] * (total - len(parts))

@@ -1,0 +1,237 @@
+# Beginner: body, health, shopping, transport
++ 몸 |  | mom | noun | body | جسم | Health | 1 | 몸이 안 좋다 = to feel unwell.
+> 요즘 몸이 안 좋아요. | I haven't been feeling well lately. | آج کل طبیعت ٹھیک نہیں ہے۔
+> 운동을 하면 몸이 건강해져요. | Exercise makes your body healthy. | ورزش سے جسم صحت مند ہوتا ہے۔
+> 몸조심하세요. | Take care of yourself. | اپنا خیال رکھیں۔
++ 머리 |  | meori | noun | head; hair | سر؛ بال | Health | 1 | 머리가 좋다 = to be smart. Hair specifically: 머리카락.
+> 머리가 너무 아파요. | My head really hurts. | میرے سر میں بہت درد ہے۔
+> 미용실에서 머리를 잘랐어요. | I got my hair cut at the salon. | میں نے سیلون میں بال کٹوائے۔
+> 그 학생은 머리가 좋아요. | That student is smart. | وہ طالب علم ذہین ہے۔
++ 얼굴 |  | eolgul | noun | face | چہرہ | Health | 1 |
+> 얼굴이 빨개졌어요. | My face turned red. | میرا چہرہ سرخ ہو گیا۔
+> 아침에 얼굴을 씻어요. | I wash my face in the morning. | میں صبح منہ دھوتا ہوں۔
+> 얼굴 보니까 반가워요. | It's good to see your face. | آپ کو دیکھ کر خوشی ہوئی۔
++ 코 |  | ko | noun | nose | ناک | Health | 1 | 콧물 = runny nose.
+> 감기 때문에 코가 막혔어요. | My nose is blocked because of a cold. | زکام کی وجہ سے ناک بند ہے۔
+> 콧물이 계속 나요. | My nose keeps running. | ناک مسلسل بہ رہی ہے۔
+> 그 아이는 코가 엄마를 닮았어요. | That child's nose looks like their mother's. | اس بچے کی ناک ماں جیسی ہے۔
++ 입 |  | ip | noun | mouth | منہ | Health | 1 |
+> 입을 크게 벌리세요. | Open your mouth wide. | منہ کھولیں۔
+> 음식을 입에 넣고 말하지 마세요. | Don't talk with food in your mouth. | منہ میں کھانا ڈال کر بات نہ کریں۔
+> 입이 심심해서 과자를 먹어요. | I'm snacking because my mouth is bored. | منہ چلانے کو دل کر رہا ہے، اس لیے بسکٹ کھا رہا ہوں۔
++ 귀 |  | gwi | noun | ear | کان | Health | 1 |
+> 귀가 아파서 병원에 갔어요. | My ear hurt, so I went to the hospital. | کان میں درد تھا، اس لیے ہسپتال گیا۔
+> 할아버지는 귀가 잘 안 들리세요. | Grandpa can't hear well. | دادا جان کو کم سنائی دیتا ہے۔
+> 이어폰을 귀에 꽂았어요. | I put the earphones in my ears. | میں نے ایئرفون کانوں میں لگائے۔
++ 손 |  | son | noun | hand | ہاتھ | Health | 1 | 손님 (guest) contains a different 손.
+> 손을 깨끗이 씻으세요. | Wash your hands thoroughly. | ہاتھ اچھی طرح دھوئیں۔
+> 손을 들고 질문하세요. | Raise your hand and ask. | ہاتھ اٹھا کر سوال کریں۔
+> 아이의 손을 잡고 길을 건넜어요. | I held the child's hand and crossed the street. | میں نے بچے کا ہاتھ پکڑ کر سڑک پار کی۔
++ 발 |  | bal | noun | foot | پاؤں | Health | 1 |
+> 많이 걸어서 발이 아파요. | My feet hurt from walking a lot. | زیادہ چلنے سے پاؤں میں درد ہے۔
+> 발 사이즈가 어떻게 되세요? | What's your shoe size? | آپ کے پاؤں کا سائز کیا ہے؟
+> 발을 조심하세요. | Watch your step. | قدم سنبھال کر رکھیں۔
++ 다리 |  | dari | noun | leg; bridge | ٹانگ؛ پل | Health | 1 | Same word for "leg" and "bridge".
+> 축구하다가 다리를 다쳤어요. | I hurt my leg playing soccer. | فٹبال کھیلتے ہوئے ٹانگ پر چوٹ لگی۔
+> 오래 서 있어서 다리가 아파요. | My legs hurt from standing a long time. | دیر تک کھڑے رہنے سے ٹانگیں دکھ رہی ہیں۔
+> 한강에는 다리가 많아요. | There are many bridges over the Han River. | دریائے ہان پر بہت سے پل ہیں۔
++ 배 |  | bae | noun | stomach, belly; boat; pear | پیٹ؛ کشتی؛ ناشپاتی | Health | 1 | One spelling, three meanings.
+> 배가 아파요. | My stomach hurts. | میرے پیٹ میں درد ہے۔
+> 배를 타고 섬에 갔어요. | We took a boat to the island. | ہم کشتی میں جزیرے پر گئے۔
+> 한국 배는 크고 달아요. | Korean pears are big and sweet. | کوریائی ناشپاتی بڑی اور میٹھی ہوتی ہے۔
++ 감기 | 感氣 | gamgi | noun | cold (illness) | زکام | Health | 1 | 감기에 걸리다 = to catch a cold.
+> 감기에 걸렸어요. | I caught a cold. | مجھے زکام ہو گیا۔
+> 감기 조심하세요. | Be careful not to catch a cold. | زکام سے بچیں۔
+> 감기약을 먹고 잤어요. | I took cold medicine and slept. | میں زکام کی دوا لے کر سو گیا۔
++ 약 | 藥 | yak | noun | medicine | دوا | Health | 1 | 약을 먹다 = take medicine. 약 (約) also means "about, approximately".
+> 하루에 세 번 약을 드세요. | Take the medicine three times a day. | دن میں تین بار دوا لیں۔
+> 이 약은 식후에 먹어요. | This medicine is taken after meals. | یہ دوا کھانے کے بعد لی جاتی ہے۔
+> 약을 먹었더니 좀 괜찮아졌어요. | I took medicine and feel a bit better. | دوا لینے سے کچھ بہتر محسوس ہو رہا ہے۔
++ 운동 | 運動 | undong | noun | exercise, sports | ورزش، کھیل | Hobbies & Leisure | 1 | 운동하다. 운동화 = sneakers.
+> 매일 아침 운동을 해요. | I exercise every morning. | میں ہر صبح ورزش کرتا ہوں۔
+> 무슨 운동을 좋아해요? | What sports do you like? | آپ کو کون سا کھیل پسند ہے؟
+> 운동 부족으로 살이 쪘어요. | I gained weight from lack of exercise. | ورزش کی کمی سے وزن بڑھ گیا۔
++ 키 |  | ki | noun | height; key (on a keyboard) | قد | Health | 1 | 키가 크다 = to be tall.
+> 키가 몇이에요? | How tall are you? | آپ کا قد کتنا ہے؟
+> 동생이 저보다 키가 커요. | My younger sibling is taller than me. | چھوٹا بھائی مجھ سے لمبا ہے۔
+> 아이가 1년 동안 키가 많이 컸어요. | The child grew a lot taller in a year. | ایک سال میں بچے کا قد کافی بڑھ گیا۔
++ 살 |  | sal | noun | flesh, fat; years of age | گوشت، چربی؛ سال (عمر) | Health | 1 | 살이 찌다 = gain weight; 살을 빼다 = lose weight; 스무 살 = 20 years old.
+> 요즘 살이 쪘어요. | I've gained weight recently. | آج کل میرا وزن بڑھ گیا ہے۔
+> 살을 빼려고 운동해요. | I exercise to lose weight. | وزن کم کرنے کے لیے ورزش کرتا ہوں۔
+> 저는 스물다섯 살이에요. | I'm twenty-five years old. | میں پچیس سال کا ہوں۔
++ 가격 | 價格 | gagyeok | noun | price | قیمت | Shopping & Money | 1 | Casual: 값.
+> 가격이 얼마예요? | What's the price? | قیمت کیا ہے؟
+> 가격이 좀 비싸네요. | The price is a bit high. | قیمت تھوڑی زیادہ ہے۔
+> 두 가게의 가격을 비교했어요. | I compared the prices at two shops. | میں نے دو دکانوں کی قیمتوں کا موازنہ کیا۔
++ 원 | 圓 | won | noun | won (Korean currency) | وون (کوریائی کرنسی) | Shopping & Money | 1 | Sino numbers: 만 원 (10,000 won), 천 원 (1,000 won).
+> 이 커피는 사천오백 원이에요. | This coffee is 4,500 won. | یہ کافی ساڑھے چار ہزار وون کی ہے۔
+> 만 원짜리 지폐가 있어요? | Do you have a 10,000-won bill? | کیا آپ کے پاس دس ہزار وون کا نوٹ ہے؟
+> 교통비가 한 달에 6만 원 들어요. | Transport costs 60,000 won a month. | ٹرانسپورٹ پر مہینے میں ساٹھ ہزار وون لگتے ہیں۔
++ 카드 |  | kadeu | noun | card (credit card, etc.) | کارڈ | Shopping & Money | 1 | 카드로 계산하다 = pay by card. 현금 = cash.
+> 카드로 계산할게요. | I'll pay by card. | میں کارڈ سے ادائیگی کروں گا۔
+> 카드 결제가 돼요? | Can I pay by card? | کیا کارڈ سے ادائیگی ہو سکتی ہے؟
+> 교통카드를 충전해야 해요. | I need to top up my transport card. | مجھے ٹرانسپورٹ کارڈ ریچارج کرنا ہے۔
++ 현금 | 現金 | hyeongeum | noun | cash | نقد رقم | Shopping & Money | 1 |
+> 현금으로 내도 돼요? | May I pay in cash? | کیا نقد ادائیگی کر سکتا ہوں؟
+> 요즘은 현금을 잘 안 써요. | I rarely use cash these days. | آج کل میں نقدی کم استعمال کرتا ہوں۔
+> 시장에서는 현금이 편해요. | Cash is convenient at the market. | بازار میں نقدی آسان رہتی ہے۔
++ 계산하다 | 計算- | gyesanhada | verb | to pay (the bill); to calculate | بل ادا کرنا؛ حساب کرنا | Shopping & Money | 1 | 계산서 = bill. 계산대 = checkout counter.
+> 계산은 어디에서 해요? | Where do I pay? | ادائیگی کہاں کروں؟
+> 오늘은 제가 계산할게요. | I'll pay today. | آج بل میں دوں گا۔
+> 계산이 틀린 것 같아요. | I think the calculation is wrong. | لگتا ہے حساب غلط ہے۔
++ 깎다 |  | kkakda | verb | to give a discount, to bargain; to peel; to cut (grass, hair) | قیمت کم کرنا؛ چھیلنا | Shopping & Money | 1 | 좀 깎아 주세요 = please give me a discount.
+> 조금만 깎아 주세요. | Please give me a little discount. | تھوڑی رعایت کر دیں۔
+> 사과를 깎아서 먹었어요. | I peeled an apple and ate it. | میں نے سیب چھیل کر کھایا۔
+> 아버지가 잔디를 깎으셨어요. | My father mowed the lawn. | ابو نے گھاس کاٹی۔
++ 바꾸다 |  | bakkuda | verb | to change, to exchange | بدلنا، تبدیل کرنا | Shopping & Money | 1 | Intransitive: 바뀌다.
+> 이 옷을 큰 사이즈로 바꿔 주세요. | Please exchange these clothes for a bigger size. | یہ کپڑے بڑے سائز سے بدل دیں۔
+> 비밀번호를 바꿨어요. | I changed my password. | میں نے اپنا پاس ورڈ بدل دیا۔
+> 달러를 원으로 바꾸고 싶어요. | I'd like to change dollars into won. | میں ڈالر کو وون میں بدلنا چاہتا ہوں۔
++ 백화점 | 百貨店 | baekhwajeom | noun | department store | ڈیپارٹمنٹ اسٹور | Shopping & Money | 1 |
+> 백화점에서 세일을 해요. | There's a sale at the department store. | ڈیپارٹمنٹ اسٹور میں سیل لگی ہے۔
+> 백화점은 비싸지만 품질이 좋아요. | Department stores are expensive but the quality is good. | ڈیپارٹمنٹ اسٹور مہنگا ہے مگر معیار اچھا ہے۔
+> 백화점 지하에 식품 매장이 있어요. | There's a food hall in the department store basement. | ڈیپارٹمنٹ اسٹور کے تہہ خانے میں کھانے پینے کی دکانیں ہیں۔
++ 마트 |  | mateu | noun | supermarket, (big) mart | سپر مارکیٹ | Shopping & Money | 1 |
+> 마트에서 장을 봤어요. | I did the grocery shopping at the supermarket. | میں نے سپر مارکیٹ سے سودا خریدا۔
+> 마트는 밤 11시까지 해요. | The supermarket is open until 11 p.m. | سپر مارکیٹ رات گیارہ بجے تک کھلی رہتی ہے۔
+> 마트에 가서 우유 좀 사 올래요? | Will you go to the supermarket and buy some milk? | سپر مارکیٹ جا کر دودھ لے آئیں گے؟
++ 사이즈 |  | saijeu | noun | size | سائز | Shopping & Money | 1 | Also 크기 (native).
+> 더 큰 사이즈 있어요? | Do you have a bigger size? | کیا اس سے بڑا سائز ہے؟
+> 사이즈가 딱 맞아요. | The size fits perfectly. | سائز بالکل ٹھیک ہے۔
+> 신발 사이즈는 270이에요. | My shoe size is 270. | میرے جوتے کا سائز 270 ہے۔
++ 색깔 | 色- | saekkal | noun | color | رنگ | Shopping & Money | 1 | Also 색.
+> 무슨 색깔을 좋아해요? | What color do you like? | آپ کو کون سا رنگ پسند ہے؟
+> 다른 색깔도 있어요? | Do you have other colors? | کیا اور رنگ بھی ہیں؟
+> 가을에는 나뭇잎 색깔이 바뀌어요. | In autumn, the leaves change color. | خزاں میں پتوں کا رنگ بدل جاتا ہے۔
++ 버스 |  | beoseu | noun | bus | بس | Travel & Transportation | 1 | 정류장 = bus stop.
+> 버스를 타고 학교에 가요. | I go to school by bus. | میں بس سے اسکول جاتا ہوں۔
+> 이 버스는 시청에 가요? | Does this bus go to City Hall? | کیا یہ بس سٹی ہال جاتی ہے؟
+> 버스가 늦게 와서 지각했어요. | The bus came late, so I was late. | بس دیر سے آئی، اس لیے مجھے دیر ہو گئی۔
++ 지하철 | 地下鐵 | jihacheol | noun | subway | میٹرو | Travel & Transportation | 1 |
+> 지하철이 가장 빨라요. | The subway is the fastest. | میٹرو سب سے تیز ہے۔
+> 지하철 2호선을 타세요. | Take subway line 2. | میٹرو کی لائن نمبر دو لیں۔
+> 출근 시간에는 지하철이 복잡해요. | The subway is crowded during rush hour. | دفتر جانے کے وقت میٹرو میں رش ہوتا ہے۔
++ 택시 |  | taeksi | noun | taxi | ٹیکسی | Travel & Transportation | 1 |
+> 늦어서 택시를 탔어요. | I was late, so I took a taxi. | دیر ہو رہی تھی، اس لیے ٹیکسی لی۔
+> 택시 정류장이 어디예요? | Where is the taxi stand? | ٹیکسی اسٹینڈ کہاں ہے؟
+> 기사님, 공항으로 가 주세요. | Driver, to the airport, please. | ڈرائیور صاحب، ایئرپورٹ چلیں۔
++ 기차 | 汽車 | gicha | noun | train | ٹرین، ریل گاڑی | Travel & Transportation | 1 | High-speed train: KTX.
+> 기차를 타고 부산에 갔어요. | I took the train to Busan. | میں ٹرین سے بوسان گیا۔
+> 기차 여행을 좋아해요. | I like traveling by train. | مجھے ٹرین کا سفر پسند ہے۔
+> 기차가 10분 늦게 출발했어요. | The train left ten minutes late. | ٹرین دس منٹ دیر سے روانہ ہوئی۔
++ 비행기 | 飛行機 | bihaenggi | noun | airplane | ہوائی جہاز | Travel & Transportation | 1 |
+> 비행기로 두 시간 걸려요. | It takes two hours by plane. | ہوائی جہاز سے دو گھنٹے لگتے ہیں۔
+> 비행기 표를 예약했어요. | I booked a plane ticket. | میں نے جہاز کا ٹکٹ بک کیا۔
+> 비행기가 곧 이륙합니다. | The plane will take off soon. | جہاز جلد اڑان بھرے گا۔
++ 자전거 | 自轉車 | jajeongeo | noun | bicycle | سائیکل | Travel & Transportation | 1 |
+> 주말에 자전거를 타요. | I ride my bike on weekends. | ہفتے کے آخر میں سائیکل چلاتا ہوں۔
+> 자전거로 출근해요. | I commute by bicycle. | میں سائیکل پر دفتر جاتا ہوں۔
+> 자전거를 빌릴 수 있어요? | Can I rent a bicycle? | کیا سائیکل کرائے پر مل سکتی ہے؟
++ 차 | 車 | cha | noun | car | گاڑی | Travel & Transportation | 1 | Same spelling as 차 (茶) "tea". Also 자동차.
+> 차가 막혀서 늦었어요. | I was late because of traffic. | ٹریفک کی وجہ سے دیر ہو گئی۔
+> 아버지 차를 빌렸어요. | I borrowed my father's car. | میں نے ابو کی گاڑی لی۔
+> 차로 가면 30분 걸려요. | It takes 30 minutes by car. | گاڑی سے تیس منٹ لگتے ہیں۔
++ 운전하다 | 運轉- | unjeonhada | verb | to drive | گاڑی چلانا | Travel & Transportation | 1 |
+> 운전할 줄 알아요? | Do you know how to drive? | کیا آپ کو گاڑی چلانی آتی ہے؟
+> 밤에 운전하는 것은 위험해요. | Driving at night is dangerous. | رات کو گاڑی چلانا خطرناک ہے۔
+> 운전할 때 휴대폰을 보지 마세요. | Don't look at your phone while driving. | گاڑی چلاتے ہوئے فون نہ دیکھیں۔
++ 정류장 | 停留場 | jeongnyujang | noun | (bus) stop | بس اسٹاپ | Travel & Transportation | 1 |
+> 버스 정류장에서 기다릴게요. | I'll wait at the bus stop. | میں بس اسٹاپ پر انتظار کروں گا۔
+> 다음 정류장에서 내리세요. | Get off at the next stop. | اگلے اسٹاپ پر اتریں۔
+> 정류장이 집 바로 앞에 있어요. | The bus stop is right in front of my house. | بس اسٹاپ میرے گھر کے بالکل سامنے ہے۔
++ 걸리다 |  | geollida | verb | to take (time); to catch (a cold); to hang | (وقت) لگنا؛ (بیماری) لگنا؛ لٹکنا | Travel & Transportation | 1 |
+> 집에서 학교까지 20분 걸려요. | It takes 20 minutes from home to school. | گھر سے اسکول تک بیس منٹ لگتے ہیں۔
+> 감기에 걸려서 목이 아파요. | I caught a cold and have a sore throat. | زکام لگنے سے گلا خراب ہے۔
+> 벽에 그림이 걸려 있어요. | A picture is hanging on the wall. | دیوار پر ایک تصویر لٹکی ہے۔
++ 도착하다 | 到着- | dochakhada | verb | to arrive | پہنچنا | Travel & Transportation | 1 |
+> 몇 시에 도착해요? | What time do you arrive? | کتنے بجے پہنچیں گے؟
+> 방금 공항에 도착했어요. | I just arrived at the airport. | میں ابھی ایئرپورٹ پہنچا ہوں۔
+> 택배가 내일 도착할 거예요. | The parcel will arrive tomorrow. | پارسل کل پہنچ جائے گا۔
++ 건너다 |  | geonneoda | verb | to cross | پار کرنا | Travel & Transportation | 1 | 건너편 = the other side.
+> 길을 건널 때 조심하세요. | Be careful when you cross the road. | سڑک پار کرتے وقت احتیاط کریں۔
+> 다리를 건너면 시장이 있어요. | If you cross the bridge, there's a market. | پل پار کریں تو بازار آتا ہے۔
+> 횡단보도로 건너세요. | Cross at the crosswalk. | زیبرا کراسنگ سے پار کریں۔
++ 쭉 |  | jjuk | adverb | straight (ahead); all along | سیدھا؛ مسلسل | Places & Directions | 1 |
+> 이 길로 쭉 가세요. | Go straight along this road. | اسی راستے پر سیدھے جائیں۔
+> 저는 서울에서 쭉 살았어요. | I've lived in Seoul all along. | میں شروع سے سیول میں رہا ہوں۔
+> 쭉 가다가 오른쪽으로 도세요. | Go straight and then turn right. | سیدھے جا کر دائیں مڑیں۔
++ 취미 | 趣味 | chwimi | noun | hobby | مشغلہ | Hobbies & Leisure | 1 |
+> 취미가 뭐예요? | What's your hobby? | آپ کا مشغلہ کیا ہے؟
+> 제 취미는 요리예요. | My hobby is cooking. | میرا مشغلہ کھانا پکانا ہے۔
+> 새로운 취미를 찾고 있어요. | I'm looking for a new hobby. | میں کوئی نیا مشغلہ ڈھونڈ رہا ہوں۔
++ 영화 | 映畫 | yeonghwa | noun | movie, film | فلم | Hobbies & Leisure | 1 | 영화관/극장 = cinema.
+> 주말에 영화 보러 갈래요? | Do you want to go see a movie this weekend? | ہفتے کے آخر میں فلم دیکھنے چلیں گے؟
+> 한국 영화를 자주 봐요. | I often watch Korean movies. | میں اکثر کوریائی فلمیں دیکھتا ہوں۔
+> 그 영화는 언제 개봉해요? | When does that movie come out? | وہ فلم کب ریلیز ہو رہی ہے؟
++ 음악 | 音樂 | eumak | noun | music | موسیقی | Hobbies & Leisure | 1 |
+> 무슨 음악을 좋아해요? | What music do you like? | آپ کو کون سی موسیقی پسند ہے؟
+> 음악을 들으면 기분이 좋아져요. | Listening to music cheers me up. | موسیقی سننے سے موڈ اچھا ہو جاتا ہے۔
+> 카페에서 조용한 음악이 나와요. | Quiet music is playing in the café. | کیفے میں دھیمی موسیقی چل رہی ہے۔
++ 노래 |  | norae | noun | song | گانا | Hobbies & Leisure | 1 | 노래하다 / 노래를 부르다 = to sing. 노래방 = karaoke.
+> 이 노래 제목이 뭐예요? | What's the title of this song? | اس گانے کا نام کیا ہے؟
+> 노래를 잘 부르시네요. | You sing well. | آپ اچھا گاتے ہیں۔
+> 노래방에 가서 노래했어요. | We went to karaoke and sang. | ہم کراؤکے جا کر گائے۔
++ 축구 | 蹴球 | chukgu | noun | soccer, football | فٹبال | Hobbies & Leisure | 1 | 야구 baseball, 농구 basketball, 배구 volleyball. Cricket: 크리켓.
+> 친구들과 축구를 했어요. | I played soccer with friends. | میں نے دوستوں کے ساتھ فٹبال کھیلا۔
+> 축구 경기를 보러 갔어요. | I went to watch a soccer match. | میں فٹبال کا میچ دیکھنے گیا۔
+> 파키스탄에서는 축구보다 크리켓이 인기 있어요. | In Pakistan, cricket is more popular than soccer. | پاکستان میں فٹبال سے زیادہ کرکٹ مقبول ہے۔
++ 수영 | 水泳 | suyeong | noun | swimming | تیراکی | Hobbies & Leisure | 1 | 수영하다. 수영장 = swimming pool.
+> 여름에는 수영을 해요. | I swim in summer. | گرمیوں میں میں تیراکی کرتا ہوں۔
+> 수영을 배운 지 한 달 됐어요. | It's been a month since I started learning to swim. | تیراکی سیکھتے ہوئے ایک مہینہ ہو گیا۔
+> 수영장은 몇 시에 열어요? | What time does the pool open? | سوئمنگ پول کتنے بجے کھلتا ہے؟
++ 등산 | 登山 | deungsan | noun | hiking, mountain climbing | کوہ پیمائی، پہاڑوں کی سیر | Hobbies & Leisure | 1 | 등산하다. Very popular in Korea.
+> 주말마다 등산을 가요. | I go hiking every weekend. | میں ہر ہفتے کے آخر میں پہاڑوں پر جاتا ہوں۔
+> 등산할 때는 편한 신발을 신으세요. | Wear comfortable shoes when hiking. | پہاڑ پر چڑھتے وقت آرام دہ جوتے پہنیں۔
+> 아버지는 등산을 좋아하세요. | My father likes hiking. | ابو کو کوہ پیمائی پسند ہے۔
++ 게임 |  | geim | noun | game | گیم، کھیل | Hobbies & Leisure | 1 |
+> 동생은 하루 종일 게임만 해요. | My younger brother plays games all day. | چھوٹا بھائی سارا دن صرف گیمز کھیلتا ہے۔
+> 휴대폰 게임을 너무 많이 하면 눈이 아파요. | Playing too many phone games hurts your eyes. | فون پر زیادہ گیمز کھیلنے سے آنکھیں دکھتی ہیں۔
+> 같이 보드 게임 할래요? | Do you want to play a board game together? | ساتھ بورڈ گیم کھیلیں گے؟
++ 그림 |  | geurim | noun | picture, painting, drawing | تصویر، پینٹنگ | Hobbies & Leisure | 1 | 그림을 그리다 = to draw/paint.
+> 그림 그리는 것을 좋아해요. | I like drawing. | مجھے تصویریں بنانا پسند ہے۔
+> 벽에 예쁜 그림이 있어요. | There's a pretty picture on the wall. | دیوار پر ایک خوبصورت تصویر ہے۔
+> 미술관에서 유명한 그림을 봤어요. | I saw a famous painting at the art museum. | میں نے آرٹ میوزیم میں ایک مشہور پینٹنگ دیکھی۔
++ 춤 |  | chum | noun | dance | رقص | Hobbies & Leisure | 1 | 춤을 추다 = to dance.
+> 그 가수는 춤을 잘 춰요. | That singer dances well. | وہ گلوکار اچھا رقص کرتا ہے۔
+> 춤을 배우고 싶어요. | I want to learn to dance. | میں رقص سیکھنا چاہتا ہوں۔
+> 결혼식에서 다 같이 춤을 췄어요. | Everyone danced together at the wedding. | شادی میں سب نے مل کر رقص کیا۔
++ 산책 | 散策 | sanchaek | noun | walk, stroll | سیر، چہل قدمی | Hobbies & Leisure | 1 | 산책하다.
+> 저녁 먹고 산책해요. | I take a walk after dinner. | رات کے کھانے کے بعد میں سیر کرتا ہوں۔
+> 강아지와 산책을 나갔어요. | I went out for a walk with the puppy. | میں کتے کے ساتھ چہل قدمی کرنے نکلا۔
+> 산책하기 좋은 날씨예요. | It's nice weather for a walk. | سیر کے لیے اچھا موسم ہے۔
++ 파티 |  | pati | noun | party | پارٹی | Hobbies & Leisure | 1 |
+> 금요일에 생일 파티를 해요. | We're having a birthday party on Friday. | جمعہ کو سالگرہ کی پارٹی ہے۔
+> 파티에 누가 와요? | Who's coming to the party? | پارٹی میں کون آ رہا ہے؟
+> 파티 준비로 바빠요. | I'm busy preparing for the party. | پارٹی کی تیاری میں مصروف ہوں۔
++ 방학 | 放學 | banghak | noun | school vacation | اسکول کی چھٹیاں | Education & University | 1 | Work vacation: 휴가.
+> 방학 때 뭐 할 거예요? | What will you do during the vacation? | چھٹیوں میں کیا کریں گے؟
+> 여름 방학이 곧 시작돼요. | Summer vacation starts soon. | گرمیوں کی چھٹیاں جلد شروع ہوں گی۔
+> 방학 동안 아르바이트를 했어요. | I worked part-time during the vacation. | چھٹیوں میں میں نے پارٹ ٹائم کام کیا۔
++ 숙제 | 宿題 | sukje | noun | homework | ہوم ورک، گھر کا کام | Education & University | 1 | University assignments: 과제.
+> 숙제를 아직 안 했어요. | I haven't done my homework yet. | ابھی تک ہوم ورک نہیں کیا۔
+> 오늘은 숙제가 많아요. | I have a lot of homework today. | آج بہت ہوم ورک ہے۔
+> 숙제를 도와줄 수 있어요? | Can you help me with my homework? | کیا آپ ہوم ورک میں مدد کر سکتے ہیں؟
++ 시험 | 試驗 | siheom | noun | test, exam | امتحان | Education & University | 1 | 시험을 보다/치다 = take a test.
+> 내일 시험이 있어서 공부해야 해요. | I have an exam tomorrow, so I have to study. | کل امتحان ہے، اس لیے پڑھنا ہے۔
+> 시험을 잘 봤어요. | I did well on the exam. | میرا امتحان اچھا ہوا۔
+> 시험이 생각보다 어려웠어요. | The exam was harder than I thought. | امتحان سوچ سے زیادہ مشکل تھا۔
++ 수업 | 授業 | sueop | noun | class, lesson | کلاس، سبق | Education & University | 1 |
+> 수업이 몇 시에 끝나요? | What time does class end? | کلاس کتنے بجے ختم ہوتی ہے؟
+> 오늘은 수업이 없어요. | I have no classes today. | آج کوئی کلاس نہیں ہے۔
+> 수업 시간에 졸았어요. | I dozed off during class. | کلاس کے دوران مجھے اونگھ آ گئی۔
++ 단어 | 單語 | daneo | noun | word, vocabulary | لفظ | Education & University | 1 |
+> 이 단어는 무슨 뜻이에요? | What does this word mean? | اس لفظ کا مطلب کیا ہے؟
+> 매일 단어 스무 개를 외워요. | I memorize twenty words every day. | میں روزانہ بیس الفاظ یاد کرتا ہوں۔
+> 모르는 단어를 사전에서 찾았어요. | I looked up words I didn't know in the dictionary. | میں نے نامعلوم الفاظ لغت میں دیکھے۔
++ 질문 | 質問 | jilmun | noun | question | سوال | Education & University | 1 | 질문하다.
+> 질문이 있으면 손을 드세요. | If you have a question, raise your hand. | سوال ہو تو ہاتھ اٹھائیں۔
+> 좋은 질문이에요. | That's a good question. | یہ اچھا سوال ہے۔
+> 선생님께 질문했어요. | I asked the teacher a question. | میں نے استاد سے سوال پوچھا۔
++ 대답 | 對答 | daedap | noun | answer, reply | جواب | Education & University | 1 | 대답하다. Test answers: 답, 정답.
+> 대답해 주세요. | Please answer. | جواب دیں۔
+> 그는 대답 대신 웃었어요. | Instead of answering, he smiled. | جواب دینے کے بجائے وہ مسکرایا۔
+> 아직 대답을 못 들었어요. | I haven't heard an answer yet. | ابھی تک جواب نہیں ملا۔
++ 뜻 |  | tteut | noun | meaning; intention | مطلب، معنی؛ ارادہ | Education & University | 1 |
+> 이 말은 무슨 뜻이에요? | What does this expression mean? | اس بات کا کیا مطلب ہے؟
+> 제 뜻은 그게 아니에요. | That's not what I meant. | میرا مطلب یہ نہیں ہے۔
+> 부모님의 뜻에 따랐어요. | I followed my parents' wishes. | میں نے والدین کی مرضی پر عمل کیا۔

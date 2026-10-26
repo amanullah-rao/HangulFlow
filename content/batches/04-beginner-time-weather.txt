@@ -1,0 +1,185 @@
+# Beginner: time, days, numbers, weather, nature
++ 오늘 |  | oneul | noun | today | آج | Time & Numbers | 1 |
+> 오늘 날씨가 좋아요. | The weather is nice today. | آج موسم اچھا ہے۔
+> 오늘은 무슨 요일이에요? | What day is it today? | آج کون سا دن ہے؟
+> 오늘 저녁에 뭐 해요? | What are you doing this evening? | آج شام کیا کر رہے ہیں؟
++ 내일 | 來日 | naeil | noun | tomorrow | کل (آنے والا) | Time & Numbers | 1 |
+> 내일 시험이 있어요. | I have an exam tomorrow. | کل میرا امتحان ہے۔
+> 내일 다시 올게요. | I'll come again tomorrow. | میں کل دوبارہ آؤں گا۔
+> 내일 아침 일찍 출발해요. | We leave early tomorrow morning. | ہم کل صبح سویرے روانہ ہوں گے۔
++ 어제 |  | eoje | noun | yesterday | کل (گزرا ہوا) | Time & Numbers | 1 |
+> 어제 친구를 만났어요. | I met a friend yesterday. | کل میں ایک دوست سے ملا۔
+> 어제는 너무 피곤했어요. | I was very tired yesterday. | کل میں بہت تھکا ہوا تھا۔
+> 어제 본 영화가 재미있었어요. | The movie I watched yesterday was fun. | کل جو فلم دیکھی وہ دلچسپ تھی۔
++ 지금 | 只今 | jigeum | noun | now | ابھی، اس وقت | Time & Numbers | 1 |
+> 지금 몇 시예요? | What time is it now? | اس وقت کیا بجا ہے؟
+> 지금 바빠요? | Are you busy now? | کیا ابھی مصروف ہیں؟
+> 지금 출발하면 늦지 않아요. | If we leave now, we won't be late. | ابھی نکلیں تو دیر نہیں ہوگی۔
++ 시간 | 時間 | sigan | noun | time; hour | وقت؛ گھنٹہ | Time & Numbers | 1 | 두 시간 = two hours; 시간이 있다 = to have time.
+> 시간이 있으면 같이 차 마셔요. | If you have time, let's have tea together. | وقت ہو تو ساتھ چائے پیتے ہیں۔
+> 서울까지 세 시간 걸려요. | It takes three hours to Seoul. | سیول تک تین گھنٹے لگتے ہیں۔
+> 시간이 정말 빨리 가요. | Time really flies. | وقت واقعی بہت تیزی سے گزرتا ہے۔
++ 시 | 時 | si | noun | o'clock | بجے | Time & Numbers | 1 | Uses native numbers: 한 시, 두 시, 세 시. Minutes use Sino numbers: 삼십 분.
+> 지금 세 시 반이에요. | It's half past three now. | اس وقت ساڑھے تین بجے ہیں۔
+> 수업은 아홉 시에 시작해요. | Class starts at nine o'clock. | کلاس نو بجے شروع ہوتی ہے۔
+> 몇 시에 만날까요? | What time shall we meet? | ہم کتنے بجے ملیں؟
++ 분 | 分 | bun | noun | minute | منٹ | Time & Numbers | 1 | 분 is also the polite counter for people: 세 분.
+> 5분만 기다려 주세요. | Please wait just five minutes. | صرف پانچ منٹ انتظار کریں۔
+> 버스가 10분 후에 와요. | The bus comes in ten minutes. | بس دس منٹ میں آئے گی۔
+> 두 시 이십 분에 만나요. | Let's meet at 2:20. | دو بج کر بیس منٹ پر ملتے ہیں۔
++ 주말 | 週末 | jumal | noun | weekend | ہفتے کا آخر | Time & Numbers | 1 |
+> 주말에 뭐 했어요? | What did you do on the weekend? | ہفتے کے آخر میں کیا کیا؟
+> 주말에는 늦게 일어나요. | I get up late on weekends. | ہفتے کے آخر میں میں دیر سے اٹھتا ہوں۔
+> 즐거운 주말 보내세요. | Have a nice weekend. | اچھا ویک اینڈ گزاریں۔
++ 요일 | 曜日 | yoil | noun | day of the week | ہفتے کا دن | Time & Numbers | 1 | 월 화 수 목 금 토 일 + 요일 (Mon–Sun).
+> 오늘이 무슨 요일이에요? | What day of the week is it today? | آج ہفتے کا کون سا دن ہے؟
+> 수업은 월요일과 수요일에 있어요. | Classes are on Mondays and Wednesdays. | کلاسیں پیر اور بدھ کو ہوتی ہیں۔
+> 금요일 저녁에 만나요. | Let's meet Friday evening. | جمعہ کی شام ملتے ہیں۔
++ 주 | 週 | ju | noun | week | ہفتہ | Time & Numbers | 1 | 이번 주 this week, 다음 주 next week, 지난주 last week.
+> 다음 주에 휴가를 가요. | I'm going on vacation next week. | میں اگلے ہفتے چھٹی پر جا رہا ہوں۔
+> 일주일에 세 번 운동해요. | I exercise three times a week. | میں ہفتے میں تین بار ورزش کرتا ہوں۔
+> 지난주에 이사했어요. | I moved last week. | میں نے پچھلے ہفتے گھر بدلا۔
++ 달 |  | dal | noun | month; moon | مہینہ؛ چاند | Time & Numbers | 1 | Month name: 월 (일월, 이월...). Counting months: 한 달, 두 달.
+> 한국에 온 지 한 달 됐어요. | It's been a month since I came to Korea. | کوریا آئے ایک مہینہ ہو گیا۔
+> 오늘 밤에는 달이 밝아요. | The moon is bright tonight. | آج رات چاند روشن ہے۔
+> 다음 달에 시험이 있어요. | I have an exam next month. | اگلے مہینے میرا امتحان ہے۔
++ 해 |  | hae | noun | year; sun | سال؛ سورج | Time & Numbers | 1 | Formal "year": 년 (2026년). 새해 = new year.
+> 새해 복 많이 받으세요. | Happy New Year. | نیا سال مبارک ہو۔
+> 해가 지면 추워져요. | It gets cold when the sun goes down. | سورج ڈوبنے کے بعد سردی ہو جاتی ہے۔
+> 올해는 한국어를 열심히 공부할 거예요. | This year I'll study Korean hard. | اس سال میں محنت سے کورین پڑھوں گا۔
++ 생일 | 生日 | saengil | noun | birthday | سالگرہ | Time & Numbers | 1 | Honorific: 생신.
+> 생일 축하합니다! | Happy birthday! | سالگرہ مبارک ہو!
+> 제 생일은 5월 3일이에요. | My birthday is May 3rd. | میری سالگرہ تین مئی کو ہے۔
+> 생일 파티에 초대해 줘서 고마워요. | Thanks for inviting me to the birthday party. | سالگرہ کی پارٹی میں بلانے کا شکریہ۔
++ 하나 |  | hana | numeral | one (native number) | ایک | Time & Numbers | 1 | Before counters: 한 (한 개, 한 명). Native numbers: 하나 둘 셋 넷 다섯 여섯 일곱 여덟 아홉 열.
+> 사과 하나 주세요. | One apple, please. | ایک سیب دے دیں۔
+> 하나, 둘, 셋! 사진 찍을게요. | One, two, three! I'll take the picture. | ایک، دو، تین! تصویر لے رہا ہوں۔
+> 질문이 하나 있어요. | I have one question. | میرا ایک سوال ہے۔
++ 일 | 一 | il | numeral | one (Sino-Korean number) | ایک (چینی-کوریائی عدد) | Time & Numbers | 1 | Sino numbers 일 이 삼 사 오 육 칠 팔 구 십 for dates, money, phone numbers, minutes. 일 also means "work" and "day".
+> 오늘은 삼월 일 일이에요. | Today is March 1st. | آج یکم مارچ ہے۔
+> 제 전화번호는 010-1234-5678이에요. | My phone number is 010-1234-5678. | میرا فون نمبر 010-1234-5678 ہے۔
+> 이 책은 만 오천 원이에요. | This book is 15,000 won. | یہ کتاب پندرہ ہزار وون کی ہے۔
++ 개 | 個 | gae | noun | counter for things | عدد (چیزیں گننے کے لیے) | Time & Numbers | 1 | 개 (dog) is a different word.
+> 사과 두 개 주세요. | Two apples, please. | دو سیب دے دیں۔
+> 가방이 몇 개 있어요? | How many bags do you have? | آپ کے پاس کتنے بیگ ہیں؟
+> 숙제가 세 개나 있어요. | I have as many as three assignments. | میرے پاس تین ہوم ورک ہیں۔
++ 처음 |  | cheoeum | noun | first time; beginning | پہلی بار؛ شروع | Time & Numbers | 1 | 처음 뵙겠습니다 = nice to meet you.
+> 한국에 처음 왔어요. | It's my first time in Korea. | میں پہلی بار کوریا آیا ہوں۔
+> 처음에는 한국어가 어려웠어요. | At first, Korean was hard. | شروع میں کورین مشکل لگی۔
+> 처음부터 다시 해 보세요. | Try again from the beginning. | شروع سے دوبارہ کر کے دیکھیں۔
++ 마지막 |  | majimak | noun | last, final | آخری | Time & Numbers | 1 |
+> 오늘이 마지막 수업이에요. | Today is the last class. | آج آخری کلاس ہے۔
+> 마지막으로 하나만 물어볼게요. | Let me ask just one last thing. | آخر میں صرف ایک بات پوچھوں گا۔
+> 마지막 기차를 탔어요. | I took the last train. | میں آخری ٹرین میں بیٹھا۔
++ 날씨 |  | nalssi | noun | weather | موسم | Nature & Weather | 1 |
+> 오늘 날씨가 어때요? | How is the weather today? | آج موسم کیسا ہے؟
+> 날씨가 추워졌어요. | The weather has turned cold. | موسم ٹھنڈا ہو گیا ہے۔
+> 날씨가 좋으면 소풍 가요. | If the weather is good, let's go on a picnic. | موسم اچھا ہو تو پکنک پر چلیں۔
++ 비 |  | bi | noun | rain | بارش | Nature & Weather | 1 | 비가 오다/내리다 = to rain.
+> 밖에 비가 와요. | It's raining outside. | باہر بارش ہو رہی ہے۔
+> 비가 그쳤어요. | The rain has stopped. | بارش رک گئی۔
+> 비 때문에 경기가 취소됐어요. | The game was canceled because of the rain. | بارش کی وجہ سے میچ منسوخ ہو گیا۔
++ 눈 |  | nun | noun | snow; eye | برف؛ آنکھ | Nature & Weather | 1 | Same word for "eye" and "snow".
+> 어젯밤에 눈이 많이 왔어요. | It snowed a lot last night. | کل رات بہت برف پڑی۔
+> 눈이 아파서 안과에 갔어요. | My eyes hurt, so I went to the eye doctor. | آنکھوں میں درد تھا، اس لیے آنکھوں کے ڈاکٹر کے پاس گیا۔
+> 처음으로 눈사람을 만들었어요. | I made a snowman for the first time. | میں نے پہلی بار برف کا پتلا بنایا۔
++ 바람 |  | baram | noun | wind; wish | ہوا؛ خواہش | Nature & Weather | 1 | 바람이 불다 = the wind blows.
+> 바람이 많이 불어요. | The wind is blowing hard. | تیز ہوا چل رہی ہے۔
+> 시원한 바람이 좋아요. | The cool breeze is nice. | ٹھنڈی ہوا اچھی لگتی ہے۔
+> 바람 때문에 우산이 망가졌어요. | My umbrella broke because of the wind. | ہوا کی وجہ سے چھتری ٹوٹ گئی۔
++ 하늘 |  | haneul | noun | sky | آسمان | Nature & Weather | 1 |
+> 하늘이 맑고 파래요. | The sky is clear and blue. | آسمان صاف اور نیلا ہے۔
+> 하늘에 구름이 많아요. | There are many clouds in the sky. | آسمان پر بہت بادل ہیں۔
+> 밤하늘에 별이 많아요. | There are many stars in the night sky. | رات کے آسمان میں بہت ستارے ہیں۔
++ 구름 |  | gureum | noun | cloud | بادل | Nature & Weather | 1 |
+> 구름이 껴서 해가 안 보여요. | It's cloudy, so you can't see the sun. | بادل چھائے ہیں، سورج نظر نہیں آ رہا۔
+> 비행기에서 구름을 내려다봤어요. | I looked down at the clouds from the plane. | میں نے جہاز سے نیچے بادلوں کو دیکھا۔
+> 구름 모양이 솜사탕 같아요. | The cloud looks like cotton candy. | بادل کی شکل روئی کی مٹھائی جیسی ہے۔
++ 봄 |  | bom | noun | spring | بہار | Nature & Weather | 1 |
+> 봄에는 벚꽃이 피어요. | Cherry blossoms bloom in spring. | بہار میں چیری کے پھول کھلتے ہیں۔
+> 저는 봄을 제일 좋아해요. | I like spring the most. | مجھے بہار سب سے زیادہ پسند ہے۔
+> 봄이 되면 날씨가 따뜻해져요. | When spring comes, the weather gets warm. | بہار آنے پر موسم گرم ہو جاتا ہے۔
++ 여름 |  | yeoreum | noun | summer | گرمی کا موسم | Nature & Weather | 1 |
+> 한국의 여름은 덥고 습해요. | Korean summers are hot and humid. | کوریا کی گرمیاں گرم اور مرطوب ہوتی ہیں۔
+> 여름 방학에 바다에 갔어요. | I went to the beach during summer vacation. | گرمیوں کی چھٹیوں میں میں سمندر پر گیا۔
+> 파키스탄의 여름은 정말 더워요. | Summer in Pakistan is really hot. | پاکستان کی گرمیاں واقعی بہت سخت ہیں۔
++ 가을 |  | gaeul | noun | autumn, fall | خزاں | Nature & Weather | 1 |
+> 가을에는 단풍이 아름다워요. | The autumn leaves are beautiful in fall. | خزاں میں پتوں کے رنگ خوبصورت ہوتے ہیں۔
+> 가을 하늘은 높고 맑아요. | The autumn sky is high and clear. | خزاں کا آسمان اونچا اور صاف ہوتا ہے۔
+> 가을은 책 읽기 좋은 계절이에요. | Autumn is a good season for reading. | خزاں کتابیں پڑھنے کا اچھا موسم ہے۔
++ 겨울 |  | gyeoul | noun | winter | سردی کا موسم | Nature & Weather | 1 |
+> 서울의 겨울은 아주 추워요. | Winter in Seoul is very cold. | سیول کی سردیاں بہت سخت ہوتی ہیں۔
+> 겨울에는 스키를 타러 가요. | In winter I go skiing. | سردیوں میں میں اسکیئنگ کرنے جاتا ہوں۔
+> 겨울 옷을 꺼냈어요. | I took out my winter clothes. | میں نے سردیوں کے کپڑے نکالے۔
++ 계절 | 季節 | gyejeol | noun | season | موسم (سال کا حصہ) | Nature & Weather | 1 | Weather on a given day is 날씨.
+> 어느 계절을 좋아해요? | Which season do you like? | آپ کو کون سا موسم پسند ہے؟
+> 한국은 계절마다 풍경이 달라요. | In Korea the scenery is different every season. | کوریا میں ہر موسم کا منظر الگ ہوتا ہے۔
+> 계절이 바뀔 때 감기 조심하세요. | Watch out for colds when the season changes. | موسم بدلتے وقت زکام سے بچیں۔
++ 덥다 |  | deopda | adjective | hot (weather) | گرم (موسم) | Nature & Weather | 1 | ㅂ-irregular: 더워요. For hot objects use 뜨겁다.
+> 오늘 너무 더워요. | It's really hot today. | آج بہت گرمی ہے۔
+> 더우면 에어컨을 켜세요. | If it's hot, turn on the air conditioner. | گرمی لگے تو اے سی چلا دیں۔
+> 더운 날씨에는 물을 자주 마셔요. | In hot weather I drink water often. | گرم موسم میں میں بار بار پانی پیتا ہوں۔
++ 춥다 |  | chupda | adjective | cold (weather) | ٹھنڈا (موسم) | Nature & Weather | 1 | ㅂ-irregular: 추워요. For cold objects use 차갑다.
+> 밖이 정말 추워요. | It's really cold outside. | باہر واقعی بہت سردی ہے۔
+> 추우니까 따뜻하게 입으세요. | It's cold, so dress warmly. | سردی ہے، گرم کپڑے پہنیں۔
+> 추운 날에는 국물이 먹고 싶어요. | On cold days I want to eat soup. | سردی کے دن میں شوربا کھانے کو دل کرتا ہے۔
++ 따뜻하다 |  | ttatteuthada | adjective | warm | گرم، نیم گرم | Nature & Weather | 1 | Also used for people: 따뜻한 사람 = a warm-hearted person.
+> 봄이라서 날씨가 따뜻해요. | It's spring, so the weather is warm. | بہار ہے، اس لیے موسم خوشگوار گرم ہے۔
+> 따뜻한 물 한 잔 주세요. | A glass of warm water, please. | ایک گلاس نیم گرم پانی دیں۔
+> 그녀는 마음이 따뜻한 사람이에요. | She is a warm-hearted person. | وہ نرم دل انسان ہے۔
++ 시원하다 |  | siwonhada | adjective | cool, refreshing | ٹھنڈا، تازگی بخش | Nature & Weather | 1 | Also said of hot soup that is "refreshing" and of relief: 속이 시원하다.
+> 바람이 시원해요. | The breeze is cool. | ہوا ٹھنڈی ہے۔
+> 시원한 음료수 마실래요? | Do you want a cold drink? | ٹھنڈا مشروب پئیں گے؟
+> 샤워를 하니까 시원해요. | I feel refreshed after a shower. | نہانے کے بعد تازگی محسوس ہو رہی ہے۔
++ 맑다 |  | makda | adjective | clear, sunny; clean (water) | صاف، دھوپ والا | Nature & Weather | 1 |
+> 오늘은 하늘이 맑아요. | The sky is clear today. | آج آسمان صاف ہے۔
+> 내일은 맑고 따뜻하겠습니다. | Tomorrow will be clear and warm. | کل موسم صاف اور خوشگوار رہے گا۔
+> 이 강은 물이 아주 맑아요. | The water in this river is very clear. | اس دریا کا پانی بہت صاف ہے۔
++ 흐리다 |  | heurida | adjective | cloudy, overcast; blurry | ابر آلود؛ دھندلا | Nature & Weather | 1 |
+> 하늘이 흐려서 비가 올 것 같아요. | It's cloudy, so it looks like it'll rain. | آسمان ابر آلود ہے، لگتا ہے بارش ہوگی۔
+> 오후에는 흐리겠습니다. | It will be cloudy in the afternoon. | دوپہر کو بادل رہیں گے۔
+> 안경을 안 써서 글씨가 흐리게 보여요. | I'm not wearing glasses, so the letters look blurry. | عینک نہیں لگائی، اس لیے الفاظ دھندلے نظر آتے ہیں۔
++ 산 | 山 | san | noun | mountain | پہاڑ | Nature & Weather | 1 | 산에 가다 / 등산하다 = to go hiking.
+> 주말에 산에 갔어요. | I went to the mountains on the weekend. | ہفتے کے آخر میں میں پہاڑوں پر گیا۔
+> 한국에는 산이 많아요. | There are many mountains in Korea. | کوریا میں بہت پہاڑ ہیں۔
+> 산 위에서 일출을 봤어요. | I watched the sunrise from the top of the mountain. | میں نے پہاڑ کی چوٹی سے طلوعِ آفتاب دیکھا۔
++ 바다 |  | bada | noun | sea, ocean | سمندر | Nature & Weather | 1 |
+> 바다에서 수영했어요. | I swam in the sea. | میں نے سمندر میں تیراکی کی۔
+> 부산은 바다가 아름다워요. | The sea in Busan is beautiful. | بوسان کا سمندر خوبصورت ہے۔
+> 바다가 보이는 방을 원해요. | I'd like a room with a sea view. | مجھے سمندر کے نظارے والا کمرہ چاہیے۔
++ 강 | 江 | gang | noun | river | دریا | Nature & Weather | 1 | 한강 = the Han River in Seoul.
+> 한강에서 자전거를 탔어요. | I rode a bike along the Han River. | میں نے دریائے ہان کے کنارے سائیکل چلائی۔
+> 강 위에 다리가 있어요. | There's a bridge over the river. | دریا پر ایک پل ہے۔
+> 강가에서 산책했어요. | I took a walk by the river. | میں نے دریا کے کنارے سیر کی۔
++ 나무 |  | namu | noun | tree; wood | درخت؛ لکڑی | Nature & Weather | 1 |
+> 공원에 큰 나무가 있어요. | There's a big tree in the park. | پارک میں ایک بڑا درخت ہے۔
+> 나무로 만든 책상이에요. | It's a desk made of wood. | یہ لکڑی کی بنی میز ہے۔
+> 봄에 나무를 심었어요. | I planted a tree in spring. | میں نے بہار میں درخت لگایا۔
++ 꽃 |  | kkot | noun | flower | پھول | Nature & Weather | 1 | 꽃이 피다 = flowers bloom.
+> 정원에 꽃이 많이 피었어요. | Many flowers have bloomed in the garden. | باغ میں بہت پھول کھلے ہیں۔
+> 어머니께 꽃을 드렸어요. | I gave my mother flowers. | میں نے امی کو پھول دیے۔
+> 이 꽃 이름이 뭐예요? | What's the name of this flower? | اس پھول کا نام کیا ہے؟
++ 동물 | 動物 | dongmul | noun | animal | جانور | Nature & Weather | 1 | Zoo: 동물원.
+> 무슨 동물을 좋아해요? | What animals do you like? | آپ کو کون سے جانور پسند ہیں؟
+> 아이들과 동물원에 갔어요. | I went to the zoo with the kids. | میں بچوں کے ساتھ چڑیا گھر گیا۔
+> 동물을 키우는 건 책임이 필요해요. | Raising an animal requires responsibility. | جانور پالنے کے لیے ذمہ داری چاہیے۔
++ 개 |  | gae | noun | dog | کتا | Nature & Weather | 1 | Puppy: 강아지 (also used for dogs in general, affectionately).
+> 개가 꼬리를 흔들어요. | The dog is wagging its tail. | کتا دم ہلا رہا ہے۔
+> 저는 개를 무서워해요. | I'm afraid of dogs. | مجھے کتوں سے ڈر لگتا ہے۔
+> 이웃집 개가 밤새 짖었어요. | The neighbor's dog barked all night. | پڑوسیوں کا کتا ساری رات بھونکتا رہا۔
++ 고양이 |  | goyangi | noun | cat | بلی | Nature & Weather | 1 |
+> 우리 집 고양이는 잠을 많이 자요. | Our cat sleeps a lot. | ہماری بلی بہت سوتی ہے۔
+> 길에서 고양이를 봤어요. | I saw a cat on the street. | میں نے راستے میں ایک بلی دیکھی۔
+> 고양이가 생선을 좋아해요. | Cats like fish. | بلی کو مچھلی پسند ہے۔
++ 새 |  | sae | noun | bird | پرندہ | Nature & Weather | 1 | 새 (adjective prefix) also means "new": 새 옷.
+> 아침에 새 소리가 들려요. | I hear birds in the morning. | صبح پرندوں کی آواز آتی ہے۔
+> 나무 위에 새가 앉아 있어요. | A bird is sitting in the tree. | درخت پر ایک پرندہ بیٹھا ہے۔
+> 새처럼 날고 싶어요. | I want to fly like a bird. | میں پرندے کی طرح اڑنا چاہتا ہوں۔
++ 해외 | 海外 | haeoe | noun | overseas, abroad | بیرون ملک | Travel & Transportation | 1 |
+> 해외여행을 가 본 적이 있어요? | Have you ever traveled abroad? | کیا آپ کبھی بیرون ملک سیر کو گئے ہیں؟
+> 형은 해외에서 일해요. | My older brother works overseas. | بڑا بھائی بیرون ملک کام کرتا ہے۔
+> 해외로 소포를 보내고 싶어요. | I'd like to send a package overseas. | میں بیرون ملک پارسل بھیجنا چاہتا ہوں۔
++ 여행 | 旅行 | yeohaeng | noun | trip, travel | سفر، سیر | Travel & Transportation | 1 | 여행하다 / 여행을 가다.
+> 방학에 제주도로 여행을 가요. | During vacation I'm traveling to Jeju Island. | چھٹیوں میں میں جیجو جزیرے کی سیر کو جا رہا ہوں۔
+> 여행 잘 다녀오세요. | Have a good trip. | سفر اچھا گزرے۔
+> 혼자 여행하는 것을 좋아해요. | I like traveling alone. | مجھے اکیلے سفر کرنا پسند ہے۔

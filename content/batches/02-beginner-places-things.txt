@@ -1,0 +1,225 @@
+# Beginner: places, home, everyday things
++ 집 |  | jip | noun | house, home | گھر | Places & Directions | 1 | Honorific: 댁 (선생님 댁).
+> 집에 가고 싶어요. | I want to go home. | میں گھر جانا چاہتا ہوں۔
+> 우리 집은 3층이에요. | Our home is on the third floor. | ہمارا گھر تیسری منزل پر ہے۔
+> 친구 집에서 같이 공부했어요. | We studied together at a friend's house. | ہم نے دوست کے گھر مل کر پڑھائی کی۔
++ 방 | 房 | bang | noun | room | کمرہ | Places & Directions | 1 | -방 also names shops: 노래방 (karaoke), PC방 (internet café).
+> 제 방은 작지만 깨끗해요. | My room is small but clean. | میرا کمرہ چھوٹا ہے مگر صاف ہے۔
+> 방을 청소했어요. | I cleaned my room. | میں نے اپنا کمرہ صاف کیا۔
+> 이 호텔 방에서 바다가 보여요. | You can see the sea from this hotel room. | اس ہوٹل کے کمرے سے سمندر نظر آتا ہے۔
++ 화장실 | 化粧室 | hwajangsil | noun | restroom, bathroom | بیت الخلا، واش روم | Places & Directions | 1 |
+> 화장실이 어디에 있어요? | Where is the restroom? | واش روم کہاں ہے؟
+> 화장실에 휴지가 없어요. | There's no toilet paper in the restroom. | واش روم میں ٹشو پیپر نہیں ہے۔
+> 잠깐 화장실 좀 다녀올게요. | I'll just go to the restroom for a moment. | میں ذرا واش روم ہو کر آتا ہوں۔
++ 부엌 |  | bueok | noun | kitchen | باورچی خانہ | Places & Directions | 1 | Also 주방 (more formal, restaurants).
+> 어머니는 부엌에서 요리하고 계세요. | My mother is cooking in the kitchen. | امی باورچی خانے میں کھانا پکا رہی ہیں۔
+> 부엌이 넓어서 좋아요. | The kitchen is spacious, which is nice. | باورچی خانہ کشادہ ہے، اچھا لگتا ہے۔
+> 부엌 창문을 열어 주세요. | Please open the kitchen window. | باورچی خانے کی کھڑکی کھول دیں۔
++ 학교 | 學校 | hakgyo | noun | school | اسکول | Education & University | 1 | 초등학교 elementary, 중학교 middle, 고등학교 high school.
+> 학교까지 걸어서 가요. | I walk to school. | میں پیدل اسکول جاتا ہوں۔
+> 오늘은 학교에 안 가요. | I'm not going to school today. | آج میں اسکول نہیں جا رہا۔
+> 학교 앞에 문구점이 있어요. | There's a stationery shop in front of the school. | اسکول کے سامنے اسٹیشنری کی دکان ہے۔
++ 대학교 | 大學校 | daehakgyo | noun | university | یونیورسٹی | Education & University | 1 | Often shortened to 대학. Graduate school: 대학원.
+> 저는 서울에 있는 대학교에 다녀요. | I attend a university in Seoul. | میں سیول کی ایک یونیورسٹی میں پڑھتا ہوں۔
+> 대학교 캠퍼스가 아주 넓어요. | The university campus is very large. | یونیورسٹی کا کیمپس بہت بڑا ہے۔
+> 대학교를 졸업하고 취직했어요. | I graduated from university and got a job. | یونیورسٹی سے فارغ ہو کر مجھے نوکری مل گئی۔
++ 병원 | 病院 | byeongwon | noun | hospital, clinic | ہسپتال | Health | 1 |
+> 머리가 아파서 병원에 갔어요. | I had a headache, so I went to the hospital. | سر میں درد تھا، اس لیے ہسپتال گیا۔
+> 근처에 병원이 있어요? | Is there a hospital nearby? | کیا قریب کوئی ہسپتال ہے؟
+> 병원은 토요일 오후에 문을 닫아요. | The clinic closes on Saturday afternoons. | ہسپتال ہفتے کی دوپہر بند ہو جاتا ہے۔
++ 약국 | 藥局 | yakguk | noun | pharmacy | دواخانہ، فارمیسی | Health | 1 |
+> 약국에서 감기약을 샀어요. | I bought cold medicine at the pharmacy. | میں نے فارمیسی سے زکام کی دوا خریدی۔
+> 일요일에도 문을 여는 약국이 있어요? | Is there a pharmacy open on Sundays too? | کیا کوئی فارمیسی اتوار کو بھی کھلی ہوتی ہے؟
+> 약국은 병원 바로 옆에 있어요. | The pharmacy is right next to the hospital. | فارمیسی ہسپتال کے بالکل ساتھ ہے۔
++ 은행 | 銀行 | eunhaeng | noun | bank | بینک | Shopping & Money | 1 |
+> 은행에서 돈을 찾았어요. | I withdrew money at the bank. | میں نے بینک سے پیسے نکالے۔
+> 은행은 4시에 문을 닫아요. | The bank closes at four. | بینک چار بجے بند ہوتا ہے۔
+> 은행에 가서 통장을 만들었어요. | I went to the bank and opened a bankbook account. | میں نے بینک جا کر کھاتہ کھلوایا۔
++ 시장 | 市場 | sijang | noun | market | بازار | Shopping & Money | 1 | 시장 (市長) also means "mayor".
+> 시장에서 과일을 싸게 샀어요. | I bought fruit cheaply at the market. | میں نے بازار سے سستے پھل خریدے۔
+> 전통 시장에 가면 맛있는 음식이 많아요. | Traditional markets have lots of tasty food. | روایتی بازار میں بہت مزے دار کھانے ملتے ہیں۔
+> 주말에는 시장이 붐벼요. | The market is crowded on weekends. | ہفتے کے آخر میں بازار میں رش ہوتا ہے۔
++ 식당 | 食堂 | sikdang | noun | restaurant, cafeteria | ریستوران، کھانے کی جگہ | Food & Cooking | 1 | 학생 식당 = student cafeteria.
+> 이 식당은 김치찌개가 맛있어요. | This restaurant's kimchi stew is delicious. | اس ریستوران کا کمچی سالن مزے دار ہے۔
+> 학교 식당에서 점심을 먹어요. | I eat lunch at the school cafeteria. | میں اسکول کی کینٹین میں دوپہر کا کھانا کھاتا ہوں۔
+> 식당에 자리가 없어서 기다렸어요. | There were no seats at the restaurant, so we waited. | ریستوران میں جگہ نہیں تھی، اس لیے ہم نے انتظار کیا۔
++ 가게 |  | gage | noun | shop, store | دکان | Shopping & Money | 1 |
+> 이 가게는 밤늦게까지 열어요. | This shop is open until late at night. | یہ دکان رات دیر تک کھلی رہتی ہے۔
+> 가게 주인이 아주 친절해요. | The shop owner is very kind. | دکان کا مالک بہت مہربان ہے۔
+> 옷 가게에서 바지를 샀어요. | I bought pants at a clothing store. | میں نے کپڑوں کی دکان سے پتلون خریدی۔
++ 편의점 | 便宜店 | pyeonuijeom | noun | convenience store | کنویننس اسٹور | Shopping & Money | 1 | Most are open 24 hours in Korea.
+> 편의점에서 우유를 샀어요. | I bought milk at the convenience store. | میں نے کنویننس اسٹور سے دودھ خریدا۔
+> 편의점은 24시간 문을 열어요. | Convenience stores are open 24 hours. | کنویننس اسٹور چوبیس گھنٹے کھلے رہتے ہیں۔
+> 편의점에서 도시락을 사 먹었어요. | I bought a boxed meal at the convenience store and ate it. | میں نے کنویننس اسٹور سے کھانے کا ڈبا لے کر کھایا۔
++ 우체국 | 郵遞局 | ucheguk | noun | post office | ڈاک خانہ | Places & Directions | 1 |
+> 우체국에서 소포를 보냈어요. | I sent a package at the post office. | میں نے ڈاک خانے سے پارسل بھیجا۔
+> 우체국은 은행 옆에 있어요. | The post office is next to the bank. | ڈاک خانہ بینک کے ساتھ ہے۔
+> 고향에 편지를 보내러 우체국에 가요. | I'm going to the post office to send a letter home. | میں گھر خط بھیجنے ڈاک خانے جا رہا ہوں۔
++ 도서관 | 圖書館 | doseogwan | noun | library | کتب خانہ، لائبریری | Education & University | 1 |
+> 도서관에서 책을 빌렸어요. | I borrowed a book from the library. | میں نے لائبریری سے کتاب لی۔
+> 도서관에서는 조용히 해야 해요. | You must be quiet in the library. | لائبریری میں خاموش رہنا ضروری ہے۔
+> 시험 기간에는 도서관에 자리가 없어요. | During exam period there are no seats in the library. | امتحانات کے دنوں میں لائبریری میں جگہ نہیں ملتی۔
++ 공원 | 公園 | gongwon | noun | park | پارک | Places & Directions | 1 |
+> 저녁에 공원에서 산책해요. | I take a walk in the park in the evening. | شام کو میں پارک میں سیر کرتا ہوں۔
+> 공원에 꽃이 많이 피었어요. | Many flowers have bloomed in the park. | پارک میں بہت سے پھول کھلے ہیں۔
+> 아이들이 공원에서 자전거를 타요. | Children ride bikes in the park. | بچے پارک میں سائیکل چلاتے ہیں۔
++ 역 | 驛 | yeok | noun | station (train, subway) | اسٹیشن | Travel & Transportation | 1 | 지하철역 subway station, 기차역 train station.
+> 역 앞에서 만나요. | Let's meet in front of the station. | اسٹیشن کے سامنے ملتے ہیں۔
+> 다음 역에서 내리세요. | Get off at the next station. | اگلے اسٹیشن پر اتریں۔
+> 집에서 역까지 10분 걸려요. | It takes ten minutes from my house to the station. | گھر سے اسٹیشن تک دس منٹ لگتے ہیں۔
++ 공항 | 空港 | gonghang | noun | airport | ہوائی اڈہ، ایئرپورٹ | Travel & Transportation | 1 |
+> 공항에 두 시간 전에 도착해야 해요. | You have to arrive at the airport two hours early. | ایئرپورٹ پر دو گھنٹے پہلے پہنچنا ضروری ہے۔
+> 친구를 마중하러 공항에 갔어요. | I went to the airport to pick up a friend. | میں دوست کو لینے ایئرپورٹ گیا۔
+> 공항버스를 타고 시내로 갔어요. | I took the airport bus downtown. | میں ایئرپورٹ بس سے شہر گیا۔
++ 회사 | 會社 | hoesa | noun | company, office | کمپنی، دفتر | Work & Employment | 1 | 회사에 다니다 = to work for a company.
+> 저는 무역 회사에 다녀요. | I work for a trading company. | میں ایک تجارتی کمپنی میں کام کرتا ہوں۔
+> 회사가 집에서 멀어요. | The office is far from my house. | دفتر میرے گھر سے دور ہے۔
+> 오늘은 회사에 일찍 갔어요. | I went to the office early today. | آج میں دفتر جلدی گیا۔
++ 호텔 |  | hotel | noun | hotel | ہوٹل | Travel & Transportation | 1 |
+> 호텔에 체크인했어요. | I checked into the hotel. | میں نے ہوٹل میں چیک ان کیا۔
+> 이 호텔은 아침 식사가 포함돼요. | Breakfast is included at this hotel. | اس ہوٹل میں ناشتہ شامل ہے۔
+> 바다 근처 호텔을 예약했어요. | I booked a hotel near the sea. | میں نے سمندر کے قریب ہوٹل بک کیا۔
++ 교회 | 敎會 | gyohoe | noun | church | گرجا گھر | Society & Culture | 1 | Mosque: 이슬람 사원 or 모스크. Temple: 절.
+> 일요일마다 교회에 가요. | I go to church every Sunday. | میں ہر اتوار گرجا گھر جاتا ہوں۔
+> 이 동네에는 교회가 많아요. | There are many churches in this neighborhood. | اس محلے میں بہت سے گرجا گھر ہیں۔
+> 교회 앞에서 사진을 찍었어요. | I took a photo in front of the church. | میں نے گرجا گھر کے سامنے تصویر کھینچی۔
++ 길 |  | gil | noun | road, street; way | راستہ، سڑک | Places & Directions | 1 | 길을 잃다 = to get lost.
+> 길을 건널 때 조심하세요. | Be careful when you cross the street. | سڑک پار کرتے وقت احتیاط کریں۔
+> 이 길로 쭉 가세요. | Go straight along this road. | اس راستے پر سیدھے جائیں۔
+> 길에서 우연히 선생님을 만났어요. | I ran into my teacher on the street by chance. | راستے میں اتفاق سے استاد سے ملاقات ہو گئی۔
++ 문 | 門 | mun | noun | door, gate | دروازہ | Places & Directions | 1 | 문을 열다/닫다 = open/close the door (also shops opening/closing).
+> 문 좀 닫아 주세요. | Please close the door. | ذرا دروازہ بند کر دیں۔
+> 가게가 아직 문을 안 열었어요. | The shop hasn't opened yet. | دکان ابھی نہیں کھلی۔
+> 누가 문을 두드려요. | Someone is knocking on the door. | کوئی دروازہ کھٹکھٹا رہا ہے۔
++ 창문 | 窓門 | changmun | noun | window | کھڑکی | Places & Directions | 1 |
+> 더워서 창문을 열었어요. | It was hot, so I opened the window. | گرمی تھی، اس لیے میں نے کھڑکی کھولی۔
+> 창문 밖으로 산이 보여요. | You can see the mountains out the window. | کھڑکی سے باہر پہاڑ نظر آتے ہیں۔
+> 바람이 불어서 창문이 흔들려요. | The window is shaking because the wind is blowing. | ہوا چلنے سے کھڑکی ہل رہی ہے۔
++ 책 | 冊 | chaek | noun | book | کتاب | Education & University | 1 | Counter: 권 (책 두 권).
+> 요즘 무슨 책을 읽어요? | What book are you reading these days? | آج کل کون سی کتاب پڑھ رہے ہیں؟
+> 서점에서 책을 두 권 샀어요. | I bought two books at the bookstore. | میں نے کتابوں کی دکان سے دو کتابیں خریدیں۔
+> 이 책은 아주 재미있어요. | This book is very interesting. | یہ کتاب بہت دلچسپ ہے۔
++ 가방 |  | gabang | noun | bag | بیگ، تھیلا | Daily Life in Korea | 1 |
+> 가방 안에 뭐가 있어요? | What's in your bag? | آپ کے بیگ میں کیا ہے؟
+> 새 가방을 선물로 받았어요. | I got a new bag as a present. | مجھے تحفے میں نیا بیگ ملا۔
+> 가방이 너무 무거워요. | The bag is too heavy. | بیگ بہت بھاری ہے۔
++ 옷 |  | ot | noun | clothes | کپڑے | Shopping & Money | 1 | 옷을 입다 = to put on/wear clothes; 벗다 = take off.
+> 오늘 무슨 옷을 입을까요? | What clothes should I wear today? | آج کون سے کپڑے پہنوں؟
+> 백화점에서 옷을 샀어요. | I bought clothes at the department store. | میں نے ڈیپارٹمنٹ اسٹور سے کپڑے خریدے۔
+> 옷이 작아서 바꾸고 싶어요. | The clothes are small, so I'd like to exchange them. | کپڑے چھوٹے ہیں، بدلنا چاہتا ہوں۔
++ 신발 |  | sinbal | noun | shoes | جوتے | Shopping & Money | 1 | 신발을 신다 = to put on shoes. Koreans take shoes off at home.
+> 집에 들어갈 때 신발을 벗으세요. | Take off your shoes when you enter the house. | گھر میں داخل ہوتے وقت جوتے اتار دیں۔
+> 이 신발은 편해서 자주 신어요. | These shoes are comfortable, so I wear them often. | یہ جوتے آرام دہ ہیں، اس لیے اکثر پہنتا ہوں۔
+> 운동할 때 신을 신발이 필요해요. | I need shoes to wear when I exercise. | مجھے ورزش کے لیے جوتوں کی ضرورت ہے۔
++ 시계 | 時計 | sigye | noun | clock, watch | گھڑی | Daily Life in Korea | 1 |
+> 시계가 5분 빨라요. | The clock is five minutes fast. | گھڑی پانچ منٹ آگے ہے۔
+> 아버지께 시계를 선물했어요. | I gave my father a watch as a present. | میں نے ابو کو گھڑی تحفے میں دی۔
+> 벽에 시계가 걸려 있어요. | A clock is hanging on the wall. | دیوار پر گھڑی لٹکی ہوئی ہے۔
++ 휴대폰 | 携帶- | hyudaepon | noun | mobile phone | موبائل فون | Daily Life in Korea | 1 | Also 핸드폰 (konglish), 스마트폰.
+> 휴대폰 번호가 어떻게 되세요? | What's your mobile number? | آپ کا موبائل نمبر کیا ہے؟
+> 휴대폰을 잃어버렸어요. | I lost my phone. | میرا موبائل گم ہو گیا۔
+> 영화관에서는 휴대폰을 꺼 주세요. | Please turn off your phone in the cinema. | سنیما میں موبائل بند کر دیں۔
++ 컴퓨터 |  | keompyuteo | noun | computer | کمپیوٹر | Media & Technology | 1 |
+> 컴퓨터로 보고서를 썼어요. | I wrote the report on the computer. | میں نے کمپیوٹر پر رپورٹ لکھی۔
+> 컴퓨터가 너무 느려요. | The computer is too slow. | کمپیوٹر بہت سست ہے۔
+> 동생은 컴퓨터 게임을 좋아해요. | My younger sibling likes computer games. | چھوٹے بھائی کو کمپیوٹر گیمز پسند ہیں۔
++ 돈 |  | don | noun | money | پیسہ، رقم | Shopping & Money | 1 | 돈을 벌다 = earn money; 돈을 쓰다 = spend money.
+> 돈이 없어서 못 샀어요. | I didn't have money, so I couldn't buy it. | پیسے نہیں تھے، اس لیے نہیں خرید سکا۔
+> 아르바이트로 돈을 벌어요. | I earn money from a part-time job. | میں پارٹ ٹائم کام سے پیسے کماتا ہوں۔
+> 여행에 돈을 많이 썼어요. | I spent a lot of money on the trip. | سفر پر بہت پیسے خرچ ہوئے۔
++ 물건 | 物件 | mulgeon | noun | thing, item, goods | چیز، سامان | Shopping & Money | 1 |
+> 이 가게는 물건이 싸요. | The goods in this shop are cheap. | اس دکان میں چیزیں سستی ہیں۔
+> 필요 없는 물건은 버리세요. | Throw away things you don't need. | جو چیزیں کام کی نہیں انہیں پھینک دیں۔
+> 잃어버린 물건을 찾았어요. | I found the item I had lost. | گم شدہ چیز مل گئی۔
++ 우산 | 雨傘 | usan | noun | umbrella | چھتری | Daily Life in Korea | 1 |
+> 비가 오니까 우산을 가져가세요. | It's raining, so take an umbrella. | بارش ہو رہی ہے، چھتری لے جائیں۔
+> 지하철에 우산을 두고 내렸어요. | I left my umbrella on the subway. | میں میٹرو میں چھتری بھول آیا۔
+> 우산을 같이 써요. | Let's share the umbrella. | چلیں ایک ہی چھتری میں چلتے ہیں۔
++ 의자 | 椅子 | uija | noun | chair | کرسی | Daily Life in Korea | 1 |
+> 의자에 앉으세요. | Please sit on the chair. | کرسی پر بیٹھیں۔
+> 이 의자는 좀 불편해요. | This chair is a bit uncomfortable. | یہ کرسی تھوڑی تکلیف دہ ہے۔
+> 의자가 하나 더 필요해요. | We need one more chair. | ایک اور کرسی کی ضرورت ہے۔
++ 책상 | 冊床 | chaeksang | noun | desk | میز (پڑھنے کی) | Daily Life in Korea | 1 | Dining table: 식탁.
+> 책상 위에 컴퓨터가 있어요. | There's a computer on the desk. | میز پر کمپیوٹر رکھا ہے۔
+> 책상을 정리했어요. | I tidied up my desk. | میں نے اپنی میز ترتیب دی۔
+> 새 책상을 샀어요. | I bought a new desk. | میں نے نئی میز خریدی۔
++ 침대 | 寢臺 | chimdae | noun | bed | پلنگ، بستر | Daily Life in Korea | 1 |
+> 침대가 너무 편해서 일어나기 싫어요. | The bed is so comfortable I don't want to get up. | بستر اتنا آرام دہ ہے کہ اٹھنے کو دل نہیں چاہتا۔
+> 침대 밑에 고양이가 있어요. | There's a cat under the bed. | پلنگ کے نیچے بلی ہے۔
+> 이 방에는 침대가 두 개 있어요. | There are two beds in this room. | اس کمرے میں دو پلنگ ہیں۔
++ 냉장고 | 冷藏庫 | naengjanggo | noun | refrigerator | فریج | Daily Life in Korea | 1 |
+> 우유는 냉장고에 있어요. | The milk is in the refrigerator. | دودھ فریج میں ہے۔
+> 냉장고가 비어 있어요. | The fridge is empty. | فریج خالی ہے۔
+> 남은 음식을 냉장고에 넣었어요. | I put the leftover food in the fridge. | میں نے بچا ہوا کھانا فریج میں رکھ دیا۔
++ 텔레비전 |  | tellebijeon | noun | television | ٹیلی وژن | Media & Technology | 1 | Short: TV (티브이).
+> 저녁에 텔레비전으로 뉴스를 봐요. | In the evening I watch the news on TV. | شام کو میں ٹی وی پر خبریں دیکھتا ہوں۔
+> 텔레비전 소리 좀 줄여 주세요. | Please turn down the TV. | ٹی وی کی آواز ذرا کم کر دیں۔
+> 거실에 큰 텔레비전이 있어요. | There's a big TV in the living room. | ڈرائنگ روم میں بڑا ٹی وی ہے۔
++ 사진 | 寫眞 | sajin | noun | photo, picture | تصویر | Hobbies & Leisure | 1 | 사진을 찍다 = to take a photo.
+> 여기서 사진을 찍어도 돼요? | May I take photos here? | کیا یہاں تصویر لے سکتا ہوں؟
+> 여행 사진을 친구에게 보냈어요. | I sent my travel photos to a friend. | میں نے سفر کی تصویریں دوست کو بھیجیں۔
+> 사진 좀 찍어 주시겠어요? | Could you take a picture for us? | کیا آپ ہماری تصویر کھینچ دیں گے؟
++ 편지 | 便紙 | pyeonji | noun | letter | خط | Daily Life in Korea | 1 |
+> 할머니께 편지를 썼어요. | I wrote a letter to my grandmother. | میں نے دادی کو خط لکھا۔
+> 오랜만에 친구한테서 편지가 왔어요. | A letter came from a friend after a long time. | بہت عرصے بعد دوست کا خط آیا۔
+> 편지 봉투에 주소를 쓰세요. | Write the address on the envelope. | لفافے پر پتہ لکھیں۔
++ 선물 | 膳物 | seonmul | noun | present, gift | تحفہ | Daily Life in Korea | 1 |
+> 생일 선물로 뭘 받고 싶어요? | What do you want for your birthday? | سالگرہ پر کیا تحفہ چاہتے ہیں؟
+> 친구에게 꽃을 선물했어요. | I gave a friend flowers as a present. | میں نے دوست کو پھول تحفے میں دیے۔
+> 이건 작은 선물이에요. | This is a small gift. | یہ ایک چھوٹا سا تحفہ ہے۔
++ 표 | 票 | pyo | noun | ticket | ٹکٹ | Travel & Transportation | 1 | 표 also means "chart, table" (表).
+> 영화 표를 두 장 샀어요. | I bought two movie tickets. | میں نے فلم کے دو ٹکٹ خریدے۔
+> 기차 표는 어디에서 사요? | Where do I buy train tickets? | ٹرین کا ٹکٹ کہاں سے ملتا ہے؟
+> 표를 보여 주세요. | Please show your ticket. | براہ کرم ٹکٹ دکھائیں۔
++ 지도 | 地圖 | jido | noun | map | نقشہ | Travel & Transportation | 1 | 지도 (指導) also means "guidance".
+> 지도를 보면서 길을 찾았어요. | I found the way while looking at a map. | میں نے نقشہ دیکھ کر راستہ ڈھونڈا۔
+> 휴대폰 지도 앱이 아주 편리해요. | The phone map app is very convenient. | فون کی نقشہ ایپ بہت کارآمد ہے۔
+> 이 지도에 우리 학교가 있어요. | Our school is on this map. | اس نقشے پر ہمارا اسکول ہے۔
++ 앞 |  | ap | noun | front | سامنے، آگے | Places & Directions | 1 | 앞에 = in front of.
+> 은행 앞에서 기다릴게요. | I'll wait in front of the bank. | میں بینک کے سامنے انتظار کروں گا۔
+> 앞에 앉은 사람이 너무 커요. | The person sitting in front is too tall. | سامنے بیٹھا شخص بہت لمبا ہے۔
+> 앞으로 잘 부탁드립니다. | I look forward to working with you from now on. | آئندہ آپ کے تعاون کی امید ہے۔
++ 뒤 |  | dwi | noun | back, behind; after | پیچھے؛ بعد | Places & Directions | 1 |
+> 집 뒤에 작은 정원이 있어요. | There's a small garden behind the house. | گھر کے پیچھے ایک چھوٹا باغ ہے۔
+> 뒤를 돌아보세요. | Look behind you. | پیچھے مڑ کر دیکھیں۔
+> 수업이 끝난 뒤에 만나요. | Let's meet after class. | کلاس ختم ہونے کے بعد ملتے ہیں۔
++ 옆 |  | yeop | noun | side, next to | ساتھ، بغل | Places & Directions | 1 |
+> 제 옆에 앉으세요. | Sit next to me. | میرے ساتھ بیٹھیں۔
+> 학교 옆에 공원이 있어요. | There's a park next to the school. | اسکول کے ساتھ ایک پارک ہے۔
+> 옆집 사람은 친절해요. | The person next door is kind. | ساتھ والے گھر کا آدمی مہربان ہے۔
++ 위 |  | wi | noun | top, above, on | اوپر | Places & Directions | 1 | 위 (胃) also means "stomach".
+> 책상 위에 책이 있어요. | There's a book on the desk. | میز پر کتاب ہے۔
+> 위층에 누가 살아요? | Who lives upstairs? | اوپر کی منزل پر کون رہتا ہے؟
+> 산 위에서 보는 경치가 멋있어요. | The view from the top of the mountain is wonderful. | پہاڑ کی چوٹی سے نظارہ شاندار ہے۔
++ 아래 |  | arae | noun | below, under, bottom | نیچے | Places & Directions | 1 | Also 밑.
+> 나무 아래에서 쉬었어요. | I rested under a tree. | میں نے درخت کے نیچے آرام کیا۔
+> 아래층에 식당이 있어요. | There's a restaurant downstairs. | نیچے کی منزل پر ریستوران ہے۔
+> 아래에 있는 설명을 읽어 보세요. | Read the explanation below. | نیچے دی گئی وضاحت پڑھیں۔
++ 안 |  | an | noun | inside | اندر | Places & Directions | 1 | 안 (adverb) also means "not": 안 가요.
+> 가방 안에 지갑이 있어요. | My wallet is in the bag. | بیگ کے اندر بٹوا ہے۔
+> 추우니까 안으로 들어오세요. | It's cold, so come inside. | سردی ہے، اندر آ جائیں۔
+> 건물 안에서는 담배를 피우면 안 돼요. | You can't smoke inside the building. | عمارت کے اندر سگریٹ پینا منع ہے۔
++ 밖 |  | bak | noun | outside | باہر | Places & Directions | 1 |
+> 밖에 비가 와요. | It's raining outside. | باہر بارش ہو رہی ہے۔
+> 밖에서 기다리고 있을게요. | I'll be waiting outside. | میں باہر انتظار کر رہا ہوں گا۔
+> 오늘은 밖에 나가기 싫어요. | I don't want to go out today. | آج باہر جانے کو دل نہیں چاہتا۔
++ 오른쪽 |  | oreunjjok | noun | right (side) | دائیں طرف | Places & Directions | 1 |
+> 오른쪽으로 가세요. | Go to the right. | دائیں طرف جائیں۔
+> 오른쪽에 있는 건물이 병원이에요. | The building on the right is the hospital. | دائیں طرف والی عمارت ہسپتال ہے۔
+> 오른쪽 손을 다쳤어요. | I hurt my right hand. | میرے دائیں ہاتھ پر چوٹ لگی۔
++ 왼쪽 |  | oenjjok | noun | left (side) | بائیں طرف | Places & Directions | 1 |
+> 다음 사거리에서 왼쪽으로 도세요. | Turn left at the next intersection. | اگلے چوراہے سے بائیں مڑیں۔
+> 왼쪽 눈이 좀 아파요. | My left eye hurts a little. | میری بائیں آنکھ میں تھوڑا درد ہے۔
+> 화장실은 왼쪽에 있어요. | The restroom is on the left. | واش روم بائیں طرف ہے۔
++ 근처 | 近處 | geuncheo | noun | nearby area, vicinity | آس پاس، قریب | Places & Directions | 1 |
+> 이 근처에 편의점이 있어요? | Is there a convenience store around here? | کیا یہاں آس پاس کوئی کنویننس اسٹور ہے؟
+> 회사 근처에서 점심을 먹어요. | I eat lunch near the office. | میں دفتر کے قریب دوپہر کا کھانا کھاتا ہوں۔
+> 학교 근처로 이사하고 싶어요. | I want to move near the school. | میں اسکول کے قریب منتقل ہونا چاہتا ہوں۔
++ 멀다 |  | meolda | adjective | far | دور | Places & Directions | 1 | Irregular: 멀어요, 먼 곳.
+> 집이 회사에서 멀어요. | My house is far from the office. | میرا گھر دفتر سے دور ہے۔
+> 공항까지 얼마나 멀어요? | How far is it to the airport? | ایئرپورٹ کتنا دور ہے؟
+> 먼 곳에서 와 주셔서 감사합니다. | Thank you for coming from so far away. | اتنی دور سے آنے کا شکریہ۔
++ 가깝다 |  | gakkapda | adjective | near, close | قریب، نزدیک | Places & Directions | 1 | ㅂ-irregular: 가까워요.
+> 학교가 집에서 가까워요. | The school is close to my house. | اسکول میرے گھر کے قریب ہے۔
+> 가까운 곳에 약국이 있어요? | Is there a pharmacy close by? | کیا قریب کوئی فارمیسی ہے؟
+> 가까운 시일 안에 다시 만나요. | Let's meet again soon. | جلد ہی پھر ملتے ہیں۔

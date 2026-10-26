@@ -1,0 +1,201 @@
+# Beginner: food and eating
++ 밥 |  | bap | noun | cooked rice; meal | چاول؛ کھانا | Food & Cooking | 1 | 밥 먹었어요? is a common greeting ("Have you eaten?").
+> 밥 먹었어요? | Have you eaten? | کھانا کھا لیا؟
+> 저는 하루에 밥을 세 번 먹어요. | I eat three meals a day. | میں دن میں تین بار کھانا کھاتا ہوں۔
+> 밥이 다 됐어요. | The rice is ready. | چاول تیار ہو گئے۔
++ 물 |  | mul | noun | water | پانی | Food & Cooking | 1 |
+> 물 한 잔 주세요. | A glass of water, please. | ایک گلاس پانی دیجیے۔
+> 운동한 후에 물을 많이 마셔요. | I drink a lot of water after exercising. | ورزش کے بعد میں بہت پانی پیتا ہوں۔
+> 이 물은 마셔도 돼요? | Is this water safe to drink? | کیا یہ پانی پی سکتے ہیں؟
++ 빵 |  | ppang | noun | bread | روٹی، ڈبل روٹی | Food & Cooking | 1 | Bakery: 빵집.
+> 아침에 빵과 우유를 먹었어요. | I had bread and milk in the morning. | صبح میں نے ڈبل روٹی اور دودھ لیا۔
+> 이 빵집은 빵이 맛있어요. | This bakery's bread is tasty. | اس بیکری کی روٹی مزے دار ہے۔
+> 빵을 굽는 냄새가 좋아요. | The smell of baking bread is nice. | روٹی پکنے کی خوشبو اچھی لگتی ہے۔
++ 고기 |  | gogi | noun | meat | گوشت | Food & Cooking | 1 | 소고기 beef, 닭고기 chicken, 돼지고기 pork, 양고기 lamb.
+> 저는 고기보다 생선을 좋아해요. | I like fish more than meat. | مجھے گوشت سے زیادہ مچھلی پسند ہے۔
+> 할랄 고기를 어디서 살 수 있어요? | Where can I buy halal meat? | حلال گوشت کہاں سے مل سکتا ہے؟
+> 고기를 구워서 먹었어요. | We grilled the meat and ate it. | ہم نے گوشت بھون کر کھایا۔
++ 생선 | 生鮮 | saengseon | noun | fish (as food) | مچھلی (کھانے کی) | Food & Cooking | 1 | Live fish in water: 물고기.
+> 저녁에 생선을 구웠어요. | I grilled fish for dinner. | رات کے کھانے کے لیے میں نے مچھلی بھونی۔
+> 이 시장은 생선이 신선해요. | The fish at this market is fresh. | اس بازار کی مچھلی تازہ ہے۔
+> 생선 뼈를 조심하세요. | Watch out for fish bones. | مچھلی کے کانٹوں سے ہوشیار رہیں۔
++ 계란 | 鷄卵 | gyeran | noun | egg | انڈا | Food & Cooking | 1 | Also 달걀 (native word).
+> 아침마다 계란을 두 개 먹어요. | I eat two eggs every morning. | میں ہر صبح دو انڈے کھاتا ہوں۔
+> 계란 프라이를 만들었어요. | I made a fried egg. | میں نے انڈا فرائی کیا۔
+> 계란이 다 떨어졌어요. | We're out of eggs. | انڈے ختم ہو گئے۔
++ 과일 |  | gwail | noun | fruit | پھل | Food & Cooking | 1 |
+> 저는 과일을 좋아해요. | I like fruit. | مجھے پھل پسند ہیں۔
+> 여름에는 과일이 싸요. | Fruit is cheap in summer. | گرمیوں میں پھل سستے ہوتے ہیں۔
+> 식사 후에 과일을 먹어요. | I eat fruit after meals. | کھانے کے بعد میں پھل کھاتا ہوں۔
++ 사과 | 沙果 | sagwa | noun | apple | سیب | Food & Cooking | 1 | 사과 (謝過) also means "apology": 사과하다.
+> 사과 세 개에 얼마예요? | How much for three apples? | تین سیب کتنے کے ہیں؟
+> 이 사과는 달고 맛있어요. | This apple is sweet and tasty. | یہ سیب میٹھا اور مزے دار ہے۔
+> 사과를 깎아 드릴까요? | Shall I peel an apple for you? | کیا میں آپ کے لیے سیب چھیل دوں؟
++ 바나나 |  | banana | noun | banana | کیلا | Food & Cooking | 1 |
+> 바나나 한 송이 주세요. | One bunch of bananas, please. | کیلوں کا ایک گچھا دے دیں۔
+> 운동 전에 바나나를 먹어요. | I eat a banana before exercising. | ورزش سے پہلے میں کیلا کھاتا ہوں۔
+> 바나나 우유는 한국에서 인기가 많아요. | Banana milk is very popular in Korea. | کوریا میں کیلے کا دودھ بہت مقبول ہے۔
++ 채소 | 菜蔬 | chaeso | noun | vegetables | سبزیاں | Food & Cooking | 1 | Also 야채.
+> 채소를 많이 먹으면 건강에 좋아요. | Eating lots of vegetables is good for your health. | زیادہ سبزیاں کھانا صحت کے لیے اچھا ہے۔
+> 아이들은 채소를 싫어해요. | Children dislike vegetables. | بچوں کو سبزیاں پسند نہیں ہوتیں۔
+> 시장에서 신선한 채소를 샀어요. | I bought fresh vegetables at the market. | میں نے بازار سے تازہ سبزیاں خریدیں۔
++ 김치 |  | gimchi | noun | kimchi | کمچی (کوریائی اچار) | Food & Cooking | 1 | Fermented, usually spicy vegetables, mostly napa cabbage.
+> 한국 사람들은 매일 김치를 먹어요. | Koreans eat kimchi every day. | کوریائی لوگ روزانہ کمچی کھاتے ہیں۔
+> 김치가 너무 매워요. | The kimchi is too spicy. | کمچی بہت تیز ہے۔
+> 겨울이 오기 전에 김치를 담가요. | We make kimchi before winter comes. | سردیاں آنے سے پہلے ہم کمچی بناتے ہیں۔
++ 라면 |  | ramyeon | noun | instant noodles, ramyeon | انسٹنٹ نوڈلز | Food & Cooking | 1 |
+> 배고파서 라면을 끓였어요. | I was hungry, so I boiled some ramyeon. | بھوک لگی تو میں نے نوڈلز ابالے۔
+> 라면은 간단하지만 건강에는 안 좋아요. | Ramyeon is simple but not good for your health. | نوڈلز آسان ہیں مگر صحت کے لیے اچھے نہیں۔
+> 편의점에서 컵라면을 먹었어요. | I ate cup ramyeon at the convenience store. | میں نے کنویننس اسٹور پر کپ نوڈلز کھائے۔
++ 커피 |  | keopi | noun | coffee | کافی | Food & Cooking | 1 |
+> 커피 한 잔 할까요? | Shall we have a cup of coffee? | ایک کپ کافی پئیں؟
+> 저는 아침마다 커피를 마셔요. | I drink coffee every morning. | میں ہر صبح کافی پیتا ہوں۔
+> 커피를 마시면 잠이 안 와요. | If I drink coffee, I can't sleep. | کافی پیوں تو نیند نہیں آتی۔
++ 차 | 茶 | cha | noun | tea | چائے | Food & Cooking | 1 | Same spelling as 차 (車) "car". 녹차 green tea.
+> 따뜻한 차 한 잔 드릴까요? | Shall I give you a cup of hot tea? | گرم چائے کا ایک کپ دوں؟
+> 저는 커피보다 차를 좋아해요. | I like tea more than coffee. | مجھے کافی سے زیادہ چائے پسند ہے۔
+> 감기에는 생강차가 좋아요. | Ginger tea is good for a cold. | زکام کے لیے ادرک کی چائے اچھی ہے۔
++ 우유 | 牛乳 | uyu | noun | milk | دودھ | Food & Cooking | 1 |
+> 매일 우유를 한 잔씩 마셔요. | I drink a glass of milk every day. | میں روزانہ ایک گلاس دودھ پیتا ہوں۔
+> 우유가 상했어요. | The milk has gone bad. | دودھ خراب ہو گیا۔
+> 커피에 우유를 넣어 주세요. | Please put milk in the coffee. | کافی میں دودھ ڈال دیں۔
++ 주스 |  | juseu | noun | juice | جوس | Food & Cooking | 1 |
+> 오렌지 주스 한 잔 주세요. | One glass of orange juice, please. | ایک گلاس اورنج جوس دیجیے۔
+> 아침에 사과 주스를 마셨어요. | I drank apple juice in the morning. | صبح میں نے سیب کا جوس پیا۔
+> 이 주스는 설탕이 안 들어 있어요. | This juice has no added sugar. | اس جوس میں چینی نہیں ہے۔
++ 음식 | 飮食 | eumsik | noun | food | کھانا | Food & Cooking | 1 |
+> 무슨 음식을 좋아해요? | What food do you like? | آپ کو کون سا کھانا پسند ہے؟
+> 파키스탄 음식은 맛있고 매워요. | Pakistani food is tasty and spicy. | پاکستانی کھانا مزے دار اور مرچ والا ہوتا ہے۔
+> 음식이 식기 전에 드세요. | Eat before the food gets cold. | کھانا ٹھنڈا ہونے سے پہلے کھا لیں۔
++ 아침 |  | achim | noun | morning; breakfast | صبح؛ ناشتہ | Time & Numbers | 1 | 아침(밥) = breakfast.
+> 아침에 일찍 일어나요. | I get up early in the morning. | میں صبح جلدی اٹھتا ہوں۔
+> 아침을 먹었어요? | Did you have breakfast? | ناشتہ کر لیا؟
+> 아침마다 운동을 해요. | I exercise every morning. | میں ہر صبح ورزش کرتا ہوں۔
++ 점심 | 點心 | jeomsim | noun | lunch; midday | دوپہر کا کھانا؛ دوپہر | Time & Numbers | 1 |
+> 점심에 뭐 먹을까요? | What shall we eat for lunch? | دوپہر کو کیا کھائیں؟
+> 점심시간은 12시부터 1시까지예요. | Lunchtime is from twelve to one. | دوپہر کے کھانے کا وقفہ بارہ سے ایک بجے تک ہے۔
+> 동료들과 같이 점심을 먹었어요. | I ate lunch with my coworkers. | میں نے ساتھیوں کے ساتھ دوپہر کا کھانا کھایا۔
++ 저녁 |  | jeonyeok | noun | evening; dinner | شام؛ رات کا کھانا | Time & Numbers | 1 |
+> 저녁에 시간 있어요? | Are you free this evening? | کیا شام کو فارغ ہیں؟
+> 저녁으로 불고기를 먹었어요. | I had bulgogi for dinner. | رات کے کھانے میں میں نے بلگوگی کھائی۔
+> 저녁 7시에 만나요. | Let's meet at 7 in the evening. | شام سات بجے ملتے ہیں۔
++ 맛있다 |  | masitda | adjective | delicious, tasty | مزے دار، لذیذ | Food & Cooking | 1 | Opposite: 맛없다 (not tasty).
+> 이 음식 정말 맛있어요! | This food is really delicious! | یہ کھانا واقعی بہت مزے دار ہے!
+> 맛있게 드세요. | Enjoy your meal. | مزے سے کھائیں۔
+> 근처에 맛있는 식당이 있어요? | Is there a good restaurant nearby? | کیا قریب کوئی اچھا ریستوران ہے؟
++ 맛없다 |  | madeopda | adjective | not tasty | بے ذائقہ، بدمزہ | Food & Cooking | 1 |
+> 이 빵은 너무 맛없어요. | This bread is really not tasty. | یہ روٹی بالکل بے مزہ ہے۔
+> 맛없는 음식은 먹고 싶지 않아요. | I don't want to eat food that doesn't taste good. | میں بدمزہ کھانا نہیں کھانا چاہتا۔
+> 식으면 맛없어요. | It doesn't taste good when it gets cold. | ٹھنڈا ہو جائے تو بے مزہ ہو جاتا ہے۔
++ 맵다 |  | maepda | adjective | spicy, hot | تیز، مرچ والا | Food & Cooking | 1 | ㅂ-irregular: 매워요. 안 맵게 해 주세요 = please make it not spicy.
+> 떡볶이가 너무 매워요. | The tteokbokki is too spicy. | تیوک بوکی بہت تیز ہے۔
+> 저는 매운 음식을 잘 먹어요. | I can eat spicy food well. | میں تیز کھانا آرام سے کھا لیتا ہوں۔
+> 덜 맵게 해 주세요. | Please make it less spicy. | تھوڑا کم تیز بنا دیں۔
++ 짜다 |  | jjada | adjective | salty | نمکین، زیادہ نمک والا | Food & Cooking | 1 |
+> 국이 좀 짜요. | The soup is a bit salty. | سوپ میں نمک تھوڑا زیادہ ہے۔
+> 짠 음식은 건강에 나빠요. | Salty food is bad for your health. | زیادہ نمک والا کھانا صحت کے لیے نقصان دہ ہے۔
+> 바닷물은 짜요. | Seawater is salty. | سمندر کا پانی کھارا ہوتا ہے۔
++ 달다 |  | dalda | adjective | sweet | میٹھا | Food & Cooking | 1 | ㄹ-irregular: 단 음식.
+> 이 케이크는 너무 달아요. | This cake is too sweet. | یہ کیک بہت میٹھا ہے۔
+> 단 음식을 줄이고 있어요. | I'm cutting down on sweet food. | میں میٹھا کم کر رہا ہوں۔
+> 수박이 아주 달아요. | The watermelon is very sweet. | تربوز بہت میٹھا ہے۔
++ 시다 |  | sida | adjective | sour | کھٹا | Food & Cooking | 1 |
+> 레몬은 너무 시어요. | Lemons are very sour. | لیموں بہت کھٹا ہے۔
+> 김치가 익어서 좀 셔요. | The kimchi has fermented, so it's a bit sour. | کمچی پک گئی ہے، اس لیے تھوڑی کھٹی ہے۔
+> 신 음식을 먹으면 침이 나와요. | Eating sour food makes my mouth water. | کھٹی چیز کھانے سے منہ میں پانی آ جاتا ہے۔
++ 배고프다 |  | baegopeuda | adjective | hungry | بھوکا | Food & Cooking | 1 | 배가 고프다. Opposite: 배부르다.
+> 배고파요. 밥 먹으러 가요. | I'm hungry. Let's go eat. | مجھے بھوک لگی ہے، چلیں کھانا کھاتے ہیں۔
+> 아침을 안 먹어서 배고파요. | I didn't eat breakfast, so I'm hungry. | ناشتہ نہیں کیا، اس لیے بھوک لگی ہے۔
+> 배고프면 이 빵을 드세요. | If you're hungry, have this bread. | بھوک لگے تو یہ روٹی کھا لیں۔
++ 배부르다 |  | baebureuda | adjective | full (after eating) | پیٹ بھرا ہونا | Food & Cooking | 1 | 르-irregular: 배불러요.
+> 너무 많이 먹어서 배불러요. | I ate too much, so I'm full. | بہت زیادہ کھا لیا، پیٹ بھر گیا۔
+> 배불러서 디저트는 못 먹겠어요. | I'm full, so I can't eat dessert. | پیٹ بھرا ہے، میٹھا نہیں کھا سکوں گا۔
+> 배부르게 먹었어요. 감사합니다. | I ate until I was full. Thank you. | پیٹ بھر کر کھایا، شکریہ۔
++ 먹다 |  | meokda | verb | to eat | کھانا | Food & Cooking | 1 | Honorific: 드시다 / 잡수시다. Also used for taking medicine: 약을 먹다.
+> 같이 저녁 먹을래요? | Do you want to have dinner together? | ساتھ رات کا کھانا کھائیں گے؟
+> 저는 돼지고기를 안 먹어요. | I don't eat pork. | میں سور کا گوشت نہیں کھاتا۔
+> 약을 먹고 푹 쉬세요. | Take the medicine and get a good rest. | دوا لے کر اچھی طرح آرام کریں۔
++ 마시다 |  | masida | verb | to drink | پینا | Food & Cooking | 1 |
+> 뭐 마실래요? | What would you like to drink? | کیا پئیں گے؟
+> 저는 술을 안 마셔요. | I don't drink alcohol. | میں شراب نہیں پیتا۔
+> 하루에 물을 두 리터 마셔요. | I drink two liters of water a day. | میں روزانہ دو لیٹر پانی پیتا ہوں۔
++ 요리하다 | 料理- | yorihada | verb | to cook | کھانا پکانا | Food & Cooking | 1 | Noun: 요리 (cooking, dish).
+> 주말에는 제가 요리해요. | I cook on weekends. | ہفتے کے آخر میں میں کھانا پکاتا ہوں۔
+> 한국 음식을 요리할 수 있어요? | Can you cook Korean food? | کیا آپ کوریائی کھانا پکا سکتے ہیں؟
+> 요리하는 것을 좋아해요. | I like cooking. | مجھے کھانا پکانا پسند ہے۔
++ 주문하다 | 注文- | jumunhada | verb | to order | آرڈر کرنا | Food & Cooking | 1 |
+> 주문하시겠어요? | Are you ready to order? | کیا آپ آرڈر دیں گے؟
+> 인터넷으로 책을 주문했어요. | I ordered a book online. | میں نے انٹرنیٹ پر کتاب منگوائی۔
+> 치킨을 주문해서 먹었어요. | We ordered chicken and ate it. | ہم نے چکن منگوا کر کھایا۔
++ 메뉴 |  | menyu | noun | menu | مینو | Food & Cooking | 1 |
+> 메뉴 좀 보여 주세요. | Please show me the menu. | ذرا مینو دکھائیں۔
+> 오늘의 메뉴는 비빔밥이에요. | Today's special is bibimbap. | آج کی خاص ڈش بی بیم باپ ہے۔
+> 이 식당은 메뉴가 다양해요. | This restaurant has a varied menu. | اس ریستوران کا مینو کافی متنوع ہے۔
++ 젓가락 |  | jeotgarak | noun | chopsticks | کھانے کی تیلیاں | Food & Cooking | 1 | Spoon: 숟가락. Together: 수저.
+> 젓가락을 사용할 줄 알아요? | Do you know how to use chopsticks? | کیا آپ کو چاپ اسٹکس استعمال کرنا آتا ہے؟
+> 한국 젓가락은 쇠로 만들어요. | Korean chopsticks are made of metal. | کوریائی چاپ اسٹکس دھات کی بنی ہوتی ہیں۔
+> 젓가락 하나 더 주세요. | One more pair of chopsticks, please. | ایک اور جوڑی چاپ اسٹکس دے دیں۔
++ 숟가락 |  | sutgarak | noun | spoon | چمچ | Food & Cooking | 1 |
+> 밥은 숟가락으로 먹어요. | We eat rice with a spoon. | ہم چاول چمچ سے کھاتے ہیں۔
+> 숟가락이 떨어졌어요. | The spoon fell. | چمچ گر گیا۔
+> 아이에게 작은 숟가락을 주세요. | Please give the child a small spoon. | بچے کو چھوٹا چمچ دیں۔
++ 접시 |  | jeopsi | noun | plate, dish | پلیٹ | Food & Cooking | 1 |
+> 접시에 과일을 담았어요. | I put fruit on a plate. | میں نے پلیٹ میں پھل رکھے۔
+> 접시를 깨뜨렸어요. | I broke a plate. | مجھ سے پلیٹ ٹوٹ گئی۔
+> 앞접시 하나 주시겠어요? | Could I have a small plate? | کیا ایک چھوٹی پلیٹ مل سکتی ہے؟
++ 컵 |  | keop | noun | cup, glass | کپ، گلاس | Food & Cooking | 1 | 잔 is used as a counter: 물 한 잔.
+> 컵에 물을 따르세요. | Pour water into the cup. | کپ میں پانی ڈالیں۔
+> 이 컵은 제 거예요. | This cup is mine. | یہ کپ میرا ہے۔
+> 종이컵 대신 머그컵을 써요. | I use a mug instead of a paper cup. | میں کاغذ کے کپ کے بجائے مگ استعمال کرتا ہوں۔
++ 설탕 | 雪糖 | seoltang | noun | sugar | چینی | Food & Cooking | 1 |
+> 커피에 설탕을 넣어요? | Do you put sugar in your coffee? | کیا آپ کافی میں چینی ڈالتے ہیں؟
+> 설탕을 너무 많이 넣지 마세요. | Don't put in too much sugar. | زیادہ چینی مت ڈالیں۔
+> 이 과자에는 설탕이 많이 들어 있어요. | This snack has a lot of sugar. | اس بسکٹ میں بہت چینی ہے۔
++ 소금 |  | sogeum | noun | salt | نمک | Food & Cooking | 1 |
+> 소금 좀 건네주세요. | Please pass the salt. | ذرا نمک پکڑا دیں۔
+> 국에 소금을 조금 더 넣으세요. | Add a bit more salt to the soup. | سوپ میں تھوڑا اور نمک ڈالیں۔
+> 소금을 줄이면 건강에 좋아요. | Cutting down on salt is good for your health. | نمک کم کرنا صحت کے لیے اچھا ہے۔
++ 술 |  | sul | noun | alcohol, alcoholic drink | شراب | Food & Cooking | 1 | 술을 마시다 = to drink alcohol. Muslims may say 저는 술을 안 마셔요.
+> 회식 때 술을 마시지 않아도 괜찮아요. | It's okay not to drink alcohol at team dinners. | دفتری دعوت میں شراب نہ پینا بھی ٹھیک ہے۔
+> 술을 마시고 운전하면 안 돼요. | You must not drink and drive. | شراب پی کر گاڑی چلانا منع ہے۔
+> 저는 종교 때문에 술을 안 마셔요. | I don't drink alcohol for religious reasons. | میں مذہبی وجہ سے شراب نہیں پیتا۔
++ 과자 | 菓子 | gwaja | noun | snack, cookies, chips | بسکٹ، چپس | Food & Cooking | 1 |
+> 아이들이 과자를 좋아해요. | Children like snacks. | بچوں کو بسکٹ پسند ہیں۔
+> 영화 볼 때 과자를 먹어요. | I eat snacks while watching a movie. | فلم دیکھتے ہوئے میں چپس کھاتا ہوں۔
+> 과자를 너무 많이 먹지 마세요. | Don't eat too many snacks. | زیادہ بسکٹ مت کھائیں۔
++ 비빔밥 |  | bibimbap | noun | bibimbap (mixed rice with vegetables) | بی بیم باپ (سبزی ملے چاول) | Food & Cooking | 1 | 비비다 = to mix.
+> 비빔밥에 고추장을 넣어서 비벼요. | You add red pepper paste to bibimbap and mix it. | بی بیم باپ میں مرچ کا پیسٹ ڈال کر ملاتے ہیں۔
+> 전주 비빔밥이 유명해요. | Jeonju bibimbap is famous. | جیونجو کا بی بیم باپ مشہور ہے۔
+> 고기 없이 비빔밥을 만들어 주세요. | Please make the bibimbap without meat. | براہ کرم گوشت کے بغیر بی بیم باپ بنائیں۔
++ 냄새 |  | naemsae | noun | smell, odor | بو، خوشبو | Food & Cooking | 1 | 냄새가 나다 = to smell (give off a smell).
+> 부엌에서 좋은 냄새가 나요. | A nice smell is coming from the kitchen. | باورچی خانے سے اچھی خوشبو آ رہی ہے۔
+> 이상한 냄새가 나요. | There's a strange smell. | عجیب سی بو آ رہی ہے۔
+> 이 꽃은 냄새가 좋아요. | This flower smells nice. | اس پھول کی خوشبو اچھی ہے۔
++ 맛 |  | mat | noun | taste, flavor | ذائقہ | Food & Cooking | 1 | 맛을 보다 = to taste (try).
+> 맛이 어때요? | How does it taste? | ذائقہ کیسا ہے؟
+> 이 국은 맛이 좀 싱거워요. | This soup tastes a bit bland. | اس سوپ کا ذائقہ تھوڑا پھیکا ہے۔
+> 한번 맛 좀 보세요. | Have a taste. | ذرا چکھ کر دیکھیں۔
++ 시키다 |  | sikida | verb | to order (food); to make someone do | منگوانا؛ کسی سے کام کروانا | Food & Cooking | 1 |
+> 짜장면 두 그릇 시켰어요. | I ordered two bowls of jjajangmyeon. | میں نے جاجانگ میون کی دو پیالیاں منگوائیں۔
+> 선생님이 저에게 청소를 시키셨어요. | The teacher made me clean up. | استاد نے مجھ سے صفائی کروائی۔
+> 뭐 시킬까요? | What shall we order? | کیا منگوائیں؟
++ 끓이다 |  | kkeurida | verb | to boil | ابالنا | Food & Cooking | 1 | Intransitive: 끓다 (to boil, be boiling).
+> 물을 끓여서 차를 만들었어요. | I boiled water and made tea. | میں نے پانی ابال کر چائے بنائی۔
+> 찌개를 끓이고 있어요. | I'm making stew. | میں سالن پکا رہا ہوں۔
+> 라면은 3분만 끓이세요. | Boil the ramyeon for only three minutes. | نوڈلز صرف تین منٹ ابالیں۔
++ 굽다 |  | gupda | verb | to grill, to bake, to roast | بھوننا، پکانا (تندور میں) | Food & Cooking | 1 | ㅂ-irregular: 구워요.
+> 고기를 구워 먹었어요. | We grilled meat and ate it. | ہم نے گوشت بھون کر کھایا۔
+> 어머니가 케이크를 구우셨어요. | My mother baked a cake. | امی نے کیک بنایا۔
+> 빵을 구운 냄새가 좋아요. | Freshly baked bread smells nice. | تازہ پکی روٹی کی خوشبو اچھی ہے۔
++ 씻다 |  | ssitda | verb | to wash | دھونا | Daily Life in Korea | 1 | For clothes use 빨다 / 빨래하다; for dishes 설거지하다.
+> 밥 먹기 전에 손을 씻으세요. | Wash your hands before eating. | کھانے سے پہلے ہاتھ دھوئیں۔
+> 과일을 깨끗이 씻었어요. | I washed the fruit thoroughly. | میں نے پھل اچھی طرح دھوئے۔
+> 얼굴을 씻고 잤어요. | I washed my face and went to sleep. | میں منہ دھو کر سو گیا۔
++ 자르다 |  | jareuda | verb | to cut | کاٹنا | Food & Cooking | 1 | 르-irregular: 잘라요. Haircut: 머리를 자르다.
+> 가위로 고기를 잘라요. | We cut the meat with scissors. | ہم قینچی سے گوشت کاٹتے ہیں۔
+> 머리를 짧게 잘랐어요. | I cut my hair short. | میں نے بال چھوٹے کروا لیے۔
+> 케이크를 여덟 조각으로 자르세요. | Cut the cake into eight pieces. | کیک کے آٹھ ٹکڑے کریں۔
++ 넣다 |  | neota | verb | to put in | ڈالنا، رکھنا (اندر) | Food & Cooking | 1 |
+> 가방에 책을 넣었어요. | I put the book in my bag. | میں نے کتاب بیگ میں رکھ دی۔
+> 찌개에 두부를 넣으세요. | Put tofu in the stew. | سالن میں توفو ڈالیں۔
+> 카드를 넣고 비밀번호를 누르세요. | Insert your card and enter your PIN. | کارڈ ڈالیں اور خفیہ نمبر دبائیں۔

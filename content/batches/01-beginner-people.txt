@@ -1,0 +1,213 @@
+# Beginner: people, family, jobs
++ 사람 |  | saram | noun | person, people | آدمی، انسان، لوگ | Family & People | 1 | Counter: 명 (세 명) or polite 분 (세 분).
+> 저 사람은 누구예요? | Who is that person? | وہ شخص کون ہے؟
+> 시장에 사람이 정말 많아요. | There are really a lot of people at the market. | بازار میں واقعی بہت لوگ ہیں۔
+> 그는 좋은 사람이에요. | He is a good person. | وہ اچھا انسان ہے۔
++ 가족 | 家族 | gajok | noun | family | خاندان، گھر والے | Family & People | 1 | 가족 = family; 가정 = household, home.
+> 우리 가족은 다섯 명이에요. | There are five people in my family. | ہمارے خاندان میں پانچ افراد ہیں۔
+> 주말에 가족과 함께 시간을 보내요. | I spend time with my family on weekends. | ہفتے کے آخر میں میں گھر والوں کے ساتھ وقت گزارتا ہوں۔
+> 가족 사진을 보여 줄게요. | I'll show you a family photo. | میں آپ کو خاندانی تصویر دکھاتا ہوں۔
++ 아버지 |  | abeoji | noun | father | والد، ابو | Family & People | 1 | Casual: 아빠. Honorific: 아버님 (someone else's father, father-in-law).
+> 아버지는 은행에서 일하세요. | My father works at a bank. | میرے والد بینک میں کام کرتے ہیں۔
+> 아버지께 전화를 드렸어요. | I called my father. | میں نے والد صاحب کو فون کیا۔
+> 우리 아버지는 요리를 잘하세요. | My father is good at cooking. | میرے ابو اچھا کھانا پکاتے ہیں۔
++ 어머니 |  | eomeoni | noun | mother | والدہ، امی | Family & People | 1 | Casual: 엄마. Honorific: 어머님.
+> 어머니가 김치를 만들어 주셨어요. | My mother made kimchi for me. | امی نے میرے لیے کمچی بنائی۔
+> 어머니 생신 선물을 샀어요. | I bought a birthday present for my mother. | میں نے والدہ کی سالگرہ کا تحفہ خریدا۔
+> 어머니는 지금 집에 계세요. | My mother is at home now. | امی اس وقت گھر پر ہیں۔
++ 부모님 | 父母- | bumonim | noun | parents | والدین | Family & People | 1 | 부모 + honorific 님.
+> 부모님은 파키스탄에 사세요. | My parents live in Pakistan. | میرے والدین پاکستان میں رہتے ہیں۔
+> 방학에 부모님을 뵈러 고향에 가요. | During vacation I go home to see my parents. | چھٹیوں میں میں والدین سے ملنے گھر جاتا ہوں۔
+> 부모님께 감사하는 마음을 전했어요. | I expressed my gratitude to my parents. | میں نے والدین کا شکریہ ادا کیا۔
++ 형 | 兄 | hyeong | noun | older brother (said by a male) | بڑا بھائی (لڑکا کہے) | Family & People | 1 | A female says 오빠. Also used for a close older male friend.
+> 형은 저보다 세 살 많아요. | My older brother is three years older than me. | بڑا بھائی مجھ سے تین سال بڑا ہے۔
+> 형하고 같이 축구를 했어요. | I played soccer with my older brother. | میں نے بڑے بھائی کے ساتھ فٹبال کھیلا۔
+> 형이 대학교에 다녀요. | My older brother goes to university. | بڑا بھائی یونیورسٹی میں پڑھتا ہے۔
++ 오빠 |  | oppa | noun | older brother (said by a female) | بڑا بھائی (لڑکی کہے) | Family & People | 1 | A male says 형. Also used for a close older male friend or boyfriend.
+> 오빠가 숙제를 도와줬어요. | My older brother helped me with my homework. | بھائی جان نے ہوم ورک میں میری مدد کی۔
+> 우리 오빠는 군대에 있어요. | My older brother is in the military. | میرا بڑا بھائی فوج میں ہے۔
+> 오빠, 같이 밥 먹으러 가요. | Oppa, let's go eat together. | بھائی، چلیں ساتھ کھانا کھانے چلتے ہیں۔
++ 누나 |  | nuna | noun | older sister (said by a male) | بڑی بہن (لڑکا کہے) | Family & People | 1 | A female says 언니.
+> 누나가 결혼해서 서울에 살아요. | My older sister got married and lives in Seoul. | بڑی بہن کی شادی ہو گئی اور وہ سیول میں رہتی ہے۔
+> 누나는 간호사예요. | My older sister is a nurse. | میری بڑی بہن نرس ہے۔
+> 누나한테 선물을 받았어요. | I got a present from my older sister. | مجھے بڑی بہن سے تحفہ ملا۔
++ 언니 |  | eonni | noun | older sister (said by a female) | بڑی بہن (لڑکی کہے) | Family & People | 1 | A male says 누나. Also for a close older female friend.
+> 언니랑 쇼핑하러 갔어요. | I went shopping with my older sister. | میں بڑی بہن کے ساتھ خریداری کرنے گئی۔
+> 언니는 저보다 키가 커요. | My older sister is taller than me. | بڑی بہن مجھ سے لمبی ہے۔
+> 언니가 화장하는 방법을 가르쳐 줬어요. | My older sister taught me how to do makeup. | بڑی بہن نے مجھے میک اپ کرنا سکھایا۔
++ 동생 | 同生 | dongsaeng | noun | younger sibling | چھوٹا بھائی یا بہن | Family & People | 1 | 남동생 = younger brother, 여동생 = younger sister.
+> 동생은 고등학생이에요. | My younger sibling is a high school student. | میرا چھوٹا بھائی ہائی اسکول کا طالب علم ہے۔
+> 동생이랑 자주 싸워요. | I often fight with my younger sibling. | میں اکثر چھوٹی بہن سے لڑتا ہوں۔
+> 남동생이 한 명 있어요. | I have one younger brother. | میرا ایک چھوٹا بھائی ہے۔
++ 할머니 |  | halmeoni | noun | grandmother | دادی، نانی | Family & People | 1 | 외할머니 = maternal grandmother (نانی).
+> 할머니 댁은 시골에 있어요. | My grandmother's house is in the countryside. | دادی کا گھر گاؤں میں ہے۔
+> 할머니께서 옛날이야기를 해 주셨어요. | My grandmother told me an old story. | دادی نے مجھے پرانی کہانی سنائی۔
+> 할머니는 올해 여든 살이세요. | My grandmother is eighty this year. | دادی جان اس سال اسی برس کی ہو گئیں۔
++ 할아버지 |  | harabeoji | noun | grandfather | دادا، نانا | Family & People | 1 | 외할아버지 = maternal grandfather (نانا).
+> 할아버지는 매일 아침 산책을 하세요. | My grandfather takes a walk every morning. | دادا جان ہر صبح سیر کرتے ہیں۔
+> 할아버지께 인사를 드렸어요. | I greeted my grandfather. | میں نے دادا جان کو سلام کیا۔
+> 할아버지가 젊었을 때 군인이셨어요. | My grandfather was a soldier when he was young. | دادا جوانی میں فوجی تھے۔
++ 아들 |  | adeul | noun | son | بیٹا | Family & People | 1 |
+> 그분은 아들이 둘 있어요. | That person has two sons. | ان کے دو بیٹے ہیں۔
+> 아들이 올해 초등학교에 들어가요. | My son starts elementary school this year. | میرا بیٹا اس سال پرائمری اسکول میں داخل ہو رہا ہے۔
+> 아들과 함께 낚시를 갔어요. | I went fishing with my son. | میں بیٹے کے ساتھ مچھلی پکڑنے گیا۔
++ 딸 |  | ttal | noun | daughter | بیٹی | Family & People | 1 |
+> 딸이 피아노를 배워요. | My daughter is learning piano. | میری بیٹی پیانو سیکھ رہی ہے۔
+> 우리 딸은 그림 그리는 것을 좋아해요. | Our daughter likes drawing. | ہماری بیٹی کو تصویریں بنانا پسند ہے۔
+> 딸에게 인형을 사 줬어요. | I bought my daughter a doll. | میں نے بیٹی کو گڑیا خرید کر دی۔
++ 남편 | 男便 | nampyeon | noun | husband | شوہر | Family & People | 1 |
+> 제 남편은 요리사예요. | My husband is a chef. | میرے شوہر باورچی ہیں۔
+> 남편과 함께 여행을 갔어요. | I went on a trip with my husband. | میں شوہر کے ساتھ سیر کو گئی۔
+> 남편이 퇴근하면 같이 저녁을 먹어요. | When my husband gets home from work, we eat dinner together. | شوہر دفتر سے آتے ہیں تو ہم مل کر رات کا کھانا کھاتے ہیں۔
++ 아내 |  | anae | noun | wife | بیوی | Family & People | 1 | Speaking of your own wife you can also say 집사람 or 와이프 (casual).
+> 아내가 생일 케이크를 만들어 줬어요. | My wife made me a birthday cake. | بیوی نے میرے لیے سالگرہ کا کیک بنایا۔
+> 아내와 저는 대학교에서 만났어요. | My wife and I met at university. | میری بیوی اور میں یونیورسٹی میں ملے تھے۔
+> 아내는 선생님이에요. | My wife is a teacher. | میری بیوی استانی ہے۔
++ 아이 |  | ai | noun | child, kid | بچہ | Family & People | 1 | Short form 애. Children: 아이들.
+> 아이들이 놀이터에서 놀고 있어요. | The children are playing in the playground. | بچے کھیل کے میدان میں کھیل رہے ہیں۔
+> 아이가 몇 살이에요? | How old is your child? | آپ کا بچہ کتنے سال کا ہے؟
+> 그 아이는 아주 똑똑해요. | That child is very smart. | وہ بچہ بہت ذہین ہے۔
++ 친구 | 親舊 | chingu | noun | friend | دوست | Family & People | 1 | Used only for people of about the same age in Korean.
+> 친구를 만나러 카페에 가요. | I'm going to a café to meet a friend. | میں دوست سے ملنے کیفے جا رہا ہوں۔
+> 한국 친구가 많이 생겼어요. | I've made a lot of Korean friends. | میرے بہت سے کوریائی دوست بن گئے ہیں۔
+> 친구한테 생일 선물을 줬어요. | I gave my friend a birthday present. | میں نے دوست کو سالگرہ کا تحفہ دیا۔
++ 남자 | 男子 | namja | noun | man, male | مرد، لڑکا | Family & People | 1 | 남자 친구 = boyfriend.
+> 저 남자는 제 동료예요. | That man is my coworker. | وہ آدمی میرا ساتھی ہے۔
+> 우리 반에는 남자가 열 명 있어요. | There are ten boys in our class. | ہماری کلاس میں دس لڑکے ہیں۔
+> 남자 화장실은 어디예요? | Where is the men's restroom? | مردانہ بیت الخلا کہاں ہے؟
++ 여자 | 女子 | yeoja | noun | woman, female | عورت، لڑکی | Family & People | 1 | 여자 친구 = girlfriend.
+> 그 여자는 가수예요. | That woman is a singer. | وہ خاتون گلوکارہ ہے۔
+> 여자 친구와 영화를 봤어요. | I watched a movie with my girlfriend. | میں نے گرل فرینڈ کے ساتھ فلم دیکھی۔
+> 이 회사는 여자 직원이 많아요. | This company has many female employees. | اس کمپنی میں خواتین ملازمین زیادہ ہیں۔
++ 학생 | 學生 | haksaeng | noun | student | طالب علم | Education & University | 1 | 대학생 = university student, 유학생 = international student.
+> 저는 대학교 학생이에요. | I'm a university student. | میں یونیورسٹی کا طالب علم ہوں۔
+> 학생들이 도서관에서 공부하고 있어요. | The students are studying in the library. | طلبہ لائبریری میں پڑھ رہے ہیں۔
+> 학생 할인이 되나요? | Is there a student discount? | کیا طلبہ کے لیے رعایت ہے؟
++ 선생님 | 先生- | seonsaengnim | noun | teacher | استاد، استانی | Education & University | 1 | Also a polite way to address doctors and other professionals.
+> 우리 선생님은 아주 친절하세요. | Our teacher is very kind. | ہمارے استاد بہت مہربان ہیں۔
+> 선생님, 질문이 있어요. | Teacher, I have a question. | استاد جی، میرا ایک سوال ہے۔
+> 한국어 선생님이 되고 싶어요. | I want to become a Korean teacher. | میں کورین زبان کا استاد بننا چاہتا ہوں۔
++ 의사 | 醫師 | uisa | noun | doctor | ڈاکٹر | Work & Employment | 1 | Address a doctor as 선생님. 의사 also means "intention" (意思) in formal writing.
+> 의사가 푹 쉬라고 했어요. | The doctor told me to rest well. | ڈاکٹر نے کہا کہ اچھی طرح آرام کرو۔
+> 제 꿈은 의사가 되는 거예요. | My dream is to become a doctor. | میرا خواب ڈاکٹر بننا ہے۔
+> 그 병원에는 좋은 의사가 많아요. | That hospital has many good doctors. | اس ہسپتال میں بہت اچھے ڈاکٹر ہیں۔
++ 간호사 | 看護師 | ganhosa | noun | nurse | نرس | Work & Employment | 1 |
+> 간호사가 주사를 놓아 줬어요. | The nurse gave me an injection. | نرس نے مجھے ٹیکا لگایا۔
+> 간호사들은 밤에도 일해요. | Nurses work at night too. | نرسیں رات کو بھی کام کرتی ہیں۔
+> 간호사에게 약 먹는 방법을 물어봤어요. | I asked the nurse how to take the medicine. | میں نے نرس سے دوا لینے کا طریقہ پوچھا۔
++ 회사원 | 會社員 | hoesawon | noun | office worker, company employee | دفتری ملازم | Work & Employment | 1 | 직장인 is a near-synonym (anyone with a job).
+> 저는 회사원이에요. | I'm an office worker. | میں ایک کمپنی کا ملازم ہوں۔
+> 아침에 지하철에 회사원들이 많아요. | There are many office workers on the subway in the morning. | صبح میٹرو میں بہت سے دفتری ملازمین ہوتے ہیں۔
+> 회사원들은 보통 9시에 출근해요. | Office workers usually start work at nine. | دفتری ملازمین عموماً نو بجے دفتر پہنچتے ہیں۔
++ 경찰 | 警察 | gyeongchal | noun | police, police officer | پولیس | Work & Employment | 1 | Police officer: 경찰관. Police station: 경찰서.
+> 길을 잃어서 경찰에게 물어봤어요. | I got lost, so I asked a police officer. | راستہ بھول گیا تو میں نے پولیس والے سے پوچھا۔
+> 경찰이 도둑을 잡았어요. | The police caught the thief. | پولیس نے چور کو پکڑ لیا۔
+> 사고가 나면 경찰을 부르세요. | If there's an accident, call the police. | حادثہ ہو تو پولیس کو بلائیں۔
++ 요리사 | 料理師 | yorisa | noun | cook, chef | باورچی، شیف | Work & Employment | 1 |
+> 그 식당 요리사는 프랑스 사람이에요. | The chef at that restaurant is French. | اس ریستوران کا شیف فرانسیسی ہے۔
+> 요리사가 되려고 요리 학교에 다녀요. | I attend cooking school to become a chef. | شیف بننے کے لیے میں کھانا پکانے کے اسکول جاتا ہوں۔
+> 요리사가 추천하는 메뉴를 시켰어요. | I ordered the dish the chef recommended. | میں نے شیف کی تجویز کردہ ڈش منگوائی۔
++ 가수 | 歌手 | gasu | noun | singer | گلوکار | Society & Culture | 1 |
+> 제가 좋아하는 가수는 아이유예요. | My favorite singer is IU. | میری پسندیدہ گلوکارہ آئی یو ہے۔
+> 그 가수의 콘서트에 갔어요. | I went to that singer's concert. | میں اس گلوکار کے کنسرٹ میں گیا۔
+> 가수가 되는 것이 어렸을 때 꿈이었어요. | Becoming a singer was my childhood dream. | گلوکار بننا میرے بچپن کا خواب تھا۔
++ 배우 | 俳優 | baeu | noun | actor, actress | اداکار | Society & Culture | 1 | 배우다 (to learn) is a different word.
+> 그 배우는 연기를 정말 잘해요. | That actor acts really well. | وہ اداکار بہت اچھی اداکاری کرتا ہے۔
+> 공항에서 유명한 배우를 봤어요. | I saw a famous actor at the airport. | میں نے ایئرپورٹ پر ایک مشہور اداکار کو دیکھا۔
+> 영화배우보다 연극배우가 되고 싶어요. | I'd rather be a stage actor than a film actor. | میں فلمی اداکار کے بجائے تھیٹر کا اداکار بننا چاہتا ہوں۔
++ 손님 |  | sonnim | noun | guest, customer | مہمان، گاہک | Daily Life in Korea | 1 |
+> 오늘 저녁에 손님이 와요. | Guests are coming this evening. | آج شام مہمان آ رہے ہیں۔
+> 이 식당은 손님이 항상 많아요. | This restaurant always has a lot of customers. | اس ریستوران میں ہمیشہ گاہکوں کا رش ہوتا ہے۔
+> 손님, 무엇을 도와드릴까요? | Sir, how may I help you? | جناب، میں آپ کی کیا مدد کر سکتا ہوں؟
++ 이름 |  | ireum | noun | name | نام | Basics & Greetings | 1 | Honorific: 성함 (성함이 어떻게 되세요?).
+> 이름이 뭐예요? | What's your name? | آپ کا نام کیا ہے؟
+> 여기에 이름을 써 주세요. | Please write your name here. | یہاں اپنا نام لکھیں۔
+> 강아지 이름을 '보리'라고 지었어요. | I named the puppy "Bori." | میں نے کتے کے بچے کا نام "بوری" رکھا۔
++ 나이 |  | nai | noun | age | عمر | Basics & Greetings | 1 | Honorific: 연세 (연세가 어떻게 되세요?).
+> 나이가 어떻게 되세요? | How old are you? | آپ کی عمر کیا ہے؟
+> 저는 동생과 나이 차이가 많이 나요. | There's a big age gap between my sibling and me. | میرے اور چھوٹے بھائی کی عمر میں بہت فرق ہے۔
+> 나이가 들면 건강이 더 중요해져요. | As you get older, health becomes more important. | عمر بڑھنے کے ساتھ صحت زیادہ اہم ہو جاتی ہے۔
++ 나라 |  | nara | noun | country, nation | ملک | Basics & Greetings | 1 |
+> 어느 나라 사람이에요? | Which country are you from? | آپ کس ملک سے ہیں؟
+> 여러 나라를 여행하고 싶어요. | I want to travel to many countries. | میں کئی ملکوں کی سیر کرنا چاہتا ہوں۔
+> 우리 나라는 여름이 아주 더워요. | Summer is very hot in my country. | ہمارے ملک میں گرمیاں بہت سخت ہوتی ہیں۔
++ 외국인 | 外國人 | oegugin | noun | foreigner | غیر ملکی | Society & Culture | 1 | 외국 = foreign country.
+> 이태원에는 외국인이 많이 살아요. | Many foreigners live in Itaewon. | اتےوون میں بہت سے غیر ملکی رہتے ہیں۔
+> 외국인도 이 카드를 만들 수 있어요? | Can foreigners also get this card? | کیا غیر ملکی بھی یہ کارڈ بنوا سکتے ہیں؟
+> 외국인 친구에게 한국 음식을 소개했어요. | I introduced Korean food to a foreign friend. | میں نے غیر ملکی دوست کو کوریائی کھانوں سے متعارف کرایا۔
++ 안녕하세요 |  | annyeonghaseyo | expression | hello (polite) | السلام علیکم، ہیلو | Basics & Greetings | 1 | Literally "Are you at peace?" Used any time of day.
+> 안녕하세요? 처음 뵙겠습니다. | Hello. Nice to meet you. | السلام علیکم، آپ سے مل کر خوشی ہوئی۔
+> 선생님, 안녕하세요! | Hello, teacher! | استاد جی، السلام علیکم!
+> 아침마다 경비 아저씨께 안녕하세요 하고 인사해요. | Every morning I say hello to the security guard. | میں ہر صبح چوکیدار کو سلام کرتا ہوں۔
++ 감사합니다 | 感謝- | gamsahamnida | expression | thank you (formal) | شکریہ | Basics & Greetings | 1 | Same meaning as 고맙습니다. Casual: 고마워.
+> 도와주셔서 감사합니다. | Thank you for helping me. | مدد کرنے کا بہت شکریہ۔
+> 초대해 주셔서 정말 감사합니다. | Thank you very much for inviting me. | دعوت دینے کا بہت بہت شکریہ۔
+> 선물 감사합니다. 잘 쓸게요. | Thank you for the gift. I'll make good use of it. | تحفے کا شکریہ، میں اسے اچھی طرح استعمال کروں گا۔
++ 죄송합니다 | 罪悚- | joesonghamnida | expression | I'm sorry (formal) | معذرت، معاف کیجیے | Basics & Greetings | 1 | More formal than 미안합니다. Casual: 미안해.
+> 늦어서 죄송합니다. | I'm sorry I'm late. | دیر سے آنے پر معذرت۔
+> 죄송하지만 다시 한번 말씀해 주시겠어요? | Excuse me, could you say that once more? | معاف کیجیے، کیا آپ دوبارہ کہہ سکتے ہیں؟
+> 불편을 드려서 죄송합니다. | We apologize for the inconvenience. | زحمت کے لیے معذرت خواہ ہیں۔
++ 괜찮다 |  | gwaenchanta | adjective | to be okay, fine; not bad | ٹھیک ہونا، کوئی بات نہیں | Basics & Greetings | 1 | 괜찮아요 also means "No, thank you" when refusing.
+> 괜찮아요? 많이 아파요? | Are you okay? Does it hurt a lot? | آپ ٹھیک ہیں؟ زیادہ درد ہو رہا ہے؟
+> 커피 더 드릴까요? — 아니요, 괜찮아요. | Would you like more coffee? — No, I'm fine. | اور کافی دوں؟ — نہیں، شکریہ۔
+> 이 식당 음식이 꽤 괜찮아요. | The food at this restaurant is pretty good. | اس ریستوران کا کھانا کافی اچھا ہے۔
++ 네 |  | ne | interjection | yes | جی ہاں | Basics & Greetings | 1 | Also 예 (more formal). Also used to show you're listening.
+> 네, 알겠습니다. | Yes, I understand. | جی، میں سمجھ گیا۔
+> 네? 잘 못 들었어요. | Sorry? I didn't hear you well. | جی؟ میں ٹھیک سے سن نہیں سکا۔
+> 학생이에요? — 네, 학생이에요. | Are you a student? — Yes, I am. | کیا آپ طالب علم ہیں؟ — جی ہاں۔
++ 아니요 |  | aniyo | interjection | no | جی نہیں | Basics & Greetings | 1 | Casual: 아니.
+> 아니요, 저는 학생이 아니에요. | No, I'm not a student. | جی نہیں، میں طالب علم نہیں ہوں۔
+> 아니요, 괜찮아요. | No, it's okay. | نہیں، کوئی بات نہیں۔
+> 매운 음식 좋아해요? — 아니요, 별로요. | Do you like spicy food? — No, not really. | تیز کھانا پسند ہے؟ — نہیں، زیادہ نہیں۔
++ 저 |  | jeo | pronoun | I, me (humble) | میں (عاجزی سے) | Basics & Greetings | 1 | Casual: 나. Possessive 제 (= 저의): 제 이름.
+> 저는 파키스탄 사람이에요. | I'm Pakistani. | میں پاکستانی ہوں۔
+> 저도 같이 가도 돼요? | May I go with you too? | کیا میں بھی ساتھ چل سکتا ہوں؟
+> 제 이름은 아만이에요. | My name is Aman. | میرا نام امان ہے۔
++ 우리 |  | uri | pronoun | we, us; our | ہم؛ ہمارا | Basics & Greetings | 1 | Koreans say 우리 집, 우리 엄마 even for "my" home or mother. Humble form: 저희.
+> 우리 같이 점심 먹어요. | Let's have lunch together. | چلیں، ہم ساتھ دوپہر کا کھانا کھائیں۔
+> 우리 집은 학교 근처에 있어요. | Our house is near the school. | ہمارا گھر اسکول کے قریب ہے۔
+> 우리는 같은 반 친구예요. | We are classmates. | ہم ایک ہی کلاس کے دوست ہیں۔
++ 누구 |  | nugu | pronoun | who | کون | Basics & Greetings | 1 | As a subject it becomes 누가 (누가 왔어요?).
+> 이 가방은 누구 거예요? | Whose bag is this? | یہ بیگ کس کا ہے؟
+> 누가 문을 열었어요? | Who opened the door? | دروازہ کس نے کھولا؟
+> 누구랑 같이 살아요? | Who do you live with? | آپ کس کے ساتھ رہتے ہیں؟
++ 무엇 |  | mueot | pronoun | what | کیا | Basics & Greetings | 1 | Spoken short form 뭐 (뭐 해요?).
+> 이것은 무엇입니까? | What is this? | یہ کیا ہے؟
+> 주말에 뭐 했어요? | What did you do on the weekend? | ہفتے کے آخر میں کیا کیا؟
+> 뭐 먹고 싶어요? | What do you want to eat? | کیا کھانا چاہتے ہیں؟
++ 어디 |  | eodi | pronoun | where | کہاں | Basics & Greetings | 1 |
+> 화장실이 어디예요? | Where is the restroom? | بیت الخلا کہاں ہے؟
+> 어디에 살아요? | Where do you live? | آپ کہاں رہتے ہیں؟
+> 방학에 어디 갈 거예요? | Where will you go during the vacation? | چھٹیوں میں کہاں جائیں گے؟
++ 언제 |  | eonje | adverb | when | کب | Basics & Greetings | 1 |
+> 생일이 언제예요? | When is your birthday? | آپ کی سالگرہ کب ہے؟
+> 언제 한국에 왔어요? | When did you come to Korea? | آپ کوریا کب آئے؟
+> 언제든지 연락하세요. | Contact me any time. | کسی بھی وقت رابطہ کریں۔
++ 왜 |  | wae | adverb | why | کیوں | Basics & Greetings | 1 |
+> 왜 늦었어요? | Why were you late? | آپ دیر سے کیوں آئے؟
+> 왜 한국어를 배워요? | Why are you learning Korean? | آپ کورین کیوں سیکھ رہے ہیں؟
+> 왜 그렇게 생각해요? | Why do you think so? | آپ ایسا کیوں سوچتے ہیں؟
++ 어떻게 |  | eotteoke | adverb | how | کیسے | Basics & Greetings | 1 | 어떻다 (adj.) = to be how/what like: 날씨가 어때요?
+> 역까지 어떻게 가요? | How do I get to the station? | اسٹیشن تک کیسے جاؤں؟
+> 이 단어는 어떻게 읽어요? | How do you read this word? | یہ لفظ کیسے پڑھتے ہیں؟
+> 어떻게 지냈어요? | How have you been? | آپ کیسے رہے؟
++ 얼마 |  | eolma | noun | how much (price, amount) | کتنا، کتنے کا | Shopping & Money | 1 | 얼마나 = how (long/much/far): 얼마나 걸려요?
+> 이거 얼마예요? | How much is this? | یہ کتنے کا ہے؟
+> 모두 얼마예요? | How much is it altogether? | کل کتنے ہوئے؟
+> 집까지 얼마나 걸려요? | How long does it take to get home? | گھر تک کتنا وقت لگتا ہے؟
++ 이것 |  | igeot | pronoun | this (thing) | یہ (چیز) | Basics & Greetings | 1 | Spoken: 이거. 그것 = that (near you), 저것 = that (over there).
+> 이것 좀 보세요. | Please look at this. | ذرا یہ دیکھیں۔
+> 이거 주세요. | I'll take this, please. | یہ دے دیجیے۔
+> 이것보다 저것이 더 좋아요. | That one is better than this. | یہ والی سے وہ والی زیادہ اچھی ہے۔
++ 여기 |  | yeogi | pronoun | here | یہاں | Basics & Greetings | 1 | 거기 = there (near you), 저기 = over there.
+> 여기에 앉으세요. | Please sit here. | یہاں بیٹھیں۔
+> 여기가 어디예요? | Where is this place? | یہ کون سی جگہ ہے؟
+> 여기요! 물 좀 주세요. | Excuse me! Some water, please. | سنیے! تھوڑا پانی دیجیے۔
++ 거기 |  | geogi | pronoun | there (near the listener, or mentioned before) | وہاں | Basics & Greetings | 1 |
+> 거기 날씨는 어때요? | How's the weather there? | وہاں موسم کیسا ہے؟
+> 거기에서 기다려 주세요. | Please wait there. | وہیں انتظار کریں۔
+> 저도 거기에 가 봤어요. | I've been there too. | میں بھی وہاں جا چکا ہوں۔
++ 저기 |  | jeogi | pronoun | over there; excuse me (to get attention) | وہاں (دور)؛ سنیے | Basics & Greetings | 1 |
+> 저기 있는 건물이 우리 학교예요. | The building over there is our school. | وہ سامنے والی عمارت ہمارا اسکول ہے۔
+> 저기요, 이거 떨어뜨리셨어요. | Excuse me, you dropped this. | سنیے، آپ کی یہ چیز گر گئی۔
+> 버스 정류장은 저기예요. | The bus stop is over there. | بس اسٹاپ وہاں ہے۔

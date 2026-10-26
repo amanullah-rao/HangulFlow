@@ -1,0 +1,229 @@
+# Beginner: core verbs
++ 가다 |  | gada | verb | to go | جانا | Common Verbs & Adjectives | 1 | Honorific: 가시다.
+> 어디 가요? | Where are you going? | کہاں جا رہے ہیں؟
+> 내일 부산에 가요. | I'm going to Busan tomorrow. | کل میں بوسان جا رہا ہوں۔
+> 먼저 가세요. | Please go ahead. | آپ پہلے جائیں۔
++ 오다 |  | oda | verb | to come | آنا | Common Verbs & Adjectives | 1 | Also used for rain and snow: 비가 오다.
+> 언제 집에 와요? | When are you coming home? | گھر کب آئیں گے؟
+> 친구가 우리 집에 왔어요. | A friend came to my house. | ایک دوست میرے گھر آیا۔
+> 버스가 와요! 빨리 타요. | The bus is coming! Get on quickly. | بس آ رہی ہے! جلدی سوار ہوں۔
++ 하다 |  | hada | verb | to do | کرنا | Common Verbs & Adjectives | 1 | Turns many nouns into verbs: 공부하다, 운동하다.
+> 주말에 뭐 해요? | What do you do on weekends? | ہفتے کے آخر میں کیا کرتے ہیں؟
+> 숙제를 다 했어요. | I finished all my homework. | میں نے سارا ہوم ورک کر لیا۔
+> 최선을 다해서 할게요. | I'll do my best. | میں پوری کوشش کروں گا۔
++ 보다 |  | boda | verb | to see, to look at, to watch | دیکھنا | Common Verbs & Adjectives | 1 | 시험을 보다 = to take an exam. -아/어 보다 = to try doing.
+> 어제 영화를 봤어요. | I watched a movie yesterday. | کل میں نے فلم دیکھی۔
+> 이것 좀 보세요. | Take a look at this. | ذرا یہ دیکھیں۔
+> 다음 주에 토픽 시험을 봐요. | I'm taking the TOPIK exam next week. | اگلے ہفتے میں ٹاپک کا امتحان دے رہا ہوں۔
++ 듣다 |  | deutda | verb | to listen, to hear; to take (a class) | سننا؛ (کلاس) لینا | Common Verbs & Adjectives | 1 | ㄷ-irregular: 들어요. 수업을 듣다 = to take a class.
+> 음악을 들으면서 공부해요. | I study while listening to music. | میں موسیقی سنتے ہوئے پڑھتا ہوں۔
+> 잘 안 들려요. 크게 말해 주세요. | I can't hear well. Please speak loudly. | ٹھیک سے سنائی نہیں دے رہا، اونچا بولیں۔
+> 이번 학기에 경제학 수업을 들어요. | I'm taking an economics class this semester. | اس سمسٹر میں میں معاشیات کی کلاس لے رہا ہوں۔
++ 말하다 |  | malhada | verb | to speak, to say, to tell | بولنا، کہنا | Common Verbs & Adjectives | 1 | Honorific: 말씀하시다.
+> 천천히 말해 주세요. | Please speak slowly. | آہستہ بولیں۔
+> 한국어로 말할 수 있어요? | Can you speak Korean? | کیا آپ کورین بول سکتے ہیں؟
+> 그 일은 아무에게도 말하지 마세요. | Don't tell anyone about that. | یہ بات کسی کو مت بتائیں۔
++ 읽다 |  | ikda | verb | to read | پڑھنا | Common Verbs & Adjectives | 1 |
+> 매일 신문을 읽어요. | I read the newspaper every day. | میں روز اخبار پڑھتا ہوں۔
+> 이 글자를 어떻게 읽어요? | How do you read this letter? | یہ حرف کیسے پڑھتے ہیں؟
+> 책을 읽고 감상문을 썼어요. | I read the book and wrote a review. | میں نے کتاب پڑھ کر تبصرہ لکھا۔
++ 쓰다 |  | sseuda | verb | to write; to use; to wear (hat, glasses) | لکھنا؛ استعمال کرنا؛ پہننا (ٹوپی، عینک) | Common Verbs & Adjectives | 1 | Also 쓰다 (adj.) = bitter. 돈을 쓰다 = spend money.
+> 이름을 한국어로 써 보세요. | Try writing your name in Korean. | اپنا نام کورین میں لکھ کر دیکھیں۔
+> 이 컴퓨터 써도 돼요? | May I use this computer? | کیا میں یہ کمپیوٹر استعمال کر سکتا ہوں؟
+> 그는 안경을 쓰고 있어요. | He is wearing glasses. | اس نے عینک لگائی ہوئی ہے۔
++ 배우다 |  | baeuda | verb | to learn | سیکھنا | Common Verbs & Adjectives | 1 | 배우 (actor) is a different word.
+> 한국어를 1년 동안 배웠어요. | I learned Korean for a year. | میں نے ایک سال کورین سیکھی۔
+> 수영을 배우고 싶어요. | I want to learn to swim. | میں تیراکی سیکھنا چاہتا ہوں۔
+> 실수에서 많이 배웠어요. | I learned a lot from my mistakes. | میں نے اپنی غلطیوں سے بہت کچھ سیکھا۔
++ 가르치다 |  | gareuchida | verb | to teach | پڑھانا، سکھانا | Common Verbs & Adjectives | 1 | 가리키다 = to point at (different word).
+> 저는 아이들에게 영어를 가르쳐요. | I teach English to children. | میں بچوں کو انگریزی پڑھاتا ہوں۔
+> 운전하는 방법을 가르쳐 주세요. | Please teach me how to drive. | مجھے گاڑی چلانا سکھائیں۔
+> 그 선생님은 잘 가르치세요. | That teacher teaches well. | وہ استاد اچھا پڑھاتے ہیں۔
++ 공부하다 | 工夫- | gongbuhada | verb | to study | پڑھنا، مطالعہ کرنا | Education & University | 1 |
+> 도서관에서 공부해요. | I study at the library. | میں لائبریری میں پڑھتا ہوں۔
+> 매일 두 시간씩 한국어를 공부해요. | I study Korean for two hours every day. | میں روزانہ دو گھنٹے کورین پڑھتا ہوں۔
+> 시험 때문에 밤늦게까지 공부했어요. | I studied until late at night because of the exam. | امتحان کی وجہ سے میں رات دیر تک پڑھتا رہا۔
++ 알다 |  | alda | verb | to know | جاننا | Common Verbs & Adjectives | 1 | ㄹ-irregular: 아는 사람, 압니다. 알겠습니다 = Understood.
+> 그 사람을 알아요? | Do you know that person? | کیا آپ اس شخص کو جانتے ہیں؟
+> 네, 알겠습니다. | Yes, understood. | جی، سمجھ گیا۔
+> 길을 잘 아는 사람한테 물어보세요. | Ask someone who knows the way well. | کسی ایسے شخص سے پوچھیں جو راستہ اچھی طرح جانتا ہو۔
++ 모르다 |  | moreuda | verb | to not know | نہ جاننا | Common Verbs & Adjectives | 1 | 르-irregular: 몰라요.
+> 저는 잘 모르겠어요. | I'm not really sure. | مجھے ٹھیک سے معلوم نہیں۔
+> 모르는 단어가 많아요. | There are many words I don't know. | بہت سے الفاظ ہیں جو مجھے نہیں آتے۔
+> 모르면 물어보세요. | If you don't know, ask. | معلوم نہ ہو تو پوچھ لیں۔
++ 있다 |  | itda | verb | to be (somewhere); to have, to exist | ہونا، موجود ہونا؛ پاس ہونا | Common Verbs & Adjectives | 1 | Honorific "be somewhere": 계시다.
+> 시간 있어요? | Do you have time? | کیا آپ کے پاس وقت ہے؟
+> 지갑이 가방 안에 있어요. | The wallet is in the bag. | بٹوا بیگ کے اندر ہے۔
+> 여기 근처에 은행이 있어요? | Is there a bank near here? | کیا یہاں قریب کوئی بینک ہے؟
++ 없다 |  | eopda | verb | to not be; to not have | نہ ہونا | Common Verbs & Adjectives | 1 |
+> 오늘은 시간이 없어요. | I have no time today. | آج میرے پاس وقت نہیں ہے۔
+> 냉장고에 아무것도 없어요. | There's nothing in the fridge. | فریج میں کچھ نہیں ہے۔
+> 걱정 없어요. 제가 할게요. | No worries. I'll do it. | فکر نہ کریں، میں کر لوں گا۔
++ 주다 |  | juda | verb | to give | دینا | Common Verbs & Adjectives | 1 | To superiors: 드리다. -아/어 주다 = do something for someone.
+> 친구에게 책을 줬어요. | I gave a book to my friend. | میں نے دوست کو کتاب دی۔
+> 물 좀 주세요. | Please give me some water. | تھوڑا پانی دیں۔
+> 길을 가르쳐 줘서 고마워요. | Thanks for showing me the way. | راستہ بتانے کا شکریہ۔
++ 받다 |  | batda | verb | to receive, to get | لینا، وصول کرنا | Common Verbs & Adjectives | 1 | 전화를 받다 = answer the phone.
+> 생일에 선물을 많이 받았어요. | I got many presents on my birthday. | سالگرہ پر مجھے بہت سے تحفے ملے۔
+> 전화를 왜 안 받았어요? | Why didn't you answer the phone? | آپ نے فون کیوں نہیں اٹھایا؟
+> 이메일 받으셨어요? | Did you get the email? | کیا آپ کو ای میل ملی؟
++ 사다 |  | sada | verb | to buy | خریدنا | Shopping & Money | 1 | 사 주다 = to buy for someone (treat).
+> 시장에서 과일을 샀어요. | I bought fruit at the market. | میں نے بازار سے پھل خریدے۔
+> 오늘 점심은 제가 살게요. | Lunch is on me today. | آج دوپہر کا کھانا میری طرف سے۔
+> 뭘 사고 싶어요? | What do you want to buy? | آپ کیا خریدنا چاہتے ہیں؟
++ 팔다 |  | palda | verb | to sell | بیچنا | Shopping & Money | 1 | ㄹ-irregular: 파는 곳.
+> 이 가게에서 우산을 팔아요? | Do they sell umbrellas in this shop? | کیا اس دکان میں چھتریاں ملتی ہیں؟
+> 차를 팔고 자전거를 샀어요. | I sold my car and bought a bicycle. | میں نے گاڑی بیچ کر سائیکل خریدی۔
+> 표를 파는 곳이 어디예요? | Where do they sell tickets? | ٹکٹ کہاں ملتے ہیں؟
++ 만나다 |  | mannada | verb | to meet | ملنا | Common Verbs & Adjectives | 1 | Takes 을/를 or 와/과: 친구를 만나다, 친구와 만나다. Honorific: 뵙다.
+> 주말에 친구를 만나요. | I'm meeting a friend on the weekend. | ہفتے کے آخر میں میں دوست سے مل رہا ہوں۔
+> 만나서 반가워요. | Nice to meet you. | آپ سے مل کر خوشی ہوئی۔
+> 우리 몇 시에 만날까요? | What time shall we meet? | ہم کتنے بجے ملیں؟
++ 기다리다 |  | gidarida | verb | to wait | انتظار کرنا | Common Verbs & Adjectives | 1 |
+> 잠깐만 기다려 주세요. | Please wait a moment. | ذرا انتظار کریں۔
+> 버스를 30분이나 기다렸어요. | I waited as long as 30 minutes for the bus. | میں نے بس کا پورے تیس منٹ انتظار کیا۔
+> 방학을 기다리고 있어요. | I'm looking forward to vacation. | میں چھٹیوں کا انتظار کر رہا ہوں۔
++ 자다 |  | jada | verb | to sleep | سونا | Common Verbs & Adjectives | 1 | Honorific: 주무시다. 잘 자요 = Good night.
+> 어제 몇 시에 잤어요? | What time did you go to bed yesterday? | کل آپ کتنے بجے سوئے؟
+> 피곤해서 일찍 자고 싶어요. | I'm tired, so I want to sleep early. | تھکا ہوا ہوں، جلدی سونا چاہتا ہوں۔
+> 잘 자요. 내일 봐요. | Good night. See you tomorrow. | شب بخیر، کل ملتے ہیں۔
++ 일어나다 |  | ireonada | verb | to get up, to wake up; to happen | اٹھنا، جاگنا؛ واقع ہونا | Common Verbs & Adjectives | 1 |
+> 저는 매일 6시에 일어나요. | I get up at six every day. | میں روزانہ چھ بجے اٹھتا ہوں۔
+> 의자에서 일어나 주세요. | Please stand up from the chair. | کرسی سے کھڑے ہو جائیں۔
+> 무슨 일이 일어났어요? | What happened? | کیا ہوا؟
++ 앉다 |  | anda | verb | to sit | بیٹھنا | Common Verbs & Adjectives | 1 |
+> 여기 앉아도 돼요? | May I sit here? | کیا میں یہاں بیٹھ سکتا ہوں؟
+> 편하게 앉으세요. | Please sit comfortably. | آرام سے بیٹھیں۔
+> 버스에 앉을 자리가 없어요. | There's no seat on the bus. | بس میں بیٹھنے کی جگہ نہیں ہے۔
++ 서다 |  | seoda | verb | to stand; to stop | کھڑا ہونا؛ رکنا | Common Verbs & Adjectives | 1 | 줄을 서다 = to stand in line.
+> 줄을 서서 기다려 주세요. | Please wait in line. | قطار میں کھڑے ہو کر انتظار کریں۔
+> 하루 종일 서서 일했어요. | I worked standing all day. | میں سارا دن کھڑے ہو کر کام کرتا رہا۔
+> 이 버스는 시청 앞에 서요. | This bus stops in front of City Hall. | یہ بس سٹی ہال کے سامنے رکتی ہے۔
++ 걷다 |  | geotda | verb | to walk | چلنا، پیدل چلنا | Common Verbs & Adjectives | 1 | ㄷ-irregular: 걸어요. 걸어서 가다 = to go on foot.
+> 학교까지 걸어서 가요. | I walk to school. | میں پیدل اسکول جاتا ہوں۔
+> 하루에 만 보씩 걸어요. | I walk ten thousand steps a day. | میں روزانہ دس ہزار قدم چلتا ہوں۔
+> 너무 많이 걸어서 다리가 아파요. | I walked too much and my legs hurt. | بہت زیادہ چلنے سے ٹانگوں میں درد ہے۔
++ 뛰다 |  | ttwida | verb | to run; to jump | دوڑنا؛ کودنا | Common Verbs & Adjectives | 1 | Also 달리다 (to run).
+> 늦어서 역까지 뛰었어요. | I was late, so I ran to the station. | دیر ہو گئی تھی، اس لیے میں اسٹیشن تک دوڑا۔
+> 아이들이 운동장에서 뛰어요. | The children are running in the playground. | بچے میدان میں دوڑ رہے ہیں۔
+> 기뻐서 가슴이 뛰었어요. | My heart leapt with joy. | خوشی سے دل اچھل پڑا۔
++ 타다 |  | tada | verb | to ride, to get on (a vehicle) | سوار ہونا | Travel & Transportation | 1 | 버스를 타다. Also: 타다 = to burn.
+> 지하철을 타고 회사에 가요. | I take the subway to work. | میں میٹرو سے دفتر جاتا ہوں۔
+> 자전거를 탈 줄 알아요? | Do you know how to ride a bike? | کیا آپ کو سائیکل چلانی آتی ہے؟
+> 비행기를 처음 타 봤어요. | I rode on a plane for the first time. | میں پہلی بار ہوائی جہاز میں بیٹھا۔
++ 내리다 |  | naerida | verb | to get off; to come down (rain, snow) | اترنا؛ (بارش) برسنا | Travel & Transportation | 1 | 내려 주세요 = please let me off.
+> 다음 정류장에서 내려요. | I'm getting off at the next stop. | میں اگلے اسٹاپ پر اتروں گا۔
+> 여기서 내려 주세요. | Please let me off here. | مجھے یہیں اتار دیں۔
+> 하루 종일 비가 내렸어요. | It rained all day. | سارا دن بارش ہوتی رہی۔
++ 들어가다 |  | deureogada | verb | to go in, to enter | اندر جانا، داخل ہونا | Common Verbs & Adjectives | 1 | 들어오다 = to come in.
+> 먼저 들어가세요. | Please go in first. | آپ پہلے اندر جائیں۔
+> 여기는 들어가면 안 돼요. | You can't go in here. | یہاں داخل ہونا منع ہے۔
+> 늦어서 조용히 들어갔어요. | I was late, so I went in quietly. | میں دیر سے آیا، اس لیے خاموشی سے اندر گیا۔
++ 나가다 |  | nagada | verb | to go out, to leave | باہر جانا، نکلنا | Common Verbs & Adjectives | 1 | 나오다 = to come out.
+> 잠깐 밖에 나갔다 올게요. | I'll step outside for a moment. | میں ذرا باہر جا کر آتا ہوں۔
+> 비상시에는 이 문으로 나가세요. | In an emergency, exit through this door. | ہنگامی حالت میں اس دروازے سے باہر نکلیں۔
+> 주말에는 집 밖에 안 나가요. | On weekends I don't go out of the house. | ہفتے کے آخر میں میں گھر سے باہر نہیں نکلتا۔
++ 열다 |  | yeolda | verb | to open | کھولنا | Common Verbs & Adjectives | 1 | ㄹ-irregular: 여는 시간 = opening time.
+> 창문을 열어도 돼요? | May I open the window? | کیا میں کھڑکی کھول سکتا ہوں؟
+> 가게는 10시에 문을 열어요. | The shop opens at ten. | دکان دس بجے کھلتی ہے۔
+> 선물 상자를 열어 보세요. | Open the gift box. | تحفے کا ڈبہ کھول کر دیکھیں۔
++ 닫다 |  | datda | verb | to close, to shut | بند کرنا | Common Verbs & Adjectives | 1 |
+> 추우니까 문을 닫아 주세요. | It's cold, so please close the door. | سردی ہے، دروازہ بند کر دیں۔
+> 은행은 4시에 문을 닫아요. | The bank closes at four. | بینک چار بجے بند ہوتا ہے۔
+> 나갈 때 문 닫는 것을 잊지 마세요. | Don't forget to close the door when you leave. | جاتے وقت دروازہ بند کرنا مت بھولیں۔
++ 켜다 |  | kyeoda | verb | to turn on (light, device) | جلانا، چلانا (بتی، آلہ) | Common Verbs & Adjectives | 1 | Opposite: 끄다.
+> 불 좀 켜 주세요. | Please turn on the light. | ذرا بتی جلا دیں۔
+> 컴퓨터를 켰어요. | I turned on the computer. | میں نے کمپیوٹر چلایا۔
+> 더우면 에어컨을 켜세요. | If it's hot, turn on the AC. | گرمی ہو تو اے سی چلا دیں۔
++ 끄다 |  | kkeuda | verb | to turn off; to put out (fire) | بند کرنا؛ (آگ) بجھانا | Common Verbs & Adjectives | 1 | 으-irregular: 꺼요.
+> 나갈 때 불을 끄세요. | Turn off the light when you leave. | جاتے وقت بتی بند کر دیں۔
+> 휴대폰을 꺼 주세요. | Please turn off your phone. | براہ کرم موبائل بند کر دیں۔
+> 소방관이 불을 껐어요. | The firefighters put out the fire. | فائر فائٹرز نے آگ بجھا دی۔
++ 만들다 |  | mandeulda | verb | to make | بنانا | Common Verbs & Adjectives | 1 | ㄹ-irregular: 만드는 방법.
+> 김밥을 만들어 봤어요. | I tried making gimbap. | میں نے کمباپ بنا کر دیکھا۔
+> 이 의자는 할아버지가 만드셨어요. | Grandfather made this chair. | یہ کرسی دادا جان نے بنائی۔
+> 은행에서 계좌를 만들었어요. | I opened an account at the bank. | میں نے بینک میں اکاؤنٹ کھولا۔
++ 놀다 |  | nolda | verb | to play, to hang out | کھیلنا، گھومنا پھرنا | Hobbies & Leisure | 1 | ㄹ-irregular. 놀러 가다 = go out to have fun.
+> 아이들이 밖에서 놀아요. | The children are playing outside. | بچے باہر کھیل رہے ہیں۔
+> 주말에 친구들이랑 놀았어요. | I hung out with friends on the weekend. | ہفتے کے آخر میں میں دوستوں کے ساتھ گھوما۔
+> 우리 집에 놀러 오세요. | Come over to my place. | ہمارے گھر آئیں۔
++ 쉬다 |  | swida | verb | to rest | آرام کرنا | Common Verbs & Adjectives | 1 |
+> 피곤하면 좀 쉬세요. | If you're tired, rest a bit. | تھک گئے ہیں تو تھوڑا آرام کریں۔
+> 일요일에는 집에서 쉬어요. | On Sundays I rest at home. | اتوار کو میں گھر پر آرام کرتا ہوں۔
+> 10분만 쉬었다가 다시 해요. | Let's rest just ten minutes and then do it again. | دس منٹ آرام کر کے دوبارہ کرتے ہیں۔
++ 일하다 |  | ilhada | verb | to work | کام کرنا | Work & Employment | 1 |
+> 어디에서 일해요? | Where do you work? | آپ کہاں کام کرتے ہیں؟
+> 저는 식당에서 일해요. | I work at a restaurant. | میں ایک ریستوران میں کام کرتا ہوں۔
+> 하루에 여덟 시간 일해요. | I work eight hours a day. | میں دن میں آٹھ گھنٹے کام کرتا ہوں۔
++ 살다 |  | salda | verb | to live | رہنا؛ زندہ رہنا | Common Verbs & Adjectives | 1 | ㄹ-irregular: 사는 곳 = place where one lives.
+> 어디에 살아요? | Where do you live? | آپ کہاں رہتے ہیں؟
+> 서울에서 3년 동안 살았어요. | I lived in Seoul for three years. | میں تین سال سیول میں رہا۔
+> 할머니는 백 살까지 사셨어요. | Grandma lived to a hundred. | دادی سو سال تک زندہ رہیں۔
++ 좋아하다 |  | joahada | verb | to like | پسند کرنا | Common Verbs & Adjectives | 1 | Takes 을/를: 음악을 좋아해요. Compare 좋다 (adj.) with 이/가.
+> 저는 축구를 좋아해요. | I like soccer. | مجھے فٹبال پسند ہے۔
+> 무슨 색을 좋아해요? | What color do you like? | آپ کو کون سا رنگ پسند ہے؟
+> 그 사람을 좋아하게 됐어요. | I came to like that person. | مجھے وہ شخص اچھا لگنے لگا۔
++ 싫어하다 |  | sireohada | verb | to dislike, to hate | ناپسند کرنا | Common Verbs & Adjectives | 1 |
+> 저는 벌레를 싫어해요. | I hate bugs. | مجھے کیڑے مکوڑے ناپسند ہیں۔
+> 동생은 채소를 싫어해요. | My younger sibling dislikes vegetables. | چھوٹے بھائی کو سبزیاں پسند نہیں۔
+> 기다리는 것을 싫어해요. | I hate waiting. | مجھے انتظار کرنا اچھا نہیں لگتا۔
++ 사랑하다 |  | saranghada | verb | to love | محبت کرنا | Emotions & Relationships | 1 |
+> 가족을 사랑해요. | I love my family. | مجھے اپنے خاندان سے محبت ہے۔
+> 사랑하는 사람과 결혼했어요. | I married the person I love. | میں نے اس سے شادی کی جس سے محبت کرتا ہوں۔
+> 엄마, 사랑해요. | Mom, I love you. | امی، مجھے آپ سے پیار ہے۔
++ 전화하다 | 電話- | jeonhwahada | verb | to call, to phone | فون کرنا | Daily Life in Korea | 1 |
+> 집에 도착하면 전화하세요. | Call when you get home. | گھر پہنچ کر فون کریں۔
+> 어머니께 매일 전화해요. | I call my mother every day. | میں روز امی کو فون کرتا ہوں۔
+> 나중에 다시 전화할게요. | I'll call back later. | میں بعد میں دوبارہ فون کروں گا۔
++ 찾다 |  | chatda | verb | to look for; to find; to withdraw (money) | ڈھونڈنا؛ پانا؛ (پیسے) نکالنا | Common Verbs & Adjectives | 1 |
+> 지갑을 찾고 있어요. | I'm looking for my wallet. | میں اپنا بٹوا ڈھونڈ رہا ہوں۔
+> 잃어버린 열쇠를 찾았어요. | I found the key I'd lost. | گم شدہ چابی مل گئی۔
+> ATM에서 돈을 찾았어요. | I withdrew money from the ATM. | میں نے اے ٹی ایم سے پیسے نکالے۔
++ 잃어버리다 |  | ireobeorida | verb | to lose (something) | کھو دینا، گم کرنا | Common Verbs & Adjectives | 1 | 길을 잃다 = to get lost.
+> 지하철에서 우산을 잃어버렸어요. | I lost my umbrella on the subway. | میٹرو میں میری چھتری گم ہو گئی۔
+> 여권을 잃어버리면 큰일이에요. | Losing your passport is a big problem. | پاسپورٹ گم ہو جائے تو بڑی مصیبت ہے۔
+> 열쇠를 또 잃어버렸어요. | I lost my keys again. | میری چابی پھر گم ہو گئی۔
++ 도와주다 |  | dowajuda | verb | to help | مدد کرنا | Common Verbs & Adjectives | 1 | 돕다 + 주다. 도와주세요! = Help!
+> 짐 좀 도와주시겠어요? | Could you help me with my bags? | کیا آپ سامان اٹھانے میں مدد کریں گے؟
+> 친구가 이사를 도와줬어요. | A friend helped me move. | ایک دوست نے گھر بدلنے میں مدد کی۔
+> 도와주셔서 정말 감사합니다. | Thank you so much for your help. | مدد کرنے کا بہت شکریہ۔
++ 부르다 |  | bureuda | verb | to call (someone); to sing | پکارنا، بلانا؛ گانا | Common Verbs & Adjectives | 1 | 르-irregular: 불러요. 노래를 부르다 = to sing a song.
+> 노래방에서 노래를 불렀어요. | We sang songs at karaoke. | ہم نے کراؤکے میں گانے گائے۔
+> 누가 제 이름을 불렀어요? | Who called my name? | میرا نام کس نے پکارا؟
+> 택시를 불러 주세요. | Please call a taxi for me. | میرے لیے ٹیکسی بلا دیں۔
++ 보내다 |  | bonaeda | verb | to send; to spend (time) | بھیجنا؛ (وقت) گزارنا | Common Verbs & Adjectives | 1 |
+> 친구에게 문자를 보냈어요. | I sent a text to a friend. | میں نے دوست کو پیغام بھیجا۔
+> 주말 잘 보내세요. | Have a good weekend. | ہفتے کا آخر اچھا گزاریں۔
+> 고향에 돈을 보냈어요. | I sent money home. | میں نے گھر پیسے بھیجے۔
++ 생각하다 | 生覺- | saenggakhada | verb | to think | سوچنا | Common Verbs & Adjectives | 1 | Noun: 생각 (thought, idea). 생각이 나다 = to come to mind.
+> 어떻게 생각해요? | What do you think? | آپ کیا سوچتے ہیں؟
+> 다시 생각해 볼게요. | I'll think about it again. | میں دوبارہ سوچوں گا۔
+> 고향 생각이 많이 나요. | I think about home a lot. | مجھے گھر کی بہت یاد آتی ہے۔
++ 시작하다 | 始作- | sijakhada | verb | to start, to begin | شروع کرنا | Common Verbs & Adjectives | 1 | Intransitive: 시작되다.
+> 수업이 9시에 시작해요. | Class starts at nine. | کلاس نو بجے شروع ہوتی ہے۔
+> 다이어트를 시작했어요. | I started a diet. | میں نے ڈائٹنگ شروع کی۔
+> 지금 시작해도 늦지 않아요. | It's not too late to start now. | ابھی شروع کریں تب بھی دیر نہیں ہوئی۔
++ 끝나다 |  | kkeunnada | verb | to end, to finish | ختم ہونا | Common Verbs & Adjectives | 1 | Transitive: 끝내다 (to finish something).
+> 수업이 몇 시에 끝나요? | What time does class end? | کلاس کتنے بجے ختم ہوتی ہے؟
+> 시험이 끝나서 기분이 좋아요. | The exams are over, so I feel good. | امتحان ختم ہو گئے، اس لیے خوش ہوں۔
+> 일이 늦게 끝났어요. | Work finished late. | کام دیر سے ختم ہوا۔
++ 울다 |  | ulda | verb | to cry | رونا | Emotions & Relationships | 1 | ㄹ-irregular: 우는 아이.
+> 아기가 계속 울어요. | The baby keeps crying. | بچہ مسلسل رو رہا ہے۔
+> 영화가 슬퍼서 울었어요. | The movie was sad, so I cried. | فلم اداس تھی، اس لیے میں رو پڑا۔
+> 울지 마세요. 괜찮아요. | Don't cry. It's okay. | روئیں نہیں، سب ٹھیک ہے۔
++ 웃다 |  | utda | verb | to laugh, to smile | ہنسنا، مسکرانا | Emotions & Relationships | 1 |
+> 그 사람은 항상 웃어요. | That person always smiles. | وہ شخص ہمیشہ مسکراتا ہے۔
+> 너무 웃겨서 많이 웃었어요. | It was so funny that I laughed a lot. | اتنا مزاحیہ تھا کہ میں بہت ہنسا۔
+> 사진 찍을 때 웃으세요. | Smile when we take the photo. | تصویر کھینچتے وقت مسکرائیں۔
++ 입다 |  | ipda | verb | to wear, to put on (clothes) | پہننا (کپڑے) | Daily Life in Korea | 1 | Hats/glasses: 쓰다; shoes/socks: 신다; take off: 벗다.
+> 오늘은 정장을 입었어요. | I wore a suit today. | آج میں نے سوٹ پہنا۔
+> 이 옷을 입어 봐도 돼요? | May I try on these clothes? | کیا میں یہ کپڑے پہن کر دیکھ سکتا ہوں؟
+> 추우니까 코트를 입으세요. | It's cold, so wear a coat. | سردی ہے، کوٹ پہن لیں۔
++ 벗다 |  | beotda | verb | to take off (clothes, shoes) | اتارنا (کپڑے، جوتے) | Daily Life in Korea | 1 |
+> 여기서 신발을 벗으세요. | Take off your shoes here. | یہاں جوتے اتار دیں۔
+> 더워서 재킷을 벗었어요. | It was hot, so I took off my jacket. | گرمی تھی، اس لیے میں نے جیکٹ اتار دی۔
+> 모자를 벗고 인사했어요. | I took off my hat and bowed. | میں نے ٹوپی اتار کر سلام کیا۔
++ 신다 |  | sinda | verb | to put on, to wear (shoes, socks) | پہننا (جوتے، موزے) | Daily Life in Korea | 1 |
+> 운동화를 신고 나갔어요. | I put on sneakers and went out. | میں جوگرز پہن کر باہر نکلا۔
+> 양말을 신으세요. | Put on your socks. | موزے پہن لیں۔
+> 이 신발 신어 봐도 돼요? | May I try on these shoes? | کیا میں یہ جوتے پہن کر دیکھ سکتا ہوں؟
