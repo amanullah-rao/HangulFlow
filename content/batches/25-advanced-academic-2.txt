@@ -1,0 +1,221 @@
+# Advanced: academic and formal vocabulary (2)
++ 여건 | 與件 | yeogeon | noun | conditions, circumstances | حالات، سہولیات | Academic & Formal | 3 |
+> 근무 여건이 개선되어야 한다. | Working conditions need to improve. | کام کے حالات بہتر ہونے چاہئیں۔
+> 경제적 여건 때문에 진학을 포기했다. | They gave up further education due to financial circumstances. | مالی حالات کی وجہ سے آگے پڑھنے کا ارادہ ترک کیا۔
+> 여건이 허락하면 다시 도전하겠다. | If circumstances permit, I'll try again. | حالات نے اجازت دی تو دوبارہ کوشش کروں گا۔
++ 역효과 | 逆效果 | yeokhyogwa | noun | adverse effect, backfire | الٹا اثر | Academic & Formal | 3 |
+> 지나친 칭찬은 역효과를 낼 수 있다. | Excessive praise can backfire. | حد سے زیادہ تعریف الٹا اثر کر سکتی ہے۔
+> 규제가 오히려 역효과를 가져왔다. | The regulation actually had the opposite effect. | پابندی کا الٹا نتیجہ نکلا۔
+> 무리한 다이어트는 역효과가 난다. | Extreme dieting backfires. | سخت ڈائٹنگ کا الٹا اثر ہوتا ہے۔
++ 연관 | 聯關 | yeongwan | noun | connection, relation | تعلق، ربط | Academic & Formal | 3 | 연관되다; 연관성 = relevance.
+> 두 사건은 서로 연관이 있다. | The two incidents are related. | دونوں واقعات آپس میں جڑے ہوئے ہیں۔
+> 수면과 건강은 밀접한 연관이 있다. | Sleep and health are closely connected. | نیند اور صحت کا گہرا تعلق ہے۔
+> 연관 검색어를 확인해 보세요. | Check the related search terms. | متعلقہ تلاش کے الفاظ دیکھیں۔
++ 열악하다 | 劣惡- | yeorakhada | adjective | poor, inferior (conditions) | خستہ، ناقص | Society & Culture | 3 |
+> 노동자들은 열악한 환경에서 일한다. | Workers work in poor conditions. | مزدور ناقص حالات میں کام کرتے ہیں۔
+> 시골 학교는 시설이 열악하다. | Rural schools have poor facilities. | دیہی اسکولوں کی سہولیات ناقص ہیں۔
+> 열악한 상황에서도 최선을 다했다. | They did their best even in poor conditions. | خراب حالات میں بھی پوری کوشش کی۔
++ 왜곡하다 | 歪曲- | waegokhada | verb | to distort | توڑ مروڑ کر پیش کرنا | Media & Technology | 3 | Noun: 왜곡.
+> 언론이 사실을 왜곡해서는 안 된다. | The press must not distort the facts. | صحافت کو حقائق مسخ نہیں کرنے چاہئیں۔
+> 역사를 왜곡하는 것은 위험하다. | Distorting history is dangerous. | تاریخ کو مسخ کرنا خطرناک ہے۔
+> 그의 말이 왜곡되어 전해졌다. | His words were passed on in a distorted form. | اس کی بات کو توڑ مروڑ کر پیش کیا گیا۔
++ 우려 | 憂慮 | uryeo | noun | concern, worry (formal) | تشویش | Academic & Formal | 3 | 우려하다; 우려가 있다.
+> 경기 침체에 대한 우려가 커지고 있다. | Concerns about a recession are growing. | معاشی کساد بازاری کی تشویش بڑھ رہی ہے۔
+> 부작용이 생길 우려가 있다. | There's a risk of side effects. | مضر اثرات کا خدشہ ہے۔
+> 전문가들은 환경 오염을 우려한다. | Experts are concerned about pollution. | ماہرین آلودگی پر تشویش ظاہر کرتے ہیں۔
++ 우선시하다 | 優先視- | useonsihada | verb | to prioritize | ترجیح دینا | Academic & Formal | 3 | 우선 = first, priority.
+> 회사는 안전을 우선시해야 한다. | A company must prioritize safety. | کمپنی کو حفاظت کو ترجیح دینی چاہیے۔
+> 그는 가족을 무엇보다 우선시한다. | He prioritizes his family above all. | وہ خاندان کو ہر چیز پر ترجیح دیتا ہے۔
+> 효율보다 사람을 우선시하는 정책이다. | It's a policy that puts people before efficiency. | یہ ایسی پالیسی ہے جو کارکردگی سے زیادہ انسان کو اہمیت دیتی ہے۔
++ 원활하다 | 圓滑- | wonhwalhada | adjective | smooth, efficient | ہموار | Academic & Formal | 3 | Adverb: 원활히.
+> 원활한 소통을 위해 회의를 자주 한다. | We meet often for smooth communication. | ہموار رابطے کے لیے ہم اکثر میٹنگ کرتے ہیں۔
+> 교통 흐름이 원활하다. | Traffic is flowing smoothly. | ٹریفک روانی سے چل رہا ہے۔
+> 일이 원활하게 진행되고 있다. | The work is proceeding smoothly. | کام ہموار طریقے سے جاری ہے۔
++ 위축되다 | 萎縮- | wichukdoeda | verb | to shrink, to be discouraged, to contract | سکڑنا، ہمت ٹوٹنا | Economy & Business | 3 |
+> 경기가 위축되면서 소비가 줄었다. | Consumption fell as the economy contracted. | معیشت سکڑنے سے خرچ کم ہو گیا۔
+> 실수 후에 마음이 위축되었다. | I felt discouraged after the mistake. | غلطی کے بعد ہمت ٹوٹ گئی۔
+> 위축되지 말고 자신 있게 말하세요. | Don't be intimidated; speak confidently. | گھبرائیں نہیں، اعتماد سے بات کریں۔
++ 유발하다 | 誘發- | yubalhada | verb | to cause, to trigger | پیدا کرنا، سبب بننا | Academic & Formal | 3 |
+> 흡연은 암을 유발할 수 있다. | Smoking can cause cancer. | سگریٹ نوشی کینسر کا سبب بن سکتی ہے۔
+> 그 광고는 호기심을 유발한다. | That ad triggers curiosity. | وہ اشتہار تجسس پیدا کرتا ہے۔
+> 스트레스가 두통을 유발했다. | Stress triggered a headache. | دباؤ نے سر درد پیدا کیا۔
++ 유익하다 | 有益- | yuikhada | adjective | beneficial, useful | مفید | Academic & Formal | 3 |
+> 유익한 강의였다. | It was a useful lecture. | یہ ایک مفید لیکچر تھا۔
+> 독서는 아이들에게 유익하다. | Reading is beneficial for children. | مطالعہ بچوں کے لیے مفید ہے۔
+> 유익한 정보를 공유해 주셔서 감사합니다. | Thank you for sharing useful information. | مفید معلومات بتانے کا شکریہ۔
++ 유대감 | 紐帶感 | yudaegam | noun | sense of bond, solidarity | رشتے کا احساس، یگانگت | Emotions & Relationships | 3 |
+> 함께 일하면서 유대감이 생겼다. | A bond formed as we worked together. | ساتھ کام کرتے ہوئے ہم میں یگانگت پیدا ہوئی۔
+> 가족 간의 유대감이 약해지고 있다. | Family bonds are weakening. | خاندانی رشتے کمزور ہو رہے ہیں۔
+> 운동 경기는 지역 주민의 유대감을 높인다. | Sports events strengthen bonds among residents. | کھیلوں کے مقابلے مقامی لوگوں کا رشتہ مضبوط کرتے ہیں۔
++ 의존하다 | 依存- | uijonhada | verb | to depend on | انحصار کرنا | Academic & Formal | 3 | Noun: 의존.
+> 한국은 에너지를 수입에 의존한다. | Korea depends on imports for energy. | کوریا توانائی کے لیے درآمدات پر انحصار کرتا ہے۔
+> 스마트폰에 지나치게 의존하지 마세요. | Don't depend on your smartphone too much. | اسمارٹ فون پر حد سے زیادہ انحصار نہ کریں۔
+> 경제가 관광에 크게 의존하고 있다. | The economy relies heavily on tourism. | معیشت کا بڑا انحصار سیاحت پر ہے۔
++ 이바지하다 |  | ibajihada | verb | to contribute, to serve (formal, native word) | خدمت کرنا، حصہ ڈالنا | Academic & Formal | 3 | Similar to 기여하다.
+> 그는 평생 교육 발전에 이바지했다. | He devoted his life to the development of education. | اس نے ساری زندگی تعلیم کی ترقی میں حصہ ڈالا۔
+> 사회에 이바지하는 사람이 되고 싶다. | I want to be someone who serves society. | میں معاشرے کی خدمت کرنے والا بننا چاہتا ہوں۔
+> 이 발명은 인류 발전에 크게 이바지했다. | This invention contributed greatly to human progress. | اس ایجاد نے انسانی ترقی میں بڑا کردار ادا کیا۔
++ 인식 | 認識 | insik | noun | awareness, perception, recognition | شعور، ادراک | Academic & Formal | 3 | 인식하다.
+> 환경에 대한 인식이 높아졌다. | Awareness of the environment has increased. | ماحول کے بارے میں شعور بڑھ گیا ہے۔
+> 사회적 인식을 바꾸는 것은 어렵다. | Changing social perceptions is hard. | سماجی سوچ بدلنا مشکل ہے۔
+> 얼굴 인식 기술이 발전했다. | Facial recognition technology has advanced. | چہرہ پہچاننے کی ٹیکنالوجی نے ترقی کی ہے۔
++ 일관성 | 一貫性 | ilgwanseong | noun | consistency | یکسانیت، ہم آہنگی | Academic & Formal | 3 |
+> 정책에 일관성이 없다. | The policy lacks consistency. | پالیسی میں یکسانیت نہیں ہے۔
+> 일관성 있게 행동해야 신뢰를 얻는다. | You gain trust by acting consistently. | مستقل مزاجی سے عمل کرنے پر اعتماد ملتا ہے۔
+> 글의 일관성을 유지하세요. | Keep your writing consistent. | تحریر میں ربط برقرار رکھیں۔
++ 일시적 | 一時的 | ilsijeok | noun/determiner | temporary | عارضی | Academic & Formal | 3 |
+> 일시적인 현상일 뿐이다. | It's just a temporary phenomenon. | یہ صرف ایک عارضی صورتحال ہے۔
+> 서비스가 일시적으로 중단되었다. | The service was temporarily suspended. | سروس عارضی طور پر بند ہو گئی۔
+> 일시적인 감정으로 결정하지 마세요. | Don't decide based on a passing emotion. | وقتی جذبات میں فیصلہ نہ کریں۔
++ 입증하다 | 立證- | ipjeunghada | verb | to prove, to substantiate | ثابت کرنا | Academic & Formal | 3 |
+> 그는 자신의 무죄를 입증했다. | He proved his innocence. | اس نے اپنی بے گناہی ثابت کی۔
+> 이 약의 효과가 입증되었다. | The effectiveness of this drug has been proven. | اس دوا کی تاثیر ثابت ہو گئی ہے۔
+> 실력으로 입증하겠다. | I'll prove it with my skills. | اپنی صلاحیت سے ثابت کروں گا۔
++ 자극하다 | 刺戟- | jageukhada | verb | to stimulate, to provoke | ابھارنا، تحریک دینا | Academic & Formal | 3 | Noun: 자극.
+> 매운 음식은 위를 자극한다. | Spicy food irritates the stomach. | تیز کھانا معدے کو متاثر کرتا ہے۔
+> 그의 성공이 나를 자극했다. | His success motivated me. | اس کی کامیابی نے مجھے تحریک دی۔
+> 아이들의 호기심을 자극하는 책이다. | It's a book that stimulates children's curiosity. | یہ ایسی کتاب ہے جو بچوں کا تجسس ابھارتی ہے۔
++ 잠재력 | 潛在力 | jamjaeryeok | noun | potential | پوشیدہ صلاحیت | Academic & Formal | 3 |
+> 그 학생은 잠재력이 크다. | That student has great potential. | اس طالب علم میں بڑی صلاحیت ہے۔
+> 이 시장은 성장 잠재력이 높다. | This market has high growth potential. | اس منڈی میں ترقی کا بڑا امکان ہے۔
+> 자신의 잠재력을 믿으세요. | Believe in your potential. | اپنی صلاحیت پر یقین رکھیں۔
++ 저하되다 | 低下- | jeohadoeda | verb | to decline, to deteriorate | کم ہونا، گرنا | Academic & Formal | 3 |
+> 수면 부족으로 집중력이 저하되었다. | Concentration declined due to lack of sleep. | نیند کی کمی سے توجہ کم ہو گئی۔
+> 품질이 저하되면 고객이 떠난다. | If quality declines, customers leave. | معیار گرے تو گاہک چلے جاتے ہیں۔
+> 나이가 들면 체력이 저하된다. | Stamina declines with age. | عمر کے ساتھ جسمانی طاقت کم ہو جاتی ہے۔
++ 저해하다 | 沮害- | jeohaehada | verb | to hinder, to impede | رکاوٹ ڈالنا | Academic & Formal | 3 |
+> 규제가 경제 성장을 저해한다. | Regulation hinders economic growth. | پابندیاں معاشی ترقی میں رکاوٹ ہیں۔
+> 소음은 학습을 저해하는 요인이다. | Noise is a factor that impedes learning. | شور سیکھنے میں رکاوٹ ڈالنے والا عنصر ہے۔
+> 불신은 협력을 저해한다. | Distrust hinders cooperation. | بداعتمادی تعاون میں رکاوٹ ہے۔
++ 전락하다 | 轉落- | jeollakhada | verb | to fall (into a worse state), to degenerate | گر جانا (بری حالت میں) | Academic & Formal | 3 |
+> 한때 유명했던 도시가 쇠퇴의 길로 전락했다. | A once-famous city fell into decline. | کبھی مشہور شہر زوال کا شکار ہو گیا۔
+> 교육이 단순한 경쟁으로 전락해서는 안 된다. | Education must not degenerate into mere competition. | تعلیم کو محض مقابلہ نہیں بننا چاہیے۔
+> 그 선수는 후보로 전락했다. | That player was reduced to a reserve. | وہ کھلاڑی متبادل بن کر رہ گیا۔
++ 전망 | 展望 | jeonmang | noun | outlook, prospect; view | امکانات؛ منظر | Economy & Business | 3 | 전망하다 = to forecast.
+> 내년 경제 전망이 밝다. | Next year's economic outlook is bright. | اگلے سال کا معاشی منظرنامہ اچھا ہے۔
+> 전문가들은 집값이 오를 것으로 전망했다. | Experts forecast that house prices will rise. | ماہرین نے مکانوں کی قیمتیں بڑھنے کی پیش گوئی کی۔
+> 이 방은 전망이 좋다. | This room has a good view. | اس کمرے سے منظر اچھا ہے۔
++ 절감하다 | 節減- | jeolgamhada | verb | to cut, to reduce (costs) | کم کرنا (اخراجات) | Economy & Business | 3 |
+> 회사는 비용을 절감하기 위해 노력한다. | The company works to cut costs. | کمپنی اخراجات کم کرنے کی کوشش کرتی ہے۔
+> 태양광으로 전기 요금을 절감했다. | We reduced electricity bills with solar power. | شمسی توانائی سے بجلی کا بل کم ہوا۔
+> 시간과 비용을 절감할 수 있는 방법이다. | It's a way to save time and money. | یہ وقت اور پیسہ بچانے کا طریقہ ہے۔
++ 정체성 | 正體性 | jeongcheseong | noun | identity | شناخت | Society & Culture | 3 |
+> 해외에서 자라서 정체성 혼란을 겪었다. | Growing up abroad, I experienced identity confusion. | بیرون ملک پلنے کی وجہ سے شناخت کا بحران ہوا۔
+> 언어는 민족의 정체성이다. | Language is a people's identity. | زبان قوم کی شناخت ہے۔
+> 회사의 정체성을 담은 로고를 만들었다. | They made a logo reflecting the company's identity. | کمپنی کی شناخت ظاہر کرنے والا لوگو بنایا۔
++ 제약 | 制約 | jeyak | noun | constraint, restriction | پابندی، رکاوٹ | Academic & Formal | 3 | 제약 (製藥) also = pharmaceuticals.
+> 시간의 제약 때문에 다 하지 못했다. | We couldn't do everything because of time constraints. | وقت کی کمی کی وجہ سے سب نہ ہو سکا۔
+> 예산 제약이 있다. | There are budget constraints. | بجٹ کی پابندی ہے۔
+> 그는 제약 회사에서 일한다. | He works at a pharmaceutical company. | وہ ایک دوا ساز کمپنی میں کام کرتا ہے۔
++ 조성하다 | 造成- | joseonghada | verb | to create, to build (an environment, fund) | بنانا، قائم کرنا | Academic & Formal | 3 |
+> 도시에 공원을 조성했다. | They created a park in the city. | شہر میں ایک پارک بنایا گیا۔
+> 좋은 분위기를 조성하는 것이 중요하다. | Creating a good atmosphere is important. | اچھا ماحول بنانا اہم ہے۔
+> 장학 기금을 조성했다. | They established a scholarship fund. | وظیفے کا فنڈ قائم کیا گیا۔
++ 주도하다 | 主導- | judohada | verb | to lead, to take the initiative | قیادت کرنا | Academic & Formal | 3 | 주도적 = leading, proactive.
+> 그는 프로젝트를 주도적으로 이끌었다. | He led the project proactively. | اس نے منصوبے کی قیادت کی۔
+> 젊은 세대가 변화를 주도하고 있다. | The younger generation is leading change. | نوجوان نسل تبدیلی کی قیادت کر رہی ہے۔
+> 한국은 반도체 시장을 주도한다. | Korea leads the semiconductor market. | کوریا سیمی کنڈکٹر منڈی میں آگے ہے۔
++ 지향하다 | 志向- | jihyanghada | verb | to aim at, to pursue | کی طرف مائل ہونا، ہدف رکھنا | Academic & Formal | 3 | -을 지향하다.
+> 우리 회사는 고객 중심을 지향한다. | Our company aims to be customer-centered. | ہماری کمپنی گاہک مرکوز ہونے کا ہدف رکھتی ہے۔
+> 평화를 지향하는 외교 정책이다. | It's a foreign policy aimed at peace. | یہ امن کی طرف مائل خارجہ پالیسی ہے۔
+> 단순한 삶을 지향하고 있다. | I'm pursuing a simple life. | میں سادہ زندگی کی طرف مائل ہوں۔
++ 직면하다 | 直面- | jingmyeonhada | verb | to face, to confront | سامنا کرنا | Academic & Formal | 3 |
+> 우리는 큰 위기에 직면했다. | We faced a major crisis. | ہمیں بڑے بحران کا سامنا ہوا۔
+> 문제에 직면했을 때 피하지 마세요. | Don't run away when facing problems. | مسائل کا سامنا ہو تو بھاگیں نہیں۔
+> 많은 기업이 인력 부족에 직면해 있다. | Many companies face labor shortages. | بہت سی کمپنیوں کو افرادی قوت کی کمی کا سامنا ہے۔
++ 착각 | 錯覺 | chakgak | noun | illusion, mistaken belief | غلط فہمی، دھوکہ | Emotions & Relationships | 3 | 착각하다.
+> 오늘이 일요일인 줄 착각했다. | I mistakenly thought today was Sunday. | مجھے غلط فہمی ہوئی کہ آج اتوار ہے۔
+> 그것은 눈의 착각이다. | That's an optical illusion. | یہ آنکھ کا دھوکہ ہے۔
+> 자신이 최고라고 착각하지 마라. | Don't fool yourself into thinking you're the best. | اپنے آپ کو سب سے بہتر سمجھنے کی غلطی نہ کریں۔
++ 채택하다 | 採擇- | chaetaekhada | verb | to adopt, to select | اپنانا، منتخب کرنا | Academic & Formal | 3 |
+> 회의에서 그의 제안이 채택되었다. | His proposal was adopted at the meeting. | میٹنگ میں اس کی تجویز منظور ہو گئی۔
+> 학교는 새 교과서를 채택했다. | The school adopted a new textbook. | اسکول نے نئی نصابی کتاب اپنائی۔
+> 유엔은 결의안을 채택했다. | The UN adopted a resolution. | اقوامِ متحدہ نے قرارداد منظور کی۔
++ 촉진하다 | 促進- | chokjinhada | verb | to promote, to accelerate | تیز کرنا، فروغ دینا | Economy & Business | 3 |
+> 정부는 소비를 촉진하는 정책을 내놓았다. | The government introduced policies to boost consumption. | حکومت نے خرچ بڑھانے کی پالیسیاں پیش کیں۔
+> 운동은 혈액 순환을 촉진한다. | Exercise promotes blood circulation. | ورزش خون کی گردش تیز کرتی ہے۔
+> 판매 촉진 행사를 열었다. | They held a sales promotion event. | فروخت بڑھانے کی تقریب منعقد کی۔
++ 추구하다 | 追求- | chuguhada | verb | to pursue, to seek | پیچھا کرنا، حاصل کرنے کی کوشش | Academic & Formal | 3 |
+> 모든 사람은 행복을 추구한다. | Everyone pursues happiness. | ہر انسان خوشی کی تلاش میں ہے۔
+> 그는 완벽을 추구하는 성격이다. | He's a perfectionist by nature. | وہ کمال کا متلاشی ہے۔
+> 이익만 추구하는 기업은 오래가지 못한다. | Companies that only pursue profit don't last. | صرف منافع کے پیچھے بھاگنے والی کمپنیاں دیرپا نہیں ہوتیں۔
++ 축적하다 | 蓄積- | chukjeokhada | verb | to accumulate | جمع کرنا | Academic & Formal | 3 |
+> 오랜 경험으로 노하우를 축적했다. | They accumulated know-how through long experience. | طویل تجربے سے مہارت جمع کی۔
+> 피로가 축적되면 병이 된다. | Accumulated fatigue becomes illness. | تھکن جمع ہو تو بیماری بن جاتی ہے۔
+> 데이터를 축적해서 분석했다. | We accumulated and analyzed data. | ہم نے ڈیٹا جمع کر کے تجزیہ کیا۔
++ 취약하다 | 脆弱- | chwiyakhada | adjective | vulnerable, weak | کمزور، غیر محفوظ | Academic & Formal | 3 |
+> 노인은 더위에 취약하다. | The elderly are vulnerable to heat. | بزرگ گرمی سے جلد متاثر ہوتے ہیں۔
+> 보안이 취약한 사이트를 조심하세요. | Be careful with sites that have weak security. | کمزور سیکیورٹی والی سائٹس سے بچیں۔
+> 이 지역은 홍수에 취약하다. | This area is vulnerable to floods. | یہ علاقہ سیلاب کے خطرے میں ہے۔
++ 침해하다 | 侵害- | chimhaehada | verb | to infringe, to violate | خلاف ورزی کرنا | Society & Culture | 3 |
+> 사생활을 침해하는 것은 불법이다. | Invading privacy is illegal. | نجی زندگی میں مداخلت غیر قانونی ہے۔
+> 저작권을 침해하지 마세요. | Don't infringe copyright. | کاپی رائٹ کی خلاف ورزی نہ کریں۔
+> 인권 침해 문제가 제기되었다. | Human rights violation issues were raised. | انسانی حقوق کی خلاف ورزی کا معاملہ اٹھایا گیا۔
++ 타당하다 | 妥當- | tadanghada | adjective | valid, reasonable, appropriate | معقول، درست | Academic & Formal | 3 |
+> 그의 주장은 타당하다. | His argument is valid. | اس کی دلیل معقول ہے۔
+> 타당한 이유가 있어야 한다. | There must be a valid reason. | کوئی معقول وجہ ہونی چاہیے۔
+> 이 결정이 타당한지 검토해 보자. | Let's review whether this decision is reasonable. | دیکھتے ہیں کہ یہ فیصلہ درست ہے یا نہیں۔
++ 통제하다 | 統制- | tongjehada | verb | to control, to restrict | قابو کرنا، کنٹرول کرنا | Society & Culture | 3 |
+> 경찰이 도로를 통제하고 있다. | The police are controlling the road. | پولیس نے سڑک بند کر رکھی ہے۔
+> 감정을 통제하기 힘들었다. | It was hard to control my emotions. | جذبات پر قابو پانا مشکل تھا۔
+> 정부가 언론을 통제해서는 안 된다. | The government must not control the press. | حکومت کو صحافت پر قابو نہیں رکھنا چاہیے۔
++ 파급 | 波及 | pageup | noun | spread, ripple effect | پھیلاؤ، اثرات | Academic & Formal | 3 | 파급 효과 = ripple effect.
+> 그 사건의 파급 효과가 크다. | The ripple effect of that incident is large. | اس واقعے کے اثرات وسیع ہیں۔
+> 금리 인상은 경제 전반에 파급된다. | Interest rate hikes spread across the whole economy. | شرحِ سود بڑھنے کا اثر پوری معیشت پر پڑتا ہے۔
+> 파급력이 큰 정책이다. | It's a policy with wide-reaching impact. | یہ دور رس اثرات والی پالیسی ہے۔
++ 편향 | 偏向 | pyeonhyang | noun | bias, leaning | جانبداری، تعصب | Media & Technology | 3 | 편향되다.
+> 이 기사는 한쪽으로 편향되어 있다. | This article is biased to one side. | یہ خبر ایک طرف جھکی ہوئی ہے۔
+> 편향된 정보만 보면 판단을 잘못한다. | If you only see biased information, you misjudge. | صرف جانبدار معلومات دیکھیں تو فیصلہ غلط ہوتا ہے۔
+> 알고리즘의 편향 문제가 논의되고 있다. | The problem of algorithmic bias is being discussed. | الگورتھم کی جانبداری پر بحث ہو رہی ہے۔
++ 폐지하다 | 廢止- | pyejihada | verb | to abolish | ختم کرنا (قانون) | Society & Culture | 3 |
+> 그 제도는 작년에 폐지되었다. | That system was abolished last year. | وہ نظام پچھلے سال ختم کر دیا گیا۔
+> 사형 제도를 폐지해야 한다는 주장이 있다. | Some argue that the death penalty should be abolished. | کچھ لوگوں کا کہنا ہے کہ سزائے موت ختم ہونی چاہیے۔
+> 불필요한 규제를 폐지했다. | They abolished unnecessary regulations. | غیر ضروری پابندیاں ختم کر دی گئیں۔
++ 포괄적 | 包括的 | pogwaljeok | noun/determiner | comprehensive, inclusive | جامع | Academic & Formal | 3 |
+> 포괄적인 대책이 필요하다. | Comprehensive measures are needed. | جامع اقدامات کی ضرورت ہے۔
+> 이 보고서는 문제를 포괄적으로 다룬다. | This report deals with the issue comprehensively. | یہ رپورٹ مسئلے کا جامع جائزہ لیتی ہے۔
+> 포괄적인 의미로 사용된 단어이다. | It's a word used in a broad sense. | یہ لفظ وسیع معنوں میں استعمال ہوا ہے۔
++ 풍토 | 風土 | pungto | noun | climate (culture), atmosphere; natural climate | ماحول، فضا | Society & Culture | 3 |
+> 수평적인 조직 풍토를 만들어야 한다. | We must create a horizontal organizational culture. | ہمیں برابری والا تنظیمی ماحول بنانا چاہیے۔
+> 이 식물은 한국의 풍토에 맞는다. | This plant suits Korea's climate. | یہ پودا کوریا کی آب و ہوا کے موافق ہے۔
+> 실패를 용납하는 풍토가 필요하다. | A culture that tolerates failure is needed. | ناکامی کو قبول کرنے والا ماحول چاہیے۔
++ 한계 | 限界 | hangye | noun | limit, limitation | حد | Academic & Formal | 3 |
+> 체력의 한계를 느꼈다. | I felt the limits of my stamina. | مجھے اپنی جسمانی حد کا احساس ہوا۔
+> 이 방법에는 한계가 있다. | This method has limitations. | اس طریقے کی کچھ حدود ہیں۔
+> 한계를 넘어서 도전했다. | They challenged themselves beyond their limits. | انہوں نے اپنی حدود سے آگے بڑھ کر کوشش کی۔
++ 해소하다 | 解消- | haesohada | verb | to resolve, to relieve, to eliminate | دور کرنا، ختم کرنا | Academic & Formal | 3 |
+> 운동으로 스트레스를 해소한다. | I relieve stress with exercise. | میں ورزش سے دباؤ دور کرتا ہوں۔
+> 교통 체증을 해소하기 위해 도로를 넓혔다. | They widened the road to relieve traffic congestion. | ٹریفک کم کرنے کے لیے سڑک چوڑی کی گئی۔
+> 오해가 해소되었다. | The misunderstanding was cleared up. | غلط فہمی دور ہو گئی۔
++ 허용하다 | 許容- | heoyonghada | verb | to allow, to permit, to tolerate | اجازت دینا | Academic & Formal | 3 |
+> 이 건물은 반려동물을 허용한다. | This building allows pets. | اس عمارت میں پالتو جانوروں کی اجازت ہے۔
+> 실수를 허용하는 분위기가 필요하다. | An atmosphere that tolerates mistakes is needed. | غلطیوں کو برداشت کرنے والا ماحول چاہیے۔
+> 시간이 허용하는 한 돕겠다. | I'll help as long as time allows. | جہاں تک وقت اجازت دے، مدد کروں گا۔
++ 현저하다 | 顯著- | hyeonjeohada | adjective | remarkable, marked, notable | نمایاں | Academic & Formal | 3 | Adverb: 현저히.
+> 출생률이 현저히 낮아졌다. | The birth rate has dropped markedly. | شرحِ پیدائش نمایاں طور پر کم ہو گئی۔
+> 두 그룹 사이에 현저한 차이가 있다. | There's a marked difference between the two groups. | دونوں گروہوں میں نمایاں فرق ہے۔
+> 실력이 현저하게 늘었다. | Skills improved remarkably. | مہارت میں نمایاں اضافہ ہوا۔
++ 협상 | 協商 | hyeopsang | noun | negotiation | مذاکرات | Economy & Business | 3 | 협상하다.
+> 연봉 협상이 잘 끝났다. | The salary negotiation went well. | تنخواہ کے مذاکرات اچھے رہے۔
+> 두 나라의 협상이 결렬되었다. | Negotiations between the two countries broke down. | دونوں ملکوں کے مذاکرات ناکام ہو گئے۔
+> 협상 테이블에 다시 앉았다. | They sat back down at the negotiating table. | وہ دوبارہ مذاکرات کی میز پر بیٹھ گئے۔
++ 확산되다 | 擴散- | hwaksandoeda | verb | to spread, to diffuse | پھیلنا | Society & Culture | 3 |
+> 전염병이 빠르게 확산되었다. | The epidemic spread rapidly. | وبا تیزی سے پھیل گئی۔
+> 가짜 뉴스가 SNS로 확산되고 있다. | Fake news is spreading through social media. | جعلی خبریں سوشل میڈیا سے پھیل رہی ہیں۔
+> 재택근무 문화가 확산되었다. | Remote work culture has spread. | گھر سے کام کا رواج پھیل گیا ہے۔
++ 활성화 | 活性化 | hwalseonghwa | noun | revitalization, activation | فعال بنانا، بحالی | Economy & Business | 3 | 활성화하다 / 활성화되다.
+> 지역 경제 활성화를 위한 축제가 열렸다. | A festival was held to revitalize the local economy. | مقامی معیشت کو فروغ دینے کے لیے میلہ لگایا گیا۔
+> 계정을 활성화해 주세요. | Please activate your account. | اپنا اکاؤنٹ فعال کریں۔
+> 온라인 거래가 활성화되었다. | Online trading has become active. | آن لائن تجارت فروغ پا گئی ہے۔
++ 회의적 | 懷疑的 | hoeuijeok | noun/determiner | skeptical | شکی، مشکوک | Academic & Formal | 3 | Different from 회의 (meeting).
+> 전문가들은 그 계획에 회의적이다. | Experts are skeptical about the plan. | ماہرین اس منصوبے کے بارے میں شکوک رکھتے ہیں۔
+> 처음에는 회의적이었지만 생각이 바뀌었다. | I was skeptical at first, but changed my mind. | پہلے مجھے شک تھا مگر سوچ بدل گئی۔
+> 회의적인 시각도 존재한다. | Skeptical views also exist. | شکی نقطۂ نظر بھی موجود ہیں۔
++ 획기적 | 劃期的 | hoekgijeok | noun/determiner | groundbreaking, epoch-making | انقلابی | Academic & Formal | 3 |
+> 획기적인 발명이었다. | It was a groundbreaking invention. | یہ ایک انقلابی ایجاد تھی۔
+> 이 기술은 의학계에 획기적인 변화를 가져왔다. | This technology brought groundbreaking change to medicine. | اس ٹیکنالوجی نے طب میں انقلابی تبدیلی لائی۔
+> 획기적인 아이디어가 필요하다. | We need a groundbreaking idea. | ہمیں ایک انقلابی خیال کی ضرورت ہے۔
++ 효율적 | 效率的 | hyoyuljeok | noun/determiner | efficient | مؤثر، کارآمد | Academic & Formal | 3 | 효율 = efficiency.
+> 시간을 효율적으로 사용하세요. | Use your time efficiently. | وقت کو مؤثر طریقے سے استعمال کریں۔
+> 더 효율적인 방법을 찾았다. | We found a more efficient method. | ہم نے زیادہ مؤثر طریقہ ڈھونڈ لیا۔
+> 에너지 효율이 높은 제품이다. | It's a highly energy-efficient product. | یہ توانائی کی بچت والی پروڈکٹ ہے۔
