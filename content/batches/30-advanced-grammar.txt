@@ -1,0 +1,133 @@
+# Advanced grammar patterns (TOPIK 5-6 range; levels are editorial estimates)
++ -(으)ㄹ지언정 |  | -(eu)ljieonjeong | grammar | even if ... (I would rather), though | چاہے ... مگر | Grammar Patterns | 3 | Strong concession: accept the first, reject the second.
+> 굶을지언정 남의 것은 훔치지 않겠다. | I'd rather starve than steal. | بھوکا رہ لوں گا مگر کسی کی چیز نہیں چراؤں گا۔
+> 실패할지언정 포기하지는 않겠다. | Even if I fail, I won't give up. | ناکام ہو جاؤں مگر ہمت نہیں ہاروں گا۔
+> 가난할지언정 비굴하게 살고 싶지 않다. | Though poor, I don't want to live without dignity. | غریب ہوں مگر ذلت کی زندگی نہیں چاہتا۔
++ -는 한이 있더라도 |  | -neun hani itdeorado | grammar | even if it means ... | چاہے ... ہی کیوں نہ ہو | Grammar Patterns | 3 |
+> 밤을 새우는 한이 있더라도 오늘 끝내겠다. | I'll finish today even if it means staying up all night. | چاہے رات جاگنا پڑے، آج ختم کروں گا۔
+> 손해를 보는 한이 있더라도 약속은 지킨다. | I keep promises even if I lose out. | چاہے نقصان ہو، وعدہ نبھاتا ہوں۔
+> 혼나는 한이 있더라도 사실을 말하겠다. | I'll tell the truth even if I get scolded. | ڈانٹ پڑے تب بھی سچ بولوں گا۔
++ -기 마련이다 |  | -gi maryeonida | grammar | it is natural that, bound to | ایسا ہونا فطری ہے | Grammar Patterns | 3 |
+> 누구나 실수하기 마련이다. | Everyone is bound to make mistakes. | ہر کسی سے غلطی ہونا فطری ہے۔
+> 노력하면 좋은 결과가 있기 마련이다. | Effort naturally brings good results. | محنت کا اچھا نتیجہ نکلنا ہی ہے۔
+> 시간이 지나면 잊혀지기 마련이다. | Things are bound to be forgotten with time. | وقت کے ساتھ بھول جانا فطری ہے۔
++ -(으)ㄹ 따름이다 |  | -(eu)l ttareumida | grammar | merely, only (humble, formal) | صرف، محض | Grammar Patterns | 3 | Formal version of -(으)ㄹ 뿐이다.
+> 저는 제 일을 했을 따름입니다. | I merely did my job. | میں نے صرف اپنا فرض ادا کیا۔
+> 그저 감사할 따름입니다. | I'm simply grateful. | بس شکر گزار ہوں۔
+> 최선을 다했을 따름이다. | I only did my best. | میں نے صرف اپنی پوری کوشش کی۔
++ -는 바 |  | -neun ba | grammar | (the thing) that; as, since (formal, written) | جو کہ؛ چونکہ | Grammar Patterns | 3 |
+> 앞에서 말한 바와 같이 이 문제는 중요하다. | As mentioned above, this issue is important. | جیسا کہ پہلے بیان ہوا، یہ مسئلہ اہم ہے۔
+> 조사한 바에 따르면 찬성이 많았다. | According to what was surveyed, most agreed. | سروے کے مطابق اکثریت متفق تھی۔
+> 이미 알려진 바와 같다. | It is as already known. | جیسا کہ پہلے سے معلوم ہے۔
++ -(으)ㄹ 법하다 |  | -(eu)l beophada | grammar | likely, plausible, would be expected | ممکن ہے، ایسا ہونا بنتا ہے | Grammar Patterns | 3 |
+> 그럴 법한 이야기다. | It's a plausible story. | یہ قابلِ یقین بات ہے۔
+> 화가 날 법도 한데 그는 웃었다. | He might well have been angry, but he laughed. | غصہ آنا بنتا تھا مگر وہ ہنس دیا۔
+> 그 정도면 합격할 법하다. | With that, you'd be likely to pass. | اتنا ہو تو کامیابی کا امکان ہے۔
++ -(으)ㄹ세라 |  | -(eu)lsera | grammar | for fear that, lest | اس ڈر سے کہ | Grammar Patterns | 3 | Literary.
+> 아이가 깰세라 조용히 걸었다. | I walked quietly lest the baby wake up. | بچہ نہ جاگ جائے، اس لیے دبے پاؤں چلا۔
+> 늦을세라 서둘러 나갔다. | I hurried out for fear of being late. | دیر نہ ہو جائے، اس لیے جلدی نکلا۔
+> 놓칠세라 손을 꼭 잡았다. | I held on tightly for fear of losing it. | چھوٹ نہ جائے، اس لیے مضبوطی سے پکڑا۔
++ -(으)ㄴ/는 나머지 |  | -(eu)n/neun nameoji | grammar | as a result of (too much), so much that | اتنا ... کہ (نتیجتاً) | Grammar Patterns | 3 |
+> 너무 긴장한 나머지 실수를 했다. | I was so nervous that I made a mistake. | اتنا گھبرایا کہ غلطی ہو گئی۔
+> 기쁜 나머지 눈물을 흘렸다. | So overjoyed, they shed tears. | خوشی سے آنسو بہہ نکلے۔
+> 서두른 나머지 지갑을 두고 왔다. | In my hurry, I left my wallet behind. | جلدی میں بٹوا بھول آیا۔
++ -(으)ㄴ/는 마당에 |  | -(eu)n/neun madange | grammar | given the situation that, now that | جب حالات یہ ہیں | Grammar Patterns | 3 |
+> 이렇게 된 마당에 포기할 수 없다. | Now that it's come to this, I can't give up. | جب نوبت یہاں تک آ گئی تو ہار نہیں مان سکتا۔
+> 다 끝난 마당에 후회해서 뭐 하겠어요? | What's the use of regretting now that it's all over? | جب سب ختم ہو گیا تو پچھتانے سے کیا فائدہ؟
+> 돈도 없는 마당에 여행은 무리다. | Traveling is too much when I don't even have money. | جب پیسے ہی نہیں تو سفر ممکن نہیں۔
++ -(으)ㄹ 나위가 없다 |  | -(eu)l nawiga eopda | grammar | couldn't be more, nothing more to (say/wish) | اس سے بڑھ کر نہیں ہو سکتا | Grammar Patterns | 3 | Often 더할 나위 없다.
+> 더할 나위 없이 행복하다. | I couldn't be happier. | اس سے زیادہ خوش نہیں ہو سکتا۔
+> 말할 나위도 없이 그가 최고다. | Needless to say, he's the best. | کہنے کی ضرورت نہیں، وہ بہترین ہے۔
+> 날씨는 더할 나위 없이 좋았다. | The weather couldn't have been better. | موسم اس سے بہتر نہیں ہو سکتا تھا۔
++ -는 셈 치다 |  | -neun sem chida | grammar | to consider it as, to treat it as if | یوں سمجھ لینا | Grammar Patterns | 3 |
+> 수업료를 낸 셈 치고 배우자. | Let's consider it tuition paid and learn from it. | سمجھ لیں فیس دی ہے، اور سبق سیکھیں۔
+> 속는 셈 치고 한번 믿어 보세요. | Just trust me once, even if you think you might be fooled. | دھوکہ ہی سمجھ کر ایک بار یقین کر لیں۔
+> 운동한 셈 치고 걸어서 갔다. | I walked there, counting it as exercise. | ورزش سمجھ کر پیدل گیا۔
++ -기 십상이다 |  | -gi sipsangida | grammar | very likely to (something bad) | ... ہونے کا قوی امکان ہے | Grammar Patterns | 3 |
+> 준비 없이 가면 실패하기 십상이다. | Going unprepared is very likely to end in failure. | بغیر تیاری کے جائیں تو ناکامی کا قوی امکان ہے۔
+> 그렇게 무리하면 병나기 십상이다. | Overdoing it like that, you're very likely to get sick. | اتنی زیادہ مشقت سے بیمار ہونا تقریباً یقینی ہے۔
+> 서두르면 실수하기 십상이다. | If you rush, you're likely to make mistakes. | جلدی میں غلطی ہونا عام بات ہے۔
++ -(으)ㄹ 리가 없다 |  | -(eu)l riga eopda | grammar | there's no way that | ممکن ہی نہیں کہ | Grammar Patterns | 3 |
+> 그가 거짓말을 할 리가 없다. | There's no way he would lie. | ممکن ہی نہیں کہ وہ جھوٹ بولے۔
+> 벌써 끝났을 리가 없어요. | It can't be over already. | اتنی جلدی ختم ہونا ممکن نہیں۔
+> 그럴 리가 없어요! | That can't be! | ایسا ہو ہی نہیں سکتا!
++ -다시피 |  | -dasipi | grammar | as (you know/see); almost as if | جیسا کہ؛ تقریباً | Grammar Patterns | 3 | 아시다시피 = as you know; 살다시피 = practically live.
+> 아시다시피 이번 주는 바쁩니다. | As you know, this week is busy. | جیسا کہ آپ جانتے ہیں، یہ ہفتہ مصروف ہے۔
+> 그는 도서관에서 살다시피 한다. | He practically lives in the library. | وہ تقریباً لائبریری میں ہی رہتا ہے۔
+> 보시다시피 공간이 좁습니다. | As you can see, the space is small. | جیسا کہ آپ دیکھ رہے ہیں، جگہ تنگ ہے۔
++ -(으)ㄴ/는 탓이다 |  | -(eu)n/neun tasida | grammar | it's because of (blame) | اس کی وجہ ... ہے | Grammar Patterns | 3 |
+> 실패한 것은 준비가 부족한 탓이다. | The failure was due to poor preparation. | ناکامی تیاری کی کمی کا نتیجہ ہے۔
+> 늦은 건 길이 막힌 탓이에요. | I was late because of traffic. | دیر ٹریفک کی وجہ سے ہوئی۔
+> 모두 내 탓이다. | It's all my fault. | سب میری غلطی ہے۔
++ -(으)ㄹ망정 |  | -(eu)lmangjeong | grammar | even though, rather ... than | چاہے ... مگر | Grammar Patterns | 3 | Similar to -(으)ㄹ지언정.
+> 굶어 죽을망정 구걸은 하지 않겠다. | I'd rather starve to death than beg. | بھوک سے مر جاؤں مگر بھیک نہیں مانگوں گا۔
+> 작을망정 내 집이 좋다. | Small though it may be, I like my own house. | چھوٹا ہی سہی، اپنا گھر اچھا ہے۔
+> 늦을망정 끝까지 하겠다. | Even if I'm late, I'll see it through. | دیر ہو جائے مگر آخر تک کروں گا۔
++ -는 데 반해 |  | -neun de banhae | grammar | whereas, in contrast to | جبکہ، اس کے برعکس | Grammar Patterns | 3 |
+> 형은 활발한 데 반해 동생은 조용하다. | The older brother is lively, whereas the younger is quiet. | بڑا بھائی خوش مزاج ہے جبکہ چھوٹا خاموش ہے۔
+> 수입은 줄어든 데 반해 지출은 늘었다. | Income decreased, whereas spending increased. | آمدنی کم ہوئی جبکہ خرچ بڑھ گیا۔
+> 도시는 인구가 느는 데 반해 농촌은 줄고 있다. | Cities are growing while rural populations shrink. | شہروں کی آبادی بڑھ رہی ہے جبکہ دیہات کی کم ہو رہی ہے۔
++ -(으)ㄴ/는 가운데 |  | -(eu)n/neun gaunde | grammar | amid, while (formal) | کے دوران، ایسے میں | Grammar Patterns | 3 | Common in news.
+> 비가 내리는 가운데 행사가 열렸다. | The event was held amid the rain. | بارش کے دوران تقریب منعقد ہوئی۔
+> 많은 관심이 모아지는 가운데 결과가 발표되었다. | The results were announced amid great interest. | زبردست دلچسپی کے دوران نتائج کا اعلان ہوا۔
+> 바쁜 가운데 와 주셔서 감사합니다. | Thank you for coming despite being busy. | مصروفیت کے باوجود آنے کا شکریہ۔
++ -는 터라 |  | -neun tera | grammar | since, as (circumstance) | چونکہ (حالات) | Grammar Patterns | 3 |
+> 처음 하는 일인 터라 긴장했다. | I was nervous since it was my first time doing it. | پہلی بار کام کر رہا تھا، اس لیے گھبراہٹ تھی۔
+> 피곤한 터라 일찍 잤다. | Being tired, I went to bed early. | تھکا ہوا تھا، اس لیے جلدی سو گیا۔
+> 급한 터라 인사도 못 했다. | I was in such a hurry that I couldn't even say hello. | جلدی میں تھا، سلام بھی نہ کر سکا۔
++ -기에 |  | -gie | grammar | because, since (written) | چونکہ | Grammar Patterns | 3 | Often in writing; 그러기에 = therefore.
+> 날씨가 좋기에 산책을 나갔다. | Since the weather was nice, I went for a walk. | موسم اچھا تھا، اس لیے سیر کو نکلا۔
+> 친구가 부탁하기에 도와주었다. | Since my friend asked, I helped. | دوست نے کہا تو مدد کر دی۔
+> 무슨 일이 있기에 그렇게 서둘러요? | What's happened that you're in such a rush? | کیا بات ہے کہ اتنی جلدی میں ہیں؟
++ -(으)ㄴ/는 이상 |  | -(eu)n/neun isang | grammar | since, now that (firm conclusion) | جب ... تو (لازماً) | Grammar Patterns | 3 |
+> 약속한 이상 지켜야 한다. | Since you promised, you must keep it. | جب وعدہ کیا ہے تو نبھانا ہوگا۔
+> 시작한 이상 끝까지 하겠다. | Now that I've started, I'll finish it. | جب شروع کیا ہے تو آخر تک کروں گا۔
+> 증거가 없는 이상 처벌할 수 없다. | As long as there's no evidence, they can't be punished. | جب تک ثبوت نہیں، سزا نہیں دی جا سکتی۔
++ -(으)ㄹ수록 |  | -(eu)lsurok | grammar | the more ... (the more) | جتنا زیادہ ... اتنا | Grammar Patterns | 3 | Short form without -(으)면.
+> 갈수록 어려워진다. | It gets harder as it goes on. | جیسے جیسے آگے بڑھو، مشکل ہوتا جاتا ہے۔
+> 생각할수록 화가 난다. | The more I think about it, the angrier I get. | جتنا سوچتا ہوں، اتنا غصہ آتا ہے۔
+> 날이 갈수록 추워진다. | It gets colder day by day. | دن بدن سردی بڑھ رہی ہے۔
++ -다손 치더라도 |  | -dason chideorado | grammar | even granting that | مان بھی لیں کہ | Grammar Patterns | 3 |
+> 그가 바빴다손 치더라도 연락은 했어야 했다. | Even granting he was busy, he should have called. | مان لیں وہ مصروف تھا، پھر بھی رابطہ کرنا چاہیے تھا۔
+> 실수였다손 치더라도 책임은 져야 한다. | Even if it was a mistake, responsibility must be taken. | غلطی ہی سہی، ذمہ داری تو لینی ہوگی۔
+> 비싸다손 치더라도 필요한 물건이다. | Even granting it's expensive, it's a necessary item. | مہنگی ہی سہی، ضروری چیز ہے۔
++ -는 둥 마는 둥 |  | -neun dung maneun dung | grammar | half-heartedly, barely (doing) | آدھا ادھورا | Grammar Patterns | 3 |
+> 아침을 먹는 둥 마는 둥 하고 나갔다. | I barely touched breakfast and went out. | ناشتہ آدھا ادھورا کر کے نکل گیا۔
+> 그는 대답하는 둥 마는 둥 했다. | He half-heartedly answered. | اس نے بے دلی سے جواب دیا۔
+> 잠을 자는 둥 마는 둥 했다. | I barely slept. | نیند آئی بھی اور نہیں بھی۔
++ -(으)ㄹ 지경이다 |  | -(eu)l jigyeongida | grammar | to the point of, on the verge of | اس حد تک کہ | Grammar Patterns | 3 |
+> 배가 고파서 쓰러질 지경이다. | I'm so hungry I could collapse. | بھوک سے گرنے کی نوبت آ گئی ہے۔
+> 너무 바빠서 미칠 지경이다. | I'm so busy I'm going crazy. | اتنا مصروف ہوں کہ پاگل ہونے کو ہوں۔
+> 웃겨서 눈물이 날 지경이었다. | It was so funny I almost cried. | اتنا مزاحیہ تھا کہ آنسو آنے لگے۔
++ -기는커녕 |  | -gineunkeonyeong | grammar | far from, let alone | ... تو دور کی بات | Grammar Patterns | 3 | Noun + 은/는커녕.
+> 칭찬은커녕 혼나기만 했다. | Far from being praised, I only got scolded. | تعریف تو دور، صرف ڈانٹ پڑی۔
+> 돈을 모으기는커녕 빚만 늘었다. | Far from saving money, my debt only grew. | پیسے بچانا تو دور، قرض بڑھ گیا۔
+> 감사 인사는커녕 연락도 없다. | Let alone a thank-you, there's not even contact. | شکریہ تو دور، رابطہ تک نہیں۔
++ -노라면 |  | -noramyeon | grammar | if you keep doing ... (then eventually) | کرتے رہو تو (آخرکار) | Grammar Patterns | 3 | Literary.
+> 살다 보노라면 좋은 날도 온다. | If you keep on living, good days will come. | زندگی جیتے رہو تو اچھے دن بھی آتے ہیں۔
+> 열심히 하노라면 길이 보일 것이다. | If you keep working hard, you'll see the way. | محنت کرتے رہو تو راستہ نظر آئے گا۔
+> 기다리노라면 소식이 있겠지. | If we keep waiting, there'll be news. | انتظار کرتے رہیں تو خبر آ جائے گی۔
++ -(으)ㄹ뿐더러 |  | -(eu)lppundeoreo | grammar | not only ... but also (formal) | نہ صرف ... بلکہ | Grammar Patterns | 3 | Same meaning as -(으)ㄹ 뿐만 아니라.
+> 그는 성실할뿐더러 능력도 있다. | He is not only diligent but also capable. | وہ نہ صرف محنتی ہے بلکہ قابل بھی۔
+> 이 방법은 쉬울뿐더러 효과도 좋다. | This method is not only easy but also effective. | یہ طریقہ نہ صرف آسان بلکہ مؤثر بھی ہے۔
+> 비쌀뿐더러 품질도 나쁘다. | It's not only expensive but also of poor quality. | یہ مہنگا بھی ہے اور معیار بھی خراب ہے۔
++ -건만 |  | -geonman | grammar | although (literary, with regret) | اگرچہ (افسوس کے ساتھ) | Grammar Patterns | 3 |
+> 열심히 공부했건만 결과가 좋지 않았다. | Although I studied hard, the result wasn't good. | اگرچہ محنت سے پڑھا مگر نتیجہ اچھا نہ آیا۔
+> 여러 번 말했건만 듣지 않는다. | Although I've told them many times, they don't listen. | کئی بار کہا مگر سنتے ہی نہیں۔
+> 봄이 왔건만 날씨는 여전히 춥다. | Although spring has come, it's still cold. | بہار آ گئی مگر موسم اب بھی ٹھنڈا ہے۔
++ -(으)려야 -(으)ㄹ 수가 없다 |  | -(eu)ryeoya -(eu)l suga eopda | grammar | can't (do) even if you try | چاہ کر بھی نہیں ہو سکتا | Grammar Patterns | 3 |
+> 잊으려야 잊을 수가 없다. | I can't forget even if I try. | بھولنا چاہوں بھی تو نہیں بھول سکتا۔
+> 웃으려야 웃을 수가 없었다. | I couldn't laugh even if I tried. | ہنسنا چاہا مگر ہنسی نہیں آئی۔
+> 믿으려야 믿을 수가 없는 이야기다. | It's a story I can't believe however hard I try. | یہ بات چاہ کر بھی یقین کے قابل نہیں۔
++ -(으)ㅁ에 따라 |  | -(eu)me ttara | grammar | as, in accordance with (formal) | جیسے جیسے، کے ساتھ ساتھ | Grammar Patterns | 3 |
+> 기술이 발전함에 따라 생활이 편리해졌다. | As technology developed, life became convenient. | ٹیکنالوجی کی ترقی کے ساتھ زندگی آسان ہو گئی۔
+> 나이가 듦에 따라 생각도 바뀐다. | Thinking changes as one ages. | عمر کے ساتھ سوچ بھی بدلتی ہے۔
+> 인구가 감소함에 따라 학교가 줄었다. | Schools decreased as the population shrank. | آبادی کم ہونے کے ساتھ اسکول بھی کم ہو گئے۔
++ -에도 불구하고 |  | -edo bulguhago | grammar | despite, in spite of | کے باوجود | Grammar Patterns | 3 | Verb: -(으)ㅁ에도 불구하고.
+> 비에도 불구하고 많은 사람이 왔다. | Many people came despite the rain. | بارش کے باوجود بہت لوگ آئے۔
+> 노력했음에도 불구하고 실패했다. | Despite the effort, it failed. | کوشش کے باوجود ناکامی ہوئی۔
+> 반대에도 불구하고 계획을 추진했다. | They pushed ahead despite opposition. | مخالفت کے باوجود منصوبہ آگے بڑھایا۔
++ -(으)ㄹ 게 뻔하다 |  | -(eu)l ge ppeonhada | grammar | it's obvious that (something will happen) | صاف ظاہر ہے کہ | Grammar Patterns | 3 |
+> 지금 가면 늦을 게 뻔해요. | It's obvious we'll be late if we go now. | ابھی جائیں تو دیر ہونا یقینی ہے۔
+> 그렇게 하면 혼날 게 뻔하다. | It's clear you'll get scolded if you do that. | ایسا کرو گے تو ڈانٹ پڑنا طے ہے۔
+> 공부 안 하면 떨어질 게 뻔하다. | If you don't study, you'll obviously fail. | پڑھو گے نہیں تو فیل ہونا یقینی ہے۔
