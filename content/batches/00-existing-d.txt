@@ -1,0 +1,160 @@
+# Extra sentences and corrected levels for the original 324 words (part 4)
+= 조사하다 | 2
+> 경찰이 사건을 조사하고 있습니다. | The police are investigating the case. | پولیس اس واقعے کی تفتیش کر رہی ہے۔
+> 여행 가기 전에 날씨를 조사해 봤어요. | I looked into the weather before going on the trip. | سفر سے پہلے میں نے موسم کے بارے میں معلومات لیں۔
+= 차지하다 | 3
+> 그 선수가 1위를 차지했다. | That athlete took first place. | اس کھلاڑی نے پہلی پوزیشن حاصل کی۔
+> 큰 소파가 거실을 다 차지해요. | The big sofa takes up the whole living room. | بڑا صوفہ پورا ڈرائنگ روم گھیر لیتا ہے۔
+= 비율 | 3
+> 물과 쌀의 비율이 중요해요. | The ratio of water to rice is important. | پانی اور چاول کا تناسب اہم ہے۔
+> 대학 진학 비율이 매우 높은 나라이다. | It is a country with a very high college entry rate. | یہ ایسا ملک ہے جہاں یونیورسٹی جانے کی شرح بہت زیادہ ہے۔
+= 개선하다 | 3
+> 서비스를 개선하기 위해 고객 의견을 듣고 있습니다. | We are listening to customer feedback to improve our service. | سروس بہتر بنانے کے لیے ہم گاہکوں کی رائے سن رہے ہیں۔
+> 식습관을 개선하면 건강이 좋아진다. | Improving your eating habits makes you healthier. | کھانے کی عادات بہتر کریں تو صحت اچھی ہو جاتی ہے۔
+= 향상되다 | 3
+> 기술이 향상되면서 생활이 편리해졌다. | As technology improved, life became more convenient. | ٹیکنالوجی بہتر ہونے سے زندگی آسان ہو گئی۔
+> 교육을 받은 후 직원들의 업무 능력이 향상되었다. | After the training, the employees' work skills improved. | تربیت کے بعد ملازمین کی کام کی صلاحیت بہتر ہو گئی۔
+= 발생하다 | 2
+> 문제가 발생하면 고객센터로 연락하세요. | If a problem occurs, contact the customer center. | کوئی مسئلہ پیش آئے تو کسٹمر سینٹر سے رابطہ کریں۔
+> 겨울철에 화재가 자주 발생한다. | Fires frequently break out in winter. | سردیوں میں آگ لگنے کے واقعات اکثر ہوتے ہیں۔
+= 해당하다 | 3
+> 해당하는 항목에 표시하세요. | Mark the item that applies. | جو خانہ آپ پر لاگو ہو اس پر نشان لگائیں۔
+> 이 조건에 해당하는 사람은 신청할 수 있다. | Those who meet these conditions can apply. | جو لوگ ان شرائط پر پورے اترتے ہیں وہ درخواست دے سکتے ہیں۔
+= 의미 | 2
+> 이 선물은 저에게 큰 의미가 있어요. | This gift means a lot to me. | یہ تحفہ میرے لیے بہت معنی رکھتا ہے۔
+> 의미 없는 일에 시간을 쓰고 싶지 않아요. | I don't want to spend time on meaningless things. | میں بے معنی کاموں میں وقت ضائع نہیں کرنا چاہتا۔
+= 강조하다 | 2
+> 의사는 충분한 수면을 강조했다. | The doctor stressed getting enough sleep. | ڈاکٹر نے پوری نیند لینے پر زور دیا۔
+> 중요한 부분은 빨간색으로 강조했어요. | I highlighted the important parts in red. | میں نے اہم حصوں کو سرخ رنگ سے نمایاں کیا۔
+= 구하다 | 2
+> 아르바이트를 구하고 있어요. | I'm looking for a part-time job. | میں پارٹ ٹائم نوکری ڈھونڈ رہا ہوں۔
+> 소방관이 불 속에서 아이를 구했다. | A firefighter rescued a child from the fire. | فائر فائٹر نے آگ سے ایک بچے کو بچایا۔
+= 맡다 | 2
+> 여행 가는 동안 친구가 고양이를 맡아 줬어요. | A friend looked after my cat while I was on the trip. | سفر کے دوران ایک دوست نے میری بلی سنبھالی۔
+> 그 배우가 주인공 역할을 맡았다. | That actor took on the leading role. | اس اداکار نے مرکزی کردار ادا کیا۔
+= 바뀌다 | 2
+> 신호등이 초록색으로 바뀌었어요. | The traffic light turned green. | ٹریفک کی بتی سبز ہو گئی۔
+> 계절이 바뀌면 감기에 걸리기 쉬워요. | It's easy to catch a cold when the seasons change. | موسم بدلنے پر زکام جلدی لگ جاتا ہے۔
+= 견디다 | 2
+> 힘든 시간을 잘 견뎌 냈어요. | I made it through the hard times. | میں نے مشکل وقت ہمت سے گزار لیا۔
+> 이 식물은 추위에 잘 견뎌요. | This plant withstands the cold well. | یہ پودا سردی اچھی طرح برداشت کرتا ہے۔
+= 참다 | 2
+> 웃음을 참을 수가 없었어요. | I couldn't hold back my laughter. | میں اپنی ہنسی نہیں روک سکا۔
+> 아파도 참지 말고 병원에 가세요. | Even if it hurts, don't just put up with it; go to the hospital. | درد ہو تو برداشت نہ کریں، ہسپتال جائیں۔
+= 고르다 | 1
+> 메뉴가 많아서 고르기 어려워요. | There are so many menu items that it's hard to choose. | مینو میں بہت کچھ ہے، چننا مشکل ہے۔
+> 친구 선물을 같이 골라 줄래요? | Will you help me pick a gift for my friend? | کیا آپ دوست کا تحفہ چننے میں میری مدد کریں گے؟
+= 버티다 | 3
+> 조금만 더 버티면 방학이에요. | Hold on a little longer and it's vacation. | تھوڑا اور برداشت کریں، پھر چھٹیاں ہیں۔
+> 그 가게는 불경기에도 끝까지 버텼다. | That shop held out to the end even during the recession. | وہ دکان مندی میں بھی آخر تک ڈٹی رہی۔
+= 어색하다 | 2
+> 오랜만에 만나서 조금 어색했어요. | We hadn't met in a long time, so it was a bit awkward. | بہت دنوں بعد ملے، اس لیے تھوڑی جھجک تھی۔
+> 이 문장은 조금 어색하게 들려요. | This sentence sounds a bit unnatural. | یہ جملہ تھوڑا عجیب سا لگتا ہے۔
+= 솔직하다 | 2
+> 솔직히 말하면 그 영화는 재미없었어요. | To be honest, that movie was boring. | سچ پوچھیں تو وہ فلم بور تھی۔
+> 그는 솔직한 성격이라서 거짓말을 못해요. | He's a frank person, so he can't lie. | وہ صاف گو ہے، اس لیے جھوٹ نہیں بول سکتا۔
+= 꼼꼼하다 | 2
+> 계약서는 꼼꼼하게 확인해야 해요. | You need to check a contract thoroughly. | معاہدہ بہت غور سے دیکھنا چاہیے۔
+> 꼼꼼한 성격 덕분에 실수가 거의 없어요. | Thanks to my meticulous nature, I rarely make mistakes. | باریک بینی کی عادت کی وجہ سے مجھ سے غلطی کم ہوتی ہے۔
+= 성실하다 | 2
+> 그는 성실하게 일해서 사장님께 인정받았다. | He worked diligently and earned the boss's recognition. | اس نے محنت اور لگن سے کام کیا اور مالک نے اس کی قدر کی۔
+> 성실한 태도가 가장 중요합니다. | A sincere attitude is the most important thing. | دیانت دار رویہ سب سے اہم ہے۔
+= 적당하다 | 2
+> 이 가격이면 적당한 것 같아요. | I think this price is reasonable. | میرے خیال میں یہ قیمت مناسب ہے۔
+> 소금을 적당히 넣으세요. | Add a moderate amount of salt. | نمک مناسب مقدار میں ڈالیں۔
+= 충분하다 | 2
+> 두 사람이 먹기에 충분해요. | It's enough for two people to eat. | دو لوگوں کے کھانے کے لیے کافی ہے۔
+> 충분히 생각하고 결정하세요. | Think it over thoroughly before you decide. | اچھی طرح سوچ کر فیصلہ کریں۔
+= 부족하다 | 2
+> 경험이 부족해서 실수를 했어요. | I made a mistake because I lacked experience. | تجربے کی کمی کی وجہ سے مجھ سے غلطی ہوئی۔
+> 이번 달은 돈이 좀 부족해요. | I'm a bit short of money this month. | اس مہینے پیسے کچھ کم ہیں۔
+= 뛰어나다 | 2
+> 그녀는 외국어 능력이 뛰어나요. | She is excellent at foreign languages. | وہ غیر ملکی زبانوں میں بہت ماہر ہے۔
+> 이 카메라는 화질이 뛰어나요. | This camera has outstanding image quality. | اس کیمرے کی تصویر کا معیار شاندار ہے۔
+= 엄격하다 | 2
+> 그 학교는 규칙이 엄격해요. | That school has strict rules. | اس اسکول کے قوانین سخت ہیں۔
+> 공항 보안 검색이 엄격해졌어요. | Airport security checks have become stricter. | ایئرپورٹ کی سیکیورٹی چیکنگ سخت ہو گئی ہے۔
+= 확인하다 | 1
+> 메일을 확인하고 답장할게요. | I'll check my email and reply. | میں ای میل دیکھ کر جواب دوں گا۔
+> 문이 잠겼는지 확인해 주세요. | Please check whether the door is locked. | دیکھ لیں کہ دروازہ بند ہے یا نہیں۔
+= 포기하다 | 2
+> 비싸서 그 차를 사는 것을 포기했어요. | It was expensive, so I gave up on buying that car. | مہنگی تھی، اس لیے میں نے وہ گاڑی خریدنے کا ارادہ چھوڑ دیا۔
+> 마지막까지 포기하지 않는 게 중요해요. | It's important not to give up until the end. | آخر تک ہمت نہ ہارنا ضروری ہے۔
+= 선택하다 | 2
+> 두 가지 중에서 하나를 선택하세요. | Choose one of the two. | دونوں میں سے ایک چن لیں۔
+> 이 길을 선택한 것을 후회하지 않아요. | I don't regret choosing this path. | مجھے یہ راستہ چننے پر کوئی پچھتاوا نہیں۔
+= 결정하다 | 2
+> 아직 무엇을 할지 결정하지 못했어요. | I still haven't decided what to do. | ابھی تک طے نہیں کر سکا کہ کیا کروں۔
+> 회의에서 날짜를 결정했어요. | We decided on the date at the meeting. | میٹنگ میں ہم نے تاریخ طے کی۔
+= 마련하다 | 3
+> 정부는 새로운 대책을 마련했다. | The government has prepared new measures. | حکومت نے نئے اقدامات تیار کیے۔
+> 결혼하기 전에 집을 마련하고 싶어요. | I want to get a house before getting married. | شادی سے پہلے میں گھر کا انتظام کرنا چاہتا ہوں۔
+= 미치다 | 3
+> 그의 연설은 많은 사람에게 영향을 미쳤다. | His speech influenced many people. | اس کی تقریر نے بہت سے لوگوں پر اثر ڈالا۔
+> 성적이 기대에 못 미쳤어요. | My grades fell short of expectations. | نمبر توقع سے کم آئے۔
+= 알맞다 | 2
+> 운동하기에 알맞은 날씨예요. | It's suitable weather for exercising. | ورزش کے لیے موزوں موسم ہے۔
+> 나이에 알맞은 책을 골라 주세요. | Please choose a book suitable for their age. | عمر کے مطابق مناسب کتاب چنیں۔
+= 뚜렷하다 | 3
+> 두 제품의 차이가 뚜렷해요. | The difference between the two products is clear. | دونوں چیزوں میں فرق واضح ہے۔
+> 그는 뚜렷한 목표를 가지고 있다. | He has a clear goal. | اس کا ایک واضح مقصد ہے۔
+= -는 바람에 | 2
+> 휴대폰이 고장 나는 바람에 연락을 못 했어요. | My phone broke, so I couldn't contact you. | فون خراب ہونے کی وجہ سے میں رابطہ نہیں کر سکا۔
+> 갑자기 비가 오는 바람에 옷이 다 젖었어요. | It suddenly rained, and all my clothes got soaked. | اچانک بارش کی وجہ سے سارے کپڑے بھیگ گئے۔
+= -(으)ㄹ 뿐만 아니라 | 2
+> 그는 노래를 잘할 뿐만 아니라 춤도 잘 춰요. | He not only sings well but also dances well. | وہ نہ صرف اچھا گاتا ہے بلکہ اچھا ناچتا بھی ہے۔
+> 운동은 건강에 좋을 뿐만 아니라 기분도 좋게 해요. | Exercise is not only good for your health but also lifts your mood. | ورزش نہ صرف صحت کے لیے اچھی ہے بلکہ موڈ بھی اچھا کرتی ہے۔
+= -(으)ㄴ/는 반면에 | 2
+> 이 일은 월급이 많은 반면에 너무 바빠요. | This job pays well, but on the other hand it's very busy. | اس کام میں تنخواہ زیادہ ہے مگر دوسری طرف بہت مصروفیت ہے۔
+> 언니는 키가 큰 반면에 저는 작아요. | My older sister is tall, whereas I'm short. | میری بڑی بہن لمبی ہے جبکہ میں چھوٹا ہوں۔
+= -(으)ㄹ 수밖에 없다 | 2
+> 돈이 없어서 포기할 수밖에 없었어요. | I had no money, so I had no choice but to give up. | پیسے نہیں تھے، اس لیے چھوڑنے کے سوا کوئی راستہ نہیں تھا۔
+> 이렇게 열심히 했으니 합격할 수밖에 없어요. | You worked so hard that you're bound to pass. | اتنی محنت کی ہے تو کامیاب ہونا ہی ہے۔
+= -다 보니(까) | 2
+> 혼자 살다 보니까 요리를 잘하게 됐어요. | Living alone, I ended up getting good at cooking. | اکیلے رہتے رہتے مجھے کھانا پکانا آ گیا۔
+> 이야기하다 보니 시간이 이렇게 됐네요. | We kept talking, and look what time it is. | باتوں باتوں میں وقت کا پتا ہی نہیں چلا۔
+= -(으)ㄴ/는 김에 | 2
+> 청소하는 김에 창문도 닦았어요. | While I was cleaning anyway, I wiped the windows too. | صفائی کرتے ہوئے میں نے کھڑکیاں بھی صاف کر دیں۔
+> 말이 나온 김에 하나 물어볼게요. | Since the topic came up, let me ask you something. | بات نکلی ہے تو ایک بات پوچھ لوں۔
+= -더니 | 3
+> 동생이 열심히 공부하더니 장학금을 받았어요. | My younger sibling studied hard and got a scholarship. | چھوٹا بھائی محنت سے پڑھتا رہا اور آخرکار وظیفہ مل گیا۔
+> 친구가 아까는 웃더니 지금은 울고 있어요. | My friend was laughing earlier, but now they're crying. | میرا دوست ابھی ہنس رہا تھا اور اب رو رہا ہے۔
+= -(으)ㄹ 만하다 | 2
+> 이 식당 음식은 먹을 만해요. | The food at this restaurant is worth eating. | اس ریستوران کا کھانا کھانے کے لائق ہے۔
+> 일이 힘들지만 할 만해요. | The work is hard but doable. | کام مشکل ہے لیکن کیا جا سکتا ہے۔
+= -기는 하지만 | 2
+> 한국어가 어렵기는 하지만 재미있어요. | Korean is hard, it's true, but it's fun. | کورین مشکل تو ہے لیکن مزے دار ہے۔
+> 피곤하기는 하지만 끝까지 할게요. | I'm tired, but I'll see it through. | تھکا ہوا تو ہوں مگر آخر تک کروں گا۔
+= -(으)ㄴ/는 데다가 | 3
+> 그 집은 넓은 데다가 가격도 싸요. | That house is spacious, and on top of that it's cheap. | وہ گھر کشادہ ہے اور اوپر سے سستا بھی۔
+> 감기에 걸린 데다가 일도 많아서 힘들어요. | I caught a cold, and on top of that I have a lot of work, so it's tough. | زکام بھی ہے اور اوپر سے کام بھی زیادہ ہے، مشکل ہو رہی ہے۔
+= -도록 | 3
+> 늦지 않도록 일찍 출발하세요. | Leave early so that you aren't late. | جلدی نکلیں تاکہ دیر نہ ہو۔
+> 밤늦도록 이야기를 나눴어요. | We talked until late at night. | ہم رات گئے تک باتیں کرتے رہے۔
+= -(으)ㄹ 뻔하다 | 2
+> 버스를 놓칠 뻔했어요. | I almost missed the bus. | میری بس چھوٹتے چھوٹتے بچی۔
+> 너무 웃겨서 울 뻔했어요. | It was so funny that I almost cried. | اتنا مزاحیہ تھا کہ رونا آنے والا تھا۔
+= -는 대로 | 2
+> 선생님이 말씀하신 대로 해 보세요. | Try doing it the way the teacher said. | جیسے استاد نے کہا ہے ویسے ہی کر کے دیکھیں۔
+> 결과가 나오는 대로 알려 드릴게요. | I'll let you know as soon as the results come out. | نتیجہ آتے ہی میں آپ کو بتا دوں گا۔
+= -(으)ㄹ 텐데 | 3
+> 지금 가면 길이 막힐 텐데 조금 이따가 가세요. | The roads will probably be jammed now, so leave a bit later. | ابھی جائیں گے تو ٹریفک ہوگا، تھوڑی دیر بعد جائیں۔
+> 시간이 있으면 좋을 텐데 아쉬워요. | It would be nice to have time; it's a pity. | وقت ہوتا تو اچھا تھا، افسوس ہے۔
+= -거든요 | 2
+> 오늘은 술을 못 마셔요. 운전해야 하거든요. | I can't drink today. You see, I have to drive. | آج میں نہیں پی سکتا، کیونکہ مجھے گاڑی چلانی ہے۔
+> 이 가게 자주 와요. 커피가 맛있거든요. | I come to this shop often. The coffee is good, you see. | میں اکثر اس دکان پر آتا ہوں، یہاں کی کافی مزے دار ہے نا۔
+= -는 척하다 | 2
+> 모르는 척하지 마세요. | Don't pretend you don't know. | انجان بننے کی اداکاری نہ کریں۔
+> 그는 괜찮은 척했지만 사실은 많이 아팠어요. | He pretended to be fine, but actually he was in a lot of pain. | وہ ٹھیک ہونے کا ڈھونگ کر رہا تھا مگر اصل میں بہت تکلیف میں تھا۔
+= -(으)ㄴ/는 셈이다 | 3
+> 반 이상 끝났으니 거의 다 한 셈이에요. | More than half is done, so it's practically finished. | آدھے سے زیادہ ہو گیا، یعنی تقریباً مکمل ہی ہے۔
+> 10명 중 9명이 찬성했으니 모두 찬성한 셈이다. | Nine out of ten agreed, so it amounts to everyone agreeing. | دس میں سے نو نے حمایت کی، یعنی گویا سب نے حمایت کی۔
+= -(으)므로 | 3
+> 이 지역은 위험하므로 출입을 금지합니다. | Entry is prohibited because this area is dangerous. | یہ علاقہ خطرناک ہے، اس لیے داخلہ ممنوع ہے۔
+> 성적이 우수하므로 이 상장을 수여합니다. | This certificate is awarded for excellent grades. | بہترین کارکردگی کی بنا پر یہ سند دی جاتی ہے۔
+= -에 따라(서) | 2
+> 날씨에 따라 일정이 바뀔 수 있습니다. | The schedule may change depending on the weather. | موسم کے مطابق شیڈول بدل سکتا ہے۔
+> 규정에 따라 처리하겠습니다. | We will handle it according to the regulations. | ہم قواعد کے مطابق کارروائی کریں گے۔
+= -(으)면 -(으)ㄹ수록 | 2
+> 그 사람은 만나면 만날수록 좋아져요. | The more I meet that person, the more I like them. | اس شخص سے جتنا ملتا ہوں اتنا ہی اچھا لگتا ہے۔
+> 돈은 많으면 많을수록 좋아요? | Is it the more money, the better? | کیا پیسہ جتنا زیادہ ہو اتنا اچھا ہے؟

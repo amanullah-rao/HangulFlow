@@ -1,0 +1,337 @@
+# Extra sentences and corrected levels for the original 324 words (part 1)
+= 노력 | 2
+> 노력한 만큼 결과가 나올 거예요. | The results will match the effort you put in. | جتنی محنت کریں گے، اتنا ہی نتیجہ ملے گا۔
+> 그는 꿈을 이루려고 많은 노력을 기울였다. | He put a lot of effort into achieving his dream. | اس نے اپنا خواب پورا کرنے کے لیے بہت محنت کی۔
+= 장학금 | 2
+> 장학금을 받으려면 성적이 3.5 이상이어야 해요. | To get the scholarship, your GPA must be 3.5 or higher. | وظیفہ لینے کے لیے آپ کا جی پی اے 3.5 یا اس سے زیادہ ہونا چاہیے۔
+> 정부 장학금으로 한국에 유학을 왔어요. | I came to study in Korea on a government scholarship. | میں سرکاری وظیفے پر کوریا پڑھنے آیا ہوں۔
+= 과제 | 2
+> 과제가 너무 많아서 주말에도 쉴 수 없어요. | I have so many assignments that I can't rest even on weekends. | اسائنمنٹس اتنی زیادہ ہیں کہ ہفتے کے آخر میں بھی آرام نہیں کر سکتا۔
+> 이 과제는 친구와 함께 해도 돼요. | You may do this assignment with a friend. | یہ اسائنمنٹ آپ دوست کے ساتھ مل کر کر سکتے ہیں۔
+= 전공 | 2
+> 전공을 바꾸고 싶은데 부모님이 반대하세요. | I want to change my major, but my parents are against it. | میں اپنا مضمون بدلنا چاہتا ہوں لیکن والدین مخالفت کرتے ہیں۔
+> 전공 수업은 대부분 오전에 있어요. | Most of my major classes are in the morning. | میرے مضمون کی زیادہ تر کلاسیں صبح ہوتی ہیں۔
+= 학기 | 2
+> 이번 학기에는 여섯 과목을 들어요. | I'm taking six courses this semester. | اس سمسٹر میں میں چھ مضامین پڑھ رہا ہوں۔
+> 학기가 끝나면 고향에 갈 거예요. | When the semester ends, I'll go back to my hometown. | سمسٹر ختم ہونے پر میں اپنے آبائی شہر جاؤں گا۔
+= 논문 | 3
+> 논문 주제를 아직 정하지 못했어요. | I still haven't decided on my thesis topic. | میں نے ابھی تک اپنے مقالے کا موضوع طے نہیں کیا۔
+> 그 교수님은 유명한 학술지에 논문을 발표하셨다. | The professor published a paper in a famous journal. | اس پروفیسر نے ایک مشہور جریدے میں تحقیقی مقالہ شائع کیا۔
+= 출석 | 2
+> 수업 시작 전에 출석을 부릅니다. | Attendance is taken before class starts. | کلاس شروع ہونے سے پہلے حاضری لی جاتی ہے۔
+> 출석률이 낮으면 시험을 볼 수 없어요. | If your attendance rate is low, you can't take the exam. | اگر حاضری کم ہو تو امتحان نہیں دے سکتے۔
+= 복습하다 | 2
+> 시험 전날 배운 내용을 모두 복습했어요. | The day before the exam, I reviewed everything I had learned. | امتحان سے ایک دن پہلے میں نے سب سیکھا ہوا دہرایا۔
+> 단어는 자주 복습해야 오래 기억할 수 있어요. | You have to review words often to remember them for a long time. | الفاظ کو بار بار دہرانا ضروری ہے تاکہ دیر تک یاد رہیں۔
+= 분리수거 | 2
+> 우리 아파트는 수요일마다 분리수거를 해요. | Our apartment does recycling collection every Wednesday. | ہماری عمارت میں ہر بدھ کو کچرا الگ الگ جمع کیا جاتا ہے۔
+> 분리수거 방법을 몰라서 이웃에게 물어봤어요. | I didn't know how to sort the recycling, so I asked a neighbor. | مجھے کچرا الگ کرنے کا طریقہ معلوم نہیں تھا، اس لیے پڑوسی سے پوچھا۔
+= 관리비 | 2
+> 겨울에는 난방 때문에 관리비가 많이 나와요. | In winter, the maintenance fee is high because of heating. | سردیوں میں ہیٹنگ کی وجہ سے مینٹیننس فیس زیادہ آتی ہے۔
+> 월세에 관리비가 포함되어 있나요? | Is the maintenance fee included in the rent? | کیا کرائے میں مینٹیننس فیس شامل ہے؟
+= 배달 | 1
+> 이 가게는 밤 12시까지 배달해요. | This shop delivers until midnight. | یہ دکان رات بارہ بجے تک ڈیلیوری کرتی ہے۔
+> 배달이 생각보다 늦게 왔어요. | The delivery came later than I expected. | ڈیلیوری میری توقع سے دیر سے آئی۔
+= 계약 | 2
+> 계약서를 꼼꼼히 읽고 서명하세요. | Read the contract carefully before you sign it. | معاہدہ غور سے پڑھ کر دستخط کریں۔
+> 계약 기간이 끝나면 이사할 거예요. | When the contract period ends, I'll move. | معاہدے کی مدت ختم ہونے پر میں گھر بدل لوں گا۔
+= 공과금 | 2
+> 공과금을 내는 것을 잊어버렸어요. | I forgot to pay the utility bills. | میں بل ادا کرنا بھول گیا۔
+> 전기 요금과 수도 요금을 합쳐서 공과금이라고 해요. | Electricity and water bills together are called utility bills. | بجلی اور پانی کے بلوں کو ملا کر یوٹیلیٹی بل کہتے ہیں۔
+= 이웃 | 1
+> 이웃과 사이좋게 지내는 것이 중요해요. | It's important to get along well with your neighbors. | پڑوسیوں کے ساتھ اچھے تعلقات رکھنا ضروری ہے۔
+> 옆집 이웃이 떡을 가져다주었어요. | My next-door neighbor brought me some rice cake. | ساتھ والے پڑوسی میرے لیے چاول کا کیک لے آئے۔
+= 할인 | 1
+> 오늘까지 모든 옷을 30% 할인해요. | All clothes are 30% off until today. | آج تک تمام کپڑوں پر تیس فیصد رعایت ہے۔
+> 할인 쿠폰이 있으면 더 싸게 살 수 있어요. | With a discount coupon, you can buy it cheaper. | رعایتی کوپن ہو تو آپ اور سستا خرید سکتے ہیں۔
+= 지원하다 | 2
+> 저는 마케팅 부서에 지원하고 싶어요. | I'd like to apply to the marketing department. | میں مارکیٹنگ کے شعبے میں درخواست دینا چاہتا ہوں۔
+> 이 장학 프로그램에는 누구나 지원할 수 있습니다. | Anyone can apply for this scholarship program. | اس وظیفہ پروگرام کے لیے کوئی بھی درخواست دے سکتا ہے۔
+= 면접 | 2
+> 면접에서 자기소개를 한국어로 했어요. | I introduced myself in Korean at the interview. | انٹرویو میں میں نے اپنا تعارف کورین میں کرایا۔
+> 면접 결과는 다음 주에 알려 드리겠습니다. | We'll let you know the interview result next week. | انٹرویو کا نتیجہ ہم آپ کو اگلے ہفتے بتائیں گے۔
+= 경력 | 2
+> 경력이 없어도 지원할 수 있나요? | Can I apply even without work experience? | کیا تجربے کے بغیر بھی درخواست دے سکتا ہوں؟
+> 그녀는 10년의 경력을 가진 간호사예요. | She is a nurse with ten years of experience. | وہ دس سال کا تجربہ رکھنے والی نرس ہے۔
+= 회의 | 1
+> 지금 회의 중이라서 전화를 받을 수 없어요. | I'm in a meeting now, so I can't take the call. | میں اس وقت میٹنگ میں ہوں، فون نہیں اٹھا سکتا۔
+> 회의가 길어져서 점심을 못 먹었어요. | The meeting ran long, so I couldn't eat lunch. | میٹنگ لمبی ہو گئی، اس لیے دوپہر کا کھانا نہیں کھا سکا۔
+= 월급 | 1
+> 월급날이 되면 가족에게 돈을 보내요. | On payday, I send money to my family. | تنخواہ کے دن میں گھر والوں کو پیسے بھیجتا ہوں۔
+> 이 회사는 월급이 적지만 분위기가 좋아요. | This company's salary is low, but the atmosphere is good. | اس کمپنی میں تنخواہ کم ہے لیکن ماحول اچھا ہے۔
+= 담당하다 | 2
+> 이 일은 누가 담당하고 있어요? | Who is in charge of this work? | یہ کام کس کی ذمہ داری ہے؟
+> 담당하는 직원이 지금 자리에 없습니다. | The staff member in charge is not at their desk right now. | ذمہ دار ملازم اس وقت اپنی جگہ پر موجود نہیں ہے۔
+= 승진 | 2
+> 승진 소식을 듣고 동료들이 축하해 줬어요. | When they heard about my promotion, my colleagues congratulated me. | ترقی کی خبر سن کر ساتھیوں نے مجھے مبارکباد دی۔
+> 이번에 승진하면 월급도 오를 거예요. | If I get promoted this time, my salary will go up too. | اس بار ترقی ہوئی تو تنخواہ بھی بڑھ جائے گی۔
+= 저출산 | 3
+> 정부는 저출산 문제를 해결하기 위해 지원금을 늘렸다. | The government increased subsidies to tackle the low birth rate. | حکومت نے کم شرحِ پیدائش کا مسئلہ حل کرنے کے لیے امدادی رقم بڑھا دی۔
+> 저출산이 계속되면 일할 사람이 부족해질 것이다. | If the low birth rate continues, there will be a shortage of workers. | اگر شرحِ پیدائش کم رہی تو کام کرنے والوں کی کمی ہو جائے گی۔
+= 고령화 | 3
+> 고령화 사회에서는 노인 복지가 중요하다. | In an aging society, welfare for the elderly is important. | بڑھتی عمر والے معاشرے میں بزرگوں کی فلاح بہت اہم ہے۔
+> 농촌의 고령화가 특히 심각하다. | Population aging is especially serious in rural areas. | دیہات میں آبادی کا بوڑھا ہونا خاص طور پر سنگین ہے۔
+= 전통 | 2
+> 한복은 한국의 전통 옷이에요. | Hanbok is traditional Korean clothing. | ہانبوک کوریا کا روایتی لباس ہے۔
+> 이 마을은 오래된 전통을 지키고 있어요. | This village preserves old traditions. | یہ گاؤں پرانی روایات کو قائم رکھے ہوئے ہے۔
+= 차이 | 2
+> 두 사람은 나이 차이가 많이 나요. | There is a big age gap between the two of them. | ان دونوں کی عمر میں بہت فرق ہے۔
+> 가격 차이가 별로 없으니까 좋은 걸로 사세요. | There isn't much difference in price, so buy the better one. | قیمت میں زیادہ فرق نہیں، اس لیے اچھی والی خریدیں۔
+= 편견 | 2
+> 직접 만나 보니까 편견이 사라졌어요. | After meeting them in person, my prejudice disappeared. | خود مل کر دیکھا تو میرا تعصب ختم ہو گیا۔
+> 편견 없이 사람을 대하려고 노력해요. | I try to treat people without bias. | میں لوگوں سے بغیر تعصب کے پیش آنے کی کوشش کرتا ہوں۔
+= 적응하다 | 2
+> 새 회사에 적응하는 데 석 달쯤 걸렸어요. | It took about three months to adjust to the new company. | نئی کمپنی میں ڈھلنے میں تقریباً تین مہینے لگے۔
+> 아이들은 새로운 환경에 빨리 적응해요. | Children adapt quickly to new environments. | بچے نئے ماحول میں جلدی ڈھل جاتے ہیں۔
+= 환경 | 2
+> 조용한 환경에서 공부하고 싶어요. | I want to study in a quiet environment. | میں پرسکون ماحول میں پڑھنا چاہتا ہوں۔
+> 환경 문제는 우리 모두의 책임이에요. | Environmental problems are everyone's responsibility. | ماحولیاتی مسائل ہم سب کی ذمہ داری ہیں۔
+= 오염 | 2
+> 강물 오염 때문에 물고기가 많이 죽었어요. | Many fish died because of river pollution. | دریا کی آلودگی کی وجہ سے بہت سی مچھلیاں مر گئیں۔
+> 자동차 배기가스가 공기를 오염시켜요. | Car exhaust fumes pollute the air. | گاڑیوں کا دھواں ہوا کو آلودہ کرتا ہے۔
+= 미세먼지 | 2
+> 미세먼지가 많은 날에는 운동을 밖에서 하지 마세요. | On days with a lot of fine dust, don't exercise outside. | جن دنوں باریک گرد زیادہ ہو، باہر ورزش نہ کریں۔
+> 휴대폰 앱으로 미세먼지 농도를 확인해요. | I check the fine dust level with a phone app. | میں فون ایپ سے باریک گرد کی مقدار دیکھتا ہوں۔
+= 기후 | 2
+> 이 지역은 기후가 따뜻해서 과일이 잘 자라요. | The climate here is warm, so fruit grows well. | اس علاقے کی آب و ہوا گرم ہے، اس لیے پھل اچھے اگتے ہیں۔
+> 한국과 파키스탄은 기후가 많이 달라요. | Korea and Pakistan have very different climates. | کوریا اور پاکستان کی آب و ہوا بہت مختلف ہے۔
+= 절약하다 | 2
+> 용돈을 절약해서 노트북을 샀어요. | I saved my allowance and bought a laptop. | جیب خرچ بچا کر میں نے لیپ ٹاپ خریدا۔
+> 물을 절약하려면 샤워 시간을 줄이세요. | To save water, take shorter showers. | پانی بچانے کے لیے نہانے کا وقت کم کریں۔
+= 재활용 | 2
+> 우유팩도 재활용이 가능해요. | Milk cartons can be recycled too. | دودھ کے ڈبے بھی ری سائیکل ہو سکتے ہیں۔
+> 재활용 쓰레기는 깨끗하게 씻어서 버리세요. | Rinse recyclables clean before throwing them out. | ری سائیکل ہونے والا کچرا دھو کر پھینکیں۔
+= 증상 | 2
+> 어떤 증상이 있는지 자세히 말씀해 주세요. | Please tell me in detail what symptoms you have. | براہ کرم تفصیل سے بتائیں کہ آپ کو کیا علامات ہیں۔
+> 이 약을 먹으면 증상이 좋아질 거예요. | Your symptoms will improve if you take this medicine. | یہ دوا کھانے سے علامات بہتر ہو جائیں گی۔
+= 처방 | 2
+> 의사가 처방해 준 약을 꼭 다 드세요. | Be sure to finish all the medicine the doctor prescribed. | ڈاکٹر کی تجویز کردہ ساری دوا ضرور ختم کریں۔
+> 처방전을 가지고 약국에 가세요. | Take the prescription to the pharmacy. | نسخہ لے کر فارمیسی جائیں۔
+= 건강하다 | 1
+> 할아버지는 아흔 살이지만 아주 건강하세요. | My grandfather is ninety but very healthy. | دادا جان نوے سال کے ہیں لیکن بہت صحت مند ہیں۔
+> 건강한 음식을 먹으려고 노력해요. | I try to eat healthy food. | میں صحت مند کھانا کھانے کی کوشش کرتا ہوں۔
+= 스트레스 | 1
+> 저는 스트레스를 받으면 음악을 들어요. | When I'm stressed, I listen to music. | جب مجھے دباؤ ہوتا ہے تو میں موسیقی سنتا ہوں۔
+> 운동은 스트레스를 푸는 데 도움이 돼요. | Exercise helps relieve stress. | ورزش ذہنی دباؤ کم کرنے میں مدد دیتی ہے۔
+= 회복하다 | 2
+> 푹 쉬었더니 건강을 회복했어요. | I rested well and recovered my health. | اچھی طرح آرام کیا تو صحت بحال ہو گئی۔
+> 경제가 천천히 회복하고 있다. | The economy is slowly recovering. | معیشت آہستہ آہستہ بحال ہو رہی ہے۔
+= 예방 | 2
+> 독감 예방 주사를 맞았어요. | I got a flu shot. | میں نے فلو سے بچاؤ کا ٹیکا لگوایا۔
+> 사고 예방을 위해 안전 교육을 받아야 합니다. | You must receive safety training to prevent accidents. | حادثات سے بچاؤ کے لیے حفاظتی تربیت لینا ضروری ہے۔
+= 환승 | 2
+> 30분 안에 타면 환승 할인을 받을 수 있어요. | If you board within 30 minutes, you get a transfer discount. | تیس منٹ کے اندر سوار ہوں تو ٹرانسفر رعایت ملتی ہے۔
+> 이 역은 환승하는 사람이 많아서 늘 붐벼요. | This station is always crowded because many people transfer here. | اس اسٹیشن پر بہت لوگ گاڑی بدلتے ہیں، اس لیے ہمیشہ رش رہتا ہے۔
+= 예약 | 1
+> 식당에 7시로 예약했어요. | I made a reservation at the restaurant for 7 o'clock. | میں نے ریستوران میں سات بجے کی بکنگ کی۔
+> 예약을 취소하고 싶은데요. | I'd like to cancel my reservation. | میں اپنی بکنگ منسوخ کرنا چاہتا ہوں۔
+= 왕복 | 2
+> 왕복으로 사면 더 싸요. | It's cheaper if you buy a round trip. | آنے جانے کا ٹکٹ لیں تو سستا پڑتا ہے۔
+> 집에서 회사까지 왕복 두 시간이 걸려요. | It takes two hours to go to work and back. | گھر سے دفتر آنے جانے میں دو گھنٹے لگتے ہیں۔
+= 출발하다 | 1
+> 지금 출발하면 늦지 않을 거예요. | If you leave now, you won't be late. | ابھی نکلیں تو دیر نہیں ہوگی۔
+> 이 기차는 서울역에서 출발합니다. | This train departs from Seoul Station. | یہ ٹرین سیول اسٹیشن سے روانہ ہوتی ہے۔
+= 교통 체증 | 2
+> 명절에는 고속도로 교통 체증이 아주 심해요. | During the holidays, traffic jams on the highway are very bad. | تہواروں پر موٹروے پر ٹریفک بہت زیادہ جام ہوتا ہے۔
+> 교통 체증 때문에 회의에 늦었어요. | I was late for the meeting because of the traffic jam. | ٹریفک جام کی وجہ سے میں میٹنگ میں دیر سے پہنچا۔
+= 여권 | 1
+> 여권을 잃어버려서 대사관에 갔어요. | I lost my passport, so I went to the embassy. | میرا پاسپورٹ گم ہو گیا، اس لیے سفارت خانے گیا۔
+> 호텔에서 체크인할 때 여권을 보여 주세요. | Please show your passport when you check in at the hotel. | ہوٹل میں چیک ان کے وقت پاسپورٹ دکھائیں۔
+= 실망하다 | 2
+> 기대가 너무 컸기 때문에 더 실망했어요. | I was more disappointed because my expectations were too high. | توقعات بہت زیادہ تھیں، اس لیے اور مایوسی ہوئی۔
+> 부모님을 실망시키고 싶지 않아요. | I don't want to disappoint my parents. | میں اپنے والدین کو مایوس نہیں کرنا چاہتا۔
+= 서운하다 | 2
+> 연락을 안 해서 서운했어요. | I felt hurt that you didn't contact me. | آپ نے رابطہ نہیں کیا، اس لیے مجھے دکھ ہوا۔
+> 정든 회사를 떠나려니 서운해요. | I feel sad to leave the company I've grown attached to. | اس کمپنی کو چھوڑتے ہوئے دکھ ہو رہا ہے جس سے لگاؤ ہو گیا تھا۔
+= 갈등 | 2
+> 회사에서 동료와 갈등이 생겼어요. | A conflict arose with a coworker at work. | دفتر میں ایک ساتھی کے ساتھ اختلاف پیدا ہو گیا۔
+> 고부 갈등은 드라마의 단골 소재예요. | Conflict between mother-in-law and daughter-in-law is a common drama theme. | ساس بہو کا جھگڑا ڈراموں کا عام موضوع ہے۔
+= 오해 | 2
+> 그건 오해예요. 제 뜻은 그게 아니었어요. | That's a misunderstanding. That's not what I meant. | یہ غلط فہمی ہے، میرا مطلب یہ نہیں تھا۔
+> 대화로 오해를 풀었어요. | We cleared up the misunderstanding by talking. | ہم نے بات چیت سے غلط فہمی دور کر لی۔
+= 그립다 | 2
+> 어머니가 해 주신 밥이 그리워요. | I miss the food my mother used to make. | مجھے امی کے ہاتھ کا کھانا یاد آتا ہے۔
+> 학창 시절이 그리울 때가 있어요. | There are times when I miss my school days. | کبھی کبھی مجھے اسکول کے دن یاد آتے ہیں۔
+= 믿다 | 1
+> 그 소식을 듣고 믿을 수가 없었어요. | When I heard the news, I couldn't believe it. | وہ خبر سن کر مجھے یقین نہیں آیا۔
+> 자기 자신을 믿는 것이 중요해요. | It's important to believe in yourself. | اپنے آپ پر یقین رکھنا ضروری ہے۔
+= 분석하다 | 2
+> 실패한 원인을 분석해야 다시 실수하지 않아요. | You have to analyze why you failed so you don't repeat the mistake. | ناکامی کی وجہ کا تجزیہ کریں تاکہ دوبارہ غلطی نہ ہو۔
+> 이 프로그램은 데이터를 자동으로 분석해 줘요. | This program analyzes the data automatically. | یہ پروگرام ڈیٹا کا خودکار تجزیہ کرتا ہے۔
+= 영향 | 2
+> 부모님의 영향으로 의사가 되었어요. | I became a doctor because of my parents' influence. | والدین کے اثر سے میں ڈاکٹر بنا۔
+> 태풍의 영향으로 비행기가 취소되었다. | Flights were canceled due to the effects of the typhoon. | طوفان کے اثر سے پروازیں منسوخ ہو گئیں۔
+= 원인 | 2
+> 두통의 원인은 수면 부족일 수 있어요. | The cause of the headache may be lack of sleep. | سر درد کی وجہ نیند کی کمی ہو سکتی ہے۔
+> 화재 원인은 아직 밝혀지지 않았다. | The cause of the fire has not been revealed yet. | آگ لگنے کی وجہ ابھی سامنے نہیں آئی۔
+= 증가하다 | 2
+> 온라인 쇼핑 이용자가 크게 증가했다. | The number of online shoppers has increased greatly. | آن لائن خریداری کرنے والوں کی تعداد بہت بڑھ گئی ہے۔
+> 겨울에는 감기 환자가 증가해요. | The number of cold patients increases in winter. | سردیوں میں زکام کے مریض بڑھ جاتے ہیں۔
+= 따라서 | 2
+> 이 제품은 가볍고 튼튼하다. 따라서 여행용으로 좋다. | This product is light and sturdy. Therefore, it's good for travel. | یہ چیز ہلکی اور مضبوط ہے، لہٰذا سفر کے لیے اچھی ہے۔
+> 비가 많이 왔다. 따라서 행사가 연기되었다. | It rained a lot. Accordingly, the event was postponed. | بہت بارش ہوئی، لہٰذا تقریب ملتوی کر دی گئی۔
+= 반면 | 2
+> 형은 활발한 반면 동생은 조용한 편이다. | The older brother is lively, whereas the younger one is rather quiet. | بڑا بھائی خوش مزاج ہے جبکہ چھوٹا کافی خاموش ہے۔
+> 이 집은 넓은 반면에 역에서 멀어요. | This house is spacious, but on the other hand it's far from the station. | یہ گھر کشادہ ہے مگر دوسری طرف اسٹیشن سے دور ہے۔
+= 줄이다 | 2
+> 스마트폰 사용 시간을 줄이기로 했어요. | I decided to cut down my smartphone time. | میں نے اسمارٹ فون کا استعمال کم کرنے کا فیصلہ کیا۔
+> 소리 좀 줄여 주시겠어요? | Could you turn the volume down a little? | کیا آپ آواز تھوڑی کم کر دیں گے؟
+= 늘다 | 2
+> 요즘 몸무게가 3킬로나 늘었어요. | Lately I've gained as much as three kilos. | آج کل میرا وزن تین کلو بڑھ گیا ہے۔
+> 외국인 관광객이 작년보다 늘었다. | Foreign tourists have increased compared to last year. | غیر ملکی سیاح پچھلے سال سے بڑھ گئے ہیں۔
+= 겪다 | 2
+> 처음 한국에 왔을 때 문화 충격을 겪었어요. | When I first came to Korea, I experienced culture shock. | جب میں پہلی بار کوریا آیا تو ثقافتی جھٹکا لگا۔
+> 그 회사는 경제적인 어려움을 겪고 있다. | That company is going through financial difficulties. | وہ کمپنی مالی مشکلات سے گزر رہی ہے۔
+= 익숙하다 | 2
+> 아직 한국의 매운 음식이 익숙하지 않아요. | I'm still not used to spicy Korean food. | میں ابھی کوریا کے تیز مصالحے والے کھانوں کا عادی نہیں ہوا۔
+> 익숙한 목소리가 들려서 뒤를 돌아봤어요. | I heard a familiar voice, so I looked back. | ایک جانی پہچانی آواز سنائی دی تو میں نے پیچھے مڑ کر دیکھا۔
+= 복잡하다 | 2
+> 주말에는 시내가 너무 복잡해요. | Downtown is too crowded on weekends. | ہفتے کے آخر میں شہر میں بہت رش ہوتا ہے۔
+> 머리가 복잡해서 잠이 안 와요. | My head is full of thoughts, so I can't sleep. | دماغ الجھا ہوا ہے، اس لیے نیند نہیں آ رہی۔
+= 해결하다 | 2
+> 우리는 대화로 문제를 해결했어요. | We solved the problem through conversation. | ہم نے بات چیت سے مسئلہ حل کر لیا۔
+> 이 문제를 해결할 방법이 있을까요? | Is there a way to solve this problem? | کیا اس مسئلے کو حل کرنے کا کوئی طریقہ ہے؟
+= 수강신청 | 2
+> 수강신청에 실패해서 원하는 수업을 못 들어요. | I failed at course registration, so I can't take the class I wanted. | کورس رجسٹریشن ناکام ہو گئی، اس لیے من پسند کلاس نہیں لے سکتا۔
+> 내일 아침 9시에 수강신청이 시작돼요. | Course registration starts tomorrow at 9 a.m. | کل صبح نو بجے کورس رجسٹریشن شروع ہوگی۔
+= 교수 | 1
+> 김 교수님 수업은 인기가 많아요. | Professor Kim's class is very popular. | پروفیسر کم کی کلاس بہت مقبول ہے۔
+> 교수님 연구실이 어디에 있어요? | Where is the professor's office? | پروفیسر صاحب کا دفتر کہاں ہے؟
+= 강의 | 2
+> 강의 자료는 홈페이지에 올려 두었습니다. | The lecture materials have been uploaded to the website. | لیکچر کا مواد ویب سائٹ پر ڈال دیا گیا ہے۔
+> 그 교수님의 강의는 이해하기 쉬워요. | That professor's lectures are easy to understand. | ان پروفیسر کے لیکچر سمجھنے میں آسان ہیں۔
+= 발표 | 2
+> 발표할 때 너무 긴장해서 목소리가 떨렸어요. | I was so nervous during my presentation that my voice shook. | پریزنٹیشن کے دوران اتنا گھبرایا کہ آواز کانپنے لگی۔
+> 합격자 발표는 다음 달 1일입니다. | The list of successful candidates will be announced on the 1st of next month. | کامیاب امیدواروں کا اعلان اگلے مہینے کی پہلی تاریخ کو ہوگا۔
+= 성적 | 2
+> 성적이 떨어져서 걱정이에요. | I'm worried because my grades dropped. | نمبر کم ہو گئے ہیں، اس لیے فکر ہے۔
+> 성적표는 이메일로 받을 수 있어요. | You can receive your report card by email. | رزلٹ کارڈ آپ ای میل پر حاصل کر سکتے ہیں۔
+= 졸업 | 1
+> 졸업식에 부모님이 오셨어요. | My parents came to my graduation ceremony. | میرے والدین میری تقریبِ تقسیمِ اسناد میں آئے۔
+> 졸업까지 한 학기 남았어요. | There is one semester left until graduation. | فراغت میں ایک سمسٹر باقی ہے۔
+= 학위 | 2
+> 석사 학위를 받으려면 2년이 걸려요. | It takes two years to get a master's degree. | ماسٹرز کی ڈگری لینے میں دو سال لگتے ہیں۔
+> 이 일을 하려면 학위가 꼭 필요한가요? | Is a degree really necessary to do this job? | کیا یہ کام کرنے کے لیے ڈگری ضروری ہے؟
+= 연구 | 2
+> 그는 한국 역사를 연구하는 학자예요. | He is a scholar who researches Korean history. | وہ کوریا کی تاریخ پر تحقیق کرنے والا عالم ہے۔
+> 연구 결과가 신문에 실렸어요. | The research results were published in the newspaper. | تحقیق کے نتائج اخبار میں چھپے۔
+= 참고하다 | 2
+> 다른 사람의 의견도 참고해 보세요. | Consider other people's opinions as well. | دوسروں کی رائے بھی مدنظر رکھیں۔
+> 사용 설명서를 참고해서 조립했어요. | I assembled it by referring to the manual. | میں نے ہدایت نامہ دیکھ کر اسے جوڑا۔
+= 제출하다 | 2
+> 신청서를 온라인으로 제출하세요. | Submit the application form online. | درخواست فارم آن لائن جمع کرائیں۔
+> 과제를 늦게 제출하면 점수가 깎여요. | If you submit an assignment late, points are deducted. | اسائنمنٹ دیر سے جمع کرائیں تو نمبر کٹ جاتے ہیں۔
+= 기숙사 | 1
+> 기숙사에서 룸메이트와 같이 살아요. | I live with a roommate in the dormitory. | میں ہاسٹل میں روم میٹ کے ساتھ رہتا ہوں۔
+> 기숙사 식당은 밥값이 싸요. | The dorm cafeteria is cheap. | ہاسٹل کے کھانے کی قیمت کم ہے۔
+= 휴학 | 2
+> 돈을 모으려고 1년 휴학했어요. | I took a year off school to save money. | پیسے جمع کرنے کے لیے میں نے ایک سال کی چھٹی لی۔
+> 휴학 신청은 학과 사무실에서 하세요. | Apply for a leave of absence at the department office. | تعلیمی چھٹی کی درخواست شعبے کے دفتر میں دیں۔
+= 이해하다 | 1
+> 선생님의 말을 다 이해하지 못했어요. | I didn't understand everything the teacher said. | میں استاد کی ساری بات نہیں سمجھ سکا۔
+> 당신의 마음을 충분히 이해해요. | I fully understand how you feel. | میں آپ کے جذبات پوری طرح سمجھتا ہوں۔
+= 집중하다 | 2
+> 시끄러워서 일에 집중할 수 없어요. | It's noisy, so I can't concentrate on my work. | شور کی وجہ سے میں کام پر توجہ نہیں دے پا رہا۔
+> 수업 시간에는 휴대폰을 끄고 집중하세요. | Turn off your phone and focus during class. | کلاس کے دوران فون بند کر کے توجہ دیں۔
+= 시험을 치다 | 2
+> 시험을 친 후에 친구들과 놀러 갔어요. | After taking the exam, I went out with friends. | امتحان دینے کے بعد میں دوستوں کے ساتھ گھومنے گیا۔
+> 운전면허 시험을 세 번이나 쳤어요. | I took the driving test as many as three times. | میں نے ڈرائیونگ ٹیسٹ تین بار دیا۔
+= 합격하다 | 2
+> 원하던 대학교에 합격했어요. | I was accepted to the university I wanted. | مجھے اپنی پسندیدہ یونیورسٹی میں داخلہ مل گیا۔
+> 토픽 4급에 합격하는 것이 제 목표예요. | My goal is to pass TOPIK level 4. | میرا مقصد ٹاپک لیول چار پاس کرنا ہے۔
+= 등록금 | 2
+> 등록금은 학기마다 내야 해요. | Tuition must be paid every semester. | فیس ہر سمسٹر ادا کرنی پڑتی ہے۔
+> 장학금 덕분에 등록금을 반만 냈어요. | Thanks to the scholarship, I paid only half the tuition. | وظیفے کی بدولت میں نے صرف آدھی فیس دی۔
+= 동아리 | 2
+> 동아리 친구들과 엠티를 갔어요. | I went on a retreat with my club friends. | میں کلب کے دوستوں کے ساتھ تفریحی سفر پر گیا۔
+> 어떤 동아리에 들어갈지 고민 중이에요. | I'm thinking about which club to join. | سوچ رہا ہوں کہ کون سے کلب میں شامل ہوں۔
+= 선배 | 2
+> 선배에게 학교생활에 대해 조언을 들었어요. | I got advice about school life from a senior. | میں نے ایک سینئر سے تعلیمی زندگی کے بارے میں مشورہ لیا۔
+> 회사 선배가 일을 친절하게 가르쳐 줬어요. | A senior colleague kindly taught me the work. | دفتر کے ایک سینئر نے مجھے بڑی مہربانی سے کام سکھایا۔
+= 실력 | 2
+> 그 선수는 실력이 정말 뛰어나요. | That player is really skilled. | وہ کھلاڑی واقعی بہت ماہر ہے۔
+> 요리 실력이 많이 좋아졌네요. | Your cooking skills have improved a lot. | آپ کی کھانا پکانے کی مہارت کافی بہتر ہو گئی ہے۔
+= 지식 | 2
+> 그는 컴퓨터에 대한 지식이 풍부해요. | He has a wealth of knowledge about computers. | اسے کمپیوٹر کے بارے میں بہت علم ہے۔
+> 지식보다 경험이 더 중요할 때도 있어요. | Sometimes experience is more important than knowledge. | کبھی کبھی علم سے زیادہ تجربہ اہم ہوتا ہے۔
+= 교육 | 2
+> 신입 사원은 일주일 동안 교육을 받아요. | New employees receive training for a week. | نئے ملازمین ایک ہفتے تک تربیت لیتے ہیں۔
+> 모든 아이들은 교육을 받을 권리가 있어요. | Every child has the right to an education. | ہر بچے کو تعلیم حاصل کرنے کا حق ہے۔
+= 토론 | 2
+> 토론할 때는 상대방의 말을 끝까지 들어야 해요. | In a debate, you should listen to the other person until they finish. | بحث کے دوران دوسرے کی بات آخر تک سننی چاہیے۔
+> 오늘 토론 주제는 '사형 제도'입니다. | Today's debate topic is "the death penalty." | آج کی بحث کا موضوع "سزائے موت" ہے۔
+= 전문가 | 2
+> 전문가들은 경제가 나아질 것이라고 전망했다. | Experts predicted that the economy would improve. | ماہرین نے پیشگوئی کی کہ معیشت بہتر ہو جائے گی۔
+> 컴퓨터가 고장 나면 전문가에게 맡기세요. | If your computer breaks, leave it to an expert. | کمپیوٹر خراب ہو جائے تو کسی ماہر کے حوالے کریں۔
+= 이사하다 | 1
+> 이사한 지 일주일밖에 안 됐어요. | It's only been a week since I moved. | گھر بدلے ہوئے صرف ایک ہفتہ ہوا ہے۔
+> 이사할 때 친구들이 도와줬어요. | My friends helped me when I moved. | گھر بدلتے وقت دوستوں نے میری مدد کی۔
+= 집주인 | 2
+> 집주인이 월세를 올려 달라고 했어요. | The landlord asked me to pay more rent. | مالک مکان نے کرایہ بڑھانے کو کہا۔
+> 보일러가 고장 나서 집주인에게 연락했어요. | The boiler broke, so I contacted the landlord. | بوائلر خراب ہو گیا تو میں نے مالک مکان سے رابطہ کیا۔
+= 월세 | 2
+> 월세는 매달 25일에 내요. | I pay the monthly rent on the 25th of every month. | میں ہر مہینے کی پچیس تاریخ کو کرایہ دیتا ہوں۔
+> 보증금이 높으면 월세가 낮아져요. | If the deposit is high, the monthly rent is lower. | زرِ ضمانت زیادہ ہو تو ماہانہ کرایہ کم ہو جاتا ہے۔
+= 장을 보다 | 2
+> 퇴근하는 길에 마트에서 장을 봤어요. | I did the grocery shopping at the supermarket on my way home from work. | دفتر سے واپسی پر میں نے سپر مارکیٹ سے سودا خریدا۔
+> 장을 보러 갈 때 장바구니를 가져가요. | I bring a shopping bag when I go grocery shopping. | سودا لینے جاتے وقت میں تھیلا ساتھ لے جاتا ہوں۔
+= 영수증 | 1
+> 영수증 필요하세요? | Do you need a receipt? | کیا آپ کو رسید چاہیے؟
+> 회사에 영수증을 제출하면 돈을 돌려줘요. | If you submit the receipt to the company, they reimburse you. | کمپنی میں رسید جمع کرائیں تو پیسے واپس مل جاتے ہیں۔
+= 환불 | 2
+> 산 지 일주일 안에는 환불이 가능해요. | Refunds are possible within a week of purchase. | خریداری کے ایک ہفتے کے اندر رقم واپس ہو سکتی ہے۔
+> 세일 상품은 환불이 안 됩니다. | Sale items cannot be refunded. | سیل والی اشیاء کی رقم واپس نہیں ہوتی۔
+= 고장 | 2
+> 엘리베이터가 고장 나서 계단으로 올라갔어요. | The elevator was broken, so I took the stairs. | لفٹ خراب تھی، اس لیے میں سیڑھیوں سے اوپر گیا۔
+> 고장 난 시계를 고치러 갔어요. | I went to get my broken watch fixed. | میں خراب گھڑی ٹھیک کروانے گیا۔
+= 수리하다 | 2
+> 오래된 집을 수리해서 카페로 만들었어요. | They renovated an old house and turned it into a café. | انہوں نے پرانے گھر کی مرمت کر کے اسے کیفے بنا دیا۔
+> 차를 수리하는 데 돈이 많이 들었어요. | Repairing the car cost a lot of money. | گاڑی کی مرمت پر بہت پیسے لگے۔
+= 택배 | 2
+> 택배를 보내려면 편의점에 가면 돼요. | To send a parcel, you can go to a convenience store. | پارسل بھیجنا ہو تو کنویننس اسٹور جا سکتے ہیں۔
+> 주문한 택배가 아직 안 왔어요. | The parcel I ordered hasn't arrived yet. | جو پارسل منگوایا تھا وہ ابھی تک نہیں آیا۔
+= 주민센터 | 2
+> 주민센터에서 무료 한국어 수업을 해요. | The community center offers free Korean classes. | کمیونٹی سینٹر میں مفت کورین کلاسیں ہوتی ہیں۔
+> 서류를 떼러 주민센터에 다녀왔어요. | I went to the community center to get some documents issued. | میں دستاویزات نکلوانے کمیونٹی سینٹر گیا تھا۔
+= 외국인 등록증 | 2
+> 외국인 등록증은 항상 가지고 다니세요. | Always carry your residence card with you. | غیر ملکی رہائشی کارڈ ہمیشہ ساتھ رکھیں۔
+> 외국인 등록증을 만드는 데 한 달이 걸렸어요. | It took a month to get my residence card made. | غیر ملکی رہائشی کارڈ بنوانے میں ایک مہینہ لگا۔
+= 계좌 | 2
+> 은행에서 새 계좌를 만들었어요. | I opened a new account at the bank. | میں نے بینک میں نیا اکاؤنٹ کھولا۔
+> 계좌 번호를 알려 주시면 돈을 보낼게요. | If you tell me your account number, I'll send the money. | اکاؤنٹ نمبر بتا دیں تو میں پیسے بھیج دوں گا۔
+= 이체하다 | 2
+> 휴대폰 앱으로 쉽게 이체할 수 있어요. | You can easily transfer money with a phone app. | فون ایپ سے آسانی سے رقم منتقل کر سکتے ہیں۔
+> 월세를 집주인 계좌로 이체했어요. | I transferred the rent to the landlord's account. | میں نے کرایہ مالک مکان کے اکاؤنٹ میں منتقل کر دیا۔
+= 충전하다 | 2
+> 휴대폰 배터리가 없어서 충전하고 있어요. | My phone battery is dead, so I'm charging it. | فون کی بیٹری ختم ہو گئی ہے، اس لیے چارج کر رہا ہوں۔
+> 전기차를 충전하는 데 30분이 걸려요. | Charging an electric car takes 30 minutes. | الیکٹرک گاڑی چارج کرنے میں تیس منٹ لگتے ہیں۔
+= 음식물 쓰레기 | 2
+> 음식물 쓰레기 봉투는 편의점에서 팔아요. | Food waste bags are sold at convenience stores. | کھانے کے کچرے کے تھیلے کنویننس اسٹور پر ملتے ہیں۔
+> 음식을 남기지 않으면 음식물 쓰레기가 줄어요. | If you don't leave food, food waste decreases. | کھانا ضائع نہ کریں تو کھانے کا کچرا کم ہو جاتا ہے۔
+= 단골 | 2
+> 저는 이 미용실 단골이에요. | I'm a regular at this hair salon. | میں اس سیلون کا مستقل گاہک ہوں۔
+> 단골 손님에게는 할인을 해 드려요. | We give discounts to regular customers. | ہم مستقل گاہکوں کو رعایت دیتے ہیں۔
+= 품절 | 2
+> 죄송하지만 그 사이즈는 품절입니다. | Sorry, that size is sold out. | معذرت، وہ سائز ختم ہو چکا ہے۔
+> 콘서트 표가 5분 만에 품절됐어요. | The concert tickets sold out in five minutes. | کنسرٹ کے ٹکٹ پانچ منٹ میں ختم ہو گئے۔
+= 미루다 | 2
+> 회의를 다음 주로 미뤘어요. | We postponed the meeting to next week. | ہم نے میٹنگ اگلے ہفتے تک ملتوی کر دی۔
+> 숙제를 미루다가 결국 밤을 새웠어요. | I kept putting off my homework and ended up staying up all night. | ہوم ورک ٹالتا رہا اور آخرکار ساری رات جاگنا پڑا۔
+= 깜빡하다 | 2
+> 약속을 깜빡해서 친구가 화가 났어요. | I forgot about our appointment, so my friend got angry. | میں ملاقات بھول گیا، اس لیے دوست ناراض ہو گیا۔
+> 휴대폰을 집에 두고 온 걸 깜빡했어요. | I forgot that I'd left my phone at home. | مجھے یاد نہیں رہا کہ فون گھر پر چھوڑ آیا ہوں۔
+= 습관 | 2
+> 나쁜 습관은 고치기 어려워요. | Bad habits are hard to fix. | بری عادتیں چھوڑنا مشکل ہوتا ہے۔
+> 매일 일기를 쓰는 습관이 있어요. | I have a habit of writing in my diary every day. | مجھے روزانہ ڈائری لکھنے کی عادت ہے۔
+= 편리하다 | 2
+> 온라인으로 주문하면 편리해요. | Ordering online is convenient. | آن لائن آرڈر کرنا آسان ہوتا ہے۔
+> 이 앱은 사용하기가 아주 편리해요. | This app is very convenient to use. | یہ ایپ استعمال کرنے میں بہت آسان ہے۔
+= 불편하다 | 2
+> 신발이 작아서 걷기 불편해요. | My shoes are small, so walking is uncomfortable. | جوتے چھوٹے ہیں، اس لیے چلنے میں تکلیف ہوتی ہے۔
+> 불편한 점이 있으면 언제든지 말씀하세요. | If anything is inconvenient, let us know any time. | کوئی تکلیف ہو تو کسی بھی وقت بتائیں۔
+= 낭비하다 | 2
+> 쓸데없는 물건을 사서 돈을 낭비했어요. | I wasted money buying useless things. | فضول چیزیں خرید کر میں نے پیسے ضائع کیے۔
+> 전기를 낭비하지 않도록 불을 끄세요. | Turn off the lights so you don't waste electricity. | بجلی ضائع نہ ہو، اس لیے بتیاں بند کریں۔
+= 일상 | 2
+> 여행에서 돌아와서 다시 일상으로 돌아갔어요. | I came back from my trip and returned to daily life. | سفر سے واپس آ کر میں پھر روزمرہ زندگی میں لوٹ آیا۔
+> 그녀는 SNS에 일상을 자주 올려요. | She often posts her daily life on social media. | وہ اکثر سوشل میڈیا پر اپنی روزمرہ زندگی شیئر کرتی ہے۔

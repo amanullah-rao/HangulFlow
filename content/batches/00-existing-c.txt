@@ -1,0 +1,262 @@
+# Extra sentences and corrected levels for the original 324 words (part 3)
+= 진료 | 2
+> 진료 시간은 오전 9시부터 오후 6시까지예요. | Consultation hours are from 9 a.m. to 6 p.m. | معائنے کا وقت صبح نو بجے سے شام چھ بجے تک ہے۔
+> 진료를 받으려면 먼저 접수하세요. | To see a doctor, register first. | ڈاکٹر کو دکھانے کے لیے پہلے اندراج کرائیں۔
+= 진찰 | 2
+> 진찰 결과 단순한 감기였어요. | The examination showed it was just a simple cold. | معائنے سے پتا چلا کہ یہ عام زکام تھا۔
+> 의사가 목을 진찰했어요. | The doctor examined my throat. | ڈاکٹر نے میرے گلے کا معائنہ کیا۔
+= 검사 | 2
+> 공항에서 짐 검사를 받았어요. | My luggage was inspected at the airport. | ایئرپورٹ پر میرے سامان کی تلاشی ہوئی۔
+> 검사 전날 밤부터 아무것도 드시면 안 됩니다. | You must not eat anything from the night before the test. | ٹیسٹ سے پہلے کی رات سے کچھ نہ کھائیں۔
+= 입원하다 | 2
+> 교통사고로 일주일 동안 입원했어요. | I was in the hospital for a week after a car accident. | ٹریفک حادثے کی وجہ سے میں ایک ہفتہ ہسپتال میں داخل رہا۔
+> 입원한 친구에게 꽃을 가지고 갔어요. | I took flowers to my friend in the hospital. | میں ہسپتال میں داخل دوست کے لیے پھول لے کر گیا۔
+= 수술 | 2
+> 수술을 받기 전에 많이 무서웠어요. | I was very scared before the surgery. | آپریشن سے پہلے مجھے بہت ڈر لگ رہا تھا۔
+> 간단한 수술이라서 오늘 퇴원할 수 있어요. | It's a simple operation, so you can go home today. | یہ معمولی آپریشن ہے، آپ آج ہی گھر جا سکتے ہیں۔
+= 부작용 | 2
+> 부작용이 생기면 바로 약을 끊으세요. | If side effects occur, stop the medicine immediately. | کوئی مضر اثر ہو تو فوراً دوا بند کر دیں۔
+> 새 정책은 예상하지 못한 부작용을 낳았다. | The new policy had unexpected side effects. | نئی پالیسی کے غیر متوقع منفی اثرات سامنے آئے۔
+= 통증 | 2
+> 통증이 심하면 진통제를 드세요. | If the pain is severe, take a painkiller. | درد زیادہ ہو تو درد کش دوا لے لیں۔
+> 어깨에 통증이 있어서 운동을 쉬고 있어요. | I have shoulder pain, so I'm taking a break from exercise. | کندھے میں درد ہے، اس لیے ورزش سے وقفہ لیا ہوا ہے۔
+= 열이 나다 | 1
+> 아이가 열이 나서 병원에 데려갔어요. | My child had a fever, so I took them to the hospital. | بچے کو بخار تھا، اس لیے میں اسے ہسپتال لے گیا۔
+> 열이 나면 해열제를 드세요. | If you have a fever, take a fever reducer. | بخار ہو تو بخار اتارنے کی دوا لیں۔
+= 다치다 | 1
+> 넘어져서 무릎을 다쳤어요. | I fell and hurt my knee. | میں گر گیا اور گھٹنے پر چوٹ لگ گئی۔
+> 다친 사람은 없어서 다행이에요. | Luckily, no one was hurt. | شکر ہے کوئی زخمی نہیں ہوا۔
+= 비만 | 2
+> 어린이 비만이 사회 문제가 되고 있다. | Childhood obesity is becoming a social problem. | بچوں کا موٹاپا ایک سماجی مسئلہ بن رہا ہے۔
+> 비만을 예방하려면 패스트푸드를 줄이세요. | To prevent obesity, cut down on fast food. | موٹاپے سے بچنے کے لیے فاسٹ فوڈ کم کریں۔
+= 질병 | 2
+> 깨끗한 물은 질병을 막는 데 중요하다. | Clean water is important for preventing disease. | صاف پانی بیماریوں سے بچاؤ کے لیے اہم ہے۔
+> 이 질병은 아직 치료 방법이 없다. | There is still no cure for this disease. | اس بیماری کا ابھی تک کوئی علاج نہیں ہے۔
+= 영양 | 2
+> 바쁘더라도 영양이 있는 음식을 드세요. | Even if you're busy, eat nutritious food. | مصروف ہوں تب بھی غذائیت والا کھانا کھائیں۔
+> 이 과일은 영양이 풍부해요. | This fruit is rich in nutrients. | یہ پھل غذائیت سے بھرپور ہے۔
+= 식단 | 2
+> 다이어트를 위해 식단을 바꿨어요. | I changed my diet to lose weight. | وزن کم کرنے کے لیے میں نے اپنی خوراک بدل دی۔
+> 학교 식당은 매주 식단을 공지해요. | The school cafeteria announces the menu every week. | اسکول کی کینٹین ہر ہفتے کھانے کی فہرست جاری کرتی ہے۔
+= 체중 | 2
+> 매일 아침 체중을 재요. | I weigh myself every morning. | میں ہر صبح اپنا وزن کرتا ہوں۔
+> 스트레스 때문에 체중이 줄었어요. | My weight went down because of stress. | ذہنی دباؤ کی وجہ سے میرا وزن کم ہو گیا۔
+= 피로 | 2
+> 여행의 피로가 아직 안 풀렸어요. | I still haven't recovered from the fatigue of the trip. | سفر کی تھکاوٹ ابھی تک نہیں اتری۔
+> 따뜻한 물로 목욕하면 피로가 풀려요. | A warm bath relieves fatigue. | گرم پانی سے نہانے سے تھکن دور ہو جاتی ہے۔
+= 면역력 | 3
+> 면역력이 약해지면 감기에 잘 걸려요. | When your immunity weakens, you catch colds easily. | قوتِ مدافعت کمزور ہو تو زکام جلدی لگ جاتا ہے۔
+> 비타민은 면역력을 높이는 데 도움이 된다. | Vitamins help boost immunity. | وٹامنز قوتِ مدافعت بڑھانے میں مدد دیتے ہیں۔
+= 붓다 | 2
+> 많이 울어서 눈이 부었어요. | My eyes are swollen from crying a lot. | بہت رونے سے میری آنکھیں سوج گئیں۔
+> 다리가 부어서 신발이 안 맞아요. | My legs are swollen, so my shoes don't fit. | ٹانگیں سوج گئی ہیں، اس لیے جوتے نہیں آ رہے۔
+= 어지럽다 | 2
+> 배를 타면 어지러워요. | I get dizzy when I ride a boat. | کشتی میں بیٹھوں تو چکر آتے ہیں۔
+> 방이 어지러워서 청소를 했어요. | My room was messy, so I cleaned it. | کمرہ بکھرا ہوا تھا، اس لیے میں نے صفائی کی۔
+= 복용하다 | 3
+> 이 약을 복용하는 동안 술을 마시지 마세요. | Don't drink alcohol while taking this medicine. | یہ دوا لیتے ہوئے شراب نہ پئیں۔
+> 하루에 세 번 복용하십시오. | Take it three times a day. | دن میں تین بار استعمال کریں۔
+= 응급실 | 2
+> 응급실은 24시간 운영합니다. | The emergency room is open 24 hours. | ایمرجنسی وارڈ چوبیس گھنٹے کھلا رہتا ہے۔
+> 사고를 당한 사람이 응급실로 실려 갔다. | The person in the accident was rushed to the emergency room. | حادثے کا شکار شخص کو ایمرجنسی لے جایا گیا۔
+= 건강 검진 | 2
+> 건강 검진에서 아무 문제가 없었어요. | Nothing was wrong in my health checkup. | طبی معائنے میں کوئی مسئلہ نہیں نکلا۔
+> 마흔이 넘으면 정기적으로 건강 검진을 받으세요. | After forty, get regular health checkups. | چالیس سال کے بعد باقاعدگی سے طبی معائنہ کرائیں۔
+= 금연 | 2
+> 새해 목표는 금연이에요. | My New Year's goal is to quit smoking. | نئے سال کا میرا ہدف سگریٹ چھوڑنا ہے۔
+> 금연한 지 1년이 됐어요. | It's been a year since I quit smoking. | سگریٹ چھوڑے ہوئے ایک سال ہو گیا ہے۔
+= 꾸준히 | 2
+> 한국어를 꾸준히 공부하면 실력이 늘어요. | If you study Korean consistently, your skills improve. | باقاعدگی سے کورین پڑھیں تو مہارت بڑھتی ہے۔
+> 그 가게는 손님이 꾸준히 많아요. | That shop has a steady stream of customers. | اس دکان پر مسلسل گاہکوں کا رش رہتا ہے۔
+= 낫다 | 2
+> 약을 먹었더니 두통이 나았어요. | I took medicine and my headache went away. | دوا کھانے سے سر درد ٹھیک ہو گیا۔
+> 상처가 다 나을 때까지 수영하지 마세요. | Don't swim until the wound has completely healed. | زخم مکمل ٹھیک ہونے تک تیراکی نہ کریں۔
+= 관광 | 2
+> 관광 안내소에서 지도를 받으세요. | Get a map at the tourist information center. | سیاحتی معلوماتی مرکز سے نقشہ لے لیں۔
+> 관광으로 먹고사는 도시예요. | It's a city that lives on tourism. | یہ ایسا شہر ہے جس کا گزارا سیاحت پر ہے۔
+= 숙소 | 2
+> 숙소에 짐을 두고 구경하러 나갔어요. | I left my luggage at the accommodation and went out sightseeing. | میں سامان رہائش گاہ پر چھوڑ کر گھومنے نکلا۔
+> 성수기라서 숙소를 구하기 힘들어요. | It's peak season, so it's hard to find a place to stay. | سیزن کا وقت ہے، اس لیے رہائش ملنا مشکل ہے۔
+= 짐 | 1
+> 짐을 싸는 데 한 시간이 걸렸어요. | It took an hour to pack. | سامان باندھنے میں ایک گھنٹہ لگا۔
+> 무거운 짐을 들어 드릴까요? | Shall I carry your heavy bags for you? | کیا میں آپ کا بھاری سامان اٹھا دوں؟
+= 출입국 | 2
+> 공항 출입국 심사대에 줄이 길었어요. | The line at the airport immigration desk was long. | ایئرپورٹ پر امیگریشن کاؤنٹر پر لمبی قطار تھی۔
+> 출입국 기록을 확인해야 합니다. | We need to check your entry and exit records. | ہمیں آپ کے آمد و رفت کا ریکارڈ دیکھنا ہوگا۔
+= 연착되다 | 3
+> 기차가 연착되어서 회의에 늦었어요. | The train arrived late, so I was late for the meeting. | ٹرین تاخیر سے پہنچی، اس لیے میں میٹنگ میں دیر سے پہنچا۔
+> 연착된 비행기 때문에 승객들이 불평했다. | Passengers complained because of the delayed flight. | تاخیر سے آنے والی پرواز کی وجہ سے مسافروں نے شکایت کی۔
+= 지연되다 | 3
+> 공사가 지연되어 개통이 늦어졌다. | The construction was delayed, so the opening was pushed back. | تعمیر میں تاخیر کی وجہ سے افتتاح دیر سے ہوا۔
+> 시스템 오류로 결제가 지연되고 있습니다. | Payment is being delayed due to a system error. | سسٹم کی خرابی کی وجہ سے ادائیگی میں تاخیر ہو رہی ہے۔
+= 경유 | 2
+> 경유 시간이 길어서 공항 밖으로 나가 봤어요. | My layover was long, so I went outside the airport. | ٹرانزٹ کا وقت لمبا تھا، اس لیے میں ایئرپورٹ سے باہر گیا۔
+> 이 버스는 시청을 경유해서 갑니다. | This bus goes via City Hall. | یہ بس سٹی ہال سے ہوتی ہوئی جاتی ہے۔
+= 직항 | 2
+> 직항은 비싸지만 시간이 절약돼요. | A direct flight is expensive but saves time. | براہِ راست پرواز مہنگی ہے مگر وقت بچتا ہے۔
+> 서울에서 라호르까지 직항이 생겼으면 좋겠어요. | I wish there were a direct flight from Seoul to Lahore. | کاش سیول سے لاہور تک براہِ راست پرواز شروع ہو جائے۔
+= 대중교통 | 2
+> 대중교통을 이용하면 환경에도 좋아요. | Using public transportation is good for the environment too. | پبلک ٹرانسپورٹ استعمال کرنا ماحول کے لیے بھی اچھا ہے۔
+> 대중교통 요금이 또 올랐어요. | Public transportation fares went up again. | پبلک ٹرانسپورٹ کا کرایہ پھر بڑھ گیا۔
+= 막차 | 2
+> 막차는 밤 12시에 끊겨요. | The last train leaves at midnight. | آخری ٹرین رات بارہ بجے چلی جاتی ہے۔
+> 막차 시간을 확인하고 나가세요. | Check the time of the last bus before you go out. | باہر جانے سے پہلے آخری بس کا وقت دیکھ لیں۔
+= 길이 막히다 | 2
+> 길이 막혀서 약속에 늦을 것 같아요. | The traffic is bad, so I think I'll be late for our appointment. | ٹریفک جام ہے، لگتا ہے ملاقات پر دیر سے پہنچوں گا۔
+> 비가 오면 길이 더 막혀요. | When it rains, the roads get even more jammed. | بارش ہو تو سڑکوں پر اور رش ہو جاتا ہے۔
+= 갈아타다 | 2
+> 버스에서 지하철로 갈아탔어요. | I switched from the bus to the subway. | میں بس سے اتر کر میٹرو میں سوار ہوا۔
+> 두 번 갈아타야 학교에 갈 수 있어요. | I have to change twice to get to school. | اسکول جانے کے لیے دو بار سواری بدلنی پڑتی ہے۔
+= 편도 | 2
+> 편도로 두 시간 정도 걸려요. | It takes about two hours one way. | ایک طرف کا سفر تقریباً دو گھنٹے کا ہے۔
+> 편도 표와 왕복 표의 가격 차이가 커요. | There's a big price difference between one-way and round-trip tickets. | یک طرفہ اور آنے جانے کے ٹکٹ کی قیمت میں بہت فرق ہے۔
+= 일정 | 2
+> 이번 주는 일정이 꽉 찼어요. | My schedule is full this week. | اس ہفتے میرا شیڈول بھرا ہوا ہے۔
+> 일정이 바뀌면 바로 알려 주세요. | If the schedule changes, let me know right away. | شیڈول بدلے تو فوراً بتا دیں۔
+= 안내 | 2
+> 안내 방송을 잘 들으세요. | Listen carefully to the announcement. | اعلان غور سے سنیں۔
+> 직원의 안내에 따라 이동해 주십시오. | Please move according to the staff's directions. | براہِ کرم عملے کی رہنمائی کے مطابق چلیں۔
+= 분실하다 | 2
+> 카드를 분실하면 바로 은행에 연락하세요. | If you lose your card, contact the bank right away. | کارڈ گم ہو جائے تو فوراً بینک سے رابطہ کریں۔
+> 분실한 물건은 분실물 센터에서 찾을 수 있어요. | You can find lost items at the lost-and-found center. | گم شدہ چیزیں گمشدہ اشیاء کے مرکز سے مل سکتی ہیں۔
+= 신고하다 | 2
+> 화재를 보면 119에 신고하세요. | If you see a fire, report it to 119. | آگ دیکھیں تو 119 پر اطلاع دیں۔
+> 세관에 신고할 물건이 있으세요? | Do you have anything to declare at customs? | کیا آپ کے پاس کسٹم میں ظاہر کرنے والی کوئی چیز ہے؟
+= 탑승 | 2
+> 탑승권을 보여 주세요. | Please show your boarding pass. | براہِ کرم بورڈنگ پاس دکھائیں۔
+> 지금부터 탑승을 시작하겠습니다. | We will now begin boarding. | اب سواری کا عمل شروع ہوتا ہے۔
+= 면세점 | 2
+> 면세점에서 화장품을 싸게 샀어요. | I bought cosmetics cheaply at the duty-free shop. | میں نے ڈیوٹی فری شاپ سے کاسمیٹکس سستے خریدے۔
+> 면세점은 출국할 때만 이용할 수 있어요. | You can only use the duty-free shop when leaving the country. | ڈیوٹی فری شاپ صرف ملک سے روانگی کے وقت استعمال ہو سکتی ہے۔
+= 환전하다 | 2
+> 달러를 원화로 환전했어요. | I exchanged dollars for won. | میں نے ڈالر کو وون میں تبدیل کیا۔
+> 환전하기 전에 환율을 확인하세요. | Check the exchange rate before exchanging money. | کرنسی بدلنے سے پہلے شرحِ تبادلہ دیکھ لیں۔
+= 풍경 | 2
+> 가을 풍경을 사진으로 찍었어요. | I took photos of the autumn scenery. | میں نے خزاں کے مناظر کی تصویریں کھینچیں۔
+> 기차에서 보는 풍경이 아름다웠어요. | The view from the train was beautiful. | ٹرین سے نظر آنے والا منظر خوبصورت تھا۔
+= 놓치다 | 2
+> 좋은 기회를 놓쳐서 아쉬워요. | It's a shame I missed a good opportunity. | اچھا موقع ہاتھ سے نکل گیا، افسوس ہے۔
+> 선생님 설명을 놓쳐서 다시 물어봤어요. | I missed the teacher's explanation, so I asked again. | میں استاد کی وضاحت سن نہیں سکا، اس لیے دوبارہ پوچھا۔
+= 운전면허 | 2
+> 운전면허를 딴 지 얼마 안 됐어요. | I got my driver's license not long ago. | ڈرائیونگ لائسنس ملے ہوئے زیادہ عرصہ نہیں ہوا۔
+> 국제 운전면허가 있으면 한국에서 운전할 수 있어요. | With an international driving permit, you can drive in Korea. | بین الاقوامی ڈرائیونگ لائسنس ہو تو کوریا میں گاڑی چلا سکتے ہیں۔
+= 안전벨트 | 2
+> 뒷자리에서도 안전벨트를 꼭 매세요. | Be sure to wear your seat belt in the back seat too. | پچھلی سیٹ پر بھی سیٹ بیلٹ ضرور باندھیں۔
+> 안전벨트 덕분에 크게 다치지 않았어요. | Thanks to the seat belt, I wasn't badly hurt. | سیٹ بیلٹ کی بدولت مجھے زیادہ چوٹ نہیں لگی۔
+= 우울하다 | 2
+> 일이 잘 안 풀려서 우울해요. | Things aren't going well, so I feel down. | کام ٹھیک نہیں چل رہے، اس لیے اداس ہوں۔
+> 우울할 때는 친구를 만나서 이야기해요. | When I feel depressed, I meet a friend and talk. | جب اداسی ہو تو میں کسی دوست سے مل کر بات کرتا ہوں۔
+= 부럽다 | 2
+> 여행을 자주 다니는 친구가 부러워요. | I envy my friend who travels often. | مجھے اپنے اس دوست پر رشک آتا ہے جو اکثر سیر کرتا ہے۔
+> 부러우면 너도 열심히 해 봐. | If you're envious, try working hard too. | اگر رشک آتا ہے تو تم بھی محنت کرو۔
+= 질투하다 | 2
+> 친구가 새 애인을 질투했어요. | My friend was jealous of the new partner. | میرے دوست کو نئے ساتھی سے حسد ہوا۔
+> 남의 성공을 질투하지 말고 축하해 주세요. | Don't be jealous of others' success; congratulate them. | دوسروں کی کامیابی سے حسد نہ کریں بلکہ مبارکباد دیں۔
+= 후회하다 | 2
+> 지금 시작하지 않으면 나중에 후회할 거예요. | If you don't start now, you'll regret it later. | ابھی شروع نہ کیا تو بعد میں پچھتائیں گے۔
+> 화를 낸 것을 후회하고 있어요. | I regret getting angry. | مجھے غصہ کرنے پر پچھتاوا ہے۔
+= 감동하다 | 2
+> 학생들의 편지를 읽고 선생님이 감동하셨어요. | The teacher was moved after reading the students' letters. | طلبہ کے خط پڑھ کر استاد بہت متاثر ہوئے۔
+> 그 노래는 많은 사람을 감동시켰다. | That song moved many people. | اس گانے نے بہت سے لوگوں کو متاثر کیا۔
+= 당황하다 | 2
+> 길을 잃어서 너무 당황했어요. | I got lost and was really flustered. | راستہ بھول گیا تو بہت گھبرا گیا۔
+> 당황하지 말고 천천히 대답하세요. | Don't panic; answer slowly. | گھبرائیں نہیں، آرام سے جواب دیں۔
+= 짜증 | 2
+> 기다리는 시간이 길어서 짜증이 났어요. | I got annoyed because the wait was long. | انتظار لمبا تھا، اس لیے مجھے چڑ آ گئی۔
+> 피곤하면 사소한 일에도 짜증을 내요. | When I'm tired, I get irritated even by small things. | تھکا ہوا ہوں تو چھوٹی باتوں پر بھی چڑ جاتا ہوں۔
+= 외롭다 | 2
+> 친구가 없어서 처음에는 외로웠어요. | At first I was lonely because I had no friends. | شروع میں کوئی دوست نہیں تھا، اس لیے تنہائی محسوس ہوتی تھی۔
+> 외로울 때 가족에게 전화해요. | When I'm lonely, I call my family. | جب اکیلا پن محسوس ہو تو گھر فون کرتا ہوں۔
+= 걱정되다 | 2
+> 비가 많이 와서 집에 가는 길이 걱정돼요. | It's raining a lot, so I'm worried about the way home. | بہت بارش ہو رہی ہے، گھر جانے کی فکر ہے۔
+> 부모님 건강이 걱정돼요. | I'm worried about my parents' health. | مجھے والدین کی صحت کی فکر ہے۔
+= 고민 | 2
+> 고민이 있으면 저에게 말해 보세요. | If something is bothering you, tell me. | کوئی پریشانی ہو تو مجھے بتائیں۔
+> 어떤 선물을 살지 고민하고 있어요. | I'm thinking hard about what gift to buy. | سوچ رہا ہوں کہ کون سا تحفہ خریدوں۔
+= 위로하다 | 2
+> 따뜻한 말 한마디가 큰 위로가 됐어요. | One warm word was a great comfort. | ایک پیار بھرا جملہ بہت تسلی کا باعث بنا۔
+> 슬퍼하는 친구를 어떻게 위로해야 할지 모르겠어요. | I don't know how to comfort my grieving friend. | سمجھ نہیں آ رہا کہ غمگین دوست کو کیسے تسلی دوں۔
+= 사과하다 | 2
+> 진심으로 사과드립니다. | I sincerely apologize. | میں دل سے معافی مانگتا ہوں۔
+> 잘못했으면 먼저 사과하는 게 좋아요. | If you did something wrong, it's better to apologize first. | غلطی کی ہو تو پہلے معافی مانگ لینا بہتر ہے۔
+= 용서하다 | 2
+> 그의 실수를 용서하기로 했어요. | I decided to forgive his mistake. | میں نے اس کی غلطی معاف کرنے کا فیصلہ کیا۔
+> 용서하는 것이 쉽지 않아요. | Forgiving is not easy. | معاف کرنا آسان نہیں ہوتا۔
+= 화해하다 | 2
+> 오랜 갈등 끝에 두 나라가 화해했다. | After a long conflict, the two countries reconciled. | طویل تنازع کے بعد دونوں ملکوں میں صلح ہو گئی۔
+> 먼저 화해하자고 말했어요. | I was the first to suggest we make up. | میں نے پہلے صلح کی بات کی۔
+= 사이 | 2
+> 두 사람은 무슨 사이예요? | What's the relationship between the two of them? | ان دونوں کا آپس میں کیا رشتہ ہے؟
+> 수업과 수업 사이에 30분 쉬어요. | There's a 30-minute break between classes. | کلاسوں کے درمیان تیس منٹ کا وقفہ ہوتا ہے۔
+= 친하다 | 1
+> 우리는 어릴 때부터 친하게 지냈어요. | We've been close since we were children. | ہم بچپن سے گہرے دوست ہیں۔
+> 반 친구들과 빨리 친해지고 싶어요. | I want to get close to my classmates quickly. | میں جلد اپنے ہم جماعتوں سے دوستی کرنا چاہتا ہوں۔
+= 배려하다 | 2
+> 그는 항상 다른 사람을 먼저 배려해요. | He always thinks of others first. | وہ ہمیشہ پہلے دوسروں کا خیال رکھتا ہے۔
+> 노약자를 배려해서 자리를 양보했어요. | Out of consideration for the elderly, I gave up my seat. | بزرگوں کا خیال کرتے ہوئے میں نے سیٹ چھوڑ دی۔
+= 신뢰 | 3
+> 고객의 신뢰를 얻는 것이 가장 중요하다. | Gaining customers' trust is most important. | گاہکوں کا اعتماد حاصل کرنا سب سے اہم ہے۔
+> 거짓말 때문에 신뢰를 잃었다. | He lost trust because of the lie. | جھوٹ کی وجہ سے اس نے اعتماد کھو دیا۔
+= 감정 | 2
+> 감정을 조절하는 것은 쉽지 않아요. | Controlling your emotions is not easy. | جذبات پر قابو پانا آسان نہیں۔
+> 그 영화는 내 감정을 건드렸어요. | That movie touched my emotions. | اس فلم نے میرے جذبات کو چھو لیا۔
+= 표현하다 | 2
+> 그림으로 감정을 표현해 보세요. | Try expressing your feelings through a drawing. | تصویر کے ذریعے اپنے جذبات ظاہر کریں۔
+> 한국어로 생각을 표현하는 게 아직 어려워요. | Expressing my thoughts in Korean is still hard. | کورین میں خیالات کا اظہار ابھی مشکل ہے۔
+= 자랑스럽다 | 2
+> 우리 팀이 우승해서 자랑스러워요. | I'm proud that our team won. | ہماری ٹیم جیت گئی، مجھے فخر ہے۔
+> 자랑스러운 아들이 되고 싶어요. | I want to be a son my parents are proud of. | میں ایسا بیٹا بننا چاہتا ہوں جس پر والدین کو فخر ہو۔
+= 섭섭하다 | 2
+> 저한테만 말 안 해서 섭섭했어요. | I felt hurt that you told everyone but me. | آپ نے صرف مجھے نہیں بتایا، اس لیے دل دکھا۔
+> 졸업하고 친구들과 헤어지니 섭섭해요. | I feel sad parting from my friends after graduation. | فراغت کے بعد دوستوں سے بچھڑنا اداس کر رہا ہے۔
+= 귀찮다 | 2
+> 비 오는 날에는 나가기 귀찮아요. | On rainy days, going out feels like a hassle. | بارش کے دن باہر جانے کو جی نہیں چاہتا۔
+> 귀찮게 해서 죄송해요. | Sorry for bothering you. | زحمت دینے کے لیے معذرت۔
+= 설레다 | 2
+> 첫 출근 날이라서 설레요. | It's my first day at work, so I'm excited. | آج دفتر کا پہلا دن ہے، دل میں خوشی کی ہلچل ہے۔
+> 그 사람을 보면 가슴이 설레요. | My heart flutters when I see that person. | اس شخص کو دیکھ کر دل دھڑکنے لگتا ہے۔
+= 결과 | 2
+> 시험 결과를 기다리고 있어요. | I'm waiting for the exam results. | میں امتحان کے نتیجے کا انتظار کر رہا ہوں۔
+> 좋은 결과가 있기를 바랍니다. | I hope you get a good result. | امید ہے نتیجہ اچھا آئے گا۔
+= 예상하다 | 2
+> 이렇게 사람이 많을 줄은 예상하지 못했어요. | I didn't expect there would be this many people. | میں نے توقع نہیں کی تھی کہ اتنے لوگ ہوں گے۔
+> 전문가들은 집값이 오를 것으로 예상했다. | Experts predicted that house prices would rise. | ماہرین نے پیشگوئی کی کہ مکانوں کی قیمتیں بڑھیں گی۔
+= 감소하다 | 2
+> 관광객 수가 절반으로 감소했다. | The number of tourists decreased by half. | سیاحوں کی تعداد آدھی رہ گئی۔
+> 운동을 하면 스트레스가 감소한다. | Exercise reduces stress. | ورزش سے ذہنی دباؤ کم ہوتا ہے۔
+= 비교하다 | 2
+> 다른 사람과 자신을 비교하지 마세요. | Don't compare yourself with others. | اپنا موازنہ دوسروں سے نہ کریں۔
+> 작년과 비교하면 물가가 많이 올랐어요. | Compared to last year, prices have risen a lot. | پچھلے سال کے مقابلے میں قیمتیں بہت بڑھ گئی ہیں۔
+= 주장하다 | 2
+> 그는 끝까지 무죄를 주장했다. | He insisted on his innocence to the end. | وہ آخر تک اپنی بے گناہی پر قائم رہا۔
+> 자기 의견만 주장하면 대화가 안 돼요. | If you only insist on your own opinion, there's no conversation. | صرف اپنی رائے پر اڑے رہیں تو بات چیت نہیں ہو سکتی۔
+= 근거 | 3
+> 그 소문은 근거가 없는 이야기다. | That rumor is a groundless story. | وہ افواہ بے بنیاد بات ہے۔
+> 통계를 근거로 결론을 내렸다. | We drew conclusions based on the statistics. | ہم نے اعداد و شمار کی بنیاد پر نتیجہ نکالا۔
+= 제시하다 | 3
+> 신분증을 제시해 주십시오. | Please present your ID. | براہِ کرم اپنا شناختی کارڈ دکھائیں۔
+> 그는 새로운 아이디어를 제시했다. | He proposed a new idea. | اس نے ایک نیا خیال پیش کیا۔
+= 측면 | 3
+> 이 문제는 여러 측면에서 생각해 봐야 한다. | This issue should be considered from several angles. | اس مسئلے کو کئی پہلوؤں سے دیکھنا چاہیے۔
+> 건강 측면에서 보면 걷기가 가장 좋은 운동이다. | From a health standpoint, walking is the best exercise. | صحت کے لحاظ سے پیدل چلنا بہترین ورزش ہے۔
+= 현상 | 3
+> 요즘 젊은이들이 결혼을 늦게 하는 현상이 나타나고 있다. | These days there is a trend of young people marrying later. | آج کل نوجوانوں میں دیر سے شادی کرنے کا رجحان نظر آ رہا ہے۔
+> 무지개는 자연 현상이다. | A rainbow is a natural phenomenon. | قوسِ قزح ایک قدرتی مظہر ہے۔
+= 대책 | 3
+> 학교 폭력에 대한 대책이 필요하다. | Measures against school violence are needed. | اسکولوں میں تشدد کے خلاف اقدامات کی ضرورت ہے۔
+> 아무 대책 없이 회사를 그만두면 안 돼요. | You shouldn't quit your job without any plan. | کوئی منصوبہ بنائے بغیر نوکری نہیں چھوڑنی چاہیے۔
+= 효과 | 2
+> 이 약은 효과가 빨리 나타나요. | This medicine takes effect quickly. | یہ دوا جلدی اثر کرتی ہے۔
+> 광고 효과로 매출이 늘었다. | Sales increased thanks to the advertising effect. | اشتہار کے اثر سے فروخت بڑھ گئی۔
+= 장점 | 2
+> 제 장점은 성격이 밝다는 거예요. | My strong point is that I have a cheerful personality. | میری خوبی یہ ہے کہ میں خوش مزاج ہوں۔
+> 이 노트북의 장점은 가볍다는 것이다. | The advantage of this laptop is that it's light. | اس لیپ ٹاپ کی خوبی یہ ہے کہ یہ ہلکا ہے۔
+= 단점 | 2
+> 이 방은 햇빛이 안 들어오는 게 단점이에요. | The downside of this room is that no sunlight comes in. | اس کمرے کی خامی یہ ہے کہ دھوپ نہیں آتی۔
+> 자신의 단점을 고치려고 노력해요. | I try to fix my weaknesses. | میں اپنی کمزوریاں دور کرنے کی کوشش کرتا ہوں۔
+= 결론 | 2
+> 긴 회의 끝에 결론을 내렸다. | After a long meeting, we reached a conclusion. | لمبی میٹنگ کے بعد ہم ایک نتیجے پر پہنچے۔
+> 아직 결론이 나지 않았어요. | No conclusion has been reached yet. | ابھی کوئی نتیجہ نہیں نکلا۔
+= 대상 | 3
+> 이 수업은 초보자를 대상으로 합니다. | This class is aimed at beginners. | یہ کلاس ابتدائی سیکھنے والوں کے لیے ہے۔
+> 그는 사람들의 관심의 대상이 되었다. | He became the object of people's attention. | وہ لوگوں کی توجہ کا مرکز بن گیا۔

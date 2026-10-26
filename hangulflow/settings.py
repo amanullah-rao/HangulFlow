@@ -10,7 +10,7 @@ import json
 import logging
 import os
 import tempfile
-from dataclasses import asdict, dataclass, fields
+from dataclasses import asdict, dataclass, field, fields
 from pathlib import Path
 
 log = logging.getLogger(__name__)
@@ -23,7 +23,9 @@ CARD_DIRECTIONS = ("korean", "meaning", "mixed")
 MIXED_REVERSE_SHARE = 0.3  # in "mixed", about 3 in 10 cards show the meaning first
 MIN_WIDTH, MAX_WIDTH = 260, 560
 LAYERS = ("desktop", "normal", "top")  # behind all windows | like any window | always on top
-THEME_KEYS =("midnight", "graphite", "ocean", "forest", "paper", "hanji")  # see ui/theme.py
+LEVELS = (1, 2, 3)
+LEVEL_NAMES = {1: "Beginner", 2: "Intermediate", 3: "Advanced"}
+THEME_KEYS = ("midnight", "graphite", "ocean", "forest", "paper", "hanji")  # see ui/theme.py
 
 
 @dataclass
@@ -39,6 +41,7 @@ class Settings:
     layer: str = "desktop"
     auto_pause: bool = True  # pause when locked/idle; hide during fullscreen apps
     auto_update: bool = True  # download newer curated word lists once a day
+    levels: list[int] = field(default_factory=lambda: list(LEVELS))  # levels to study
     x: int | None = None
     y: int | None = None
     width: int = 340
@@ -64,6 +67,9 @@ class Settings:
             layer=self.layer if self.layer in LAYERS else defaults.layer,
             auto_pause=bool(self.auto_pause),
             auto_update=bool(self.auto_update),
+            levels=sorted({n for n in self.levels if n in LEVELS}) or list(LEVELS)
+            if isinstance(self.levels, list)
+            else list(LEVELS),
             x=self.x if _is_int(self.x) else None,
             y=self.y if _is_int(self.y) else None,
             width=min(MAX_WIDTH, max(MIN_WIDTH, self.width)) if _is_int(self.width) else defaults.width,

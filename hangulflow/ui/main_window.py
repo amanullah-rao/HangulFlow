@@ -39,7 +39,7 @@ from PySide6.QtWidgets import (
 
 from .. import backup, paths, srs, startup, transfer
 from ..repository import LibraryRow, VocabRepository
-from ..settings import CARD_DIRECTIONS, DAILY_GOAL_CHOICES, INTERVAL_CHOICES, LAYERS, Settings
+from ..settings import CARD_DIRECTIONS, DAILY_GOAL_CHOICES, INTERVAL_CHOICES, LAYERS, LEVEL_NAMES, Settings
 from . import theme
 from .stats_dialog import StatsPanel
 from .widget import VocabWidget
@@ -133,7 +133,7 @@ class MainWindow(QMainWindow):
         self._difficulty_filter = QComboBox()
         self._difficulty_filter.addItem("Any level", None)
         for level in (1, 2, 3):
-            self._difficulty_filter.addItem("●" * level + "○" * (3 - level), level)
+            self._difficulty_filter.addItem(LEVEL_NAMES[level], level)
         filters.addWidget(self._search, 3)
         filters.addWidget(self._category_filter, 2)
         filters.addWidget(self._status_filter, 1)
@@ -515,6 +515,11 @@ class MainWindow(QMainWindow):
         form.addRow("", check("Pause when away, locked or a fullscreen app is running", s.auto_pause, w.set_auto_pause))
         form.addRow("", check("Start HangulFlow when I sign in to Windows", startup.is_enabled(), w.set_start_with_windows))
         form.addRow("", check("Download new words online once a day", s.auto_update, w.set_auto_update))
+        levels = QHBoxLayout()
+        for level, name in LEVEL_NAMES.items():
+            levels.addWidget(check(name, level in s.levels, lambda on, n=level: w.set_level(n, on)))
+        levels.addStretch(1)
+        form.addRow("Levels to study", levels)
         outer.addWidget(box)
         outer.addWidget(QLabel(
             "These are the same options as the card's right-click menu. Changes apply immediately.",

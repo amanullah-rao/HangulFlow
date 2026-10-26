@@ -56,9 +56,9 @@ class WordDialog(QDialog):
         self.category.addItems(sorted(set(categories or []) | {"My Words"}))
         self.category.setCurrentText("My Words")
         self.difficulty = QSpinBox()
-        self.difficulty.setRange(1, 5)
+        self.difficulty.setRange(1, 3)
         self.difficulty.setValue(2)
-        self.difficulty.setToolTip("1 = easier ... 3 = harder (your own estimate)")
+        self.difficulty.setToolTip("1 = beginner, 2 = intermediate, 3 = advanced (your own estimate)")
 
         form.addRow("Korean *", self.korean)
         form.addRow("Hanja", self.hanja)
@@ -71,7 +71,7 @@ class WordDialog(QDialog):
         form.addRow("Example (Urdu)", self.example_ur)
         form.addRow("Notes", self.notes)
         form.addRow("Category", self.category)
-        form.addRow("Difficulty", self.difficulty)
+        form.addRow("Level (1-3)", self.difficulty)
         layout.addLayout(form)
 
         self.error = QLabel(objectName="statLabel")

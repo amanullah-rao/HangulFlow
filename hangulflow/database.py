@@ -14,7 +14,7 @@ from pathlib import Path
 
 log = logging.getLogger(__name__)
 
-SCHEMA_VERSION = 4
+SCHEMA_VERSION = 5
 
 SCHEMA_V1 = """
 CREATE TABLE IF NOT EXISTS vocabulary (
@@ -118,6 +118,23 @@ def migrate(conn: sqlite3.Connection) -> None:
             "PRAGMA user_version = 4;"
         )
         log.info("Database migrated to v4 (edited column).")
+    if version < 5:
+        # Several example sentences per word; the card shows the next one each time
+        # (example_turn counts how often the word was shown).
+        conn.executescript(
+            "CREATE TABLE IF NOT EXISTS examples (\n"
+            "    id        INTEGER PRIMARY KEY,\n"
+            "    vocab_id  INTEGER NOT NULL REFERENCES vocabulary(id) ON DELETE CASCADE,\n"
+            "    ko        TEXT NOT NULL,\n"
+            "    en        TEXT NOT NULL DEFAULT '',\n"
+            "    ur        TEXT NOT NULL DEFAULT '',\n"
+            "    source    TEXT NOT NULL DEFAULT 'curated',\n"
+            "    UNIQUE (vocab_id, ko)\n"
+            ");\n"
+            "ALTER TABLE vocabulary ADD COLUMN example_turn INTEGER NOT NULL DEFAULT 0;\n"
+            "PRAGMA user_version = 5;"
+        )
+        log.info("Database migrated to v5 (extra example sentences).")
 
 
 def open_database(path: Path) -> sqlite3.Connection:

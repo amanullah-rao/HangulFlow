@@ -29,6 +29,7 @@ from ..rotation import WordSession
 from ..settings import (
     DAILY_GOAL_CHOICES,
     INTERVAL_CHOICES,
+    LEVEL_NAMES,
     MAX_WIDTH,
     MIN_WIDTH,
     MIXED_REVERSE_SHARE,
@@ -369,6 +370,12 @@ class VocabWidget(QWidget):
             opacity_group.addAction(action)
 
         menu.addSeparator()
+        level_menu = menu.addMenu("Levels to study")
+        for level, name in LEVEL_NAMES.items():
+            action = level_menu.addAction(name)
+            action.setCheckable(True)
+            action.setChecked(level in self._settings.levels)
+            action.toggled.connect(lambda on, n=level: self.set_level(n, on))
         direction_menu = menu.addMenu("Card direction")
         direction_group = QActionGroup(self)
         for key, label in (
@@ -439,15 +446,18 @@ class VocabWidget(QWidget):
         else:
             level = "●" * v.difficulty + "○" * max(0, 3 - v.difficulty)
             self._category.setText(f"{v.category.upper()}   {level}")
-            self._category.setToolTip(f"Difficulty {v.difficulty} (curated estimate, not an official TOPIK level)")
+            self._category.setToolTip(
+                f"{LEVEL_NAMES.get(v.difficulty, 'Level')} (curated estimate, not an official TOPIK level)"
+            )
             self._korean.setText(v.korean)
             self._hanja.setText(v.hanja)
             self._romanization.setText(" · ".join(p for p in (v.romanization, v.part_of_speech) if p))
             self._meaning_en.setText(v.meaning_en)
             self._meaning_ur.setText(v.meaning_ur)
-            self._example_ko.setText(v.example_ko)
-            self._example_en.setText(v.example_en)
-            self._example_ur.setText(v.example_ur)
+            example_ko, example_en, example_ur = v.example_for_display()
+            self._example_ko.setText(example_ko)
+            self._example_en.setText(example_en)
+            self._example_ur.setText(example_ur)
             self._notes.setText(v.notes)
 
         direction = self._settings.card_direction
@@ -576,9 +586,7 @@ class VocabWidget(QWidget):
             f"English: {v.meaning_en}",
             f"Urdu: {v.meaning_ur}" if v.meaning_ur else "",
             "",
-            v.example_ko,
-            v.example_en,
-            v.example_ur,
+            *v.example_for_display(),
             "",
             f"Notes: {v.notes}" if v.notes else "",
         ]
@@ -615,7 +623,7 @@ class VocabWidget(QWidget):
 
     def speak_example(self) -> None:
         if self._vocab is not None:
-            self._speak(self._vocab.example_ko)
+            self._speak(self._example_ko.text())
 
     def _speak(self, text: str) -> None:
         if not self._speaker.speak(text):
@@ -677,6 +685,17 @@ class VocabWidget(QWidget):
         self._schedule_save()
         if self._vocab is not None:
             self._show_vocab(self._vocab.id, animate=False)  # re-apply to the current card
+
+    def set_level(self, level: int, enabled: bool) -> None:
+        levels = set(self._settings.levels)
+        levels.add(level) if enabled else levels.discard(level)
+        if not levels:  # at least one level must stay on
+            self._flash_status("Keep at least one level", seconds=3)
+            QTimer.singleShot(0, self.rebuild_menu)
+            return
+        self._settings.levels = sorted(levels)
+        self._repo.study_levels = tuple(self._settings.levels)
+        self._schedule_save()
 
     def set_daily_goal(self, goal: int) -> None:
         self._settings.daily_goal = goal

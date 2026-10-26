@@ -1,0 +1,217 @@
+# Extra sentences and corrected levels for the original 324 words (part 2)
+= 취직하다 | 2
+> 취직하기가 점점 어려워지고 있어요. | Getting a job is becoming harder and harder. | نوکری ملنا دن بدن مشکل ہوتا جا رہا ہے۔
+> 형은 은행에 취직했어요. | My older brother got a job at a bank. | بڑے بھائی کو بینک میں نوکری مل گئی۔
+= 퇴근하다 | 1
+> 보통 6시에 퇴근해요. | I usually leave work at six. | میں عام طور پر چھ بجے دفتر سے نکلتا ہوں۔
+> 퇴근하고 나서 헬스장에 가요. | After work, I go to the gym. | دفتر سے چھٹی کے بعد میں جم جاتا ہوں۔
+= 야근 | 2
+> 야근이 많은 회사는 피하고 싶어요. | I want to avoid companies with a lot of overtime. | میں ان کمپنیوں سے بچنا چاہتا ہوں جہاں رات تک کام کرنا پڑتا ہے۔
+> 오늘도 야근해서 집에 11시에 도착했어요. | I worked late again today and got home at eleven. | آج بھی دیر تک کام کیا اور گیارہ بجے گھر پہنچا۔
+= 동료 | 2
+> 동료의 도움 덕분에 일을 빨리 끝냈어요. | Thanks to a coworker's help, I finished the work quickly. | ساتھی کی مدد سے میں نے کام جلدی ختم کر لیا۔
+> 새로 온 동료를 환영하는 회식을 했어요. | We had a team dinner to welcome the new coworker. | نئے ساتھی کے استقبال میں ہم نے مل کر کھانا کھایا۔
+= 상사 | 2
+> 상사에게 휴가를 신청했어요. | I asked my boss for vacation. | میں نے اپنے افسر سے چھٹی کی درخواست کی۔
+> 우리 상사는 부하 직원을 잘 챙겨 줘요. | Our boss takes good care of the staff under them. | ہمارے افسر اپنے ماتحتوں کا اچھا خیال رکھتے ہیں۔
+= 보고서 | 2
+> 보고서에 오타가 많아서 다시 썼어요. | My report had a lot of typos, so I rewrote it. | رپورٹ میں بہت سی غلطیاں تھیں، اس لیے دوبارہ لکھی۔
+> 회의 전에 보고서를 읽어 보세요. | Please read the report before the meeting. | میٹنگ سے پہلے رپورٹ پڑھ لیں۔
+= 연봉 | 2
+> 이직하면서 연봉이 많이 올랐어요. | My annual salary went up a lot when I changed jobs. | نوکری بدلنے سے میری سالانہ تنخواہ کافی بڑھ گئی۔
+> 연봉 협상은 매년 1월에 해요. | Salary negotiations take place every January. | سالانہ تنخواہ پر بات چیت ہر جنوری میں ہوتی ہے۔
+= 업무 | 2
+> 업무 시간에는 개인 전화를 하지 마세요. | Don't make personal calls during working hours. | کام کے اوقات میں ذاتی فون نہ کریں۔
+> 이번 달은 업무가 많아서 바빠요. | I'm busy this month because I have a lot of work. | اس مہینے کام زیادہ ہے، اس لیے مصروف ہوں۔
+= 마감 | 2
+> 신청 마감이 언제예요? | When is the application deadline? | درخواست جمع کرانے کی آخری تاریخ کب ہے؟
+> 마감 시간 전에 겨우 제출했어요. | I barely submitted it before the deadline. | میں نے آخری وقت سے ذرا پہلے بمشکل جمع کرایا۔
+= 출장 | 2
+> 출장 중이라서 다음 주에 만날 수 있어요. | I'm on a business trip, so we can meet next week. | میں دفتری سفر پر ہوں، اگلے ہفتے مل سکتے ہیں۔
+> 해외 출장이 잦은 직업이에요. | It's a job with frequent overseas business trips. | یہ ایسی نوکری ہے جس میں اکثر بیرون ملک سفر ہوتا ہے۔
+= 퇴사하다 | 2
+> 그녀는 유학을 가려고 퇴사했어요. | She quit the company to study abroad. | اس نے بیرون ملک پڑھنے کے لیے نوکری چھوڑ دی۔
+> 퇴사하기 한 달 전에 회사에 알려야 해요. | You must inform the company a month before you quit. | نوکری چھوڑنے سے ایک مہینہ پہلے کمپنی کو بتانا ضروری ہے۔
+= 이력서 | 2
+> 이력서를 열 군데에 보냈어요. | I sent my résumé to ten places. | میں نے دس جگہوں پر اپنا سی وی بھیجا۔
+> 이력서에는 거짓말을 쓰면 안 돼요. | You must not lie on your résumé. | سی وی میں جھوٹ نہیں لکھنا چاہیے۔
+= 채용 | 2
+> 채용 공고를 보고 지원했어요. | I applied after seeing the job posting. | میں نے بھرتی کا اشتہار دیکھ کر درخواست دی۔
+> 이번 채용에서는 외국인도 뽑는대요. | They say foreigners will be hired in this recruitment too. | سنا ہے اس بھرتی میں غیر ملکیوں کو بھی لیا جائے گا۔
+= 실업 | 3
+> 실업 수당을 신청하려고 고용센터에 갔어요. | I went to the employment center to apply for unemployment benefits. | بے روزگاری الاؤنس کے لیے میں روزگار مرکز گیا۔
+> 경제가 나빠지면 실업률이 올라간다. | When the economy gets worse, the unemployment rate rises. | معیشت خراب ہو تو بے روزگاری کی شرح بڑھ جاتی ہے۔
+= 협력하다 | 2
+> 두 나라는 환경 문제에 협력하기로 했다. | The two countries agreed to cooperate on environmental issues. | دونوں ملکوں نے ماحولیاتی مسائل پر تعاون کرنے کا فیصلہ کیا۔
+> 팀원들이 서로 협력하면 더 좋은 결과가 나와요. | When team members cooperate, the results are better. | ٹیم کے ارکان آپس میں تعاون کریں تو نتیجہ بہتر نکلتا ہے۔
+= 책임 | 2
+> 이 일은 제 책임이에요. | This is my responsibility. | یہ میری ذمہ داری ہے۔
+> 책임감이 강한 사람과 일하고 싶어요. | I want to work with someone with a strong sense of responsibility. | میں کسی ذمہ دار شخص کے ساتھ کام کرنا چاہتا ہوں۔
+= 성과 | 3
+> 성과에 따라 보너스를 받아요. | We receive bonuses based on performance. | کارکردگی کے مطابق ہمیں بونس ملتا ہے۔
+> 노력에 비해 성과가 크지 않았다. | The results were not great compared to the effort. | محنت کے مقابلے میں نتائج زیادہ اچھے نہیں تھے۔
+= 휴가 | 1
+> 휴가를 내고 가족과 여행을 갔어요. | I took time off and went on a trip with my family. | میں نے چھٹی لی اور گھر والوں کے ساتھ سیر کو گیا۔
+> 휴가가 일주일밖에 없어요. | I only have a week of vacation. | میری چھٹیاں صرف ایک ہفتے کی ہیں۔
+= 근무하다 | 2
+> 주말에도 근무해야 할 때가 있어요. | Sometimes I have to work on weekends too. | کبھی کبھی ہفتے کے آخر میں بھی ڈیوٹی کرنی پڑتی ہے۔
+> 그는 병원에서 20년 동안 근무했다. | He worked at the hospital for twenty years. | اس نے بیس سال ہسپتال میں ملازمت کی۔
+= 경쟁 | 2
+> 이 대학은 입학 경쟁률이 아주 높아요. | This university has a very high admission competition rate. | اس یونیورسٹی میں داخلے کا مقابلہ بہت سخت ہے۔
+> 형제끼리 경쟁하지 말고 도와야 해요. | Siblings should help each other instead of competing. | بھائیوں کو مقابلہ کرنے کے بجائے ایک دوسرے کی مدد کرنی چاہیے۔
+= 부서 | 2
+> 다음 달에 영업 부서로 옮겨요. | Next month I'm moving to the sales department. | اگلے مہینے میں سیلز کے شعبے میں منتقل ہو رہا ہوں۔
+> 우리 부서에는 직원이 열 명 있어요. | There are ten employees in our department. | ہمارے شعبے میں دس ملازم ہیں۔
+= 계획을 세우다 | 2
+> 여행 가기 전에 계획을 세웠어요. | I made a plan before going on the trip. | سفر سے پہلے میں نے منصوبہ بنایا۔
+> 계획을 세워도 지키지 않으면 소용없어요. | Making a plan is useless if you don't stick to it. | منصوبہ بنا کر اس پر عمل نہ کریں تو کوئی فائدہ نہیں۔
+= 처리하다 | 2
+> 서류를 처리하는 데 3일 정도 걸립니다. | Processing the documents takes about three days. | دستاویزات کی کارروائی میں تقریباً تین دن لگتے ہیں۔
+> 급한 일부터 먼저 처리하세요. | Deal with the urgent things first. | پہلے ضروری کام نمٹائیں۔
+= 사표 | 3
+> 상사와 싸우고 사표를 썼어요. | I argued with my boss and wrote my resignation letter. | افسر سے جھگڑے کے بعد میں نے استعفیٰ لکھ دیا۔
+> 사표를 내기 전에 다시 생각해 보세요. | Think it over again before you hand in your resignation. | استعفیٰ دینے سے پہلے دوبارہ سوچ لیں۔
+= 문화 | 1
+> 한국 문화에 관심이 많아서 한국어를 배워요. | I learn Korean because I'm very interested in Korean culture. | کوریائی ثقافت میں دلچسپی کی وجہ سے میں کورین سیکھ رہا ہوں۔
+> 음식 문화는 나라마다 달라요. | Food culture differs from country to country. | کھانے کی ثقافت ہر ملک میں مختلف ہوتی ہے۔
+= 존중하다 | 2
+> 다른 사람의 사생활을 존중해야 해요. | You should respect other people's privacy. | دوسروں کی نجی زندگی کا احترام کرنا چاہیے۔
+> 아이의 선택을 존중해 주세요. | Please respect the child's choice. | بچے کے انتخاب کا احترام کریں۔
+= 존경하다 | 2
+> 제가 가장 존경하는 사람은 우리 선생님이에요. | The person I respect most is my teacher. | میں جس شخص کی سب سے زیادہ عزت کرتا ہوں وہ میرے استاد ہیں۔
+> 많은 사람들이 그 의사를 존경해요. | Many people look up to that doctor. | بہت سے لوگ اس ڈاکٹر کی عزت کرتے ہیں۔
+= 예절 | 2
+> 어른 앞에서는 예절을 지켜야 해요. | You must mind your manners in front of elders. | بزرگوں کے سامنے آداب کا خیال رکھنا چاہیے۔
+> 아이들에게 인사 예절을 가르쳐요. | We teach children greeting etiquette. | ہم بچوں کو سلام کرنے کے آداب سکھاتے ہیں۔
+= 명절 | 2
+> 추석은 한국의 큰 명절이에요. | Chuseok is a major Korean holiday. | چھوسوک کوریا کا ایک بڑا تہوار ہے۔
+> 명절에는 기차표를 구하기 어려워요. | It's hard to get train tickets during the holidays. | تہواروں پر ٹرین کا ٹکٹ ملنا مشکل ہوتا ہے۔
+= 세대 | 2
+> 젊은 세대는 SNS로 뉴스를 봐요. | The younger generation gets news through social media. | نوجوان نسل سوشل میڈیا سے خبریں دیکھتی ہے۔
+> 세대 차이 때문에 할아버지와 대화하기 어려울 때가 있어요. | Because of the generation gap, it's sometimes hard to talk with my grandfather. | نسلوں کے فرق کی وجہ سے کبھی کبھی دادا سے بات کرنا مشکل ہوتا ہے۔
+= 다양하다 | 2
+> 이 가게에는 다양한 종류의 빵이 있어요. | This shop has a wide variety of bread. | اس دکان میں مختلف قسم کی روٹیاں ہیں۔
+> 사람들의 의견이 다양해요. | People's opinions vary. | لوگوں کی آراء مختلف ہیں۔
+= 평등 | 3
+> 법 앞에서는 모든 사람이 평등하다. | Everyone is equal before the law. | قانون کے سامنے سب برابر ہیں۔
+> 교육의 기회는 평등하게 주어져야 한다. | Educational opportunities should be given equally. | تعلیم کے مواقع سب کو برابر ملنے چاہئیں۔
+= 차별 | 2
+> 나이 때문에 차별을 받았어요. | I was discriminated against because of my age. | عمر کی وجہ سے میرے ساتھ امتیازی سلوک ہوا۔
+> 인종 차별은 사라져야 합니다. | Racial discrimination must disappear. | نسلی امتیاز ختم ہونا چاہیے۔
+= 봉사 | 2
+> 대학생 때 해외 봉사를 다녀왔어요. | When I was in college, I did volunteer work overseas. | کالج کے زمانے میں میں نے بیرون ملک رضاکارانہ کام کیا۔
+> 봉사를 하면서 많은 것을 배웠어요. | I learned a lot while volunteering. | رضاکارانہ کام کرتے ہوئے میں نے بہت کچھ سیکھا۔
+= 기부 | 2
+> 매달 만 원씩 기부하고 있어요. | I donate ten thousand won every month. | میں ہر مہینے دس ہزار وون عطیہ کرتا ہوں۔
+> 안 입는 옷을 기부했어요. | I donated the clothes I don't wear. | میں نے وہ کپڑے عطیہ کر دیے جو نہیں پہنتا۔
+= 정책 | 3
+> 새 정책 때문에 세금이 올랐다. | Taxes went up because of the new policy. | نئی پالیسی کی وجہ سے ٹیکس بڑھ گئے۔
+> 정부의 교육 정책에 반대하는 목소리가 높다. | There are strong voices opposing the government's education policy. | حکومت کی تعلیمی پالیسی کے خلاف آوازیں بلند ہیں۔
+= 여론 | 3
+> 여론을 무시하는 정치인은 인기를 잃는다. | Politicians who ignore public opinion lose popularity. | عوامی رائے کو نظر انداز کرنے والے سیاستدان مقبولیت کھو دیتے ہیں۔
+> 그 사건 이후 여론이 바뀌었다. | Public opinion changed after that incident. | اس واقعے کے بعد عوامی رائے بدل گئی۔
+= 의견 | 1
+> 저도 같은 의견이에요. | I'm of the same opinion. | میری بھی یہی رائے ہے۔
+> 회의에서 의견을 자유롭게 말해 주세요. | Please share your opinions freely in the meeting. | میٹنگ میں اپنی رائے کھل کر بتائیں۔
+= 찬성하다 | 2
+> 대부분의 학생들이 교복 폐지에 찬성했다. | Most students were in favor of abolishing school uniforms. | زیادہ تر طلبہ نے یونیفارم ختم کرنے کی حمایت کی۔
+> 찬성하는 사람은 손을 들어 주세요. | Those in favor, please raise your hands. | جو حمایت کرتے ہیں وہ ہاتھ اٹھائیں۔
+= 반대하다 | 2
+> 부모님이 제 결혼을 반대하셨어요. | My parents opposed my marriage. | والدین نے میری شادی کی مخالفت کی۔
+> 저는 그 의견에 반대해요. | I disagree with that opinion. | میں اس رائے کے خلاف ہوں۔
+= 인구 | 2
+> 시골 인구가 계속 줄고 있어요. | The rural population keeps decreasing. | دیہات کی آبادی مسلسل کم ہو رہی ہے۔
+> 파키스탄은 인구가 많은 나라예요. | Pakistan is a country with a large population. | پاکستان زیادہ آبادی والا ملک ہے۔
+= 1인 가구 | 2
+> 1인 가구를 위한 작은 포장 상품이 많아졌어요. | Small-packaged products for single-person households have increased. | اکیلے رہنے والوں کے لیے چھوٹی پیکنگ والی چیزیں بڑھ گئی ہیں۔
+> 1인 가구는 혼자 밥을 먹는 경우가 많아요. | People living alone often eat by themselves. | اکیلے رہنے والے اکثر تنہا کھانا کھاتے ہیں۔
+= 유행 | 2
+> 독감이 유행이니까 조심하세요. | The flu is going around, so be careful. | فلو پھیلا ہوا ہے، احتیاط کریں۔
+> 유행을 따라 옷을 사지는 않아요. | I don't buy clothes just to follow trends. | میں فیشن کے پیچھے کپڑے نہیں خریدتا۔
+= 관습 | 3
+> 오래된 관습이라도 바꿀 필요가 있다. | Even old customs sometimes need to be changed. | پرانی رسمیں بھی کبھی بدلنے کی ضرورت ہوتی ہے۔
+> 새해에 떡국을 먹는 것은 한국의 관습이다. | Eating rice cake soup on New Year's is a Korean custom. | نئے سال پر چاول کے کیک کا سوپ کھانا کوریا کی رسم ہے۔
+= 공공장소 | 2
+> 공공장소에서 담배를 피우면 벌금을 내요. | You pay a fine if you smoke in a public place. | عوامی جگہ پر سگریٹ پینے پر جرمانہ ہوتا ہے۔
+> 공공장소에서는 다른 사람을 배려해야 해요. | You should be considerate of others in public places. | عوامی جگہوں پر دوسروں کا خیال رکھنا چاہیے۔
+= 질서 | 2
+> 사람들이 질서 있게 줄을 서 있었어요. | People were standing in line in an orderly way. | لوگ ترتیب سے قطار میں کھڑے تھے۔
+> 교통질서를 지키면 사고가 줄어요. | Obeying traffic rules reduces accidents. | ٹریفک قوانین پر عمل کریں تو حادثات کم ہوتے ہیں۔
+= 규칙 | 2
+> 게임 규칙을 설명해 줄게요. | I'll explain the rules of the game. | میں آپ کو کھیل کے اصول بتاتا ہوں۔
+> 규칙적으로 생활하면 건강에 좋아요. | Living a regular routine is good for your health. | باقاعدہ زندگی گزارنا صحت کے لیے اچھا ہے۔
+= 시민 | 2
+> 많은 시민들이 광장에 모였다. | Many citizens gathered in the square. | بہت سے شہری چوک میں جمع ہوئے۔
+> 시민들의 의견을 듣고 정책을 정해야 한다. | Policies should be decided after listening to citizens. | شہریوں کی رائے سن کر پالیسیاں بنانی چاہئیں۔
+= 지구 온난화 | 2
+> 지구 온난화를 막으려면 에너지를 아껴야 해요. | To stop global warming, we have to save energy. | گلوبل وارمنگ روکنے کے لیے توانائی بچانی ہوگی۔
+> 지구 온난화 때문에 해수면이 높아지고 있다. | Sea levels are rising because of global warming. | گلوبل وارمنگ کی وجہ سے سمندر کی سطح بلند ہو رہی ہے۔
+= 자원 | 2
+> 한국은 천연자원이 부족한 나라예요. | Korea is a country lacking natural resources. | کوریا قدرتی وسائل کی کمی والا ملک ہے۔
+> 인적 자원이 가장 중요한 자산이다. | Human resources are the most important asset. | انسانی وسائل سب سے قیمتی اثاثہ ہیں۔
+= 보호하다 | 2
+> 개인 정보를 보호하는 것이 중요해요. | It's important to protect personal information. | ذاتی معلومات کی حفاظت ضروری ہے۔
+> 선크림은 피부를 햇빛으로부터 보호해 줘요. | Sunscreen protects your skin from sunlight. | سن کریم جلد کو دھوپ سے بچاتی ہے۔
+= 일회용품 | 2
+> 일회용품 대신 텀블러를 사용해요. | I use a tumbler instead of disposable products. | میں ایک بار استعمال ہونے والی چیزوں کے بجائے اپنا کپ استعمال کرتا ہوں۔
+> 일회용품은 편리하지만 환경에 나빠요. | Disposable products are convenient but bad for the environment. | ڈسپوزایبل چیزیں آسان ہیں مگر ماحول کے لیے نقصان دہ ہیں۔
+= 배출하다 | 3
+> 자동차는 많은 이산화탄소를 배출한다. | Cars emit a lot of carbon dioxide. | گاڑیاں بہت زیادہ کاربن ڈائی آکسائیڈ خارج کرتی ہیں۔
+> 쓰레기는 정해진 날에만 배출하세요. | Put out your trash only on the designated days. | کچرا صرف مقررہ دنوں پر باہر رکھیں۔
+= 탄소 | 3
+> 나무를 심으면 탄소를 줄일 수 있다. | Planting trees can reduce carbon. | درخت لگانے سے کاربن کم کیا جا سکتا ہے۔
+> 많은 나라가 탄소 중립을 목표로 하고 있다. | Many countries are aiming for carbon neutrality. | بہت سے ممالک کاربن نیوٹرل ہونے کا ہدف رکھتے ہیں۔
+= 자연 | 1
+> 이 섬은 자연이 그대로 남아 있어요. | Nature on this island remains untouched. | اس جزیرے کی فطرت ویسی ہی محفوظ ہے۔
+> 아이들에게 자연을 사랑하는 마음을 가르쳐요. | We teach children to love nature. | ہم بچوں کو فطرت سے محبت کرنا سکھاتے ہیں۔
+= 홍수 | 2
+> 홍수로 많은 사람들이 집을 잃었다. | Many people lost their homes in the flood. | سیلاب میں بہت سے لوگوں کے گھر تباہ ہو گئے۔
+> 장마철에는 홍수에 대비해야 해요. | You need to prepare for floods during the rainy season. | برسات کے موسم میں سیلاب کی تیاری کرنی چاہیے۔
+= 가뭄 | 3
+> 가뭄 때문에 물값이 올랐어요. | The price of water went up because of the drought. | خشک سالی کی وجہ سے پانی مہنگا ہو گیا۔
+> 비가 오지 않아서 가뭄이 계속되고 있다. | The drought continues because it hasn't rained. | بارش نہ ہونے سے خشک سالی جاری ہے۔
+= 자연재해 | 3
+> 지진, 태풍 같은 자연재해는 예측하기 어렵다. | Natural disasters like earthquakes and typhoons are hard to predict. | زلزلے اور طوفان جیسی قدرتی آفات کی پیشگوئی مشکل ہے۔
+> 자연재해로 피해를 입은 지역에 도움이 필요하다. | Areas damaged by natural disasters need help. | قدرتی آفات سے متاثرہ علاقوں کو مدد کی ضرورت ہے۔
+= 대기 | 3
+> 대기 중의 이산화탄소가 증가하고 있다. | Carbon dioxide in the atmosphere is increasing. | فضا میں کاربن ڈائی آکسائیڈ بڑھ رہی ہے۔
+> 오늘은 대기 상태가 좋아서 하늘이 맑아요. | The air quality is good today, so the sky is clear. | آج ہوا کی حالت اچھی ہے، اس لیے آسمان صاف ہے۔
+= 생태계 | 3
+> 외래종이 생태계를 위협하고 있다. | Invasive species are threatening the ecosystem. | باہر سے آئی انواع ماحولیاتی نظام کے لیے خطرہ بن رہی ہیں۔
+> 숲의 생태계는 아주 복잡하게 연결되어 있다. | A forest ecosystem is connected in very complex ways. | جنگل کا ماحولیاتی نظام بہت پیچیدہ طریقے سے جڑا ہوتا ہے۔
+= 파괴하다 | 3
+> 전쟁은 많은 문화재를 파괴했다. | The war destroyed many cultural assets. | جنگ نے بہت سے ثقافتی ورثے تباہ کر دیے۔
+> 과도한 개발이 숲을 파괴하고 있다. | Excessive development is destroying the forests. | حد سے زیادہ ترقیاتی کام جنگلات کو تباہ کر رہے ہیں۔
+= 친환경 | 2
+> 친환경 자동차가 점점 많아지고 있어요. | Eco-friendly cars are becoming more common. | ماحول دوست گاڑیاں بڑھتی جا رہی ہیں۔
+> 이 가방은 친환경 소재로 만들었어요. | This bag is made of eco-friendly material. | یہ بیگ ماحول دوست مواد سے بنا ہے۔
+= 태양광 | 3
+> 태양광 발전은 깨끗한 에너지예요. | Solar power generation is clean energy. | شمسی توانائی صاف توانائی ہے۔
+> 이 마을은 태양광으로 전기를 만들어요. | This village makes electricity with solar power. | یہ گاؤں شمسی توانائی سے بجلی بناتا ہے۔
+= 기온 | 2
+> 낮과 밤의 기온 차이가 커요. | There is a big temperature difference between day and night. | دن اور رات کے درجۂ حرارت میں بہت فرق ہے۔
+> 내일은 기온이 30도까지 올라가겠습니다. | Tomorrow, temperatures will rise to 30 degrees. | کل درجۂ حرارت تیس ڈگری تک جائے گا۔
+= 습하다 | 2
+> 습한 날씨에는 빨래가 잘 안 말라요. | Laundry doesn't dry well in humid weather. | مرطوب موسم میں کپڑے اچھی طرح نہیں سوکھتے۔
+> 방이 습해서 제습기를 샀어요. | My room was humid, so I bought a dehumidifier. | کمرے میں نمی تھی، اس لیے میں نے ڈی ہیومیڈیفائر خریدا۔
+= 건조하다 | 2
+> 피부가 건조해서 로션을 자주 발라요. | My skin is dry, so I apply lotion often. | جلد خشک ہے، اس لیے بار بار لوشن لگاتا ہوں۔
+> 건조한 날씨에는 물을 많이 마시세요. | Drink a lot of water in dry weather. | خشک موسم میں زیادہ پانی پئیں۔
+= 심각하다 | 2
+> 그렇게 심각한 표정 짓지 마세요. | Don't make such a serious face. | اتنا سنجیدہ چہرہ مت بنائیں۔
+> 교통사고로 심각한 부상을 입었어요. | I was seriously injured in a traffic accident. | ٹریفک حادثے میں مجھے شدید چوٹیں آئیں۔
+= 녹다 | 2
+> 아이스크림이 다 녹아 버렸어요. | The ice cream has completely melted. | آئس کریم پوری پگھل گئی۔
+> 따뜻한 차를 마시니까 몸이 녹는 것 같아요. | Drinking warm tea makes me feel like my body is thawing out. | گرم چائے پی کر جسم میں گرمی آ گئی۔
+= 멸종 | 3
+> 공룡은 오래전에 멸종했다. | Dinosaurs went extinct long ago. | ڈائنوسار بہت پہلے ناپید ہو گئے۔
+> 멸종 위기 식물을 보호하는 법이 있다. | There are laws protecting endangered plants. | معدومیت کے خطرے سے دوچار پودوں کے تحفظ کے قوانین موجود ہیں۔
+= 개발 | 2
+> 이 회사는 새로운 앱을 개발하고 있어요. | This company is developing a new app. | یہ کمپنی ایک نئی ایپ تیار کر رہی ہے۔
+> 도시 개발로 오래된 건물이 사라졌다. | Old buildings disappeared due to urban development. | شہری ترقی کی وجہ سے پرانی عمارتیں ختم ہو گئیں۔
+= 아끼다 | 2
+> 용돈을 아껴서 선물을 샀어요. | I saved my pocket money and bought a gift. | جیب خرچ بچا کر میں نے تحفہ خریدا۔
+> 할머니는 손자를 무척 아끼세요. | Grandma cherishes her grandson dearly. | نانی اپنے نواسے کو بہت عزیز رکھتی ہیں۔
+= 산불 | 2
+> 산불 조심! 산에서 불을 피우지 마세요. | Beware of wildfires! Don't make fires in the mountains. | جنگل کی آگ سے ہوشیار! پہاڑوں میں آگ نہ جلائیں۔
+> 산불로 넓은 숲이 탔다. | A wide area of forest burned in the wildfire. | جنگل کی آگ سے بڑا رقبہ جل گیا۔

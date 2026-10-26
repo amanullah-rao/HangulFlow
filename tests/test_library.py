@@ -105,3 +105,39 @@ def test_restore_rejects_damaged_file(repo, tmp_path):
     with pytest.raises(sqlite3.DatabaseError):
         backup.restore(repo.conn, bad, tmp_path / "backups")
     assert repo.count() > 0
+
+
+def test_example_sentences_rotate(repo):
+    vocab_id = repo.find("노력", "effort, hard work")
+    with repo.conn:
+        repo.conn.executemany(
+            "INSERT INTO examples(vocab_id, ko, en, ur) VALUES (?, ?, ?, ?)",
+            [(vocab_id, "둘째 문장", "second", "دوسرا"), (vocab_id, "셋째 문장", "third", "تیسرا")],
+        )
+    shown = []
+    for _ in range(4):
+        repo.record_view(vocab_id)
+        shown.append(repo.get(vocab_id).example_for_display()[0])
+    assert shown == ["노력하면 성공할 수 있어요.", "둘째 문장", "셋째 문장", "노력하면 성공할 수 있어요."]
+    repo.delete_word(vocab_id)  # extra sentences go with the word
+    assert repo.conn.execute("SELECT COUNT(*) FROM examples WHERE vocab_id = ?", (vocab_id,)).fetchone()[0] == 0
+
+
+def test_study_levels_filter_new_words(repo):
+    levels = dict(repo.conn.execute("SELECT id, difficulty FROM vocabulary").fetchall())
+    started = next(i for i, d in levels.items() if d == 3)
+    repo.rate(started, "known")
+    repo.study_levels = (1,)
+    ids = {c.vocab_id for c in repo.candidates()}
+    assert started in ids  # words already being learned still come back
+    assert all(levels[i] == 1 for i in ids - {started})
+    repo.study_levels = None
+    assert len(repo.candidates()) == len(levels)
+
+
+def test_word_list_examples_merge(repo):
+    entry = {"korean": "새말", "meaning_en": "new word", "category": "x",
+             "example_ko": "첫 문장", "examples": [{"ko": "둘째", "en": "2", "ur": "۲"}, {"ko": ""}, "junk"]}
+    assert repo.apply_word_list({"version": 99, "entries": [entry]}) == 1
+    vocab = repo.get(repo.find("새말", "new word"))
+    assert [e[0] for e in vocab.examples] == ["첫 문장", "둘째"]

@@ -40,6 +40,15 @@ class Vocab:
     difficulty: int
     source: str
     starred: bool = False
+    # Every example sentence as (ko, en, ur): the main one first, then the extras.
+    examples: tuple[tuple[str, str, str], ...] = ()
+    example_turn: int = 0  # how often the word was shown; picks the sentence to display
+
+    def example_for_display(self) -> tuple[str, str, str]:
+        """A different sentence each time the word comes back."""
+        if not self.examples:
+            return (self.example_ko, self.example_en, self.example_ur)
+        return self.examples[max(self.example_turn - 1, 0) % len(self.examples)]
 
 
 @dataclass(frozen=True)
@@ -68,8 +77,8 @@ def _clean_fields(raw: dict) -> dict:
     try:
         difficulty = int(raw.get("difficulty") or 2)
     except (TypeError, ValueError):
-        raise ValueError(f"difficulty must be a number 1-5, got {raw.get('difficulty')!r}") from None
-    values["difficulty"] = min(5, max(1, difficulty))
+        raise ValueError(f"level must be a number 1-3, got {raw.get('difficulty')!r}") from None
+    values["difficulty"] = min(3, max(1, difficulty))
     return values
 
 
@@ -118,7 +127,7 @@ class VocabRepository:
     def get(self, vocab_id: int) -> Vocab | None:
         row = self.conn.execute(
             "SELECT id, korean, hanja, romanization, part_of_speech, meaning_en, meaning_ur, example_ko,"
-            " example_en, example_ur, notes, category, difficulty, source, starred"
+            " example_en, example_ur, notes, category, difficulty, source, starred, example_turn"
             " FROM vocabulary WHERE id = ?",
             (vocab_id,),
         ).fetchone()
@@ -126,7 +135,15 @@ class VocabRepository:
             return None
         data = dict(row)
         data["starred"] = bool(data["starred"])
+        extras = self.conn.execute("SELECT ko, en, ur FROM examples WHERE vocab_id = ? ORDER BY id", (vocab_id,))
+        main = (data["example_ko"], data["example_en"], data["example_ur"])
+        data["examples"] = tuple(([main] if main[0] else []) + [tuple(r) for r in extras if r[0] != main[0]])
         return Vocab(**data)
+
+    def example_count(self) -> int:
+        """All example sentences: the main one of each word plus the extras."""
+        main = self.conn.execute("SELECT COUNT(*) FROM vocabulary WHERE example_ko != ''").fetchone()[0]
+        return main + self.conn.execute("SELECT COUNT(*) FROM examples").fetchone()[0]
 
     def add_word(
         self,
@@ -330,6 +347,7 @@ class VocabRepository:
                         " WHERE korean = ? AND meaning_en = ? AND source = 'curated' AND edited = 0",
                         (*refresh.values(), clean["korean"], clean["meaning_en"]),
                     )
+                self._merge_examples(clean["korean"], clean["meaning_en"], entry.get("examples"))
             self.conn.execute(
                 "INSERT INTO meta(key, value) VALUES ('seed_version', ?)"
                 " ON CONFLICT(key) DO UPDATE SET value = excluded.value",
@@ -338,17 +356,58 @@ class VocabRepository:
         log.info("Seed vocabulary v%s imported: %d new words.", version, added)
         return added
 
+    def _merge_examples(self, korean: str, meaning_en: str, examples) -> None:
+        """Store a list entry's extra sentences. For curated words the learner never
+        edited, the list's sentences replace the old ones (so corrections arrive)."""
+        if not isinstance(examples, list):
+            return
+        row = self.conn.execute(
+            "SELECT id, source, edited FROM vocabulary WHERE korean = ? AND meaning_en = ?", (korean, meaning_en)
+        ).fetchone()
+        if row is None:
+            return
+        if row["source"] == "curated" and not row["edited"]:
+            self.conn.execute("DELETE FROM examples WHERE vocab_id = ?", (row["id"],))
+        for ex in examples:
+            if not isinstance(ex, dict):
+                continue
+            ko = str(ex.get("ko") or "").strip()
+            if ko:
+                self.conn.execute(
+                    "INSERT OR IGNORE INTO examples(vocab_id, ko, en, ur, source) VALUES (?, ?, ?, ?, ?)",
+                    (row["id"], ko, str(ex.get("en") or "").strip(), str(ex.get("ur") or "").strip(),
+                     str(ex.get("source") or "curated")),
+                )
+
     # --- rotation support ---------------------------------------------------
+
+    # Levels the learner studies (1 beginner, 2 intermediate, 3 advanced); None = all.
+    study_levels: tuple[int, ...] | None = None
 
     def candidates(self) -> list[Candidate]:
         rows = self.conn.execute(
             "SELECT v.id, COALESCE(p.times_seen, 0) AS times_seen, COALESCE(p.status, 'new') AS status, p.due_at"
             " FROM vocabulary v LEFT JOIN progress p ON p.vocab_id = v.id"
+            + self._level_filter()
         ).fetchall()
+        if not rows and self.study_levels:  # no words at the chosen levels: use every word
+            rows = self.conn.execute(
+                "SELECT v.id, COALESCE(p.times_seen, 0) AS times_seen, COALESCE(p.status, 'new') AS status, p.due_at"
+                " FROM vocabulary v LEFT JOIN progress p ON p.vocab_id = v.id"
+            ).fetchall()
         return [
             Candidate(vocab_id=r["id"], times_seen=r["times_seen"], status=r["status"], due_at=from_iso(r["due_at"]))
             for r in rows
         ]
+
+    def _level_filter(self) -> str:
+        levels = [int(n) for n in self.study_levels or () if int(n) in (1, 2, 3)]
+        # Words of other levels the learner already rated still come back when due.
+        return (
+            f" WHERE v.difficulty IN ({', '.join(map(str, levels))}) OR COALESCE(p.status, 'new') != 'new'"
+            if levels and len(levels) < 3
+            else ""
+        )
 
     def recent_view_ids(self, limit: int) -> list[int]:
         """Most recently shown word ids, newest first, without duplicates."""
@@ -371,6 +430,7 @@ class VocabRepository:
                 " times_seen = times_seen + 1, last_seen_at = excluded.last_seen_at",
                 (vocab_id, stamp),
             )
+            self.conn.execute("UPDATE vocabulary SET example_turn = example_turn + 1 WHERE id = ?", (vocab_id,))
 
     # --- learning progress ----------------------------------------------------
 

@@ -83,6 +83,7 @@ def main() -> int:
 
     conn = open_database(paths.database_path())
     repo = VocabRepository(conn)
+    repo.study_levels = tuple(settings.levels)
     repo.import_seed(paths.seed_vocabulary_path())
     log.info("Vocabulary words in database: %d", repo.count())
     backup.daily_backup(conn, paths.backup_dir())
