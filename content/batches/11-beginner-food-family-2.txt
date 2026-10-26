@@ -1,0 +1,197 @@
+# Beginner: more food, extended family
++ 닭고기 |  | dakgogi | noun | chicken (meat) | مرغی کا گوشت | Food & Cooking | 1 | Fried chicken: 치킨.
+> 닭고기로 카레를 만들었어요. | I made curry with chicken. | میں نے مرغی کا سالن بنایا۔
+> 닭고기는 소고기보다 싸요. | Chicken is cheaper than beef. | مرغی کا گوشت گائے کے گوشت سے سستا ہے۔
+> 할랄 닭고기를 파는 가게가 있어요? | Is there a shop that sells halal chicken? | کیا کوئی دکان حلال مرغی بیچتی ہے؟
++ 소고기 |  | sogogi | noun | beef | گائے کا گوشت | Food & Cooking | 1 | Also 쇠고기.
+> 한국 소고기는 비싸요. | Korean beef is expensive. | کوریا کا گائے کا گوشت مہنگا ہے۔
+> 소고기 미역국을 끓였어요. | I made beef seaweed soup. | میں نے گائے کے گوشت والا سمندری گھاس کا سوپ بنایا۔
+> 소고기를 구워 먹었어요. | We grilled beef and ate it. | ہم نے گائے کا گوشت بھون کر کھایا۔
++ 양파 | 洋- | yangpa | noun | onion | پیاز | Food & Cooking | 1 | 파 = green onion.
+> 양파를 썰면 눈물이 나요. | Cutting onions makes me cry. | پیاز کاٹتے وقت آنسو آتے ہیں۔
+> 카레에 양파를 많이 넣어요. | I put a lot of onions in curry. | میں سالن میں بہت پیاز ڈالتا ہوں۔
+> 양파 두 개만 주세요. | Just two onions, please. | صرف دو پیاز دے دیں۔
++ 감자 |  | gamja | noun | potato | آلو | Food & Cooking | 1 | 고구마 = sweet potato.
+> 감자를 삶아서 먹었어요. | I boiled potatoes and ate them. | میں نے آلو ابال کر کھائے۔
+> 감자튀김을 좋아해요. | I like French fries. | مجھے فرنچ فرائز پسند ہیں۔
+> 감자 한 봉지에 얼마예요? | How much is a bag of potatoes? | آلو کی ایک تھیلی کتنے کی ہے؟
++ 당근 |  | danggeun | noun | carrot | گاجر | Food & Cooking | 1 |
+> 토끼가 당근을 먹어요. | The rabbit is eating a carrot. | خرگوش گاجر کھا رہا ہے۔
+> 당근은 눈에 좋아요. | Carrots are good for your eyes. | گاجر آنکھوں کے لیے اچھی ہے۔
+> 김밥에 당근을 넣었어요. | I put carrot in the gimbap. | میں نے کمباپ میں گاجر ڈالی۔
++ 토마토 |  | tomato | noun | tomato | ٹماٹر | Food & Cooking | 1 |
+> 토마토로 샐러드를 만들었어요. | I made a salad with tomatoes. | میں نے ٹماٹر سے سلاد بنایا۔
+> 토마토는 과일이에요, 채소예요? | Is a tomato a fruit or a vegetable? | ٹماٹر پھل ہے یا سبزی؟
+> 여름 토마토가 맛있어요. | Summer tomatoes are tasty. | گرمیوں کے ٹماٹر مزے دار ہوتے ہیں۔
++ 딸기 |  | ttalgi | noun | strawberry | اسٹرابیری | Food & Cooking | 1 |
+> 봄에는 딸기가 맛있어요. | Strawberries are delicious in spring. | بہار میں اسٹرابیری مزے دار ہوتی ہے۔
+> 딸기 케이크를 샀어요. | I bought a strawberry cake. | میں نے اسٹرابیری کیک خریدا۔
+> 딸기를 깨끗이 씻으세요. | Wash the strawberries thoroughly. | اسٹرابیری اچھی طرح دھوئیں۔
++ 포도 | 葡萄 | podo | noun | grapes | انگور | Food & Cooking | 1 |
+> 포도 한 송이 주세요. | One bunch of grapes, please. | انگور کا ایک گچھا دے دیں۔
+> 이 포도는 씨가 없어요. | These grapes are seedless. | ان انگوروں میں بیج نہیں ہیں۔
+> 포도 주스를 마셨어요. | I drank grape juice. | میں نے انگور کا جوس پیا۔
++ 수박 |  | subak | noun | watermelon | تربوز | Food & Cooking | 1 |
+> 여름에는 수박이 최고예요. | Watermelon is the best in summer. | گرمیوں میں تربوز سب سے اچھا ہے۔
+> 수박을 반으로 잘랐어요. | I cut the watermelon in half. | میں نے تربوز آدھا کاٹا۔
+> 수박이 아주 달고 시원해요. | The watermelon is very sweet and refreshing. | تربوز بہت میٹھا اور ٹھنڈا ہے۔
++ 귤 | 橘 | gyul | noun | tangerine, mandarin | کینو، سنگترہ | Food & Cooking | 1 | Jeju Island is famous for 귤.
+> 겨울에는 귤을 많이 먹어요. | I eat a lot of tangerines in winter. | سردیوں میں میں بہت کینو کھاتا ہوں۔
+> 제주도 귤이 유명해요. | Jeju tangerines are famous. | جیجو کے کینو مشہور ہیں۔
+> 귤 한 상자를 샀어요. | I bought a box of tangerines. | میں نے کینو کا ایک ڈبا خریدا۔
++ 떡 |  | tteok | noun | rice cake | چاول کا کیک | Food & Cooking | 1 | 떡볶이 = spicy stir-fried rice cakes.
+> 명절에 떡을 만들어 먹어요. | We make and eat rice cakes on holidays. | تہوار پر ہم چاول کے کیک بنا کر کھاتے ہیں۔
+> 이사하면 이웃에게 떡을 돌려요. | When you move, you hand out rice cakes to neighbors. | گھر بدلنے پر پڑوسیوں میں چاول کے کیک بانٹتے ہیں۔
+> 떡이 쫄깃쫄깃해요. | The rice cake is chewy. | چاول کا کیک ربڑ جیسا نرم ہے۔
++ 김밥 |  | gimbap | noun | gimbap (seaweed rice roll) | کمباپ (سمندری گھاس میں لپٹے چاول) | Food & Cooking | 1 |
+> 소풍 갈 때 김밥을 싸 가요. | We pack gimbap when we go on a picnic. | پکنک پر ہم کمباپ لے جاتے ہیں۔
+> 김밥 한 줄에 삼천 원이에요. | One roll of gimbap is 3,000 won. | کمباپ کا ایک رول تین ہزار وون کا ہے۔
+> 참치김밥을 좋아해요. | I like tuna gimbap. | مجھے ٹونا کمباپ پسند ہے۔
++ 불고기 |  | bulgogi | noun | bulgogi (marinated grilled beef) | بلگوگی (مصالحے دار بھنا گوشت) | Food & Cooking | 1 |
+> 외국인들이 불고기를 좋아해요. | Foreigners like bulgogi. | غیر ملکیوں کو بلگوگی پسند ہے۔
+> 불고기는 달고 짭짤해요. | Bulgogi is sweet and savory. | بلگوگی میٹھی اور نمکین ہوتی ہے۔
+> 어머니께 불고기 만드는 법을 배웠어요. | I learned how to make bulgogi from my mother. | میں نے امی سے بلگوگی بنانا سیکھی۔
++ 떡볶이 |  | tteokbokki | noun | tteokbokki (spicy rice cakes) | تیوک بوکی (تیز مصالحے والے چاول کے کیک) | Food & Cooking | 1 |
+> 학교 앞에서 떡볶이를 사 먹었어요. | I bought tteokbokki in front of the school. | میں نے اسکول کے سامنے تیوک بوکی خرید کر کھائی۔
+> 떡볶이는 맵지만 맛있어요. | Tteokbokki is spicy but tasty. | تیوک بوکی تیز ہے مگر مزے دار ہے۔
+> 떡볶이에 치즈를 넣어 주세요. | Please add cheese to the tteokbokki. | تیوک بوکی میں پنیر ڈال دیں۔
++ 냉면 | 冷麵 | naengmyeon | noun | cold noodles | ٹھنڈے نوڈلز | Food & Cooking | 1 |
+> 여름에는 냉면이 생각나요. | I crave cold noodles in summer. | گرمیوں میں ٹھنڈے نوڈلز یاد آتے ہیں۔
+> 냉면에 식초를 넣어요. | I put vinegar in the cold noodles. | میں ٹھنڈے نوڈلز میں سرکہ ڈالتا ہوں۔
+> 이 집 물냉면이 유명해요. | This place's cold noodle soup is famous. | اس جگہ کے ٹھنڈے نوڈلز مشہور ہیں۔
++ 찌개 |  | jjigae | noun | stew | سالن، شوربے والی ڈش | Food & Cooking | 1 | 김치찌개, 된장찌개, 순두부찌개.
+> 저녁에 김치찌개를 끓였어요. | I made kimchi stew for dinner. | رات کو میں نے کمچی کا سالن بنایا۔
+> 된장찌개는 한국의 대표 음식이에요. | Soybean paste stew is a classic Korean dish. | سویابین پیسٹ کا سالن کوریا کی مشہور ڈش ہے۔
+> 찌개가 너무 짜요. | The stew is too salty. | سالن میں نمک بہت زیادہ ہے۔
++ 국 |  | guk | noun | soup | سوپ، شوربا | Food & Cooking | 1 | 미역국 = seaweed soup (eaten on birthdays).
+> 한국 사람들은 밥과 국을 같이 먹어요. | Koreans eat rice with soup. | کوریائی لوگ چاول کے ساتھ سوپ کھاتے ہیں۔
+> 생일에 미역국을 먹어요. | We eat seaweed soup on birthdays. | سالگرہ پر سمندری گھاس کا سوپ کھاتے ہیں۔
+> 국이 식었어요. | The soup has gone cold. | سوپ ٹھنڈا ہو گیا۔
++ 반찬 | 飯饌 | banchan | noun | side dishes | ساتھ کھانے والی ڈشیں | Food & Cooking | 1 | Usually free refills in restaurants.
+> 한국 식당은 반찬을 무료로 줘요. | Korean restaurants give side dishes for free. | کوریائی ریستوران ساتھ والی ڈشیں مفت دیتے ہیں۔
+> 반찬 좀 더 주세요. | More side dishes, please. | تھوڑی اور سائیڈ ڈشیں دیں۔
+> 어머니가 반찬을 보내 주셨어요. | My mother sent me some side dishes. | امی نے میرے لیے کچھ ڈشیں بھیجیں۔
++ 두부 | 豆腐 | dubu | noun | tofu | توفو | Food & Cooking | 1 |
+> 찌개에 두부를 넣으세요. | Put tofu in the stew. | سالن میں توفو ڈالیں۔
+> 두부는 건강에 좋아요. | Tofu is good for your health. | توفو صحت کے لیے اچھا ہے۔
+> 두부 한 모 주세요. | One block of tofu, please. | توفو کا ایک ٹکڑا دیں۔
++ 간장 | -醬 | ganjang | noun | soy sauce | سویا ساس | Food & Cooking | 1 | 된장 = soybean paste; 고추장 = red pepper paste.
+> 간장을 조금만 넣으세요. | Add just a little soy sauce. | تھوڑی سی سویا ساس ڈالیں۔
+> 만두를 간장에 찍어 먹어요. | We dip dumplings in soy sauce. | ہم ڈمپلنگ سویا ساس میں ڈبو کر کھاتے ہیں۔
+> 간장 맛이 너무 강해요. | The soy sauce flavor is too strong. | سویا ساس کا ذائقہ بہت تیز ہے۔
++ 고추 |  | gochu | noun | chili pepper | مرچ | Food & Cooking | 1 | 고춧가루 = chili powder.
+> 이 고추는 정말 매워요. | This chili is really hot. | یہ مرچ واقعی بہت تیز ہے۔
+> 고추를 빼고 만들어 주세요. | Please make it without chili. | مرچ کے بغیر بنا دیں۔
+> 김치에는 고춧가루가 들어가요. | Kimchi contains chili powder. | کمچی میں لال مرچ پاؤڈر ڈالا جاتا ہے۔
++ 마늘 |  | maneul | noun | garlic | لہسن | Food & Cooking | 1 |
+> 한국 음식에는 마늘이 많이 들어가요. | Korean food uses a lot of garlic. | کوریائی کھانوں میں بہت لہسن ڈالا جاتا ہے۔
+> 마늘 냄새가 강해요. | The garlic smell is strong. | لہسن کی بو تیز ہے۔
+> 마늘을 다져서 넣으세요. | Mince the garlic and add it. | لہسن باریک کاٹ کر ڈالیں۔
++ 쌀 |  | ssal | noun | (uncooked) rice | چاول (کچے) | Food & Cooking | 1 | Cooked rice: 밥.
+> 쌀을 씻어서 밥을 했어요. | I washed the rice and cooked it. | میں نے چاول دھو کر پکائے۔
+> 쌀 10킬로를 샀어요. | I bought 10 kilos of rice. | میں نے دس کلو چاول خریدے۔
+> 파키스탄 바스마티 쌀이 맛있어요. | Pakistani basmati rice is delicious. | پاکستانی باسمتی چاول مزے دار ہیں۔
++ 아이스크림 |  | aiseukeurim | noun | ice cream | آئس کریم | Food & Cooking | 1 |
+> 더워서 아이스크림을 먹었어요. | It was hot, so I ate ice cream. | گرمی تھی، اس لیے آئس کریم کھائی۔
+> 무슨 맛 아이스크림 좋아해요? | What flavor of ice cream do you like? | آپ کو کس ذائقے کی آئس کریم پسند ہے؟
+> 아이스크림이 녹고 있어요. | The ice cream is melting. | آئس کریم پگھل رہی ہے۔
++ 케이크 |  | keikeu | noun | cake | کیک | Food & Cooking | 1 |
+> 생일 케이크에 초를 꽂았어요. | I put candles on the birthday cake. | میں نے سالگرہ کے کیک پر موم بتیاں لگائیں۔
+> 이 빵집 케이크가 맛있어요. | The cake at this bakery is tasty. | اس بیکری کا کیک مزے دار ہے۔
+> 케이크 한 조각 드실래요? | Would you like a piece of cake? | کیک کا ایک ٹکڑا لیں گے؟
++ 음료수 | 飮料水 | eumnyosu | noun | beverage, soft drink | مشروب | Food & Cooking | 1 |
+> 음료수는 뭐로 하시겠어요? | What would you like to drink? | آپ کون سا مشروب لیں گے؟
+> 편의점에서 음료수를 샀어요. | I bought a drink at the convenience store. | میں نے کنویننس اسٹور سے مشروب خریدا۔
+> 단 음료수를 줄이고 있어요. | I'm cutting down on sugary drinks. | میں میٹھے مشروبات کم کر رہا ہوں۔
++ 간식 | 間食 | gansik | noun | snack (between meals) | ناشتہ، ہلکا پھلکا کھانا | Food & Cooking | 1 |
+> 오후에 간식으로 과일을 먹어요. | I eat fruit as an afternoon snack. | سہ پہر کو میں ناشتے میں پھل کھاتا ہوں۔
+> 아이들 간식을 준비했어요. | I prepared snacks for the kids. | میں نے بچوں کے لیے ناشتہ تیار کیا۔
+> 간식을 너무 많이 먹으면 밥맛이 없어요. | If you eat too many snacks, you lose your appetite. | زیادہ ناشتہ کرنے سے کھانے کی بھوک ختم ہو جاتی ہے۔
++ 식사 | 食事 | siksa | noun | meal | کھانا | Food & Cooking | 1 | 식사하다 = to have a meal (polite).
+> 식사하셨어요? | Have you had your meal? | کیا آپ نے کھانا کھا لیا؟
+> 식사 시간은 12시부터예요. | Mealtime starts at twelve. | کھانے کا وقت بارہ بجے سے ہے۔
+> 같이 식사 한번 해요. | Let's have a meal together sometime. | کبھی ساتھ کھانا کھاتے ہیں۔
++ 그릇 |  | geureut | noun | bowl, dish; (counter) bowl | پیالہ، برتن | Food & Cooking | 1 | 밥 한 그릇 = one bowl of rice.
+> 비빔밥 두 그릇 주세요. | Two bowls of bibimbap, please. | بی بیم باپ کی دو پیالیاں دیں۔
+> 그릇을 깨끗이 씻었어요. | I washed the bowls clean. | میں نے برتن اچھی طرح دھوئے۔
+> 밥을 한 그릇 더 먹었어요. | I ate another bowl of rice. | میں نے ایک اور پیالہ چاول کھایا۔
++ 냄비 |  | naembi | noun | pot, saucepan | دیگچی، ہانڈی | Food & Cooking | 1 |
+> 냄비에 물을 끓이세요. | Boil water in the pot. | دیگچی میں پانی ابالیں۔
+> 냄비가 뜨거우니까 조심하세요. | The pot is hot, so be careful. | دیگچی گرم ہے، احتیاط کریں۔
+> 라면은 작은 냄비에 끓여요. | I boil ramyeon in a small pot. | میں چھوٹی دیگچی میں نوڈلز ابالتا ہوں۔
++ 삼촌 | 三寸 | samchon | noun | uncle (father's brother) | چچا | Family & People | 1 | Also used loosely for a friendly older man. Mother's brother: 외삼촌 (ماموں).
+> 삼촌이 선물을 사 주셨어요. | My uncle bought me a present. | چچا نے مجھے تحفہ دلایا۔
+> 외삼촌은 미국에 사세요. | My maternal uncle lives in America. | ماموں امریکہ میں رہتے ہیں۔
+> 삼촌하고 낚시를 갔어요. | I went fishing with my uncle. | میں چچا کے ساتھ مچھلی پکڑنے گیا۔
++ 이모 | 姨母 | imo | noun | aunt (mother's sister) | خالہ | Family & People | 1 | Also used to call a middle-aged woman in a restaurant. Father's sister: 고모 (پھوپھی).
+> 이모가 김치를 보내 주셨어요. | My aunt sent me kimchi. | خالہ نے میرے لیے کمچی بھیجی۔
+> 이모, 여기 물 좀 주세요. | Excuse me (ma'am), some water here, please. | خالہ جی، یہاں تھوڑا پانی دیں۔
+> 고모는 선생님이세요. | My paternal aunt is a teacher. | پھوپھی استانی ہیں۔
++ 사촌 | 四寸 | sachon | noun | cousin | کزن | Family & People | 1 |
+> 사촌 동생이 한국에 놀러 왔어요. | My younger cousin came to visit Korea. | میرا چھوٹا کزن کوریا گھومنے آیا۔
+> 사촌들과 명절에 만나요. | I meet my cousins on holidays. | تہوار پر میں کزنز سے ملتا ہوں۔
+> 우리는 사촌이지만 형제처럼 지내요. | We're cousins but we're like brothers. | ہم کزن ہیں مگر بھائیوں کی طرح رہتے ہیں۔
++ 손자 | 孫子 | sonja | noun | grandson; grandchild | پوتا، نواسا | Family & People | 1 | Granddaughter: 손녀.
+> 할머니는 손자를 정말 사랑하세요. | Grandma really loves her grandson. | دادی اپنے پوتے سے بہت پیار کرتی ہیں۔
+> 손자가 세 명 있어요. | I have three grandsons. | میرے تین پوتے ہیں۔
+> 손녀가 할아버지께 편지를 썼어요. | The granddaughter wrote a letter to her grandfather. | پوتی نے دادا کو خط لکھا۔
++ 부부 | 夫婦 | bubu | noun | married couple | میاں بیوی، جوڑا | Family & People | 1 |
+> 그 부부는 결혼한 지 30년 됐어요. | That couple has been married for 30 years. | اس جوڑے کی شادی کو تیس سال ہو گئے۔
+> 옆집에 젊은 부부가 이사 왔어요. | A young couple moved in next door. | ساتھ والے گھر میں ایک نوجوان جوڑا آیا ہے۔
+> 부부 싸움은 칼로 물 베기예요. | A married couple's fight is like cutting water with a knife (it passes quickly). | میاں بیوی کا جھگڑا پانی پر چھری چلانے جیسا ہے۔
++ 아기 |  | agi | noun | baby | بچہ، شیر خوار | Family & People | 1 |
+> 아기가 자고 있어요. 조용히 하세요. | The baby is sleeping. Please be quiet. | بچہ سو رہا ہے، خاموش رہیں۔
+> 언니가 아기를 낳았어요. | My older sister had a baby. | بڑی بہن کے ہاں بچہ پیدا ہوا۔
+> 아기가 웃는 모습이 귀여워요. | The baby looks cute when smiling. | بچہ ہنستا ہوا بہت پیارا لگتا ہے۔
++ 어른 |  | eoreun | noun | adult; elder | بڑا، بزرگ | Family & People | 1 |
+> 어른에게는 존댓말을 써요. | We use polite speech with elders. | بڑوں سے ادب کی زبان میں بات کرتے ہیں۔
+> 어른 두 명, 아이 한 명이에요. | Two adults and one child. | دو بالغ اور ایک بچہ۔
+> 빨리 어른이 되고 싶었어요. | I wanted to grow up quickly. | میں جلدی بڑا ہونا چاہتا تھا۔
++ 이웃집 |  | iutjip | noun | house next door, neighbor's house | پڑوسی کا گھر | Family & People | 1 |
+> 이웃집 아이가 피아노를 쳐요. | The child next door plays the piano. | پڑوس کا بچہ پیانو بجاتا ہے۔
+> 이웃집에 인사하러 갔어요. | I went to say hello to the neighbors. | میں پڑوسیوں کو سلام کرنے گیا۔
+> 이웃집 개가 너무 귀여워요. | The neighbor's dog is so cute. | پڑوسیوں کا کتا بہت پیارا ہے۔
++ 직원 | 職員 | jigwon | noun | employee, staff member | ملازم، عملہ | Work & Employment | 1 |
+> 직원에게 물어보세요. | Ask a staff member. | عملے کے کسی رکن سے پوچھیں۔
+> 이 회사에는 직원이 백 명 있어요. | This company has 100 employees. | اس کمپنی میں سو ملازمین ہیں۔
+> 직원이 아주 친절했어요. | The staff member was very kind. | ملازم بہت خوش اخلاق تھا۔
++ 사장 | 社長 | sajang | noun | company president, boss, owner | مالک، کمپنی کا سربراہ | Work & Employment | 1 | Address: 사장님 (also used for shop owners).
+> 사장님, 이거 얼마예요? | Sir, how much is this? | مالک صاحب، یہ کتنے کا ہے؟
+> 사장님이 회의에 들어오셨어요. | The boss came into the meeting. | مالک میٹنگ میں آئے۔
+> 그는 작은 식당의 사장이에요. | He is the owner of a small restaurant. | وہ ایک چھوٹے ریستوران کا مالک ہے۔
++ 기사 | 技士 | gisa | noun | driver; technician | ڈرائیور؛ مستری | Work & Employment | 1 | 기사님 = polite way to address a driver. 기사 (記事) also means "article".
+> 택시 기사님이 친절하셨어요. | The taxi driver was kind. | ٹیکسی ڈرائیور مہربان تھے۔
+> 수리 기사가 내일 와요. | The repair technician comes tomorrow. | مرمت والا مستری کل آئے گا۔
+> 신문 기사를 읽었어요. | I read a newspaper article. | میں نے اخبار کی ایک خبر پڑھی۔
++ 군인 | 軍人 | gunin | noun | soldier | فوجی | Work & Employment | 1 | Military service: 군대.
+> 형은 군인이에요. | My older brother is a soldier. | بڑا بھائی فوجی ہے۔
+> 한국 남자는 군대에 가야 해요. | Korean men must do military service. | کوریائی مردوں کو فوجی خدمت کرنی پڑتی ہے۔
+> 군인들이 행진하고 있어요. | Soldiers are marching. | فوجی مارچ کر رہے ہیں۔
++ 농부 | 農夫 | nongbu | noun | farmer | کسان | Work & Employment | 1 |
+> 할아버지는 농부셨어요. | My grandfather was a farmer. | دادا جان کسان تھے۔
+> 농부들이 쌀을 수확해요. | Farmers harvest rice. | کسان چاول کی فصل کاٹتے ہیں۔
+> 농부 덕분에 우리가 밥을 먹어요. | We eat thanks to farmers. | کسانوں کی بدولت ہم کھانا کھاتے ہیں۔
++ 기자 | 記者 | gija | noun | reporter, journalist | صحافی | Work & Employment | 1 |
+> 기자가 인터뷰를 요청했어요. | A reporter asked for an interview. | ایک صحافی نے انٹرویو مانگا۔
+> 제 꿈은 기자가 되는 거예요. | My dream is to become a journalist. | میرا خواب صحافی بننا ہے۔
+> 기자들이 사건 현장에 모였어요. | Reporters gathered at the scene. | صحافی موقع پر جمع ہو گئے۔
++ 작가 | 作家 | jakga | noun | writer, author | مصنف، ادیب | Work & Employment | 1 |
+> 제가 좋아하는 작가는 한강이에요. | My favorite author is Han Kang. | میرا پسندیدہ ادیب ہان کانگ ہے۔
+> 그 작가의 새 책이 나왔어요. | That author's new book is out. | اس مصنف کی نئی کتاب آ گئی ہے۔
+> 드라마 작가가 되고 싶어요. | I want to become a drama writer. | میں ڈرامہ نگار بننا چاہتا ہوں۔
++ 공무원 | 公務員 | gongmuwon | noun | civil servant, public official | سرکاری ملازم | Work & Employment | 1 |
+> 아버지는 공무원이세요. | My father is a civil servant. | میرے والد سرکاری ملازم ہیں۔
+> 한국에서 공무원 시험은 경쟁이 치열해요. | The civil service exam in Korea is very competitive. | کوریا میں سرکاری ملازمت کا امتحان بہت سخت مقابلے کا ہوتا ہے۔
+> 주민센터 공무원에게 물어봤어요. | I asked an official at the community center. | میں نے کمیونٹی سینٹر کے ایک سرکاری ملازم سے پوچھا۔
++ 대학생 | 大學生 | daehaksaeng | noun | university student | یونیورسٹی کا طالب علم | Education & University | 1 |
+> 저는 대학생이에요. | I'm a university student. | میں یونیورسٹی کا طالب علم ہوں۔
+> 대학생 때 여행을 많이 했어요. | I traveled a lot when I was in college. | یونیورسٹی کے زمانے میں میں نے بہت سیر کی۔
+> 대학생은 할인을 받을 수 있어요. | University students can get a discount. | یونیورسٹی کے طلبہ کو رعایت مل سکتی ہے۔
++ 유학생 | 留學生 | yuhaksaeng | noun | international student | غیر ملکی طالب علم | Education & University | 1 | 유학 = studying abroad.
+> 우리 학교에는 유학생이 많아요. | There are many international students at our school. | ہمارے اسکول میں بہت سے غیر ملکی طلبہ ہیں۔
+> 저는 파키스탄에서 온 유학생이에요. | I'm an international student from Pakistan. | میں پاکستان سے آیا ہوا طالب علم ہوں۔
+> 유학생을 위한 장학금이 있어요. | There are scholarships for international students. | غیر ملکی طلبہ کے لیے وظائف موجود ہیں۔
++ 반 | 班 | ban | noun | class (group of students) | جماعت، کلاس | Education & University | 1 | 반 (半) also means "half": 세 시 반.
+> 우리 반 친구들은 다 착해요. | All my classmates are nice. | میری کلاس کے سب دوست اچھے ہیں۔
+> 몇 반이에요? | Which class are you in? | آپ کس کلاس میں ہیں؟
+> 지금 두 시 반이에요. | It's half past two now. | اس وقت ڈھائی بجے ہیں۔

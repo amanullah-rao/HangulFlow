@@ -1,0 +1,229 @@
+# Beginner: more places, colors, clothes
++ 카페 |  | kape | noun | café, coffee shop | کیفے | Places & Directions | 1 |
+> 카페에서 친구를 만났어요. | I met a friend at a café. | میں ایک کیفے میں دوست سے ملا۔
+> 이 카페는 조용해서 공부하기 좋아요. | This café is quiet, so it's good for studying. | یہ کیفے پرسکون ہے، پڑھائی کے لیے اچھا ہے۔
+> 한국에는 카페가 정말 많아요. | There are so many cafés in Korea. | کوریا میں بہت زیادہ کیفے ہیں۔
++ 서점 | 書店 | seojeom | noun | bookstore | کتابوں کی دکان | Places & Directions | 1 | Also 책방.
+> 서점에서 한국어 교재를 샀어요. | I bought a Korean textbook at the bookstore. | میں نے کتابوں کی دکان سے کورین کی نصابی کتاب خریدی۔
+> 그 서점은 역 안에 있어요. | That bookstore is inside the station. | وہ کتابوں کی دکان اسٹیشن کے اندر ہے۔
+> 주말마다 서점에 가요. | I go to the bookstore every weekend. | میں ہر ہفتے کے آخر میں کتابوں کی دکان جاتا ہوں۔
++ 영화관 | 映畫館 | yeonghwagwan | noun | movie theater, cinema | سنیما | Places & Directions | 1 | Also 극장.
+> 영화관에서 팝콘을 샀어요. | I bought popcorn at the movie theater. | میں نے سنیما میں پاپ کارن خریدے۔
+> 영화관 앞에서 7시에 만나요. | Let's meet in front of the cinema at 7. | سات بجے سنیما کے سامنے ملتے ہیں۔
+> 영화관에는 사람이 많았어요. | The cinema was crowded. | سنیما میں بہت لوگ تھے۔
++ 박물관 | 博物館 | bangmulgwan | noun | museum | عجائب گھر | Places & Directions | 1 | Art museum: 미술관.
+> 국립중앙박물관은 무료예요. | The National Museum of Korea is free. | کوریا کا قومی عجائب گھر مفت ہے۔
+> 박물관에서 옛날 물건을 봤어요. | I saw old objects at the museum. | میں نے عجائب گھر میں پرانی چیزیں دیکھیں۔
+> 박물관은 월요일에 쉬어요. | The museum is closed on Mondays. | عجائب گھر پیر کو بند رہتا ہے۔
++ 미용실 | 美容室 | miyongsil | noun | hair salon | بیوٹی سیلون، حجام کی دکان | Places & Directions | 1 | Barber: 이발소.
+> 미용실에서 머리를 잘랐어요. | I got a haircut at the salon. | میں نے سیلون میں بال کٹوائے۔
+> 미용실 예약을 했어요. | I made a hair salon appointment. | میں نے سیلون کا وقت لیا۔
+> 이 미용실은 비싸지만 잘해요. | This salon is expensive but good. | یہ سیلون مہنگا ہے مگر کام اچھا کرتا ہے۔
++ 사무실 | 事務室 | samusil | noun | office (room) | دفتر | Work & Employment | 1 |
+> 사무실이 10층에 있어요. | The office is on the 10th floor. | دفتر دسویں منزل پر ہے۔
+> 사무실에서 점심을 먹었어요. | I ate lunch in the office. | میں نے دفتر میں دوپہر کا کھانا کھایا۔
+> 사무실 전화번호가 뭐예요? | What's the office phone number? | دفتر کا فون نمبر کیا ہے؟
++ 교실 | 敎室 | gyosil | noun | classroom | کمرۂ جماعت | Education & University | 1 |
+> 교실에 학생이 스무 명 있어요. | There are twenty students in the classroom. | کلاس روم میں بیس طلبہ ہیں۔
+> 교실을 깨끗하게 청소했어요. | We cleaned the classroom thoroughly. | ہم نے کلاس روم اچھی طرح صاف کیا۔
+> 교실에서 떠들지 마세요. | Don't make noise in the classroom. | کلاس روم میں شور نہ کریں۔
++ 운동장 | 運動場 | undongjang | noun | playground, sports field | کھیل کا میدان | Education & University | 1 |
+> 아이들이 운동장에서 축구를 해요. | The kids are playing soccer on the field. | بچے میدان میں فٹبال کھیل رہے ہیں۔
+> 학교 운동장이 넓어요. | The school field is big. | اسکول کا میدان بڑا ہے۔
+> 저녁에 운동장을 뛰어요. | I run around the field in the evening. | شام کو میں میدان میں دوڑتا ہوں۔
++ 거실 | 居室 | geosil | noun | living room | بیٹھک، ڈرائنگ روم | Places & Directions | 1 |
+> 가족들이 거실에서 텔레비전을 봐요. | The family watches TV in the living room. | گھر والے ڈرائنگ روم میں ٹی وی دیکھتے ہیں۔
+> 거실에 소파를 새로 샀어요. | We bought a new sofa for the living room. | ہم نے ڈرائنگ روم کے لیے نیا صوفہ خریدا۔
+> 거실이 밝고 넓어요. | The living room is bright and spacious. | ڈرائنگ روم روشن اور کشادہ ہے۔
++ 층 | 層 | cheung | noun | floor, story (of a building) | منزل | Places & Directions | 1 | 1층 = first (ground) floor. 지하 1층 = basement 1.
+> 화장실은 2층에 있어요. | The restroom is on the second floor. | واش روم دوسری منزل پر ہے۔
+> 몇 층에 살아요? | Which floor do you live on? | آپ کس منزل پر رہتے ہیں؟
+> 이 건물은 30층이에요. | This building has 30 floors. | یہ عمارت تیس منزلہ ہے۔
++ 엘리베이터 |  | ellibeiteo | noun | elevator | لفٹ | Places & Directions | 1 |
+> 엘리베이터를 타고 올라가세요. | Take the elevator up. | لفٹ سے اوپر جائیں۔
+> 엘리베이터가 고장 났어요. | The elevator is broken. | لفٹ خراب ہے۔
+> 엘리베이터에 사람이 너무 많아요. | There are too many people in the elevator. | لفٹ میں بہت لوگ ہیں۔
++ 계단 | 階段 | gyedan | noun | stairs | سیڑھیاں | Places & Directions | 1 |
+> 계단으로 내려갈게요. | I'll take the stairs down. | میں سیڑھیوں سے نیچے جاؤں گا۔
+> 계단에서 뛰지 마세요. | Don't run on the stairs. | سیڑھیوں پر مت دوڑیں۔
+> 매일 계단을 오르면 운동이 돼요. | Climbing stairs every day is good exercise. | روز سیڑھیاں چڑھنا اچھی ورزش ہے۔
++ 건물 | 建物 | geonmul | noun | building | عمارت | Places & Directions | 1 |
+> 저 높은 건물이 회사예요. | That tall building is my company. | وہ اونچی عمارت میری کمپنی ہے۔
+> 이 건물은 100년이 넘었어요. | This building is over 100 years old. | یہ عمارت سو سال سے زیادہ پرانی ہے۔
+> 건물 안에서는 금연입니다. | No smoking inside the building. | عمارت کے اندر سگریٹ نوشی منع ہے۔
++ 도시 | 都市 | dosi | noun | city | شہر | Places & Directions | 1 |
+> 서울은 큰 도시예요. | Seoul is a big city. | سیول ایک بڑا شہر ہے۔
+> 도시 생활은 편리하지만 바빠요. | City life is convenient but busy. | شہر کی زندگی آسان ہے مگر مصروف ہے۔
+> 라호르는 역사가 깊은 도시예요. | Lahore is a city with a long history. | لاہور ایک قدیم تاریخ والا شہر ہے۔
++ 시골 |  | sigol | noun | countryside | گاؤں، دیہات | Places & Directions | 1 |
+> 할머니는 시골에 사세요. | My grandmother lives in the countryside. | دادی گاؤں میں رہتی ہیں۔
+> 시골은 공기가 맑아요. | The air is clean in the countryside. | گاؤں کی ہوا صاف ہوتی ہے۔
+> 나중에 시골에서 살고 싶어요. | I want to live in the countryside later. | میں بعد میں گاؤں میں رہنا چاہتا ہوں۔
++ 동네 | 洞- | dongne | noun | neighborhood | محلہ | Places & Directions | 1 |
+> 우리 동네는 조용해요. | My neighborhood is quiet. | ہمارا محلہ پرسکون ہے۔
+> 동네 사람들이 친절해요. | The people in the neighborhood are friendly. | محلے کے لوگ مہربان ہیں۔
+> 동네를 한 바퀴 산책했어요. | I took a walk around the neighborhood. | میں نے محلے کا ایک چکر لگایا۔
++ 고향 | 故鄕 | gohyang | noun | hometown | آبائی شہر، وطن | Places & Directions | 1 |
+> 고향이 어디예요? | Where is your hometown? | آپ کا آبائی شہر کہاں ہے؟
+> 명절에 고향에 가요. | I go to my hometown for the holidays. | تہوار پر میں اپنے شہر جاتا ہوں۔
+> 고향 음식이 그리워요. | I miss the food from home. | مجھے گھر کے کھانے یاد آتے ہیں۔
++ 세계 | 世界 | segye | noun | world | دنیا | Society & Culture | 1 | Also 세상 (the world we live in).
+> 세계 여행을 하고 싶어요. | I want to travel around the world. | میں دنیا کی سیر کرنا چاہتا ہوں۔
+> 한국 음식이 세계적으로 유명해졌어요. | Korean food has become world-famous. | کوریائی کھانا دنیا بھر میں مشہور ہو گیا ہے۔
+> 세계에는 많은 언어가 있어요. | There are many languages in the world. | دنیا میں بہت سی زبانیں ہیں۔
++ 한국어 | 韓國語 | hangugeo | noun | Korean (language) | کورین زبان | Education & University | 1 | Also 한국말 (spoken).
+> 한국어를 배운 지 1년 됐어요. | It's been a year since I started learning Korean. | کورین سیکھتے ہوئے ایک سال ہو گیا۔
+> 한국어로 말해 보세요. | Try saying it in Korean. | کورین میں کہہ کر دیکھیں۔
+> 한국어 발음이 어려워요. | Korean pronunciation is hard. | کورین کا تلفظ مشکل ہے۔
++ 영어 | 英語 | yeongeo | noun | English (language) | انگریزی | Education & University | 1 |
+> 영어를 할 줄 알아요? | Can you speak English? | کیا آپ کو انگریزی آتی ہے؟
+> 저는 영어 선생님이에요. | I'm an English teacher. | میں انگریزی کا استاد ہوں۔
+> 이 책은 영어로 쓰여 있어요. | This book is written in English. | یہ کتاب انگریزی میں لکھی ہے۔
++ 외국어 | 外國語 | oegugeo | noun | foreign language | غیر ملکی زبان | Education & University | 1 |
+> 외국어를 배우는 것은 재미있어요. | Learning foreign languages is fun. | غیر ملکی زبانیں سیکھنا مزے دار ہے۔
+> 몇 개 외국어를 할 수 있어요? | How many foreign languages can you speak? | آپ کتنی غیر ملکی زبانیں بول سکتے ہیں؟
+> 외국어 실력은 매일 연습해야 늘어요. | Foreign language skills improve only with daily practice. | غیر ملکی زبان روز کی مشق سے بہتر ہوتی ہے۔
++ 색 | 色 | saek | noun | color | رنگ | Shopping & Money | 1 | Color + 색: 빨간색, 파란색, 노란색, 하얀색, 검은색.
+> 무슨 색을 제일 좋아해요? | What color do you like best? | آپ کو کون سا رنگ سب سے زیادہ پسند ہے؟
+> 파란색 셔츠를 샀어요. | I bought a blue shirt. | میں نے نیلی قمیض خریدی۔
+> 이 색은 너무 어두워요. | This color is too dark. | یہ رنگ بہت گہرا ہے۔
++ 빨갛다 |  | ppalgata | adjective | red | سرخ | Shopping & Money | 1 | ㅎ-irregular: 빨개요, 빨간 사과.
+> 사과가 빨갛게 익었어요. | The apples have ripened red. | سیب پک کر سرخ ہو گئے۔
+> 부끄러워서 얼굴이 빨개졌어요. | My face turned red from embarrassment. | شرم سے میرا چہرہ لال ہو گیا۔
+> 빨간 신호등에서는 멈추세요. | Stop at a red light. | لال بتی پر رکیں۔
++ 파랗다 |  | parata | adjective | blue | نیلا | Shopping & Money | 1 | ㅎ-irregular: 파래요, 파란 하늘.
+> 하늘이 정말 파래요. | The sky is really blue. | آسمان واقعی بہت نیلا ہے۔
+> 파란 바다를 보러 갔어요. | I went to see the blue sea. | میں نیلا سمندر دیکھنے گیا۔
+> 신호등이 파란불로 바뀌었어요. | The traffic light turned green. | ٹریفک کی بتی ہری ہو گئی۔
++ 노랗다 |  | norata | adjective | yellow | پیلا | Shopping & Money | 1 | ㅎ-irregular: 노래요, 노란 꽃.
+> 가을에 은행잎이 노랗게 변해요. | Ginkgo leaves turn yellow in autumn. | خزاں میں جنکگو کے پتے پیلے ہو جاتے ہیں۔
+> 노란 우산을 쓴 사람이 제 친구예요. | The person with the yellow umbrella is my friend. | پیلی چھتری والا شخص میرا دوست ہے۔
+> 바나나가 노랗게 익었어요. | The bananas have ripened yellow. | کیلے پک کر پیلے ہو گئے۔
++ 하얗다 |  | hayata | adjective | white | سفید | Shopping & Money | 1 | ㅎ-irregular: 하얘요, 하얀 눈.
+> 눈이 와서 세상이 하얘요. | It snowed, so the world is white. | برف پڑنے سے ہر طرف سفیدی ہے۔
+> 하얀 셔츠에 커피를 쏟았어요. | I spilled coffee on my white shirt. | میری سفید قمیض پر کافی گر گئی۔
+> 할아버지는 머리가 하얘요. | Grandpa's hair is white. | دادا جان کے بال سفید ہیں۔
++ 까맣다 |  | kkamata | adjective | black | کالا | Shopping & Money | 1 | ㅎ-irregular: 까매요. Also 검다, 검은색.
+> 바다에서 놀아서 얼굴이 까매졌어요. | My face got tanned from playing at the beach. | سمندر پر کھیل کر چہرہ کالا ہو گیا۔
+> 까만 고양이가 지나갔어요. | A black cat passed by. | ایک کالی بلی گزری۔
+> 그녀는 까만 머리가 길어요. | She has long black hair. | اس کے کالے لمبے بال ہیں۔
++ 셔츠 |  | syeocheu | noun | shirt | قمیض | Shopping & Money | 1 | T-shirt: 티셔츠.
+> 회사에 셔츠를 입고 가요. | I wear a shirt to work. | میں دفتر قمیض پہن کر جاتا ہوں۔
+> 셔츠를 다림질했어요. | I ironed my shirt. | میں نے قمیض استری کی۔
+> 이 셔츠는 세탁기에 넣으면 안 돼요. | This shirt can't go in the washing machine. | یہ قمیض واشنگ مشین میں نہیں ڈال سکتے۔
++ 치마 |  | chima | noun | skirt | اسکرٹ | Shopping & Money | 1 |
+> 언니는 치마를 자주 입어요. | My older sister often wears skirts. | بڑی بہن اکثر اسکرٹ پہنتی ہے۔
+> 이 치마는 좀 짧아요. | This skirt is a bit short. | یہ اسکرٹ تھوڑا چھوٹا ہے۔
+> 한복 치마가 아름다워요. | The hanbok skirt is beautiful. | ہانبوک کا اسکرٹ خوبصورت ہے۔
++ 양말 | 洋襪 | yangmal | noun | socks | موزے | Shopping & Money | 1 | 양말을 신다.
+> 양말에 구멍이 났어요. | There's a hole in my sock. | میرے موزے میں سوراخ ہو گیا۔
+> 겨울에는 두꺼운 양말을 신어요. | In winter I wear thick socks. | سردیوں میں میں موٹے موزے پہنتا ہوں۔
+> 양말 세 켤레에 만 원이에요. | Three pairs of socks for 10,000 won. | تین جوڑی موزے دس ہزار وون کے ہیں۔
++ 코트 |  | koteu | noun | coat | کوٹ | Shopping & Money | 1 |
+> 추워서 코트를 입었어요. | It was cold, so I wore a coat. | سردی تھی، اس لیے میں نے کوٹ پہنا۔
+> 겨울 코트를 새로 샀어요. | I bought a new winter coat. | میں نے نیا سردیوں کا کوٹ خریدا۔
+> 코트는 옷걸이에 걸어 주세요. | Please hang your coat on the hanger. | کوٹ ہینگر پر لٹکا دیں۔
++ 장갑 | 掌匣 | janggap | noun | gloves | دستانے | Shopping & Money | 1 | 장갑을 끼다 = to put on gloves.
+> 손이 시려서 장갑을 꼈어요. | My hands were freezing, so I put on gloves. | ہاتھ ٹھنڈے ہو رہے تھے، میں نے دستانے پہن لیے۔
+> 장갑 한 짝을 잃어버렸어요. | I lost one glove. | میرا ایک دستانہ گم ہو گیا۔
+> 요리할 때 고무장갑을 껴요. | I wear rubber gloves when I cook. | کھانا پکاتے وقت میں ربڑ کے دستانے پہنتا ہوں۔
++ 옷장 | -欌 | otjang | noun | wardrobe, closet | الماری | Daily Life in Korea | 1 |
+> 옷장에 옷이 너무 많아요. | There are too many clothes in my wardrobe. | الماری میں بہت زیادہ کپڑے ہیں۔
+> 겨울옷을 옷장에 정리했어요. | I put away the winter clothes in the wardrobe. | میں نے سردیوں کے کپڑے الماری میں رکھ دیے۔
+> 새 옷장을 샀어요. | I bought a new wardrobe. | میں نے نئی الماری خریدی۔
++ 세탁기 | 洗濯機 | setakgi | noun | washing machine | واشنگ مشین | Daily Life in Korea | 1 |
+> 세탁기를 돌렸어요. | I ran the washing machine. | میں نے واشنگ مشین چلائی۔
+> 세탁기 사용 방법을 모르겠어요. | I don't know how to use the washing machine. | مجھے واشنگ مشین چلانی نہیں آتی۔
+> 기숙사에 세탁기가 있어요. | There's a washing machine in the dorm. | ہاسٹل میں واشنگ مشین ہے۔
++ 에어컨 |  | eeokeon | noun | air conditioner | ایئر کنڈیشنر | Daily Life in Korea | 1 |
+> 너무 더워서 에어컨을 켰어요. | It's so hot that I turned on the AC. | بہت گرمی ہے، اس لیے اے سی چلا دیا۔
+> 에어컨 바람이 너무 차가워요. | The AC air is too cold. | اے سی کی ہوا بہت ٹھنڈی ہے۔
+> 에어컨을 켜고 자면 감기에 걸려요. | You'll catch a cold if you sleep with the AC on. | اے سی چلا کر سونے سے زکام ہو جاتا ہے۔
++ 소파 |  | sopa | noun | sofa, couch | صوفہ | Daily Life in Korea | 1 |
+> 소파에 누워서 쉬었어요. | I lay on the sofa and rested. | میں صوفے پر لیٹ کر آرام کیا۔
+> 고양이가 소파 위에서 자요. | The cat sleeps on the sofa. | بلی صوفے پر سوتی ہے۔
+> 이 소파는 세 명이 앉을 수 있어요. | Three people can sit on this sofa. | اس صوفے پر تین لوگ بیٹھ سکتے ہیں۔
++ 이불 |  | ibul | noun | blanket, comforter | لحاف، کمبل | Daily Life in Korea | 1 | Pillow: 베개.
+> 추워서 이불을 덮었어요. | It was cold, so I covered myself with a blanket. | سردی تھی، اس لیے لحاف اوڑھ لیا۔
+> 아침에 이불을 개요. | I fold the bedding in the morning. | صبح میں بستر تہہ کرتا ہوں۔
+> 이불 밖은 위험해요. | It's dangerous outside the blanket. (joke: I don't want to get up) | لحاف سے باہر نکلنا خطرناک ہے۔ (مذاق)
++ 거울 |  | geoul | noun | mirror | آئینہ | Daily Life in Korea | 1 |
+> 거울을 보면서 머리를 빗었어요. | I combed my hair looking in the mirror. | میں نے آئینہ دیکھ کر بالوں میں کنگھی کی۔
+> 화장실에 큰 거울이 있어요. | There's a big mirror in the bathroom. | واش روم میں بڑا آئینہ ہے۔
+> 거울이 깨졌어요. | The mirror broke. | آئینہ ٹوٹ گیا۔
++ 수건 | 手巾 | sugeon | noun | towel | تولیہ | Daily Life in Korea | 1 |
+> 수건으로 얼굴을 닦았어요. | I dried my face with a towel. | میں نے تولیے سے منہ صاف کیا۔
+> 호텔에 수건이 있어요? | Are there towels at the hotel? | کیا ہوٹل میں تولیے ہیں؟
+> 수건을 깨끗한 걸로 바꿨어요. | I changed to a clean towel. | میں نے صاف تولیہ لے لیا۔
++ 비누 |  | binu | noun | soap | صابن | Daily Life in Korea | 1 |
+> 비누로 손을 씻으세요. | Wash your hands with soap. | صابن سے ہاتھ دھوئیں۔
+> 비누가 다 떨어졌어요. | We've run out of soap. | صابن ختم ہو گیا۔
+> 이 비누는 냄새가 좋아요. | This soap smells nice. | اس صابن کی خوشبو اچھی ہے۔
++ 종이 |  | jongi | noun | paper | کاغذ | Daily Life in Korea | 1 | Counter: 장 (종이 한 장).
+> 종이에 이름을 쓰세요. | Write your name on the paper. | کاغذ پر اپنا نام لکھیں۔
+> 종이 한 장만 주세요. | Just one sheet of paper, please. | صرف ایک کاغذ دے دیں۔
+> 종이를 아껴 씁시다. | Let's use paper sparingly. | کاغذ کفایت سے استعمال کریں۔
++ 펜 |  | pen | noun | pen | قلم | Daily Life in Korea | 1 | Pencil: 연필; eraser: 지우개.
+> 펜 좀 빌려주시겠어요? | Could you lend me a pen? | کیا آپ مجھے قلم دیں گے؟
+> 검은색 펜으로 쓰세요. | Write with a black pen. | کالے قلم سے لکھیں۔
+> 펜이 안 나와요. | The pen isn't working. | قلم نہیں چل رہا۔
++ 공책 | 空冊 | gongchaek | noun | notebook | کاپی | Education & University | 1 | Also 노트.
+> 공책에 단어를 적었어요. | I wrote the words in my notebook. | میں نے الفاظ کاپی میں لکھے۔
+> 새 학기라서 공책을 샀어요. | It's a new semester, so I bought notebooks. | نیا سمسٹر ہے، اس لیے کاپیاں خریدیں۔
+> 공책을 집에 두고 왔어요. | I left my notebook at home. | میں اپنی کاپی گھر بھول آیا۔
++ 사전 | 辭典 | sajeon | noun | dictionary | لغت | Education & University | 1 | 사전 (事前) also means "beforehand": 사전 예약.
+> 모르는 단어는 사전을 찾아보세요. | Look up unknown words in the dictionary. | نامعلوم الفاظ لغت میں دیکھیں۔
+> 휴대폰 사전 앱을 써요. | I use a dictionary app on my phone. | میں فون پر لغت کی ایپ استعمال کرتا ہوں۔
+> 한국어-우르두어 사전이 있어요? | Is there a Korean-Urdu dictionary? | کیا کورین-اردو لغت موجود ہے؟
++ 신문 | 新聞 | sinmun | noun | newspaper | اخبار | Media & Technology | 1 |
+> 아버지는 아침마다 신문을 읽으세요. | My father reads the newspaper every morning. | ابو ہر صبح اخبار پڑھتے ہیں۔
+> 신문에서 그 기사를 봤어요. | I saw that article in the newspaper. | میں نے وہ خبر اخبار میں دیکھی۔
+> 요즘은 인터넷으로 신문을 봐요. | These days I read the news online. | آج کل میں انٹرنیٹ پر اخبار پڑھتا ہوں۔
++ 뉴스 |  | nyuseu | noun | news | خبریں | Media & Technology | 1 |
+> 뉴스에서 날씨를 확인했어요. | I checked the weather on the news. | میں نے خبروں میں موسم دیکھا۔
+> 좋은 뉴스가 있어요. | I have good news. | ایک اچھی خبر ہے۔
+> 저녁 9시 뉴스를 봐요. | I watch the 9 o'clock evening news. | میں رات نو بجے کی خبریں دیکھتا ہوں۔
++ 드라마 |  | deurama | noun | (TV) drama | ڈرامہ | Media & Technology | 1 |
+> 한국 드라마로 한국어를 공부해요. | I study Korean with Korean dramas. | میں کورین ڈراموں سے کورین سیکھتا ہوں۔
+> 이 드라마는 16부작이에요. | This drama has 16 episodes. | یہ ڈرامہ سولہ قسطوں کا ہے۔
+> 어제 밤새 드라마를 봤어요. | I stayed up all night watching a drama. | کل میں نے ساری رات ڈرامہ دیکھا۔
++ 노래방 | -房 | noraebang | noun | karaoke room | کراؤکے | Hobbies & Leisure | 1 |
+> 회식 후에 노래방에 갔어요. | We went to karaoke after the team dinner. | دفتری کھانے کے بعد ہم کراؤکے گئے۔
+> 노래방에서 한국 노래를 불렀어요. | I sang Korean songs at karaoke. | میں نے کراؤکے میں کورین گانے گائے۔
+> 노래방은 한 시간에 얼마예요? | How much is karaoke per hour? | کراؤکے کا ایک گھنٹے کا کتنا ہے؟
++ 헬스장 | -場 | helseujang | noun | gym | جم | Hobbies & Leisure | 1 |
+> 퇴근 후에 헬스장에 가요. | I go to the gym after work. | دفتر کے بعد میں جم جاتا ہوں۔
+> 헬스장에 등록했어요. | I signed up at a gym. | میں نے جم میں داخلہ لیا۔
+> 헬스장은 24시간 열어요. | The gym is open 24 hours. | جم چوبیس گھنٹے کھلا رہتا ہے۔
++ 경찰서 | 警察署 | gyeongchalseo | noun | police station | تھانہ | Places & Directions | 1 |
+> 지갑을 찾으러 경찰서에 갔어요. | I went to the police station to find my wallet. | میں بٹوا ڈھونڈنے تھانے گیا۔
+> 경찰서는 시청 옆에 있어요. | The police station is next to City Hall. | تھانہ سٹی ہال کے ساتھ ہے۔
+> 경찰서에 신고하세요. | Report it to the police station. | تھانے میں رپورٹ کریں۔
++ 대사관 | 大使館 | daesagwan | noun | embassy | سفارت خانہ | Places & Directions | 1 |
+> 비자 때문에 대사관에 갔어요. | I went to the embassy because of a visa. | ویزا کے لیے میں سفارت خانے گیا۔
+> 파키스탄 대사관은 서울에 있어요. | The Pakistani embassy is in Seoul. | پاکستانی سفارت خانہ سیول میں ہے۔
+> 여권을 잃어버리면 대사관에 연락하세요. | If you lose your passport, contact the embassy. | پاسپورٹ گم ہو جائے تو سفارت خانے سے رابطہ کریں۔
++ 놀이공원 | -公園 | norigongwon | noun | amusement park | تفریحی پارک | Hobbies & Leisure | 1 |
+> 아이들과 놀이공원에 갔어요. | I went to the amusement park with the kids. | میں بچوں کے ساتھ تفریحی پارک گیا۔
+> 놀이공원에서 롤러코스터를 탔어요. | I rode a roller coaster at the amusement park. | میں نے تفریحی پارک میں رولر کوسٹر کی سواری کی۔
+> 주말에는 놀이공원에 사람이 많아요. | The amusement park is crowded on weekends. | ہفتے کے آخر میں تفریحی پارک میں رش ہوتا ہے۔
++ 수영장 | 水泳場 | suyeongjang | noun | swimming pool | سوئمنگ پول | Hobbies & Leisure | 1 |
+> 호텔 수영장에서 수영했어요. | I swam in the hotel pool. | میں نے ہوٹل کے پول میں تیراکی کی۔
+> 수영장에서는 수영모를 써야 해요. | You must wear a swim cap at the pool. | پول میں سوئمنگ کیپ پہننا ضروری ہے۔
+> 동네에 실내 수영장이 있어요. | There's an indoor pool in the neighborhood. | محلے میں ایک انڈور پول ہے۔
++ 정원 | 庭園 | jeongwon | noun | garden | باغ | Places & Directions | 1 |
+> 할머니 집 정원에 꽃이 많아요. | There are many flowers in Grandma's garden. | دادی کے گھر کے باغ میں بہت پھول ہیں۔
+> 주말에 정원을 가꿔요. | I tend the garden on weekends. | ہفتے کے آخر میں میں باغ کی دیکھ بھال کرتا ہوں۔
+> 정원에서 차를 마셨어요. | We had tea in the garden. | ہم نے باغ میں چائے پی۔
++ 사거리 | 四- | sageori | noun | intersection, crossroads | چوراہا | Places & Directions | 1 | 횡단보도 = crosswalk; 신호등 = traffic light.
+> 다음 사거리에서 오른쪽으로 가세요. | Go right at the next intersection. | اگلے چوراہے سے دائیں جائیں۔
+> 사거리에 은행이 있어요. | There's a bank at the intersection. | چوراہے پر بینک ہے۔
+> 사거리에서 사고가 났어요. | There was an accident at the intersection. | چوراہے پر حادثہ ہو گیا۔
++ 신호등 | 信號燈 | sinhodeung | noun | traffic light | ٹریفک لائٹ | Travel & Transportation | 1 |
+> 신호등이 빨간불이에요. | The traffic light is red. | ٹریفک کی بتی لال ہے۔
+> 신호등을 잘 보고 건너세요. | Look carefully at the traffic light before crossing. | ٹریفک کی بتی دیکھ کر سڑک پار کریں۔
+> 두 번째 신호등에서 내려 주세요. | Please drop me off at the second traffic light. | دوسری ٹریفک لائٹ پر اتار دیں۔
++ 횡단보도 | 橫斷步道 | hoengdanbodo | noun | crosswalk | زیبرا کراسنگ | Travel & Transportation | 1 |
+> 횡단보도로 건너세요. | Cross at the crosswalk. | زیبرا کراسنگ سے پار کریں۔
+> 횡단보도 앞에서 차가 멈췄어요. | The car stopped in front of the crosswalk. | گاڑی زیبرا کراسنگ کے سامنے رک گئی۔
+> 학교 앞 횡단보도는 위험해요. | The crosswalk in front of the school is dangerous. | اسکول کے سامنے کی زیبرا کراسنگ خطرناک ہے۔
