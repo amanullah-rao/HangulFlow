@@ -1,0 +1,197 @@
+# Advanced: character, emotions, relationships
++ 겸손하다 | 謙遜- | gyeomsonhada | adjective | humble, modest | عاجز، منکسر | Emotions & Relationships | 3 |
+> 그는 성공했지만 여전히 겸손하다. | He's successful but still humble. | وہ کامیاب ہے مگر اب بھی عاجز ہے۔
+> 겸손한 태도로 배우세요. | Learn with a humble attitude. | عاجزی سے سیکھیں۔
+> 너무 겸손하실 필요는 없어요. | There's no need to be so modest. | اتنی انکساری کی ضرورت نہیں۔
++ 거만하다 | 倨慢- | geomanhada | adjective | arrogant | مغرور | Emotions & Relationships | 3 | Also 오만하다.
+> 거만한 태도 때문에 사람들이 그를 싫어한다. | People dislike him because of his arrogant attitude. | اس کے مغرور رویے کی وجہ سے لوگ اسے ناپسند کرتے ہیں۔
+> 성공하더라도 거만해지지 마라. | Even if you succeed, don't become arrogant. | کامیاب ہو کر بھی مغرور نہ بنو۔
+> 그의 거만한 말투가 거슬렸다. | His arrogant tone was irritating. | اس کا مغرورانہ لہجہ ناگوار تھا۔
++ 너그럽다 |  | neogeureopda | adjective | generous, tolerant | فراخ دل، درگزر کرنے والا | Emotions & Relationships | 3 | ㅂ-irregular: 너그러워요.
+> 할아버지는 마음이 너그러우셨다. | Grandfather was a generous-hearted man. | دادا جان بہت فراخ دل تھے۔
+> 실수에 너그러운 사회가 필요하다. | We need a society that's tolerant of mistakes. | غلطیوں کو معاف کرنے والا معاشرہ چاہیے۔
+> 너그럽게 용서해 주세요. | Please forgive me generously. | فراخ دلی سے معاف کر دیں۔
++ 냉정하다 | 冷靜- | naengjeonghada | adjective | cool-headed, calm; cold (unfeeling) | ٹھنڈے دماغ والا؛ بے رحم | Emotions & Relationships | 3 |
+> 위기 상황에서는 냉정하게 판단해야 한다. | In a crisis, you must judge calmly. | بحران میں ٹھنڈے دماغ سے فیصلہ کرنا چاہیے۔
+> 그는 냉정하게 거절했다. | He coldly refused. | اس نے بے رخی سے انکار کر دیا۔
+> 냉정을 되찾았다. | They regained their composure. | انہوں نے دوبارہ ہوش سنبھالا۔
++ 신중하다 | 愼重- | sinjunghada | adjective | careful, prudent | محتاط | Emotions & Relationships | 3 |
+> 중요한 결정은 신중하게 내려야 한다. | Important decisions must be made carefully. | اہم فیصلے سوچ سمجھ کر کرنے چاہئیں۔
+> 그는 말을 신중하게 한다. | He speaks carefully. | وہ سوچ سمجھ کر بولتا ہے۔
+> 신중한 성격 덕분에 실수가 적다. | Thanks to their careful nature, they make few mistakes. | محتاط طبیعت کی وجہ سے غلطیاں کم ہوتی ہیں۔
++ 충동적 | 衝動的 | chungdongjeok | noun/determiner | impulsive | جذباتی، بے ساختہ | Emotions & Relationships | 3 | 충동 = impulse.
+> 충동적으로 물건을 샀다가 후회했다. | I regretted buying things on impulse. | جذبات میں آ کر چیزیں خریدیں اور پچھتایا۔
+> 충동적인 결정은 피하세요. | Avoid impulsive decisions. | جذباتی فیصلوں سے بچیں۔
+> 그는 충동을 억누르지 못했다. | He couldn't suppress the impulse. | وہ اپنی خواہش کو روک نہ سکا۔
++ 끈기 | -氣 | kkeungi | noun | perseverance, tenacity | ثابت قدمی، استقامت | Emotions & Relationships | 3 |
+> 성공하려면 끈기가 필요하다. | Success requires perseverance. | کامیابی کے لیے ثابت قدمی چاہیے۔
+> 그는 끈기 있게 10년 동안 연구했다. | He researched tenaciously for ten years. | اس نے دس سال تک ثابت قدمی سے تحقیق کی۔
+> 저는 끈기가 부족한 편이에요. | I tend to lack perseverance. | مجھ میں استقامت کی کچھ کمی ہے۔
++ 열정 | 熱情 | yeoljeong | noun | passion, enthusiasm | جوش، جذبہ | Emotions & Relationships | 3 |
+> 그녀는 일에 대한 열정이 대단하다. | She has great passion for her work. | اسے اپنے کام سے بے پناہ لگن ہے۔
+> 열정만으로는 부족하다. | Passion alone is not enough. | صرف جذبہ کافی نہیں۔
+> 젊은이들의 열정이 느껴졌다. | I could feel the young people's enthusiasm. | نوجوانوں کا جوش محسوس ہوا۔
++ 의욕 | 意欲 | uiyok | noun | motivation, drive, will | حوصلہ، لگن | Emotions & Relationships | 3 |
+> 요즘 아무것도 할 의욕이 없다. | These days I have no motivation to do anything. | آج کل کچھ کرنے کا جی نہیں چاہتا۔
+> 칭찬은 의욕을 높인다. | Praise boosts motivation. | تعریف حوصلہ بڑھاتی ہے۔
+> 의욕이 넘치는 신입 사원이다. | They're a new hire full of drive. | وہ پرجوش نیا ملازم ہے۔
++ 좌절 | 挫折 | jwajeol | noun | frustration, setback, despair | مایوسی، ناکامی | Emotions & Relationships | 3 | 좌절하다.
+> 여러 번 실패해서 좌절했다. | I despaired after failing many times. | کئی بار ناکام ہو کر مایوس ہو گیا۔
+> 좌절하지 말고 다시 일어서세요. | Don't despair; stand up again. | مایوس نہ ہوں، دوبارہ اٹھ کھڑے ہوں۔
+> 좌절을 겪으면서 성장했다. | They grew through setbacks. | ناکامیوں سے گزر کر انہوں نے ترقی کی۔
++ 절망 | 絶望 | jeolmang | noun | despair | ناامیدی | Emotions & Relationships | 3 | Opposite: 희망.
+> 절망 속에서도 희망을 잃지 않았다. | They didn't lose hope even in despair. | ناامیدی میں بھی امید نہیں چھوڑی۔
+> 그 소식을 듣고 절망했다. | I fell into despair at the news. | وہ خبر سن کر ناامید ہو گیا۔
+> 절망적인 상황이었다. | It was a desperate situation. | صورتحال بہت مایوس کن تھی۔
++ 희망 | 希望 | huimang | noun | hope | امید | Emotions & Relationships | 3 |
+> 희망을 버리지 마세요. | Don't give up hope. | امید مت چھوڑیں۔
+> 아이들은 우리의 희망이다. | Children are our hope. | بچے ہماری امید ہیں۔
+> 희망하는 직업이 무엇입니까? | What job do you hope to have? | آپ کون سا پیشہ اپنانا چاہتے ہیں؟
++ 후회 | 後悔 | huhoe | noun | regret | پچھتاوا | Emotions & Relationships | 3 |
+> 후회 없는 삶을 살고 싶다. | I want to live a life without regrets. | میں بغیر پچھتاوے کی زندگی جینا چاہتا ہوں۔
+> 이제 와서 후회해도 소용없다. | It's no use regretting it now. | اب پچھتانے کا کوئی فائدہ نہیں۔
+> 그 선택에 후회는 없다. | I have no regrets about that choice. | اس فیصلے پر کوئی پچھتاوا نہیں۔
++ 죄책감 | 罪責感 | joechaekgam | noun | guilt, sense of guilt | احساسِ جرم | Emotions & Relationships | 3 |
+> 거짓말을 해서 죄책감이 들었다. | I felt guilty for lying. | جھوٹ بولنے پر احساسِ جرم ہوا۔
+> 죄책감에 시달렸다. | They were tormented by guilt. | وہ احساسِ جرم میں مبتلا رہے۔
+> 부모님께 죄책감을 느낀다. | I feel guilty toward my parents. | مجھے والدین کے سامنے شرمندگی محسوس ہوتی ہے۔
++ 열등감 | 劣等感 | yeoldeunggam | noun | inferiority complex | احساسِ کمتری | Emotions & Relationships | 3 | Opposite: 우월감.
+> 그는 형에게 열등감을 느꼈다. | He felt inferior to his older brother. | اسے اپنے بڑے بھائی کے مقابلے میں احساسِ کمتری تھا۔
+> 열등감을 극복하는 것이 중요하다. | Overcoming an inferiority complex is important. | احساسِ کمتری پر قابو پانا اہم ہے۔
+> 남과 비교하면 열등감이 생긴다. | Comparing yourself to others breeds inferiority. | دوسروں سے موازنہ احساسِ کمتری پیدا کرتا ہے۔
++ 자존심 | 自尊心 | jajonsim | noun | pride, self-respect | عزتِ نفس | Emotions & Relationships | 3 | 자존감 = self-esteem.
+> 그는 자존심이 강해서 도움을 거절했다. | He was too proud and refused help. | خودداری کی وجہ سے اس نے مدد سے انکار کیا۔
+> 자존심이 상했다. | My pride was hurt. | میری عزتِ نفس کو ٹھیس پہنچی۔
+> 자존감이 높은 사람은 실패를 두려워하지 않는다. | People with high self-esteem don't fear failure. | خود اعتماد لوگ ناکامی سے نہیں ڈرتے۔
++ 질투 | 嫉妬 | jiltu | noun | jealousy | حسد | Emotions & Relationships | 3 |
+> 질투는 관계를 망친다. | Jealousy ruins relationships. | حسد رشتوں کو برباد کرتا ہے۔
+> 친구의 성공에 질투가 났다. | I felt jealous of my friend's success. | دوست کی کامیابی پر حسد ہوا۔
+> 질투심을 버려야 한다. | One must let go of jealousy. | حسد چھوڑنا چاہیے۔
++ 원망하다 | 怨望- | wonmanghada | verb | to resent, to blame | شکوہ کرنا، الزام دینا | Emotions & Relationships | 3 |
+> 부모님을 원망한 적이 있다. | There was a time I resented my parents. | ایک وقت تھا جب میں والدین سے شکوہ کرتا تھا۔
+> 남을 원망하지 말고 자신을 돌아보세요. | Don't blame others; look at yourself. | دوسروں کو الزام دینے کے بجائے اپنا جائزہ لیں۔
+> 그는 운명을 원망했다. | He cursed his fate. | اس نے قسمت کا شکوہ کیا۔
++ 그리움 |  | geurium | noun | longing, yearning | یاد، تڑپ | Emotions & Relationships | 3 | From 그립다.
+> 고향에 대한 그리움이 커진다. | My longing for home grows. | گھر کی یاد بڑھتی جا رہی ہے۔
+> 그리움을 노래에 담았다. | They put their longing into a song. | انہوں نے اپنی تڑپ کو گانے میں سمویا۔
+> 어머니에 대한 그리움으로 눈물이 났다. | Tears came from longing for my mother. | ماں کی یاد میں آنسو نکل آئے۔
++ 외로움 |  | oeroum | noun | loneliness | تنہائی | Emotions & Relationships | 3 | From 외롭다.
+> 혼자 사는 노인들은 외로움을 느낀다. | Elderly people living alone feel lonely. | اکیلے رہنے والے بزرگ تنہائی محسوس کرتے ہیں۔
+> 외로움을 이기기 위해 동아리에 가입했다. | I joined a club to overcome loneliness. | تنہائی دور کرنے کے لیے میں نے کلب میں شمولیت اختیار کی۔
+> 외로움은 건강에도 나쁘다. | Loneliness is bad for health too. | تنہائی صحت کے لیے بھی نقصان دہ ہے۔
++ 공허하다 | 空虛- | gongheohada | adjective | empty, hollow (feeling) | خالی پن، کھوکھلا | Emotions & Relationships | 3 |
+> 목표를 이룬 후 오히려 공허했다. | After reaching the goal, I actually felt empty. | ہدف حاصل کرنے کے بعد الٹا خالی پن محسوس ہوا۔
+> 공허한 말만 반복했다. | They only repeated empty words. | وہ صرف کھوکھلی باتیں دہراتے رہے۔
+> 마음이 공허할 때 책을 읽는다. | I read when I feel empty inside. | جب دل خالی لگے تو کتاب پڑھتا ہوں۔
++ 벅차다 |  | beokchada | adjective | overwhelming (with emotion); too much to handle | جذبات سے بھرا؛ بس سے باہر | Emotions & Relationships | 3 |
+> 합격 소식에 가슴이 벅찼다. | My heart was full at the news of passing. | کامیابی کی خبر پر دل جذبات سے بھر گیا۔
+> 혼자 하기에는 벅찬 일이다. | It's too much to handle alone. | یہ کام اکیلے کرنا بس سے باہر ہے۔
+> 벅찬 감동을 느꼈다. | I felt overwhelming emotion. | زبردست جذباتی تاثر محسوس ہوا۔
++ 뿌듯하다 |  | ppudeuthada | adjective | proud, gratified (feeling of achievement) | فخر اور اطمینان | Emotions & Relationships | 3 |
+> 프로젝트를 끝내니 뿌듯하다. | I feel proud having finished the project. | منصوبہ مکمل کر کے فخر محسوس ہو رہا ہے۔
+> 아이가 상을 받아서 뿌듯했다. | I felt proud when my child got an award. | بچے کو انعام ملا تو بہت فخر ہوا۔
+> 봉사를 하고 나면 마음이 뿌듯하다. | I feel gratified after volunteering. | رضاکارانہ کام کے بعد دل کو اطمینان ملتا ہے۔
++ 흐뭇하다 |  | heumuthada | adjective | pleased, gratified (watching others) | خوش، مطمئن | Emotions & Relationships | 3 |
+> 손자들을 보며 할머니가 흐뭇해하셨다. | Grandma looked pleased watching her grandchildren. | پوتوں کو دیکھ کر دادی خوش ہو گئیں۔
+> 흐뭇한 미소를 지었다. | They smiled contentedly. | انہوں نے اطمینان بھری مسکراہٹ دی۔
+> 학생들의 성장을 보니 흐뭇하다. | I'm gratified to see the students grow. | طلبہ کی ترقی دیکھ کر خوشی ہوتی ہے۔
++ 섬세하다 | 纖細- | seomsehada | adjective | delicate, sensitive, fine | نازک، باریک بین | Emotions & Relationships | 3 |
+> 그녀는 감정이 섬세한 사람이다. | She's an emotionally sensitive person. | وہ نازک جذبات رکھنے والی ہے۔
+> 섬세한 손길로 만든 작품이다. | It's a work made with a delicate touch. | یہ نفیس ہاتھوں سے بنا فن پارہ ہے۔
+> 이 영화는 감정을 섬세하게 표현했다. | This film expressed emotions delicately. | اس فلم نے جذبات کی نزاکت سے عکاسی کی۔
++ 예민하다 | 銳敏- | yeminhada | adjective | sensitive, touchy | حساس | Emotions & Relationships | 3 |
+> 시험 기간이라서 예민해요. | I'm on edge because it's exam season. | امتحانات کی وجہ سے میں حساس ہوں۔
+> 그는 소리에 예민하다. | He's sensitive to sound. | وہ آواز کے معاملے میں حساس ہے۔
+> 예민한 문제라서 조심해야 한다. | It's a sensitive issue, so we must be careful. | یہ حساس معاملہ ہے، احتیاط ضروری ہے۔
++ 무뚝뚝하다 |  | muttukttukhada | adjective | blunt, curt, unfriendly-seeming | روکھا، کم گو | Emotions & Relationships | 3 |
+> 아버지는 무뚝뚝하지만 마음은 따뜻하다. | My father seems curt but has a warm heart. | ابو روکھے لگتے ہیں مگر دل کے نرم ہیں۔
+> 그 직원은 좀 무뚝뚝했다. | That staff member was a bit curt. | وہ ملازم تھوڑا روکھا تھا۔
+> 무뚝뚝한 말투 때문에 오해를 받는다. | They're misunderstood because of their blunt tone. | روکھے لہجے کی وجہ سے غلط سمجھے جاتے ہیں۔
++ 변덕스럽다 | 變德- | byeondeokseureopda | adjective | fickle, capricious | بدلتا مزاج | Emotions & Relationships | 3 | ㅂ-irregular.
+> 봄 날씨는 변덕스럽다. | Spring weather is fickle. | بہار کا موسم بدلتا رہتا ہے۔
+> 그녀는 기분이 변덕스럽다. | Her moods are changeable. | اس کا موڈ بار بار بدلتا ہے۔
+> 변덕스러운 손님 때문에 힘들었다. | It was hard because of a fickle customer. | بدلتے مزاج والے گاہک کی وجہ سے مشکل ہوئی۔
++ 고집 | 固執 | gojip | noun | stubbornness | ضد | Emotions & Relationships | 3 | 고집이 세다 = stubborn.
+> 동생은 고집이 세다. | My younger sibling is stubborn. | چھوٹا بھائی ضدی ہے۔
+> 고집을 부리지 마세요. | Don't be stubborn. | ضد نہ کریں۔
+> 그는 끝까지 자기 고집대로 했다. | He did it his own way to the end. | اس نے آخر تک اپنی ضد پوری کی۔
++ 배신 | 背信 | baesin | noun | betrayal | دھوکہ، غداری | Emotions & Relationships | 3 | 배신하다 / 배신당하다.
+> 친구의 배신에 큰 충격을 받았다. | I was deeply shocked by my friend's betrayal. | دوست کے دھوکے سے گہرا صدمہ پہنچا۔
+> 믿었던 사람에게 배신당했다. | I was betrayed by someone I trusted. | جس پر بھروسہ تھا اسی نے دھوکہ دیا۔
+> 배신감을 느꼈다. | I felt betrayed. | مجھے دھوکہ کھانے کا احساس ہوا۔
++ 화목하다 | 和睦- | hwamokhada | adjective | harmonious (family) | پرامن، باہم محبت والا | Family & People | 3 |
+> 화목한 가정에서 자랐다. | I grew up in a harmonious family. | میں ایک پرامن گھرانے میں پلا بڑھا۔
+> 가족이 화목하게 지낸다. | The family lives in harmony. | خاندان محبت سے رہتا ہے۔
+> 화목한 분위기가 부러웠다. | I envied the harmonious atmosphere. | محبت بھرا ماحول دیکھ کر رشک آیا۔
++ 갈등을 빚다 | 葛藤- | galdeungeul bitda | expression | to cause conflict, to clash | تنازع پیدا کرنا | Emotions & Relationships | 3 |
+> 두 부서가 예산 문제로 갈등을 빚었다. | Two departments clashed over the budget. | بجٹ کے مسئلے پر دو شعبوں میں تنازع ہوا۔
+> 세대 간에 갈등을 빚는 경우가 많다. | Generations often clash. | نسلوں کے درمیان اکثر اختلاف ہوتا ہے۔
+> 사소한 일로 갈등을 빚지 마세요. | Don't clash over trivial matters. | معمولی باتوں پر جھگڑا نہ کریں۔
++ 소통 | 疏通 | sotong | noun | communication | رابطہ، بات چیت | Emotions & Relationships | 3 | 소통하다.
+> 부모와 자녀 사이의 소통이 중요하다. | Communication between parents and children is important. | والدین اور بچوں میں رابطہ اہم ہے۔
+> 소통이 부족해서 문제가 생겼다. | Problems arose from a lack of communication. | رابطے کی کمی سے مسائل پیدا ہوئے۔
+> 팬들과 SNS로 소통한다. | They communicate with fans through social media. | وہ سوشل میڈیا پر مداحوں سے رابطہ رکھتے ہیں۔
++ 배려심 | 配慮心 | baeryeosim | noun | consideration, thoughtfulness | خیال رکھنے کا جذبہ | Emotions & Relationships | 3 |
+> 배려심이 깊은 사람이다. | They are a very considerate person. | وہ بہت خیال رکھنے والے ہیں۔
+> 아이들에게 배려심을 가르쳐야 한다. | Children should be taught consideration. | بچوں کو دوسروں کا خیال رکھنا سکھانا چاہیے۔
+> 작은 배려가 큰 감동을 준다. | A little consideration moves people greatly. | تھوڑا سا خیال بڑا اثر چھوڑتا ہے۔
++ 공감대 | 共感帶 | gonggamdae | noun | common ground, shared feeling | ہم آہنگی | Emotions & Relationships | 3 |
+> 같은 경험이 있어서 공감대가 형성되었다. | Having the same experience built common ground. | ایک جیسے تجربے سے ہم آہنگی پیدا ہوئی۔
+> 국민적 공감대가 필요하다. | National consensus is needed. | قومی سطح پر ہم آہنگی ضروری ہے۔
+> 공감대를 찾기 어려웠다. | It was hard to find common ground. | مشترکہ بنیاد ڈھونڈنا مشکل تھا۔
++ 인내 | 忍耐 | innae | noun | patience, endurance | صبر، برداشت | Emotions & Relationships | 3 | 인내심.
+> 인내는 쓰고 열매는 달다. | Patience is bitter, but its fruit is sweet. | صبر کڑوا ہے مگر اس کا پھل میٹھا ہے۔
+> 아이를 키우려면 인내심이 필요하다. | Raising children requires patience. | بچوں کی پرورش کے لیے صبر چاہیے۔
+> 인내 끝에 성공했다. | After much perseverance, they succeeded. | صبر کے بعد کامیابی ملی۔
++ 용기 | 勇氣 | yonggi | noun | courage | ہمت، حوصلہ | Emotions & Relationships | 3 | 용기 (容器) also = container.
+> 용기를 내서 고백했다. | I gathered courage and confessed. | میں نے ہمت کر کے دل کی بات کہی۔
+> 실패를 인정하는 것도 용기다. | Admitting failure is also courage. | ناکامی تسلیم کرنا بھی ہمت ہے۔
+> 일회용 용기를 줄여야 한다. | We must reduce disposable containers. | ڈسپوزایبل برتن کم کرنے چاہئیں۔
++ 책임감 | 責任感 | chaegimgam | noun | sense of responsibility | احساسِ ذمہ داری | Work & Employment | 3 |
+> 그는 책임감이 강한 사람이다. | He has a strong sense of responsibility. | وہ بہت ذمہ دار شخص ہے۔
+> 책임감 있게 일을 처리했다. | They handled the work responsibly. | انہوں نے ذمہ داری سے کام نمٹایا۔
+> 부모가 되니 책임감이 커졌다. | Becoming a parent increased my sense of responsibility. | والدین بننے سے ذمہ داری کا احساس بڑھ گیا۔
++ 양심 | 良心 | yangsim | noun | conscience | ضمیر | Emotions & Relationships | 3 |
+> 양심에 따라 행동했다. | They acted according to their conscience. | انہوں نے ضمیر کے مطابق عمل کیا۔
+> 양심의 가책을 느꼈다. | I felt a pang of conscience. | ضمیر نے ملامت کی۔
+> 양심 있는 사람이라면 그러지 않는다. | Anyone with a conscience wouldn't do that. | ضمیر والا انسان ایسا نہیں کرتا۔
++ 위선 | 僞善 | wiseon | noun | hypocrisy | منافقت | Emotions & Relationships | 3 |
+> 그의 행동은 위선이었다. | His behavior was hypocrisy. | اس کا رویہ منافقت تھا۔
+> 위선적인 사람을 싫어한다. | I dislike hypocritical people. | مجھے منافق لوگ ناپسند ہیں۔
+> 말과 행동이 다르면 위선이다. | If words and actions differ, it's hypocrisy. | قول و فعل میں تضاد منافقت ہے۔
++ 진심 | 眞心 | jinsim | noun | sincerity, true heart | خلوص، دل سے | Emotions & Relationships | 3 | 진심으로 = sincerely.
+> 진심으로 감사드립니다. | I sincerely thank you. | دل کی گہرائیوں سے شکریہ۔
+> 그의 진심이 느껴졌다. | I could feel his sincerity. | اس کا خلوص محسوس ہوا۔
+> 진심을 담아 편지를 썼다. | I wrote the letter from the heart. | میں نے خلوص دل سے خط لکھا۔
++ 체면 | 體面 | chemyeon | noun | face, dignity, appearances | عزت، ساکھ | Society & Culture | 3 | Important concept in Korean culture.
+> 체면 때문에 도움을 청하지 못했다. | I couldn't ask for help because of saving face. | عزت کے خیال سے مدد نہ مانگ سکا۔
+> 체면을 차리지 말고 편하게 드세요. | Don't stand on ceremony; eat comfortably. | تکلف نہ کریں، آرام سے کھائیں۔
+> 체면이 깎였다. | I lost face. | میری ساکھ کو دھچکا لگا۔
++ 눈치 |  | nunchi | noun | tact, sense for others' feelings | موقع شناسی، اشارہ سمجھنا | Society & Culture | 3 | 눈치가 빠르다 = quick to read the room; 눈치를 보다 = to watch others' reactions.
+> 그는 눈치가 빨라서 분위기를 잘 파악한다. | He reads the room quickly. | وہ موقع شناس ہے، ماحول جلد سمجھ جاتا ہے۔
+> 상사의 눈치를 보느라 퇴근을 못 했다. | I couldn't leave because I was watching my boss's mood. | افسر کے موڈ کی وجہ سے چھٹی نہ کر سکا۔
+> 눈치 없이 그런 말을 하면 안 돼요. | You shouldn't say that so tactlessly. | بے موقع ایسی بات نہیں کہنی چاہیے۔
++ 정 | 情 | jeong | noun | affection, attachment (deep Korean concept) | انس، لگاؤ | Society & Culture | 3 | 정이 들다 = to grow attached.
+> 오래 살다 보니 이 동네에 정이 들었다. | Living here a long time, I've grown attached to this neighborhood. | یہاں کافی عرصہ رہ کر اس محلے سے لگاؤ ہو گیا۔
+> 한국 사람들은 정이 많다. | Koreans are full of warm affection. | کوریائی لوگ بہت محبت والے ہیں۔
+> 정 때문에 쉽게 떠날 수 없었다. | I couldn't leave easily because of attachment. | لگاؤ کی وجہ سے آسانی سے نہ جا سکا۔
++ 한 | 恨 | han | noun | han (deep, lingering sorrow and resentment) | گہرا دکھ، حسرت | Society & Culture | 3 | Often described as a core Korean emotion.
+> 그 노래에는 한이 담겨 있다. | That song carries deep sorrow (han). | اس گانے میں گہرا دکھ چھپا ہے۔
+> 공부를 못한 것이 할머니의 한이었다. | Not being able to study was Grandma's lifelong regret. | نہ پڑھ پانا دادی کی عمر بھر کی حسرت تھی۔
+> 한을 풀었다. | They finally resolved their long-held sorrow. | ان کی دیرینہ حسرت پوری ہو گئی۔
++ 감수성 | 感受性 | gamsuseong | noun | sensitivity, sensibility | حساسیت | Emotions & Relationships | 3 |
+> 그는 감수성이 풍부한 예술가이다. | He's an artist with rich sensibility. | وہ بہت حساس فنکار ہے۔
+> 사춘기에는 감수성이 예민해진다. | Sensitivity heightens in adolescence. | نوجوانی میں حساسیت بڑھ جاتی ہے۔
+> 감수성을 키우는 교육이 필요하다. | Education that nurtures sensitivity is needed. | حساسیت پیدا کرنے والی تعلیم ضروری ہے۔
++ 사춘기 | 思春期 | sachungi | noun | puberty, adolescence | نوجوانی، بلوغت کا دور | Family & People | 3 |
+> 동생이 사춘기라서 예민하다. | My younger sibling is in puberty, so they're touchy. | چھوٹا بھائی بلوغت کے دور میں ہے، اس لیے حساس ہے۔
+> 사춘기 아이와 대화하기 어렵다. | It's hard to talk with an adolescent. | نوجوان بچے سے بات کرنا مشکل ہوتا ہے۔
+> 사춘기는 누구나 겪는다. | Everyone goes through adolescence. | ہر کوئی اس دور سے گزرتا ہے۔
++ 고정관념 | 固定觀念 | gojeonggwannyeom | noun | stereotype, fixed idea | دقیانوسی تصور | Society & Culture | 3 |
+> 성별에 대한 고정관념을 깨야 한다. | We must break gender stereotypes. | صنف کے بارے میں دقیانوسی تصورات توڑنے چاہئیں۔
+> 고정관념 때문에 오해가 생긴다. | Stereotypes cause misunderstandings. | دقیانوسی تصورات سے غلط فہمیاں ہوتی ہیں۔
+> 외국인에 대한 고정관념이 있다. | There are stereotypes about foreigners. | غیر ملکیوں کے بارے میں دقیانوسی تصورات ہیں۔
++ 선입견 | 先入見 | seonipgyeon | noun | preconception, prejudice | پیشگی رائے | Society & Culture | 3 |
+> 선입견 없이 사람을 만나세요. | Meet people without preconceptions. | بغیر پیشگی رائے کے لوگوں سے ملیں۔
+> 선입견이 판단을 흐린다. | Preconceptions cloud judgment. | پیشگی رائے فیصلے کو دھندلا دیتی ہے۔
+> 직접 만나 보니 선입견이 깨졌다. | Meeting them in person broke my preconceptions. | خود مل کر میری پیشگی رائے بدل گئی۔

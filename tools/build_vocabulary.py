@@ -133,7 +133,7 @@ def main(check: bool = False) -> int:
         )
         body = ",\n".join("    " + json.dumps(e, ensure_ascii=False) for e in entries)
         head = json.dumps({k: v for k, v in data.items() if k != "entries"}, ensure_ascii=False, indent=2)[:-2]
-        SEED.write_text(f'{head},\n  "entries": [\n{body}\n  ]\n}}\n', encoding="utf-8")
+        SEED.write_text(f'{head},\n  "entries": [\n{body}\n  ]\n}}\n', encoding="utf-8", newline="\n")
 
     sentences = sum(bool(e.get("example_ko")) + len(e.get("examples", [])) for e in entries)
     levels = Counter(e["difficulty"] for e in entries)
