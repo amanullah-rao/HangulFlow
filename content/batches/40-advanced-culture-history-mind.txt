@@ -1,0 +1,213 @@
+# Advanced: culture, history, philosophy, psychology
++ 문학 | 文學 | munhak | noun | literature | ادب | Society & Culture | 3 |
+> 한국 문학을 전공하고 있다. | I'm majoring in Korean literature. | میں کوریائی ادب پڑھ رہا ہوں۔
+> 문학은 인간의 삶을 비춘다. | Literature reflects human life. | ادب انسانی زندگی کا آئینہ ہے۔
+> 그는 노벨 문학상을 받았다. | He received the Nobel Prize in Literature. | اسے ادب کا نوبل انعام ملا۔
++ 작가 정신 | 作家精神 | jakga jeongsin | noun | artistic spirit, writer's integrity | ادبی روح | Society & Culture | 3 |
+> 그의 작품에는 작가 정신이 살아 있다. | His works are alive with artistic spirit. | اس کی تخلیقات میں ادبی روح زندہ ہے۔
+> 돈보다 작가 정신을 지켰다. | They kept their artistic integrity over money. | انہوں نے پیسے پر اپنی ادبی ایمانداری کو ترجیح دی۔
+> 작가 정신이 느껴지는 영화이다. | It's a film where you feel the director's artistic spirit. | اس فلم میں فنکار کی روح محسوس ہوتی ہے۔
++ 고전 | 古典 | gojeon | noun | classic(s) | کلاسیکی ادب | Society & Culture | 3 | 고전적 = classical.
+> 고전을 읽으면 지혜를 얻는다. | Reading classics brings wisdom. | کلاسیکی ادب پڑھنے سے دانائی ملتی ہے۔
+> 이 영화는 영화사의 고전이다. | This film is a classic of film history. | یہ فلم سنیما کی تاریخ کی کلاسک ہے۔
+> 고전 음악을 즐겨 듣는다. | I enjoy listening to classical music. | میں کلاسیکی موسیقی شوق سے سنتا ہوں۔
++ 예술 | 藝術 | yesul | noun | art | فن | Society & Culture | 3 | 예술가 = artist.
+> 예술은 사람의 마음을 움직인다. | Art moves people's hearts. | فن انسان کے دل کو چھوتا ہے۔
+> 그녀는 예술적 감각이 뛰어나다. | She has an outstanding artistic sense. | اس کا فنی ذوق شاندار ہے۔
+> 예술가로서 살기는 쉽지 않다. | Living as an artist isn't easy. | فنکار کی زندگی آسان نہیں۔
++ 창작 | 創作 | changjak | noun | creation (artistic), creative work | تخلیق | Society & Culture | 3 | 창작하다.
+> 그는 창작 활동에 몰두하고 있다. | He is absorbed in creative work. | وہ تخلیقی کام میں مگن ہے۔
+> 창작의 고통은 크다. | The pain of creation is great. | تخلیق کا درد بڑا ہوتا ہے۔
+> 이 노래는 그가 직접 창작했다. | He wrote this song himself. | یہ گانا اس نے خود لکھا۔
++ 영감 | 靈感 | yeonggam | noun | inspiration | الہام، تحریک | Society & Culture | 3 | 영감 also = old man (casual).
+> 여행에서 영감을 받아 그림을 그렸다. | Inspired by travel, I painted a picture. | سفر سے تحریک لے کر تصویر بنائی۔
+> 자연은 예술가에게 영감을 준다. | Nature inspires artists. | فطرت فنکاروں کو تحریک دیتی ہے۔
+> 영감이 떠오르지 않는다. | Inspiration won't come. | خیال نہیں آ رہا۔
++ 상징 | 象徵 | sangjing | noun | symbol | علامت | Society & Culture | 3 | 상징하다; 상징적 = symbolic.
+> 비둘기는 평화의 상징이다. | The dove is a symbol of peace. | فاختہ امن کی علامت ہے۔
+> 남산타워는 서울을 상징한다. | Namsan Tower symbolizes Seoul. | نمسان ٹاور سیول کی علامت ہے۔
+> 상징적인 의미가 있는 장소이다. | It's a place with symbolic meaning. | یہ علامتی اہمیت والی جگہ ہے۔
++ 역사적 | 歷史的 | yeoksajeok | noun/determiner | historical, historic | تاریخی | Society & Culture | 3 |
+> 오늘은 역사적인 날이다. | Today is a historic day. | آج ایک تاریخی دن ہے۔
+> 이곳은 역사적 의미가 깊다. | This place has deep historical significance. | اس جگہ کی تاریخی اہمیت بہت زیادہ ہے۔
+> 역사적 사실을 왜곡하면 안 된다. | Historical facts must not be distorted. | تاریخی حقائق کو مسخ نہیں کرنا چاہیے۔
++ 왕조 | 王朝 | wangjo | noun | dynasty | سلطنت، شاہی خاندان | Society & Culture | 3 |
+> 조선 왕조는 500년 넘게 이어졌다. | The Joseon dynasty lasted over 500 years. | جوسون سلطنت پانچ سو سال سے زیادہ قائم رہی۔
+> 무굴 왕조는 아름다운 건축물을 남겼다. | The Mughal dynasty left beautiful architecture. | مغل سلطنت نے خوبصورت عمارتیں چھوڑیں۔
+> 왕조가 바뀌면서 제도도 바뀌었다. | Systems changed as dynasties changed. | سلطنتیں بدلنے سے نظام بھی بدلے۔
++ 식민지 | 植民地 | singminji | noun | colony | نوآبادی | Society & Culture | 3 |
+> 한국과 파키스탄은 모두 식민지 시대를 겪었다. | Both Korea and Pakistan went through colonial periods. | کوریا اور پاکستان دونوں نے نوآبادیاتی دور دیکھا۔
+> 식민지 지배에서 독립했다. | They gained independence from colonial rule. | نوآبادیاتی تسلط سے آزادی حاصل کی۔
+> 식민지 시대의 아픔을 기억해야 한다. | We must remember the pain of the colonial era. | نوآبادیاتی دور کے دکھ کو یاد رکھنا چاہیے۔
++ 독립 | 獨立 | dongnip | noun | independence | آزادی | Society & Culture | 3 | 독립하다; 독립운동 = independence movement.
+> 8월 15일은 한국의 독립을 기념하는 날이다. | August 15 marks Korea's independence. | پندرہ اگست کوریا کی آزادی کا دن ہے۔
+> 대학을 졸업하고 부모님에게서 독립했다. | After graduating, I became independent from my parents. | فراغت کے بعد میں والدین سے الگ خود مختار ہو گیا۔
+> 파키스탄은 1947년에 독립했다. | Pakistan became independent in 1947. | پاکستان 1947 میں آزاد ہوا۔
++ 혁명 | 革命 | hyeongmyeong | noun | revolution | انقلاب | Society & Culture | 3 |
+> 산업 혁명은 세상을 바꿨다. | The Industrial Revolution changed the world. | صنعتی انقلاب نے دنیا بدل دی۔
+> 스마트폰은 생활의 혁명을 가져왔다. | Smartphones brought a revolution in daily life. | اسمارٹ فون نے زندگی میں انقلاب برپا کیا۔
+> 혁명적인 변화가 일어났다. | A revolutionary change occurred. | ایک انقلابی تبدیلی آئی۔
++ 유산 | 遺産 | yusan | noun | heritage, inheritance, legacy | ورثہ | Society & Culture | 3 |
+> 문화유산을 다음 세대에 물려줘야 한다. | We must pass cultural heritage to the next generation. | ثقافتی ورثہ اگلی نسل کو منتقل کرنا چاہیے۔
+> 할아버지께 유산을 물려받았다. | I inherited from my grandfather. | مجھے دادا سے وراثت ملی۔
+> 그는 위대한 유산을 남겼다. | He left a great legacy. | اس نے عظیم ورثہ چھوڑا۔
++ 계승하다 | 繼承- | gyeseunghada | verb | to inherit, to carry on (tradition) | ورثے میں لینا، جاری رکھنا | Society & Culture | 3 |
+> 전통문화를 계승하고 발전시켜야 한다. | We must carry on and develop traditional culture. | روایتی ثقافت کو جاری رکھنا اور ترقی دینی چاہیے۔
+> 그는 아버지의 사업을 계승했다. | He took over his father's business. | اس نے والد کا کاروبار سنبھالا۔
+> 왕위를 계승했다. | They succeeded to the throne. | انہوں نے تخت سنبھالا۔
++ 철학 | 哲學 | cheolhak | noun | philosophy | فلسفہ | Academic & Formal | 3 | 철학자 = philosopher.
+> 대학에서 철학을 전공했다. | I majored in philosophy at university. | میں نے یونیورسٹی میں فلسفہ پڑھا۔
+> 그는 자신만의 인생 철학이 있다. | He has his own philosophy of life. | اس کا اپنا فلسفۂ زندگی ہے۔
+> 철학은 삶의 의미를 묻는다. | Philosophy asks the meaning of life. | فلسفہ زندگی کے معنی پوچھتا ہے۔
++ 가치관 | 價値觀 | gachigwan | noun | values, sense of values | اقدار | Academic & Formal | 3 |
+> 세대마다 가치관이 다르다. | Each generation has different values. | ہر نسل کی اقدار مختلف ہوتی ہیں۔
+> 결혼에 대한 가치관이 변하고 있다. | Values about marriage are changing. | شادی کے بارے میں اقدار بدل رہی ہیں۔
+> 가치관이 맞는 사람과 일하고 싶다. | I want to work with people who share my values. | میں ہم خیال لوگوں کے ساتھ کام کرنا چاہتا ہوں۔
++ 윤리 | 倫理 | yulli | noun | ethics | اخلاقیات | Academic & Formal | 3 | 윤리적 = ethical.
+> 인공지능 윤리에 대한 논의가 필요하다. | Discussion of AI ethics is needed. | مصنوعی ذہانت کی اخلاقیات پر بحث ضروری ہے۔
+> 그 행동은 윤리적으로 옳지 않다. | That behavior is ethically wrong. | وہ رویہ اخلاقی طور پر درست نہیں۔
+> 기업 윤리를 지켜야 한다. | Corporate ethics must be upheld. | کاروباری اخلاقیات کی پاسداری ضروری ہے۔
++ 도덕 | 道德 | dodeok | noun | morality, morals | اخلاق | Academic & Formal | 3 | 도덕적 = moral.
+> 아이들에게 도덕을 가르친다. | We teach children morals. | ہم بچوں کو اخلاقیات سکھاتے ہیں۔
+> 도덕적 책임을 느꼈다. | I felt a moral responsibility. | مجھے اخلاقی ذمہ داری محسوس ہوئی۔
+> 법과 도덕은 다르다. | Law and morality are different. | قانون اور اخلاق مختلف ہیں۔
++ 존엄 | 尊嚴 | joneom | noun | dignity | وقار، عزت | Academic & Formal | 3 |
+> 인간의 존엄은 지켜져야 한다. | Human dignity must be protected. | انسانی وقار کا تحفظ ضروری ہے۔
+> 존엄한 죽음에 대한 논의가 있다. | There's discussion about dying with dignity. | باوقار موت پر بحث جاری ہے۔
+> 모든 사람은 존엄하다. | Every person has dignity. | ہر انسان باوقار ہے۔
++ 심리 | 心理 | simni | noun | psychology, mentality | نفسیات | Academic & Formal | 3 | 심리학 = psychology (field).
+> 대학에서 심리학을 공부했다. | I studied psychology at university. | میں نے یونیورسٹی میں نفسیات پڑھی۔
+> 소비자의 심리를 분석했다. | They analyzed consumer psychology. | صارفین کی نفسیات کا تجزیہ کیا گیا۔
+> 불안한 심리 상태였다. | They were in an anxious state of mind. | ان کی ذہنی حالت بے چین تھی۔
++ 무의식 | 無意識 | muuisik | noun | the unconscious | لاشعور | Academic & Formal | 3 | 무의식적으로 = unconsciously.
+> 무의식적으로 손톱을 물었다. | I bit my nails unconsciously. | لاشعوری طور پر ناخن چبائے۔
+> 꿈은 무의식을 보여 준다고 한다. | They say dreams reveal the unconscious. | کہتے ہیں خواب لاشعور کو ظاہر کرتے ہیں۔
+> 무의식 속의 두려움이 드러났다. | Unconscious fears came to the surface. | لاشعور میں چھپا خوف سامنے آیا۔
++ 콤플렉스 |  | kompeullekseu | noun | complex (psychological), insecurity | احساسِ کمتری | Academic & Formal | 3 |
+> 그는 키에 콤플렉스가 있다. | He's insecure about his height. | اسے اپنے قد کے بارے میں احساسِ کمتری ہے۔
+> 콤플렉스를 극복하고 자신감을 얻었다. | They overcame their insecurity and gained confidence. | احساسِ کمتری پر قابو پا کر اعتماد حاصل کیا۔
+> 누구나 콤플렉스가 하나쯤은 있다. | Everyone has at least one insecurity. | ہر کسی میں کوئی نہ کوئی کمی کا احساس ہوتا ہے۔
++ 트라우마 |  | teurauma | noun | trauma | صدمہ | Academic & Formal | 3 |
+> 그 사고는 그에게 트라우마로 남았다. | That accident left him with trauma. | وہ حادثہ اس کے لیے صدمہ بن گیا۔
+> 트라우마를 치료하는 데 시간이 걸린다. | Treating trauma takes time. | صدمے کا علاج وقت لیتا ہے۔
+> 어린 시절의 트라우마가 있다. | They have childhood trauma. | انہیں بچپن کا صدمہ ہے۔
++ 정서 | 情緒 | jeongseo | noun | emotion, sentiment, emotional state | جذبات، احساسات | Academic & Formal | 3 | 정서적 = emotional.
+> 아이의 정서 발달에 음악이 좋다. | Music is good for a child's emotional development. | موسیقی بچے کی جذباتی نشوونما کے لیے اچھی ہے۔
+> 한국인의 정서를 잘 표현한 노래이다. | It's a song that captures Korean sentiment well. | یہ گانا کوریائی جذبات کی خوب عکاسی کرتا ہے۔
+> 정서적 안정이 필요하다. | Emotional stability is needed. | جذباتی استحکام ضروری ہے۔
++ 자아 | 自我 | jaa | noun | self, ego | خودی، انا | Academic & Formal | 3 | 자아실현 = self-realization.
+> 사춘기에는 자아를 찾는 시기이다. | Adolescence is a time of finding oneself. | نوجوانی خود کو پہچاننے کا دور ہے۔
+> 자아실현을 위해 노력한다. | I strive for self-realization. | میں خود شناسی کے لیے کوشش کرتا ہوں۔
+> 이크발의 시는 자아의 중요성을 강조한다. | Iqbal's poetry emphasizes the importance of the self. | اقبال کی شاعری خودی کی اہمیت پر زور دیتی ہے۔
++ 성찰 | 省察 | seongchal | noun | self-reflection, introspection | خود احتسابی | Academic & Formal | 3 | 성찰하다.
+> 여행은 자기 성찰의 기회가 된다. | Travel is a chance for self-reflection. | سفر خود احتسابی کا موقع بنتا ہے۔
+> 실패 후 깊이 성찰했다. | After failing, I reflected deeply. | ناکامی کے بعد گہرائی سے اپنا جائزہ لیا۔
+> 역사에 대한 성찰이 필요하다. | Reflection on history is needed. | تاریخ پر غور و فکر ضروری ہے۔
++ 깨달음 |  | kkaedareum | noun | realization, enlightenment | ادراک، شعور | Academic & Formal | 3 | 깨닫다 = to realize.
+> 그 경험은 큰 깨달음을 주었다. | That experience gave me a great realization. | اس تجربے سے بڑا شعور ملا۔
+> 늦게라도 깨달음을 얻어서 다행이다. | It's good I realized it, even if late. | دیر سے ہی سہی، سمجھ آ گئی، شکر ہے۔
+> 부처는 깨달음을 얻었다. | Buddha attained enlightenment. | بدھ کو نروان حاصل ہوا۔
++ 깨닫다 |  | kkaedatda | verb | to realize | سمجھ جانا، احساس ہونا | Academic & Formal | 3 | ㄷ-irregular: 깨달아요.
+> 그때 내가 틀렸다는 것을 깨달았다. | I realized then that I was wrong. | تب احساس ہوا کہ میں غلط تھا۔
+> 건강의 소중함을 아프고 나서 깨달았다. | I realized the value of health after getting sick. | بیمار ہو کر صحت کی قدر سمجھ آئی۔
+> 실수를 깨닫는 것이 중요하다. | Realizing your mistake is important. | اپنی غلطی سمجھنا اہم ہے۔
++ 관념 | 觀念 | gwannyeom | noun | idea, notion, concept | تصور، خیال | Academic & Formal | 3 | 시간 관념 = sense of time.
+> 그는 시간 관념이 없다. | He has no sense of time. | اسے وقت کا کوئی احساس نہیں۔
+> 낡은 관념을 버려야 한다. | We must discard outdated notions. | پرانے تصورات چھوڑنے چاہئیں۔
+> 경제 관념이 뚜렷한 사람이다. | They have a clear sense of money. | وہ پیسے کی سمجھ بوجھ رکھتے ہیں۔
++ 개념 | 槪念 | gaenyeom | noun | concept | تصور | Academic & Formal | 3 | 개념 없다 = clueless (slang).
+> 기본 개념부터 이해해야 한다. | You must first understand the basic concepts. | پہلے بنیادی تصورات سمجھنے ہوں گے۔
+> 행복의 개념은 사람마다 다르다. | The concept of happiness differs by person. | خوشی کا تصور ہر ایک کا الگ ہے۔
+> 새로운 개념의 카페가 생겼다. | A new-concept café opened. | ایک نئے انداز کا کیفے کھلا۔
++ 이념 | 理念 | inyeom | noun | ideology, ideal | نظریہ | Academic & Formal | 3 |
+> 두 나라는 정치 이념이 다르다. | The two countries have different political ideologies. | دونوں ملکوں کے سیاسی نظریات مختلف ہیں۔
+> 회사의 경영 이념을 소개합니다. | Let me introduce the company's management philosophy. | کمپنی کا انتظامی نظریہ متعارف کراتا ہوں۔
+> 이념 갈등이 심했다. | Ideological conflict was severe. | نظریاتی کشمکش شدید تھی۔
++ 사상 | 思想 | sasang | noun | thought, ideology | فکر، خیالات | Academic & Formal | 3 | 사상 (史上) = in history.
+> 그의 사상은 많은 사람에게 영향을 주었다. | His thought influenced many people. | اس کی فکر نے بہت لوگوں کو متاثر کیا۔
+> 동양 사상과 서양 사상을 비교했다. | We compared Eastern and Western thought. | مشرقی اور مغربی فکر کا موازنہ کیا۔
+> 사상의 자유가 보장되어야 한다. | Freedom of thought must be guaranteed. | فکر کی آزادی کی ضمانت ہونی چاہیے۔
++ 종교적 | 宗敎的 | jonggyojeok | noun/determiner | religious | مذہبی | Society & Culture | 3 |
+> 종교적인 이유로 술을 마시지 않는다. | I don't drink for religious reasons. | میں مذہبی وجہ سے شراب نہیں پیتا۔
+> 종교적 자유를 존중해야 한다. | Religious freedom must be respected. | مذہبی آزادی کا احترام ضروری ہے۔
+> 이곳은 종교적 의미가 있는 장소이다. | This place has religious significance. | یہ جگہ مذہبی اہمیت رکھتی ہے۔
++ 금식 | 禁食 | geumsik | noun | fasting | روزہ | Society & Culture | 3 | 라마단 = Ramadan.
+> 라마단 기간에는 낮에 금식을 한다. | During Ramadan, people fast in the daytime. | رمضان میں دن کو روزہ رکھتے ہیں۔
+> 검사 전에 12시간 금식해야 한다. | You must fast 12 hours before the test. | ٹیسٹ سے پہلے بارہ گھنٹے کچھ نہیں کھانا۔
+> 금식이 끝나면 가족과 함께 식사한다. | When the fast ends, we eat with family. | روزہ کھلنے پر گھر والوں کے ساتھ کھانا کھاتے ہیں۔
++ 명절 문화 | 名節文化 | myeongjeol munhwa | noun | holiday customs | تہوار کی روایات | Society & Culture | 3 |
+> 명절 문화가 많이 변했다. | Holiday customs have changed a lot. | تہوار کی روایات بہت بدل گئی ہیں۔
+> 한국과 파키스탄의 명절 문화를 비교했다. | I compared holiday customs in Korea and Pakistan. | کوریا اور پاکستان کے تہواروں کی روایات کا موازنہ کیا۔
+> 명절 문화를 외국인에게 소개했다. | I introduced holiday customs to foreigners. | غیر ملکیوں کو تہوار کی روایات سے متعارف کرایا۔
++ 관혼상제 | 冠婚喪祭 | gwanhonsangje | noun | rites of passage (coming of age, wedding, funeral, ancestral rites) | زندگی کی رسومات | Society & Culture | 3 |
+> 관혼상제는 한국 전통 예절의 중심이다. | The four rites are central to traditional Korean etiquette. | چار رسومات کوریائی روایتی آداب کا مرکز ہیں۔
+> 관혼상제의 방식이 간소해졌다. | The rites have become simpler. | رسومات سادہ ہو گئی ہیں۔
+> 나라마다 관혼상제 문화가 다르다. | Rites of passage differ by country. | ہر ملک میں زندگی کی رسومات مختلف ہیں۔
++ 장례식 | 葬禮式 | jangnyesik | noun | funeral | جنازہ | Society & Culture | 3 |
+> 친구 할머니의 장례식에 갔다. | I went to my friend's grandmother's funeral. | میں دوست کی دادی کے جنازے میں گیا۔
+> 장례식에서는 검은 옷을 입는다. | People wear black at funerals. | جنازے میں کالے کپڑے پہنتے ہیں۔
+> 장례식장에 조문을 갔다. | I went to the funeral hall to pay respects. | تعزیت کے لیے گیا۔
++ 제사 | 祭祀 | jesa | noun | ancestral memorial rite | آبا و اجداد کی یاد میں رسم | Society & Culture | 3 |
+> 명절에 제사를 지낸다. | We hold ancestral rites on holidays. | تہواروں پر آبا و اجداد کی یاد میں رسم ادا کرتے ہیں۔
+> 요즘은 제사를 간단하게 지내는 집이 많다. | Many families hold simple rites these days. | آج کل بہت گھر سادہ رسم ادا کرتے ہیں۔
+> 제사 음식을 준비했다. | We prepared the food for the memorial rite. | رسم کے لیے کھانا تیار کیا۔
++ 효도 | 孝道 | hyodo | noun | filial piety, duty to parents | والدین کی خدمت | Family & People | 3 | 효도하다; 효자 = devoted son.
+> 부모님께 효도하고 싶어요. | I want to be a good child to my parents. | میں والدین کی خدمت کرنا چاہتا ہوں۔
+> 효도는 한국 문화에서 중요하다. | Filial piety is important in Korean culture. | کوریائی ثقافت میں والدین کی خدمت اہم ہے۔
+> 그는 동네에서 유명한 효자이다. | He's known in the neighborhood as a devoted son. | وہ محلے میں فرماں بردار بیٹے کے طور پر مشہور ہے۔
++ 공동체 | 共同體 | gongdongche | noun | community | برادری، معاشرہ | Society & Culture | 3 |
+> 마을 공동체가 살아 있다. | The village community is alive. | گاؤں کی برادری زندہ ہے۔
+> 공동체 의식이 약해지고 있다. | The sense of community is weakening. | اجتماعیت کا احساس کمزور ہو رہا ہے۔
+> 우리는 같은 공동체의 일원이다. | We are members of the same community. | ہم ایک ہی برادری کے رکن ہیں۔
++ 개인주의 | 個人主義 | gaeinjuui | noun | individualism | انفرادیت پسندی | Society & Culture | 3 | 집단주의 = collectivism.
+> 개인주의가 확산되고 있다. | Individualism is spreading. | انفرادیت پسندی پھیل رہی ہے۔
+> 개인주의와 이기주의는 다르다. | Individualism and selfishness are different. | انفرادیت پسندی اور خود غرضی مختلف ہیں۔
+> 개인주의 문화에서는 사생활을 중시한다. | Individualist cultures value privacy. | انفرادیت پسند ثقافتوں میں نجی زندگی کو اہمیت دی جاتی ہے۔
++ 이기적 | 利己的 | igijeok | noun/determiner | selfish | خود غرض | Emotions & Relationships | 3 | Opposite: 이타적 (altruistic).
+> 이기적인 행동은 남에게 피해를 준다. | Selfish behavior harms others. | خود غرضانہ رویہ دوسروں کو نقصان دیتا ہے۔
+> 그는 너무 이기적이다. | He's too selfish. | وہ بہت خود غرض ہے۔
+> 이기적인 사람과는 함께 일하기 힘들다. | It's hard to work with selfish people. | خود غرض لوگوں کے ساتھ کام کرنا مشکل ہے۔
++ 계층 | 階層 | gyecheung | noun | class, stratum (social) | طبقہ | Society & Culture | 3 |
+> 사회 계층 간의 격차가 커졌다. | The gap between social classes widened. | سماجی طبقات کا فرق بڑھ گیا۔
+> 모든 계층을 위한 정책이 필요하다. | Policies for all classes are needed. | ہر طبقے کے لیے پالیسیاں چاہئیں۔
+> 젊은 계층의 투표율이 높아졌다. | Turnout among young people rose. | نوجوان طبقے میں ووٹ ڈالنے کی شرح بڑھ گئی۔
++ 서민 | 庶民 | seomin | noun | ordinary people, common folk | عام آدمی | Society & Culture | 3 |
+> 물가 상승으로 서민들이 힘들다. | Ordinary people are struggling with rising prices. | مہنگائی سے عام آدمی پریشان ہے۔
+> 서민을 위한 정책을 펼쳐야 한다. | Policies for ordinary people must be implemented. | عام لوگوں کے لیے پالیسیاں بنانی چاہئیں۔
+> 서민적인 음식이 맛있다. | Everyday folk food is delicious. | عوامی کھانے مزے دار ہوتے ہیں۔
++ 대중 | 大衆 | daejung | noun | the public, the masses | عوام | Society & Culture | 3 | 대중문화 = popular culture.
+> 대중문화가 세계로 퍼졌다. | Popular culture has spread worldwide. | عوامی ثقافت دنیا بھر میں پھیل گئی۔
+> 그 가수는 대중에게 사랑받는다. | That singer is loved by the public. | وہ گلوکار عوام میں مقبول ہے۔
+> 대중교통을 이용하세요. | Use public transportation. | پبلک ٹرانسپورٹ استعمال کریں۔
++ 상업적 | 商業的 | sangeopjeok | noun/determiner | commercial | تجارتی | Economy & Business | 3 |
+> 이 영화는 상업적으로 성공했다. | This film was commercially successful. | یہ فلم تجارتی طور پر کامیاب رہی۔
+> 상업적인 목적으로 사용할 수 없다. | It cannot be used for commercial purposes. | اسے تجارتی مقاصد کے لیے استعمال نہیں کیا جا سکتا۔
+> 축제가 너무 상업적으로 변했다. | The festival has become too commercial. | میلہ بہت تجارتی بن گیا ہے۔
++ 해석 | 解釋 | haeseok | noun | interpretation | تشریح | Academic & Formal | 3 |
+> 이 시는 여러 가지 해석이 가능하다. | This poem allows several interpretations. | اس نظم کی کئی تشریحات ممکن ہیں۔
+> 같은 결과도 해석에 따라 달라진다. | The same result differs by interpretation. | ایک ہی نتیجہ تشریح کے مطابق بدل جاتا ہے۔
+> 법 해석을 둘러싼 논쟁이 있다. | There's a dispute over legal interpretation. | قانون کی تشریح پر تنازع ہے۔
++ 비평 | 批評 | bipyeong | noun | criticism, critique, review | تنقید، تبصرہ | Academic & Formal | 3 | 비평가 = critic.
+> 그 영화는 비평가들의 극찬을 받았다. | That film was highly praised by critics. | اس فلم کو ناقدین نے بہت سراہا۔
+> 문학 비평을 공부하고 있다. | I'm studying literary criticism. | میں ادبی تنقید پڑھ رہا ہوں۔
+> 건설적인 비평은 도움이 된다. | Constructive criticism helps. | تعمیری تنقید مفید ہوتی ہے۔
++ 서사 | 敍事 | seosa | noun | narrative, epic | بیانیہ | Academic & Formal | 3 | 서사시 = epic poem.
+> 이 드라마는 서사가 탄탄하다. | This drama has a solid narrative. | اس ڈرامے کا بیانیہ مضبوط ہے۔
+> 서사적인 영화를 좋아한다. | I like epic films. | مجھے رزمیہ فلمیں پسند ہیں۔
+> 인물의 서사가 감동적이었다. | The character's story arc was moving. | کردار کی کہانی بہت متاثر کن تھی۔
++ 풍자 | 諷刺 | pungja | noun | satire | طنز | Academic & Formal | 3 | 풍자하다.
+> 이 소설은 사회를 풍자한다. | This novel satirizes society. | یہ ناول معاشرے پر طنز ہے۔
+> 탈춤에는 양반에 대한 풍자가 담겨 있다. | Mask dance contains satire of the aristocracy. | ماسک ڈانس میں اشرافیہ پر طنز ہے۔
+> 풍자 만화가 인기를 끌었다. | The satirical cartoon became popular. | طنزیہ کارٹون مقبول ہوا۔
++ 묘미 | 妙味 | myomi | noun | charm, special appeal, subtle pleasure | خاص لطف | Academic & Formal | 3 |
+> 여행의 묘미는 예상치 못한 만남이다. | The charm of travel lies in unexpected encounters. | سفر کا لطف غیر متوقع ملاقاتوں میں ہے۔
+> 이 음식의 묘미는 매운맛이다. | The appeal of this food is its spiciness. | اس کھانے کا مزہ اس کی تیزی میں ہے۔
+> 바둑의 묘미를 알게 되었다. | I came to appreciate the subtleties of baduk. | باڈک کا اصل لطف سمجھ آ گیا۔
++ 정취 | 情趣 | jeongchwi | noun | atmosphere, charm (of a place) | دلکش ماحول | Society & Culture | 3 |
+> 한옥 마을은 옛 정취가 느껴진다. | The hanok village has an old-world charm. | روایتی گاؤں میں پرانے زمانے کا رنگ محسوس ہوتا ہے۔
+> 가을 정취를 즐기러 산에 갔다. | I went to the mountains to enjoy autumn's charm. | خزاں کا لطف اٹھانے پہاڑوں پر گیا۔
+> 골목마다 정취가 있다. | Every alley has its charm. | ہر گلی میں ایک دلکشی ہے۔
++ 운치 | 韻致 | unchi | noun | elegance, tasteful charm | خوش ذوقی، دلکشی | Society & Culture | 3 |
+> 비 오는 날 찻집은 운치가 있다. | A teahouse on a rainy day has a certain charm. | بارش کے دن چائے خانے میں ایک خاص دلکشی ہوتی ہے۔
+> 눈 덮인 궁궐이 운치 있다. | The snow-covered palace is elegant. | برف سے ڈھکا محل دلکش لگتا ہے۔
+> 운치 있는 음악이 흘렀다. | Graceful music was playing. | دلکش موسیقی بج رہی تھی۔
