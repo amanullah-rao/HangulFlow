@@ -183,7 +183,7 @@
 > 그는 나이를 속였어요. | He lied about his age. | اس نے اپنی عمر کے بارے میں جھوٹ بولا۔
 > 사람을 속이는 것은 나쁜 일이에요. | Deceiving people is wrong. | لوگوں کو دھوکہ دینا برا کام ہے۔
 > 광고에 속아서 비싸게 샀어요. | I was fooled by the ad and paid too much. | اشتہار کے دھوکے میں آ کر مہنگا خرید لیا۔
-+ 거짓말하다 |  | geojitmalhada | verb | to lie | جھوٹ بولنا | Emotions & Relationships | 2 | Noun: 거짓말 (lie). Opposite: 사실 (truth).
++ 거짓말하다 |  | geojinmalhada | verb | to lie | جھوٹ بولنا | Emotions & Relationships | 2 | Noun: 거짓말 (lie). Opposite: 사실 (truth).
 > 거짓말하지 마세요. | Don't lie. | جھوٹ مت بولیں۔
 > 아이가 엄마한테 거짓말을 했어요. | The child lied to their mother. | بچے نے ماں سے جھوٹ بولا۔
 > 거짓말은 언젠가 들통나요. | Lies are found out eventually. | جھوٹ کبھی نہ کبھی پکڑا جاتا ہے۔

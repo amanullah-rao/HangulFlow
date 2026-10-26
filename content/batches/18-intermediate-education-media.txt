@@ -11,7 +11,7 @@
 > 새 교재로 공부를 시작했어요. | I started studying with a new textbook. | میں نے نئی نصابی کتاب سے پڑھائی شروع کی۔
 > 교재는 서점에서 살 수 있어요. | You can buy the textbook at the bookstore. | نصابی کتاب کتابوں کی دکان سے مل جاتی ہے۔
 > 이 교재는 듣기 연습이 많아요. | This textbook has a lot of listening practice. | اس کتاب میں سننے کی بہت مشقیں ہیں۔
-+ 학년 | 學年 | haknyeon | noun | school year, grade | جماعت، سال (تعلیمی) | Education & University | 2 |
++ 학년 | 學年 | hangnyeon | noun | school year, grade | جماعت، سال (تعلیمی) | Education & University | 2 |
 > 몇 학년이에요? | What year are you in? | آپ کس جماعت میں ہیں؟
 > 저는 대학교 3학년이에요. | I'm a third-year university student. | میں یونیورسٹی کے تیسرے سال میں ہوں۔
 > 새 학년이 시작됐어요. | The new school year has started. | نیا تعلیمی سال شروع ہو گیا۔
