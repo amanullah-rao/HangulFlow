@@ -1,6 +1,6 @@
 """Build the bundled word list: content/base_vocabulary.json + content/batches/*.txt.
 
-    .venv\\Scripts\\python.exe tools\\build_vocabulary.py
+    .venv\\Scripts\\python.exe tools\\build_vocabulary.py [--check]   (--check validates and writes nothing)
 
 Batch format (one item per line, fields separated by "|"):
 
@@ -40,7 +40,7 @@ def split(line: str, required: int, total: int, where: str) -> list[str]:
     return parts + [""] * (total - len(parts))
 
 
-def main() -> int:
+def main(check: bool = False) -> int:
     current_seed = json.loads(SEED.read_text(encoding="utf-8"))
     data = json.loads(BASE.read_text(encoding="utf-8"))
     entries: list[dict] = data["entries"]
@@ -119,7 +119,7 @@ def main() -> int:
         flush()
 
     changed = json.dumps(entries, ensure_ascii=False, sort_keys=True) != before
-    if changed:
+    if changed and not check:
         data["version"] = int(data["version"]) + 1
         data["source_note"] = (
             "Curated by the HangulFlow project. Levels (1 beginner, 2 intermediate, 3 advanced) are "
@@ -131,7 +131,8 @@ def main() -> int:
 
     sentences = sum(bool(e.get("example_ko")) + len(e.get("examples", [])) for e in entries)
     levels = Counter(e["difficulty"] for e in entries)
-    print(f"{'Updated to' if changed else 'Unchanged:'} version {data['version']}: {len(entries)} words, "
+    status = "Would update" if changed and check else "Updated to" if changed else "Unchanged:"
+    print(f"{status} version {data['version']}: {len(entries)} words, "
           f"{sentences} sentences; beginner {levels[1]}, intermediate {levels[2]}, advanced {levels[3]}")
     for w in warnings:
         print("warning:", w)
@@ -140,4 +141,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
-    sys.exit(main())
+    sys.exit(main(check="--check" in sys.argv))
