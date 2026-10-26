@@ -34,7 +34,7 @@
 + 보일러 |  | boilleo | noun | (home heating) boiler | بوائلر (گھر گرم کرنے کا) | Daily Life in Korea | 2 | Korean floors are heated (온돌).
 > 추워서 보일러를 켰어요. | It was cold, so I turned on the boiler. | سردی تھی، اس لیے بوائلر چلایا۔
 > 보일러가 고장 나서 물이 차가워요. | The boiler broke, so the water is cold. | بوائلر خراب ہو گیا، پانی ٹھنڈا ہے۔
-> 바닥이 따뜻해서 좋아요. | It's nice that the floor is warm. | فرش گرم ہے، اچھا لگتا ہے۔
+> 보일러를 켜니까 방이 금방 따뜻해졌어요. | Once I turned on the boiler, the room warmed up quickly. | بوائلر چلانے سے کمرہ جلد گرم ہو گیا۔
 + 가전제품 | 家電製品 | gajeonjepum | noun | home appliances | گھریلو برقی آلات | Daily Life in Korea | 2 |
 > 이사하면서 가전제품을 새로 샀어요. | I bought new appliances when I moved. | گھر بدلتے وقت نئے برقی آلات خریدے۔
 > 가전제품 매장은 3층에 있어요. | The appliance store is on the third floor. | برقی آلات کی دکان تیسری منزل پر ہے۔
@@ -141,7 +141,7 @@
 > 너무 과장해서 말하지 마세요. | Don't exaggerate so much. | اتنا بڑھا چڑھا کر بات نہ کریں۔
 + 대기업 | 大企業 | daegieop | noun | large company, conglomerate | بڑی کمپنی | Work & Employment | 2 | 중소기업 = small and medium enterprise.
 > 많은 졸업생이 대기업에 가고 싶어 해요. | Many graduates want to work for big companies. | بہت سے فارغ التحصیل طلبہ بڑی کمپنیوں میں جانا چاہتے ہیں۔
-> 중소기업에서도 배울 게 많아요. | There's a lot to learn at smaller companies too. | چھوٹی کمپنیوں میں بھی سیکھنے کو بہت کچھ ہے۔
+> 그는 대기업을 그만두고 창업했어요. | He quit a big company and started his own business. | اس نے بڑی کمپنی چھوڑ کر اپنا کاروبار شروع کیا۔
 > 그 대기업은 해외에 공장이 있어요. | That conglomerate has factories overseas. | اس بڑی کمپنی کے بیرون ملک کارخانے ہیں۔
 + 공장 | 工場 | gongjang | noun | factory | کارخانہ | Work & Employment | 2 |
 > 아버지는 자동차 공장에서 일하세요. | My father works at a car factory. | ابو گاڑیوں کے کارخانے میں کام کرتے ہیں۔

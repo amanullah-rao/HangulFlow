@@ -22,7 +22,7 @@
 + 피 |  | pi | noun | blood | خون | Health | 2 | 헌혈 = blood donation.
 > 손가락에서 피가 나요. | My finger is bleeding. | انگلی سے خون نکل رہا ہے۔
 > 피 검사를 받았어요. | I had a blood test. | میں نے خون کا ٹیسٹ کروایا۔
-> 헌혈을 하면 생명을 구할 수 있어요. | Donating blood can save lives. | خون کا عطیہ زندگیاں بچا سکتا ہے۔
+> 피를 보면 어지러워요. | I feel dizzy when I see blood. | خون دیکھ کر مجھے چکر آتے ہیں۔
 + 뼈 |  | ppyeo | noun | bone | ہڈی | Health | 2 |
 > 넘어져서 팔 뼈가 부러졌어요. | I fell and broke my arm bone. | گرنے سے بازو کی ہڈی ٹوٹ گئی۔
 > 우유는 뼈 건강에 좋아요. | Milk is good for bone health. | دودھ ہڈیوں کی صحت کے لیے اچھا ہے۔
@@ -130,7 +130,7 @@
 + 식욕 | 食慾 | sigyok | noun | appetite | بھوک، کھانے کی رغبت | Health | 2 | 입맛 is more everyday.
 > 감기 때문에 식욕이 없어요. | I have no appetite because of a cold. | زکام کی وجہ سے بھوک نہیں لگ رہی۔
 > 가을에는 식욕이 좋아져요. | Your appetite improves in autumn. | خزاں میں بھوک بڑھ جاتی ہے۔
-> 입맛이 없어서 조금만 먹었어요. | I had no appetite, so I ate only a little. | بھوک نہیں تھی، اس لیے تھوڑا سا کھایا۔
+> 운동을 하니까 식욕이 생겼어요. | Exercising gave me an appetite. | ورزش کرنے سے بھوک لگنے لگی۔
 + 다이어트 |  | daieoteu | noun | diet (to lose weight) | ڈائٹنگ | Health | 2 |
 > 다이어트 중이라서 밥을 조금만 먹어요. | I'm on a diet, so I eat only a little. | میں ڈائٹنگ پر ہوں، اس لیے تھوڑا کھاتا ہوں۔
 > 다이어트는 내일부터 할게요. | I'll start my diet tomorrow. | ڈائٹنگ کل سے شروع کروں گا۔

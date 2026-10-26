@@ -73,12 +73,12 @@
 > 수익성이 낮은 사업을 정리했다. | They wound up unprofitable businesses. | کم منافع والے کاروبار بند کر دیے گئے۔
 + 적자 | 赤字 | jeokja | noun | deficit, loss (in the red) | خسارہ | Economy & Business | 3 | Opposite: 흑자 (surplus).
 > 회사가 3년 연속 적자를 기록했다. | The company posted losses for three years in a row. | کمپنی کو مسلسل تین سال خسارہ ہوا۔
-> 무역 흑자가 늘었다. | The trade surplus increased. | تجارتی سرپلس بڑھ گیا۔
+> 가게는 적자를 견디지 못하고 문을 닫았다. | The shop couldn't bear the losses and closed. | دکان خسارہ برداشت نہ کر سکی اور بند ہو گئی۔
 > 적자를 줄이기 위해 비용을 절감했다. | Costs were cut to reduce the deficit. | خسارہ کم کرنے کے لیے اخراجات گھٹائے۔
 + 부도 | 不渡 | budo | noun | bankruptcy, default | دیوالیہ پن | Economy & Business | 3 | 파산 = bankruptcy (legal).
 > 그 회사는 결국 부도가 났다. | That company eventually went bankrupt. | وہ کمپنی آخرکار دیوالیہ ہو گئی۔
 > 부도 위기에 처한 기업이 많다. | Many companies are on the verge of bankruptcy. | بہت سی کمپنیاں دیوالیہ ہونے کے قریب ہیں۔
-> 그는 파산 신청을 했다. | He filed for bankruptcy. | اس نے دیوالیہ ہونے کی درخواست دی۔
+> 부도를 막기 위해 은행에서 돈을 빌렸다. | They borrowed money from the bank to avoid bankruptcy. | دیوالیہ ہونے سے بچنے کے لیے بینک سے قرض لیا۔
 + 구조 조정 | 構造調整 | gujo jojeong | noun | restructuring | تنظیمِ نو | Economy & Business | 3 |
 > 회사가 구조 조정을 단행했다. | The company carried out restructuring. | کمپنی نے تنظیمِ نو کی۔
 > 구조 조정으로 많은 직원이 회사를 떠났다. | Many employees left due to restructuring. | تنظیمِ نو کی وجہ سے بہت سے ملازمین چلے گئے۔
@@ -149,7 +149,7 @@
 > 통계는 해석에 따라 다르게 보인다. | Statistics look different depending on interpretation. | اعداد و شمار تشریح کے مطابق مختلف نظر آتے ہیں۔
 + 증가세 | 增加勢 | jeunggase | noun | upward trend | اضافے کا رجحان | Economy & Business | 3 | 감소세 = downward trend.
 > 1인 가구가 증가세를 보이고 있다. | Single-person households are on the rise. | اکیلے رہنے والے گھرانے بڑھ رہے ہیں۔
-> 수출이 감소세로 돌아섰다. | Exports have turned downward. | برآمدات کم ہونے لگی ہیں۔
+> 관광객 수가 꾸준한 증가세를 보이고 있다. | Tourist numbers show a steady upward trend. | سیاحوں کی تعداد میں مسلسل اضافہ ہو رہا ہے۔
 > 증가세가 둔화되었다. | The upward trend has slowed. | اضافے کی رفتار سست ہو گئی۔
 + 고용 | 雇用 | goyong | noun | employment, hiring | روزگار، ملازمت | Work & Employment | 3 | 고용하다; 고용주 = employer.
 > 고용 안정이 중요하다. | Job security is important. | ملازمت کا تحفظ اہم ہے۔
@@ -157,7 +157,7 @@
 > 고용률이 상승했다. | The employment rate rose. | روزگار کی شرح بڑھ گئی۔
 + 비정규직 | 非正規職 | bijeonggyujik | noun | non-regular (temporary/contract) worker | عارضی ملازم | Work & Employment | 3 | 정규직 = permanent position.
 > 비정규직 문제가 심각하다. | The issue of non-regular workers is serious. | عارضی ملازمین کا مسئلہ سنگین ہے۔
-> 정규직으로 전환되었다. | I was converted to a permanent position. | مجھے مستقل ملازمت مل گئی۔
+> 비정규직 직원도 휴가를 받을 권리가 있다. | Non-regular employees also have the right to leave. | عارضی ملازمین کو بھی چھٹی کا حق ہے۔
 > 비정규직은 고용이 불안정하다. | Non-regular jobs are insecure. | عارضی ملازمت غیر محفوظ ہوتی ہے۔
 + 임금 | 賃金 | imgeum | noun | wage | اجرت | Work & Employment | 3 |
 > 임금 인상을 요구했다. | They demanded a wage increase. | انہوں نے اجرت میں اضافے کا مطالبہ کیا۔

@@ -53,8 +53,8 @@
 > 노사 협상이 결렬되면서 파업이 시작되었다. | The strike began when labor talks broke down. | مذاکرات ناکام ہونے پر ہڑتال شروع ہوئی۔
 + 여당 | 與黨 | yeodang | noun | ruling party | حکمران جماعت | Society & Culture | 3 | 야당 = opposition party; 정당 = political party.
 > 여당과 야당이 합의에 실패했다. | The ruling and opposition parties failed to agree. | حکمران اور اپوزیشن جماعتیں متفق نہ ہو سکیں۔
-> 야당은 정부를 비판했다. | The opposition criticized the government. | اپوزیشن نے حکومت پر تنقید کی۔
-> 새로운 정당이 창당되었다. | A new political party was founded. | ایک نئی سیاسی جماعت بنی۔
+> 여당은 그 법안을 적극 지지했다. | The ruling party strongly supported the bill. | حکمران جماعت نے اس بل کی بھرپور حمایت کی۔
+> 여당 대표가 기자 회견을 열었다. | The ruling party leader held a press conference. | حکمران جماعت کے سربراہ نے پریس کانفرنس کی۔
 + 외교 | 外交 | oegyo | noun | diplomacy, foreign affairs | سفارت کاری | Society & Culture | 3 | 외교관 = diplomat.
 > 두 나라는 외교 관계를 맺었다. | The two countries established diplomatic relations. | دونوں ملکوں نے سفارتی تعلقات قائم کیے۔
 > 외교적 해결이 필요하다. | A diplomatic solution is needed. | سفارتی حل کی ضرورت ہے۔

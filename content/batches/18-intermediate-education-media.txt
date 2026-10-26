@@ -62,7 +62,7 @@
 + 대학원 | 大學院 | daehagwon | noun | graduate school | گریجویٹ اسکول (ماسٹرز/پی ایچ ڈی) | Education & University | 2 | 석사 = master's; 박사 = doctorate.
 > 졸업 후에 대학원에 가고 싶어요. | I want to go to graduate school after graduating. | فراغت کے بعد میں ماسٹرز کرنا چاہتا ہوں۔
 > 대학원에서 경영학을 공부해요. | I study business administration in graduate school. | میں گریجویٹ اسکول میں بزنس ایڈمنسٹریشن پڑھتا ہوں۔
-> 박사 과정에 합격했어요. | I was accepted into a doctoral program. | مجھے پی ایچ ڈی میں داخلہ مل گیا۔
+> 대학원 입학 시험을 준비하고 있어요. | I'm preparing for the graduate school entrance exam. | میں گریجویٹ اسکول کے داخلہ امتحان کی تیاری کر رہا ہوں۔
 + 연구실 | 硏究室 | yeongusil | noun | laboratory, research office | تحقیقی کمرہ، لیب | Education & University | 2 |
 > 밤늦게까지 연구실에 있었어요. | I stayed in the lab until late at night. | میں رات دیر تک لیب میں رہا۔
 > 교수님 연구실은 3층이에요. | The professor's office is on the third floor. | پروفیسر کا دفتر تیسری منزل پر ہے۔
@@ -102,7 +102,7 @@
 + 충전기 | 充電器 | chungjeongi | noun | charger | چارجر | Media & Technology | 2 | 배터리 = battery.
 > 충전기를 빌려줄 수 있어요? | Can you lend me a charger? | کیا آپ مجھے چارجر دے سکتے ہیں؟
 > 충전기를 집에 두고 왔어요. | I left my charger at home. | میں چارجر گھر بھول آیا۔
-> 배터리가 10% 남았어요. | There's 10% battery left. | بیٹری دس فیصد رہ گئی ہے۔
+> 휴대폰 충전기가 고장 났어요. | My phone charger is broken. | میرا فون چارجر خراب ہو گیا۔
 + 메시지 |  | mesiji | noun | message | پیغام | Media & Technology | 2 |
 > 메시지를 남겨 주세요. | Please leave a message. | براہ کرم پیغام چھوڑیں۔
 > 친구에게 메시지를 보냈는데 답이 없어요. | I sent my friend a message but there's no reply. | دوست کو پیغام بھیجا مگر جواب نہیں آیا۔

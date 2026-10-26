@@ -90,14 +90,14 @@
 + 출국 | 出國 | chulguk | noun | departure from a country | ملک سے روانگی | Travel & Transportation | 2 | Opposite: 입국 (entry).
 > 출국 날짜가 다가와요. | My departure date is approaching. | روانگی کی تاریخ قریب آ رہی ہے۔
 > 출국 수속을 마쳤어요. | I completed the departure procedures. | میں نے روانگی کی کارروائی مکمل کر لی۔
-> 입국할 때 지문을 찍어요. | They take fingerprints when you enter the country. | ملک میں داخلے پر انگلیوں کے نشان لیے جاتے ہیں۔
+> 출국 전에 면세점에 들렀어요. | I stopped by the duty-free shop before departure. | روانگی سے پہلے میں ڈیوٹی فری شاپ گیا۔
 + 환율 | 換率 | hwanyul | noun | exchange rate | شرحِ تبادلہ | Economy & Business | 2 |
 > 오늘 환율이 어때요? | What's the exchange rate today? | آج کرنسی کا ریٹ کیا ہے؟
 > 환율이 올라서 여행비가 늘었어요. | The exchange rate went up, so travel costs rose. | ریٹ بڑھنے سے سفر کا خرچ بڑھ گیا۔
 > 은행마다 환율이 조금씩 달라요. | Exchange rates differ slightly from bank to bank. | ہر بینک کا ریٹ تھوڑا مختلف ہوتا ہے۔
 + 성수기 | 盛需期 | seongsugi | noun | peak season | سیزن کا زور | Travel & Transportation | 2 | 비수기 = off-season.
 > 성수기라서 호텔이 비싸요. | Hotels are expensive because it's peak season. | سیزن ہونے کی وجہ سے ہوٹل مہنگے ہیں۔
-> 비수기에 여행하면 싸요. | Traveling in the off-season is cheap. | آف سیزن میں سفر سستا پڑتا ہے۔
+> 성수기에는 비행기 표가 두 배로 비싸요. | Plane tickets cost twice as much in peak season. | سیزن میں ہوائی ٹکٹ دگنے مہنگے ہوتے ہیں۔
 > 성수기에는 미리 예약하세요. | Book ahead during peak season. | سیزن میں پہلے سے بکنگ کرائیں۔
 + 민박 | 民泊 | minbak | noun | homestay, guesthouse | گیسٹ ہاؤس (گھریلو) | Travel & Transportation | 2 | Also 게스트하우스.
 > 시골 민박에서 하룻밤 잤어요. | I stayed one night at a countryside homestay. | میں نے گاؤں کے ایک گیسٹ ہاؤس میں ایک رات گزاری۔
@@ -158,7 +158,7 @@
 + 존댓말 | 尊待- | jondaenmal | noun | honorific speech | ادب والی زبان | Society & Culture | 2 | Opposite: 반말 (casual speech).
 > 처음 만난 사람에게는 존댓말을 써요. | We use honorific speech with people we've just met. | پہلی بار ملنے والوں سے ادب سے بات کرتے ہیں۔
 > 존댓말은 외국인에게 어려워요. | Honorific speech is hard for foreigners. | ادب والی زبان غیر ملکیوں کے لیے مشکل ہے۔
-> 친한 친구에게는 반말을 해요. | We speak casually with close friends. | قریبی دوستوں سے بے تکلف بات کرتے ہیں۔
+> 회사에서는 존댓말을 써야 해요. | You must use honorific speech at work. | دفتر میں ادب والی زبان استعمال کرنی چاہیے۔
 + 반말 | 半- | banmal | noun | casual (informal) speech | بے تکلف زبان | Society & Culture | 2 |
 > 우리 이제 반말할까요? | Shall we speak casually now? | کیا اب ہم بے تکلفی سے بات کریں؟
 > 어른에게 반말하면 안 돼요. | You mustn't speak casually to elders. | بڑوں سے بے تکلفی سے بات نہیں کرنی چاہیے۔

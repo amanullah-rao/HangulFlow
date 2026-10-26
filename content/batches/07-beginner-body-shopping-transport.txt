@@ -114,7 +114,7 @@
 + 택시 |  | taeksi | noun | taxi | ٹیکسی | Travel & Transportation | 1 |
 > 늦어서 택시를 탔어요. | I was late, so I took a taxi. | دیر ہو رہی تھی، اس لیے ٹیکسی لی۔
 > 택시 정류장이 어디예요? | Where is the taxi stand? | ٹیکسی اسٹینڈ کہاں ہے؟
-> 기사님, 공항으로 가 주세요. | Driver, to the airport, please. | ڈرائیور صاحب، ایئرپورٹ چلیں۔
+> 공항까지 택시로 40분 걸려요. | It takes 40 minutes to the airport by taxi. | ایئرپورٹ تک ٹیکسی سے چالیس منٹ لگتے ہیں۔
 + 기차 | 汽車 | gicha | noun | train | ٹرین، ریل گاڑی | Travel & Transportation | 1 | High-speed train: KTX.
 > 기차를 타고 부산에 갔어요. | I took the train to Busan. | میں ٹرین سے بوسان گیا۔
 > 기차 여행을 좋아해요. | I like traveling by train. | مجھے ٹرین کا سفر پسند ہے۔

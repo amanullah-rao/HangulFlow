@@ -94,7 +94,7 @@
 + 한식 | 韓食 | hansik | noun | Korean food | کوریائی کھانا | Food & Cooking | 2 | 양식 Western, 중식 Chinese, 일식 Japanese.
 > 저는 한식을 제일 좋아해요. | I like Korean food the most. | مجھے کوریائی کھانا سب سے زیادہ پسند ہے۔
 > 한식은 반찬이 많아요. | Korean meals come with many side dishes. | کوریائی کھانے میں بہت سی ڈشیں ہوتی ہیں۔
-> 오늘 점심은 중식으로 할까요? | Shall we have Chinese food for lunch today? | آج دوپہر چینی کھانا کھائیں؟
+> 외국인 친구에게 한식을 대접했어요. | I treated a foreign friend to Korean food. | میں نے غیر ملکی دوست کو کوریائی کھانا کھلایا۔
 + 분식 | 粉食 | bunsik | noun | Korean snack food (tteokbokki, gimbap, etc.) | کوریائی فاسٹ فوڈ | Food & Cooking | 2 | 분식집 = snack bar.
 > 학교 앞 분식집에서 떡볶이를 먹었어요. | I ate tteokbokki at the snack bar in front of school. | اسکول کے سامنے والی دکان پر تیوک بوکی کھائی۔
 > 분식은 싸고 맛있어요. | Korean snack food is cheap and tasty. | کوریائی فاسٹ فوڈ سستا اور مزے دار ہے۔
@@ -170,7 +170,7 @@
 + 그릇을 비우다 |  | geureuseul biuda | expression | to clean one's plate | پلیٹ صاف کرنا | Food & Cooking | 2 | 비우다 = to empty.
 > 아이가 그릇을 깨끗이 비웠어요. | The child cleaned their plate. | بچے نے پلیٹ صاف کر دی۔
 > 맛있어서 금방 그릇을 비웠어요. | It was so tasty I emptied the bowl quickly. | اتنا مزے دار تھا کہ جلدی پیالہ خالی ہو گیا۔
-> 방을 비워야 해요. | I have to vacate the room. | مجھے کمرہ خالی کرنا ہے۔
+> 배가 고파서 순식간에 그릇을 비웠어요. | I was so hungry I emptied the bowl in no time. | بھوک سے ایک پل میں پیالہ خالی کر دیا۔
 + 간을 보다 |  | ganeul boda | expression | to taste for seasoning | نمک مرچ چکھنا | Food & Cooking | 2 | 간 = seasoning (saltiness).
 > 간을 보고 소금을 넣으세요. | Taste for seasoning, then add salt. | ذائقہ چکھ کر نمک ڈالیں۔
 > 국 간이 딱 맞아요. | The soup is seasoned just right. | سوپ کا نمک بالکل ٹھیک ہے۔

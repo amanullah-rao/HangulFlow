@@ -90,7 +90,7 @@
 + 백신 |  | baeksin | noun | vaccine | ویکسین | Health | 3 | 예방 접종 = vaccination.
 > 백신을 두 번 맞았다. | I got the vaccine twice. | میں نے دو بار ویکسین لگوائی۔
 > 새로운 백신이 개발되었다. | A new vaccine was developed. | نئی ویکسین تیار کی گئی۔
-> 아이들은 예방 접종을 받아야 한다. | Children should be vaccinated. | بچوں کو ٹیکے لگوانے چاہئیں۔
+> 백신 덕분에 그 병이 거의 사라졌다. | Thanks to vaccines, that disease has almost disappeared. | ویکسین کی بدولت وہ بیماری تقریباً ختم ہو گئی۔
 + 면역 | 免疫 | myeonyeok | noun | immunity | مدافعت | Health | 3 | 면역력 = immune strength.
 > 백신은 면역을 만든다. | Vaccines build immunity. | ویکسین مدافعت پیدا کرتی ہے۔
 > 면역 체계가 약해졌다. | The immune system weakened. | مدافعتی نظام کمزور ہو گیا۔
@@ -98,7 +98,7 @@
 + 만성 | 慢性 | manseong | noun | chronic | دائمی | Health | 3 | 만성 질환 = chronic disease. Opposite: 급성 (acute).
 > 그는 만성 두통에 시달린다. | He suffers from chronic headaches. | وہ دائمی سر درد کا شکار ہے۔
 > 만성 질환은 꾸준한 관리가 필요하다. | Chronic diseases need consistent management. | دائمی بیماریوں کی مسلسل دیکھ بھال ضروری ہے۔
-> 급성 장염으로 입원했다. | I was hospitalized with acute enteritis. | شدید معدے کی سوزش کی وجہ سے ہسپتال داخل ہوا۔
+> 만성 피로에 시달리는 직장인이 많다. | Many office workers suffer from chronic fatigue. | بہت سے ملازمین دائمی تھکن کا شکار ہیں۔
 + 질환 | 疾患 | jilhwan | noun | disease, disorder (formal) | بیماری، عارضہ | Health | 3 |
 > 심장 질환 환자가 늘고 있다. | Patients with heart disease are increasing. | دل کے مریض بڑھ رہے ہیں۔
 > 피부 질환을 치료받고 있다. | I'm being treated for a skin condition. | میرا جلدی بیماری کا علاج ہو رہا ہے۔
@@ -166,7 +166,7 @@
 + 인공 | 人工 | ingong | noun | artificial, man-made | مصنوعی | Science & Technology | 3 | Opposite: 천연 (natural).
 > 인공 위성이 지구를 돈다. | An artificial satellite orbits the Earth. | مصنوعی سیارہ زمین کے گرد گھومتا ہے۔
 > 이 호수는 인공 호수이다. | This lake is man-made. | یہ جھیل مصنوعی ہے۔
-> 천연 재료로 만든 비누다. | It's soap made from natural ingredients. | یہ قدرتی اجزاء سے بنا صابن ہے۔
+> 이 공원에는 인공 폭포가 있다. | This park has an artificial waterfall. | اس پارک میں ایک مصنوعی آبشار ہے۔
 + 위성 | 衛星 | wiseong | noun | satellite | سیارچہ | Science & Technology | 3 |
 > 한국은 인공위성을 발사했다. | Korea launched an artificial satellite. | کوریا نے مصنوعی سیارہ خلا میں بھیجا۔
 > 위성 사진으로 날씨를 예측한다. | Weather is forecast using satellite images. | سیارچوں کی تصاویر سے موسم کی پیش گوئی کی جاتی ہے۔

@@ -125,7 +125,7 @@
 > 엘리베이터 문이 닫힙니다. | The elevator doors are closing. | لفٹ کے دروازے بند ہو رہے ہیں۔
 + 켜지다 |  | kyeojida | verb | to come on (light, device) | جلنا، آن ہونا | Media & Technology | 2 | Opposite: 꺼지다.
 > 불이 자동으로 켜져요. | The light comes on automatically. | بتی خود بخود جل جاتی ہے۔
-> 컴퓨터가 갑자기 꺼졌어요. | The computer suddenly turned off. | کمپیوٹر اچانک بند ہو گیا۔
+> 방에 들어가면 불이 저절로 켜져요. | The light turns on by itself when you enter the room. | کمرے میں داخل ہوتے ہی بتی خود جل جاتی ہے۔
 > 휴대폰이 안 켜져요. | My phone won't turn on. | میرا فون آن نہیں ہو رہا۔
 + 끊다 |  | kkeunta | verb | to cut off; to quit (a habit); to hang up | کاٹنا؛ چھوڑنا؛ (فون) بند کرنا | Common Verbs & Adjectives | 2 | 담배를 끊다 = to quit smoking.
 > 아버지가 담배를 끊으셨어요. | My father quit smoking. | ابو نے سگریٹ چھوڑ دی۔
