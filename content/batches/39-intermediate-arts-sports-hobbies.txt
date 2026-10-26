@@ -1,0 +1,205 @@
+# Intermediate: arts, culture, sports, hobbies
++ 미술 | 美術 | misul | noun | art, fine arts | فنونِ لطیفہ، مصوری | Hobbies & Leisure | 2 | 미술관 = art museum.
+> 어렸을 때부터 미술을 좋아했어요. | I've liked art since I was little. | بچپن سے مجھے مصوری پسند ہے۔
+> 주말에 미술관에 갔어요. | I went to an art museum on the weekend. | ہفتے کے آخر میں آرٹ میوزیم گیا۔
+> 미술 시간에 그림을 그렸어요. | We drew pictures in art class. | آرٹ کی کلاس میں تصویریں بنائیں۔
++ 작품 | 作品 | jakpum | noun | work (of art), piece | تخلیق، فن پارہ | Hobbies & Leisure | 2 |
+> 이 작품은 유명한 화가의 것이에요. | This work is by a famous painter. | یہ فن پارہ ایک مشہور مصور کا ہے۔
+> 학생들의 작품을 전시했어요. | They exhibited the students' works. | طلبہ کے فن پارے نمائش میں رکھے گئے۔
+> 그 감독의 새 작품이 개봉했어요. | That director's new film was released. | اس ہدایتکار کی نئی فلم ریلیز ہوئی۔
++ 화가 | 畫家 | hwaga | noun | painter, artist | مصور | Hobbies & Leisure | 2 |
+> 그는 유명한 화가가 되었어요. | He became a famous painter. | وہ ایک مشہور مصور بن گیا۔
+> 화가의 꿈을 포기하지 않았어요. | I didn't give up my dream of being a painter. | میں نے مصور بننے کا خواب نہیں چھوڑا۔
+> 이 화가는 풍경화를 주로 그려요. | This painter mainly paints landscapes. | یہ مصور زیادہ تر مناظر بناتا ہے۔
++ 음악회 | 音樂會 | eumakhoe | noun | concert, recital | موسیقی کی محفل | Hobbies & Leisure | 2 | 콘서트 for pop.
+> 오케스트라 음악회에 갔어요. | I went to an orchestra concert. | میں آرکسٹرا کی محفلِ موسیقی میں گیا۔
+> 학교에서 음악회가 열려요. | A recital is being held at school. | اسکول میں موسیقی کی محفل ہے۔
+> 음악회 표를 선물로 받았어요. | I got concert tickets as a gift. | مجھے موسیقی کی محفل کے ٹکٹ تحفے میں ملے۔
++ 악기 | 樂器 | akgi | noun | musical instrument | ساز | Hobbies & Leisure | 2 |
+> 무슨 악기를 연주할 수 있어요? | What instrument can you play? | آپ کون سا ساز بجا سکتے ہیں؟
+> 한국 전통 악기를 배우고 있어요. | I'm learning a traditional Korean instrument. | میں کوریا کا روایتی ساز سیکھ رہا ہوں۔
+> 악기를 하나쯤 배우면 좋아요. | It's good to learn at least one instrument. | کم از کم ایک ساز سیکھنا اچھا ہے۔
++ 연주하다 | 演奏- | yeonjuhada | verb | to perform, to play (music) | (ساز) بجانا | Hobbies & Leisure | 2 |
+> 그녀는 바이올린을 아름답게 연주했어요. | She played the violin beautifully. | اس نے خوبصورتی سے وائلن بجایا۔
+> 길에서 기타를 연주하는 사람이 있어요. | There's someone playing guitar on the street. | سڑک پر کوئی گٹار بجا رہا ہے۔
+> 연주가 끝나자 박수가 쏟아졌어요. | Applause poured in when the performance ended. | پرفارمنس ختم ہوتے ہی تالیاں گونج اٹھیں۔
++ 감독 | 監督 | gamdok | noun | director (film); coach, manager (sports) | ہدایتکار؛ کوچ | Hobbies & Leisure | 2 |
+> 봉준호 감독의 영화를 좋아해요. | I like director Bong Joon-ho's films. | مجھے ہدایتکار بونگ جون ہو کی فلمیں پسند ہیں۔
+> 축구팀 감독이 바뀌었어요. | The soccer team's coach changed. | فٹبال ٹیم کا کوچ بدل گیا۔
+> 감독이 배우들에게 지시했어요. | The director gave instructions to the actors. | ہدایتکار نے اداکاروں کو ہدایات دیں۔
++ 주인공 | 主人公 | juingong | noun | main character, protagonist | مرکزی کردار | Hobbies & Leisure | 2 |
+> 이 드라마 주인공은 의사예요. | The main character of this drama is a doctor. | اس ڈرامے کا مرکزی کردار ڈاکٹر ہے۔
+> 오늘의 주인공은 생일인 친구예요. | Today's star is our friend whose birthday it is. | آج کا ہیرو ہمارا سالگرہ والا دوست ہے۔
+> 주인공의 연기가 정말 좋았어요. | The lead's acting was really good. | مرکزی کردار کی اداکاری بہت اچھی تھی۔
++ 줄거리 |  | julgeori | noun | plot, storyline | کہانی کا خلاصہ | Hobbies & Leisure | 2 |
+> 영화 줄거리를 간단히 말해 주세요. | Briefly tell me the movie's plot. | فلم کی کہانی مختصراً بتائیں۔
+> 줄거리가 너무 복잡해요. | The plot is too complicated. | کہانی بہت پیچیدہ ہے۔
+> 이 소설은 줄거리가 흥미로워요. | This novel has an interesting plot. | اس ناول کی کہانی دلچسپ ہے۔
++ 장면 | 場面 | jangmyeon | noun | scene | منظر | Hobbies & Leisure | 2 |
+> 마지막 장면이 감동적이었어요. | The last scene was moving. | آخری منظر بہت متاثر کن تھا۔
+> 이 장면은 부산에서 찍었어요. | This scene was filmed in Busan. | یہ منظر بوسان میں فلمایا گیا۔
+> 무서운 장면에서 눈을 감았어요. | I closed my eyes during the scary scene. | ڈراؤنے منظر میں آنکھیں بند کر لیں۔
++ 소설 | 小說 | soseol | noun | novel, fiction | ناول، افسانہ | Hobbies & Leisure | 2 | 소설가 = novelist.
+> 요즘 한국 소설을 읽고 있어요. | I'm reading a Korean novel these days. | آج کل کوریائی ناول پڑھ رہا ہوں۔
+> 이 소설은 영화로 만들어졌어요. | This novel was made into a film. | اس ناول پر فلم بنی۔
+> 소설가가 되는 게 꿈이에요. | My dream is to become a novelist. | ناول نگار بننا میرا خواب ہے۔
++ 시 | 詩 | si | noun | poem, poetry | نظم، شاعری | Hobbies & Leisure | 2 | 시인 = poet. 시 (市) = city; 시 (時) = o'clock.
+> 윤동주의 시를 좋아해요. | I like Yun Dong-ju's poems. | مجھے یون دونگ جو کی نظمیں پسند ہیں۔
+> 시를 외워서 발표했어요. | I memorized a poem and recited it. | میں نے نظم یاد کر کے سنائی۔
+> 알라마 이크발은 유명한 시인이에요. | Allama Iqbal is a famous poet. | علامہ اقبال ایک مشہور شاعر ہیں۔
++ 독서 | 讀書 | dokseo | noun | reading (books) | مطالعہ | Hobbies & Leisure | 2 |
+> 제 취미는 독서예요. | My hobby is reading. | میرا مشغلہ مطالعہ ہے۔
+> 독서는 마음의 양식이에요. | Reading is food for the mind. | مطالعہ دماغ کی غذا ہے۔
+> 가을은 독서의 계절이라고 해요. | They say autumn is the season for reading. | کہتے ہیں خزاں مطالعے کا موسم ہے۔
++ 사진작가 | 寫眞作家 | sajinjakga | noun | photographer | فوٹوگرافر | Hobbies & Leisure | 2 |
+> 그는 유명한 사진작가예요. | He's a famous photographer. | وہ ایک مشہور فوٹوگرافر ہے۔
+> 사진작가에게 사진을 배웠어요. | I learned photography from a photographer. | میں نے فوٹوگرافر سے تصویر کشی سیکھی۔
+> 결혼식 사진작가를 예약했어요. | I booked a wedding photographer. | شادی کے لیے فوٹوگرافر بک کیا۔
++ 사진기 | 寫眞機 | sajingi | noun | camera | کیمرہ | Hobbies & Leisure | 2 | Also 카메라.
+> 새 사진기를 샀어요. | I bought a new camera. | میں نے نیا کیمرہ خریدا۔
+> 사진기로 풍경을 찍었어요. | I shot the scenery with my camera. | کیمرے سے منظر کی تصویر لی۔
+> 요즘은 휴대폰이 사진기 역할을 해요. | These days phones serve as cameras. | آج کل فون ہی کیمرے کا کام کرتے ہیں۔
++ 여가 | 餘暇 | yeoga | noun | leisure, free time | فرصت | Hobbies & Leisure | 2 | 여가 시간 = free time.
+> 여가 시간에 뭐 하세요? | What do you do in your free time? | فرصت کے وقت کیا کرتے ہیں؟
+> 여가를 즐기는 방법이 다양해요. | There are many ways to enjoy leisure. | فرصت سے لطف اٹھانے کے بہت طریقے ہیں۔
+> 바빠서 여가가 거의 없어요. | I'm so busy I have almost no free time. | مصروفیت کی وجہ سے فرصت تقریباً نہیں ملتی۔
++ 캠핑 |  | kaemping | noun | camping | کیمپنگ | Hobbies & Leisure | 2 |
+> 가족과 캠핑을 갔어요. | I went camping with my family. | میں گھر والوں کے ساتھ کیمپنگ پر گیا۔
+> 캠핑장에서 고기를 구웠어요. | We grilled meat at the campsite. | کیمپ میں گوشت بھونا۔
+> 요즘 캠핑이 유행이에요. | Camping is trendy these days. | آج کل کیمپنگ کا رواج ہے۔
++ 낚시 |  | naksi | noun | fishing | مچھلی کا شکار | Hobbies & Leisure | 2 | 낚시하다.
+> 아버지와 낚시를 갔어요. | I went fishing with my father. | میں ابو کے ساتھ مچھلی پکڑنے گیا۔
+> 낚시는 인내심이 필요해요. | Fishing requires patience. | مچھلی پکڑنے کے لیے صبر چاہیے۔
+> 바다낚시를 해 봤어요? | Have you tried sea fishing? | کیا آپ نے سمندر میں مچھلی پکڑی ہے؟
++ 요가 |  | yoga | noun | yoga | یوگا | Hobbies & Leisure | 2 |
+> 아침마다 요가를 해요. | I do yoga every morning. | میں ہر صبح یوگا کرتا ہوں۔
+> 요가는 스트레스 해소에 좋아요. | Yoga is good for relieving stress. | یوگا ذہنی دباؤ کم کرنے کے لیے اچھا ہے۔
+> 요가 수업에 등록했어요. | I signed up for a yoga class. | میں نے یوگا کی کلاس میں داخلہ لیا۔
++ 달리기 |  | dalligi | noun | running (sport), race | دوڑ | Hobbies & Leisure | 2 |
+> 매일 저녁 달리기를 해요. | I go running every evening. | میں ہر شام دوڑتا ہوں۔
+> 달리기 시합에서 1등을 했어요. | I came first in the race. | دوڑ کے مقابلے میں پہلا آیا۔
+> 달리기는 돈이 들지 않는 운동이에요. | Running is exercise that costs nothing. | دوڑ ایک مفت ورزش ہے۔
++ 경기장 | 競技場 | gyeonggijang | noun | stadium, arena | اسٹیڈیم | Hobbies & Leisure | 2 |
+> 경기장에 관중이 가득했어요. | The stadium was full of spectators. | اسٹیڈیم تماشائیوں سے بھرا تھا۔
+> 경기장까지 지하철로 가요. | I go to the stadium by subway. | میں میٹرو سے اسٹیڈیم جاتا ہوں۔
+> 새 경기장이 지어졌어요. | A new stadium was built. | نیا اسٹیڈیم بنایا گیا۔
++ 관중 | 觀衆 | gwanjung | noun | spectators, crowd | تماشائی | Hobbies & Leisure | 2 | 관객 = audience (theater, film).
+> 관중들이 큰 소리로 응원했어요. | The crowd cheered loudly. | تماشائیوں نے زور سے داد دی۔
+> 오늘 경기에는 5만 명의 관중이 왔어요. | 50,000 spectators came to today's game. | آج کے میچ میں پچاس ہزار تماشائی آئے۔
+> 관중의 함성이 경기장을 가득 채웠어요. | The crowd's cheers filled the stadium. | تماشائیوں کے نعروں سے اسٹیڈیم گونج اٹھا۔
++ 우승 | 優勝 | useung | noun | victory, championship | فتح، چیمپئن شپ | Hobbies & Leisure | 2 | 우승하다; 준우승 = runner-up.
+> 우리 팀이 우승했어요! | Our team won the championship! | ہماری ٹیم چیمپئن بن گئی!
+> 우승 상금은 천만 원이에요. | The prize money for the win is ten million won. | جیتنے کا انعام ایک کروڑ وون ہے۔
+> 아쉽게 준우승에 그쳤어요. | Unfortunately, they finished runner-up. | افسوس، دوسری پوزیشن پر رہے۔
++ 결승 | 決勝 | gyeolseung | noun | final (match) | فائنل | Hobbies & Leisure | 2 | 준결승 = semifinal.
+> 결승에서 아쉽게 졌어요. | They narrowly lost in the final. | فائنل میں معمولی فرق سے ہار گئے۔
+> 결승전이 내일 열려요. | The final is tomorrow. | فائنل میچ کل ہے۔
+> 준결승을 이기고 결승에 올랐어요. | They won the semifinal and reached the final. | سیمی فائنل جیت کر فائنل میں پہنچے۔
++ 기록 | 記錄 | girok | noun | record | ریکارڈ | Hobbies & Leisure | 2 | 기록하다 = to record.
+> 그는 새로운 세계 기록을 세웠어요. | He set a new world record. | اس نے نیا عالمی ریکارڈ قائم کیا۔
+> 진료 기록을 확인했어요. | I checked the medical records. | میں نے طبی ریکارڈ دیکھا۔
+> 기록을 깨기 위해 연습해요. | They practice to break the record. | ریکارڈ توڑنے کے لیے مشق کرتے ہیں۔
++ 메달 |  | medal | noun | medal | تمغہ | Hobbies & Leisure | 2 | 금메달 gold, 은메달 silver, 동메달 bronze.
+> 올림픽에서 금메달을 땄어요. | They won a gold medal at the Olympics. | انہوں نے اولمپکس میں سونے کا تمغہ جیتا۔
+> 메달을 목에 걸었어요. | They hung the medal around their neck. | تمغہ گلے میں پہنایا گیا۔
+> 아쉽게 동메달에 그쳤어요. | They had to settle for bronze. | افسوس، کانسی کا تمغہ ہی ملا۔
++ 올림픽 |  | ollimpik | noun | the Olympics | اولمپکس | Hobbies & Leisure | 2 |
+> 1988년에 서울에서 올림픽이 열렸어요. | The Olympics were held in Seoul in 1988. | 1988 میں سیول میں اولمپکس ہوئے۔
+> 올림픽에 출전하는 것이 꿈이에요. | Competing in the Olympics is my dream. | اولمپکس میں حصہ لینا میرا خواب ہے۔
+> 올림픽 경기를 텔레비전으로 봤어요. | I watched the Olympic games on TV. | میں نے ٹی وی پر اولمپک مقابلے دیکھے۔
++ 출전하다 | 出戰- | chuljeonhada | verb | to compete in, to take part in (a game) | (مقابلے میں) حصہ لینا | Hobbies & Leisure | 2 |
+> 그는 국가대표로 출전했어요. | He competed as a national team member. | اس نے قومی ٹیم کی طرف سے حصہ لیا۔
+> 부상 때문에 경기에 출전하지 못했어요. | I couldn't play in the game due to injury. | چوٹ کی وجہ سے میچ میں حصہ نہ لے سکا۔
+> 마라톤 대회에 출전할 거예요. | I'll take part in the marathon. | میں میراتھن میں حصہ لوں گا۔
++ 응원단 | 應援團 | eungwondan | noun | cheering squad | حوصلہ افزائی کرنے والا گروہ | Hobbies & Leisure | 2 |
+> 응원단이 열심히 노래를 불렀어요. | The cheering squad sang hard. | حوصلہ افزائی کرنے والوں نے زور سے گانے گائے۔
+> 대학 응원단에 들어갔어요. | I joined the university cheering squad. | میں یونیورسٹی کی چیئرنگ ٹیم میں شامل ہوا۔
+> 응원단 덕분에 분위기가 좋았어요. | The atmosphere was great thanks to the cheering squad. | چیئرنگ ٹیم کی بدولت ماحول بہت اچھا تھا۔
++ 체육 | 體育 | cheyuk | noun | physical education, sports | کھیل، جسمانی تعلیم | Hobbies & Leisure | 2 | 체육관 = gym (hall).
+> 체육 시간에 농구를 했어요. | We played basketball in P.E. class. | کھیل کی کلاس میں باسکٹ بال کھیلا۔
+> 체육관에서 배드민턴을 쳐요. | I play badminton in the gym. | میں جمنازیم میں بیڈمنٹن کھیلتا ہوں۔
+> 체육 대회가 다음 주에 있어요. | The sports day is next week. | اگلے ہفتے کھیلوں کا دن ہے۔
++ 태권도 | 跆拳道 | taegwondo | noun | taekwondo | تائیکوانڈو | Hobbies & Leisure | 2 |
+> 아이가 태권도를 배워요. | My child is learning taekwondo. | میرا بچہ تائیکوانڈو سیکھ رہا ہے۔
+> 태권도는 한국의 전통 무술이에요. | Taekwondo is a traditional Korean martial art. | تائیکوانڈو کوریا کا روایتی فنِ حرب ہے۔
+> 태권도 검은 띠를 땄어요. | I earned a black belt in taekwondo. | میں نے تائیکوانڈو میں بلیک بیلٹ حاصل کی۔
++ 바둑 |  | baduk | noun | baduk (the game of Go) | باڈک (بورڈ گیم) | Hobbies & Leisure | 2 |
+> 할아버지는 바둑을 잘 두세요. | Grandpa is good at baduk. | دادا جان باڈک اچھا کھیلتے ہیں۔
+> 바둑을 두면 집중력이 좋아져요. | Playing baduk improves concentration. | باڈک کھیلنے سے توجہ بڑھتی ہے۔
+> 인공지능이 바둑 챔피언을 이겼어요. | AI beat the baduk champion. | مصنوعی ذہانت نے باڈک کے چیمپئن کو ہرا دیا۔
++ 연극 | 演劇 | yeongeuk | noun | play (theater) | ڈرامہ (اسٹیج) | Hobbies & Leisure | 2 | 연극배우 = stage actor.
+> 대학로에서 연극을 봤어요. | I saw a play in Daehak-ro. | میں نے ڈے ہاک رو میں اسٹیج ڈرامہ دیکھا۔
+> 학교 연극에서 주인공을 맡았어요. | I played the lead in the school play. | اسکول کے ڈرامے میں مرکزی کردار ادا کیا۔
+> 연극은 영화와 다른 매력이 있어요. | Theater has a different charm from film. | اسٹیج ڈرامے کی کشش فلم سے مختلف ہے۔
++ 무대 | 舞臺 | mudae | noun | stage | اسٹیج | Hobbies & Leisure | 2 |
+> 가수가 무대에 올라갔어요. | The singer went up on stage. | گلوکار اسٹیج پر گیا۔
+> 처음 무대에 서서 떨렸어요. | I was nervous standing on stage for the first time. | پہلی بار اسٹیج پر کھڑے ہو کر گھبراہٹ ہوئی۔
+> 무대 조명이 아름다웠어요. | The stage lighting was beautiful. | اسٹیج کی روشنی خوبصورت تھی۔
++ 박수 | 拍手 | baksu | noun | applause, clapping | تالیاں | Hobbies & Leisure | 2 | 박수를 치다 = to clap.
+> 관객들이 큰 박수를 보냈어요. | The audience gave a big round of applause. | ناظرین نے زوردار تالیاں بجائیں۔
+> 박수 소리가 끊이지 않았어요. | The applause didn't stop. | تالیوں کا سلسلہ نہ رکا۔
+> 모두 박수 쳐 주세요! | Everyone, please clap! | سب تالیاں بجائیں!
++ 입장권 | 入場券 | ipjanggwon | noun | admission ticket | داخلہ ٹکٹ | Hobbies & Leisure | 2 |
+> 박물관 입장권은 무료예요. | Museum admission is free. | عجائب گھر کا داخلہ مفت ہے۔
+> 입장권을 온라인으로 샀어요. | I bought the admission ticket online. | میں نے داخلہ ٹکٹ آن لائن خریدا۔
+> 입장권을 잃어버려서 다시 샀어요. | I lost my ticket and bought another. | ٹکٹ گم ہو گیا تو دوبارہ خریدا۔
++ 매진 | 賣盡 | maejin | noun | sold out | تمام ٹکٹ بک جانا | Hobbies & Leisure | 2 | 매진되다.
+> 콘서트 표가 1분 만에 매진됐어요. | Concert tickets sold out in a minute. | کنسرٹ کے ٹکٹ ایک منٹ میں بک گئے۔
+> 오늘 공연은 매진입니다. | Today's show is sold out. | آج کا شو مکمل طور پر بک ہے۔
+> 매진이라서 표를 못 샀어요. | It was sold out, so I couldn't buy a ticket. | سب بک چکا تھا، ٹکٹ نہ مل سکا۔
++ 동호회 | 同好會 | donghohoe | noun | hobby club, interest group | شوقیہ کلب | Hobbies & Leisure | 2 | Adult version of 동아리.
+> 등산 동호회에 가입했어요. | I joined a hiking club. | میں نے پہاڑ پیمائی کے کلب میں شمولیت اختیار کی۔
+> 동호회에서 좋은 친구를 사귀었어요. | I made good friends at the club. | کلب میں اچھے دوست بنے۔
+> 회사 축구 동호회가 있어요. | There's a company soccer club. | کمپنی کا فٹبال کلب ہے۔
++ 수집 | 蒐集 | sujip | noun | collecting, collection | جمع کرنا (شوق) | Hobbies & Leisure | 2 | 수집하다.
+> 제 취미는 우표 수집이에요. | My hobby is collecting stamps. | میرا مشغلہ ڈاک ٹکٹ جمع کرنا ہے۔
+> 자료를 수집하는 데 한 달이 걸렸어요. | Collecting data took a month. | معلومات جمع کرنے میں ایک مہینہ لگا۔
+> 그는 오래된 동전을 수집해요. | He collects old coins. | وہ پرانے سکے جمع کرتا ہے۔
++ 공예 | 工藝 | gongye | noun | crafts | دستکاری | Hobbies & Leisure | 2 |
+> 전통 공예 체험을 했어요. | I tried traditional crafts. | میں نے روایتی دستکاری آزمائی۔
+> 공예품 가게에서 기념품을 샀어요. | I bought a souvenir at a crafts shop. | دستکاری کی دکان سے یادگاری تحفہ خریدا۔
+> 도자기 공예를 배우고 있어요. | I'm learning pottery. | میں مٹی کے برتن بنانا سیکھ رہا ہوں۔
++ 뜨개질 |  | tteugaejil | noun | knitting | بنائی | Hobbies & Leisure | 2 |
+> 할머니께 뜨개질을 배웠어요. | I learned knitting from my grandmother. | میں نے دادی سے بنائی سیکھی۔
+> 뜨개질로 목도리를 만들었어요. | I knitted a scarf. | میں نے بن کر مفلر بنایا۔
+> 뜨개질하면 마음이 편해져요. | Knitting calms my mind. | بنائی سے دل کو سکون ملتا ہے۔
++ 정원 가꾸기 |  | jeongwon gakkugi | noun | gardening | باغبانی | Hobbies & Leisure | 2 | 가꾸다 = to tend, to grow.
+> 은퇴 후에 정원 가꾸기를 시작했어요. | I started gardening after retirement. | ریٹائرمنٹ کے بعد باغبانی شروع کی۔
+> 정원 가꾸기는 좋은 운동이 돼요. | Gardening is good exercise. | باغبانی اچھی ورزش ہے۔
+> 주말마다 정원 가꾸기를 해요. | I garden every weekend. | میں ہر ہفتے کے آخر میں باغبانی کرتا ہوں۔
++ 가꾸다 |  | gakkuda | verb | to tend, to cultivate; to take care of (appearance) | سنوارنا، دیکھ بھال کرنا | Hobbies & Leisure | 2 |
+> 꽃밭을 정성껏 가꿨어요. | I tended the flower bed with care. | میں نے پھولوں کی کیاری دل سے سنواری۔
+> 피부를 가꾸는 데 관심이 많아요. | I'm very interested in skincare. | مجھے جلد کی دیکھ بھال میں دلچسپی ہے۔
+> 아름다운 마을을 함께 가꿔요. | Let's tend a beautiful village together. | آئیں مل کر خوبصورت گاؤں سنواریں۔
++ 즐기다 |  | jeulgida | verb | to enjoy | لطف اٹھانا | Hobbies & Leisure | 2 |
+> 주말을 즐기세요. | Enjoy your weekend. | ہفتے کے آخر کا لطف اٹھائیں۔
+> 저는 혼자 여행을 즐겨요. | I enjoy traveling alone. | مجھے اکیلے سفر کرنے میں مزہ آتا ہے۔
+> 매운 음식을 즐겨 먹어요. | I enjoy eating spicy food. | میں شوق سے تیز کھانا کھاتا ہوں۔
++ 참가하다 | 參加- | chamgahada | verb | to participate, to enter | شرکت کرنا | Hobbies & Leisure | 2 | Noun: 참가자 (participant).
+> 말하기 대회에 참가했어요. | I entered a speech contest. | میں نے تقریری مقابلے میں حصہ لیا۔
+> 참가 신청은 다음 주까지예요. | Applications to participate close next week. | شرکت کی درخواستیں اگلے ہفتے تک ہیں۔
+> 참가자 모두에게 선물을 드려요. | We give gifts to all participants. | تمام شرکاء کو تحفے دیے جاتے ہیں۔
++ 녹화하다 | 錄畫- | nokhwahada | verb | to record (video) | ویڈیو ریکارڈ کرنا | Media & Technology | 2 |
+> 경기를 녹화해서 나중에 봤어요. | I recorded the game and watched it later. | میں نے میچ ریکارڈ کر کے بعد میں دیکھا۔
+> 강의를 녹화해도 될까요? | May I record the lecture on video? | کیا میں لیکچر کی ویڈیو بنا سکتا ہوں؟
+> 이 프로그램은 녹화 방송이에요. | This program is pre-recorded. | یہ پروگرام پہلے سے ریکارڈ شدہ ہے۔
++ 촬영하다 | 撮影- | chwaryeonghada | verb | to film, to shoot (photos, video) | فلم بندی کرنا | Media & Technology | 2 |
+> 이 드라마는 제주도에서 촬영했어요. | This drama was filmed on Jeju Island. | یہ ڈرامہ جیجو جزیرے میں فلمایا گیا۔
+> 박물관 안에서는 촬영이 금지돼요. | Filming is prohibited inside the museum. | عجائب گھر کے اندر فلم بندی منع ہے۔
+> 결혼식을 영상으로 촬영했어요. | We filmed the wedding. | ہم نے شادی کی ویڈیو بنائی۔
++ 편집하다 | 編輯- | pyeonjiphada | verb | to edit | ایڈٹ کرنا | Media & Technology | 2 |
+> 여행 영상을 편집하고 있어요. | I'm editing a travel video. | میں سفر کی ویڈیو ایڈٹ کر رہا ہوں۔
+> 사진을 편집해서 올렸어요. | I edited the photo and posted it. | تصویر ایڈٹ کر کے پوسٹ کی۔
+> 그는 잡지 편집자예요. | He's a magazine editor. | وہ ایک رسالے کا مدیر ہے۔
++ 구독하다 | 購讀- | gudokhada | verb | to subscribe | سبسکرائب کرنا | Media & Technology | 2 |
+> 그 유튜브 채널을 구독했어요. | I subscribed to that YouTube channel. | میں نے وہ یوٹیوب چینل سبسکرائب کیا۔
+> 신문을 구독하고 있어요. | I subscribe to a newspaper. | میں اخبار منگواتا ہوں۔
+> 구독과 좋아요 부탁드려요. | Please subscribe and like. | براہ کرم سبسکرائب اور لائک کریں۔
++ 인터뷰 |  | inteobyu | noun | interview | انٹرویو | Media & Technology | 2 |
+> 그 배우가 인터뷰를 했어요. | That actor gave an interview. | اس اداکار نے انٹرویو دیا۔
+> 길에서 방송 인터뷰를 요청받았어요. | I was asked for a TV interview on the street. | سڑک پر ٹی وی انٹرویو کے لیے روکا گیا۔
+> 인터뷰 내용이 기사로 나왔어요. | The interview came out as an article. | انٹرویو خبر کی صورت میں چھپا۔
++ 오디션 |  | odisyeon | noun | audition | آڈیشن | Hobbies & Leisure | 2 |
+> 가수 오디션에 지원했어요. | I applied for a singing audition. | میں نے گلوکاری کے آڈیشن کے لیے درخواست دی۔
+> 오디션에 합격했어요! | I passed the audition! | میں آڈیشن میں کامیاب ہو گیا!
+> 오디션 프로그램이 인기가 많아요. | Audition shows are very popular. | آڈیشن پروگرام بہت مقبول ہیں۔
