@@ -1,0 +1,209 @@
+# Intermediate: environment, nature, travel, culture
++ 공기 | 空氣 | gonggi | noun | air | ہوا | Environment | 2 |
+> 산속은 공기가 맑아요. | The air in the mountains is clean. | پہاڑوں میں ہوا صاف ہوتی ہے۔
+> 창문을 열고 공기를 바꿨어요. | I opened the window to air out the room. | میں نے کھڑکی کھول کر تازہ ہوا آنے دی۔
+> 도시의 공기가 점점 나빠지고 있어요. | The city air is getting worse. | شہر کی ہوا خراب ہوتی جا رہی ہے۔
++ 쓰레기통 | -桶 | sseuregitong | noun | trash can | کوڑے دان | Environment | 2 |
+> 쓰레기는 쓰레기통에 버리세요. | Throw trash in the trash can. | کچرا کوڑے دان میں ڈالیں۔
+> 길에 쓰레기통이 별로 없어요. | There aren't many trash cans on the street. | سڑکوں پر کوڑے دان کم ہیں۔
+> 쓰레기통이 꽉 찼어요. | The trash can is full. | کوڑے دان بھر گیا ہے۔
++ 플라스틱 |  | peullaseutik | noun | plastic | پلاسٹک | Environment | 2 |
+> 플라스틱 사용을 줄여야 해요. | We need to reduce plastic use. | پلاسٹک کا استعمال کم کرنا چاہیے۔
+> 바다에 플라스틱 쓰레기가 많아요. | There's a lot of plastic waste in the sea. | سمندر میں بہت پلاسٹک کا کچرا ہے۔
+> 플라스틱 빨대 대신 종이 빨대를 써요. | We use paper straws instead of plastic ones. | ہم پلاسٹک کے بجائے کاغذ کی اسٹرا استعمال کرتے ہیں۔
++ 환경친화적 | 環境親和的 | hwangyeongchinhwajeok | noun/determiner | environmentally friendly | ماحول دوست | Environment | 2 | Shorter: 친환경적.
+> 환경친화적인 제품을 사용해요. | I use environmentally friendly products. | میں ماحول دوست مصنوعات استعمال کرتا ہوں۔
+> 이 건물은 환경친화적으로 지었어요. | This building was built in an eco-friendly way. | یہ عمارت ماحول دوست طریقے سے بنائی گئی۔
+> 환경친화적인 생활 방식이 필요해요. | We need an eco-friendly lifestyle. | ماحول دوست طرزِ زندگی کی ضرورت ہے۔
++ 황사 | 黃砂 | hwangsa | noun | yellow dust (seasonal sandstorm) | زرد گرد (موسمی آندھی) | Environment | 2 | Comes from deserts in China/Mongolia in spring.
+> 봄에는 황사가 심해요. | Yellow dust is bad in spring. | بہار میں زرد گرد زیادہ ہوتی ہے۔
+> 황사 때문에 하늘이 노래요. | The sky is yellow because of the yellow dust. | زرد گرد کی وجہ سے آسمان پیلا ہے۔
+> 황사가 심한 날에는 마스크를 쓰세요. | Wear a mask on days with heavy yellow dust. | جن دنوں گرد زیادہ ہو ماسک پہنیں۔
++ 태풍 | 颱風 | taepung | noun | typhoon | طوفان | Nature & Weather | 2 |
+> 태풍이 오고 있어서 비행기가 취소됐어요. | Flights were canceled because a typhoon is coming. | طوفان آ رہا ہے، اس لیے پروازیں منسوخ ہو گئیں۔
+> 태풍 피해가 컸어요. | The typhoon damage was great. | طوفان سے بہت نقصان ہوا۔
+> 여름에는 태풍이 자주 와요. | Typhoons come often in summer. | گرمیوں میں طوفان اکثر آتے ہیں۔
++ 장마 |  | jangma | noun | rainy season, monsoon | برسات کا موسم | Nature & Weather | 2 | 장마철 = rainy season (late June–July in Korea).
+> 장마가 시작됐어요. | The rainy season has started. | برسات کا موسم شروع ہو گیا۔
+> 장마철에는 빨래가 잘 안 말라요. | Laundry doesn't dry well in the rainy season. | برسات میں کپڑے ٹھیک سے نہیں سوکھتے۔
+> 올해 장마는 길었어요. | This year's rainy season was long. | اس سال برسات کا موسم لمبا رہا۔
++ 지진 | 地震 | jijin | noun | earthquake | زلزلہ | Nature & Weather | 2 |
+> 어젯밤에 작은 지진이 있었어요. | There was a small earthquake last night. | کل رات ایک ہلکا زلزلہ آیا۔
+> 지진이 나면 탁자 밑으로 들어가세요. | If there's an earthquake, get under a table. | زلزلہ آئے تو میز کے نیچے چلے جائیں۔
+> 지진으로 많은 건물이 무너졌어요. | Many buildings collapsed in the earthquake. | زلزلے سے کئی عمارتیں گر گئیں۔
++ 일기예보 | 日氣豫報 | ilgiyebo | noun | weather forecast | موسم کی پیش گوئی | Nature & Weather | 2 |
+> 일기예보에 따르면 내일 비가 와요. | According to the forecast, it'll rain tomorrow. | موسمی پیش گوئی کے مطابق کل بارش ہوگی۔
+> 일기예보가 틀렸어요. | The weather forecast was wrong. | موسم کی پیش گوئی غلط نکلی۔
+> 아침마다 일기예보를 확인해요. | I check the weather forecast every morning. | میں ہر صبح موسم کی پیش گوئی دیکھتا ہوں۔
++ 영하 | 零下 | yeongha | noun | below zero | صفر سے کم | Nature & Weather | 2 | 영상 = above zero.
+> 오늘 아침 기온은 영하 10도예요. | This morning's temperature is minus 10. | آج صبح درجۂ حرارت منفی دس ہے۔
+> 영하로 떨어지면 길이 얼어요. | When it drops below zero, the roads freeze. | صفر سے نیچے جائے تو سڑکیں جم جاتی ہیں۔
+> 서울의 겨울은 자주 영하예요. | Seoul's winters are often below zero. | سیول کی سردیوں میں اکثر درجۂ حرارت صفر سے کم ہوتا ہے۔
++ 얼다 |  | eolda | verb | to freeze | جمنا | Nature & Weather | 2 | ㄹ-irregular: 언 손. Opposite: 녹다.
+> 강물이 꽁꽁 얼었어요. | The river froze solid. | دریا کا پانی جم گیا۔
+> 손이 얼 것 같아요. | My hands feel like they're freezing. | لگتا ہے ہاتھ جم جائیں گے۔
+> 길이 얼어서 미끄러워요. | The road is frozen and slippery. | سڑک جم کر پھسلن والی ہو گئی ہے۔
++ 미끄럽다 |  | mikkeureopda | adjective | slippery | پھسلن والا | Nature & Weather | 2 | ㅂ-irregular: 미끄러워요.
+> 눈이 와서 길이 미끄러워요. | It snowed, so the road is slippery. | برف پڑنے سے راستہ پھسلن والا ہے۔
+> 바닥이 미끄러우니 조심하세요. | The floor is slippery, so be careful. | فرش پھسلن والا ہے، احتیاط کریں۔
+> 미끄러워서 넘어질 뻔했어요. | It was so slippery I almost fell. | اتنی پھسلن تھی کہ گرتے گرتے بچا۔
++ 경치 | 景致 | gyeongchi | noun | scenery, view | منظر | Travel & Transportation | 2 | Similar: 풍경.
+> 여기 경치가 정말 좋네요. | The view here is really nice. | یہاں کا منظر بہت اچھا ہے۔
+> 경치를 보면서 차를 마셨어요. | I drank tea while enjoying the view. | میں نے نظارہ دیکھتے ہوئے چائے پی۔
+> 가을 경치가 아름다운 곳이에요. | It's a place with beautiful autumn scenery. | یہ جگہ خزاں کے خوبصورت مناظر کے لیے مشہور ہے۔
++ 관광지 | 觀光地 | gwangwangji | noun | tourist attraction | سیاحتی مقام | Travel & Transportation | 2 |
+> 경주는 유명한 관광지예요. | Gyeongju is a famous tourist destination. | گیونگ جو ایک مشہور سیاحتی مقام ہے۔
+> 관광지라서 물가가 비싸요. | It's a tourist spot, so prices are high. | سیاحتی جگہ ہونے کی وجہ سے چیزیں مہنگی ہیں۔
+> 사람이 적은 관광지를 찾고 있어요. | I'm looking for a less crowded tourist spot. | میں کسی کم رش والے سیاحتی مقام کی تلاش میں ہوں۔
++ 명소 | 名所 | myeongso | noun | famous place, landmark | مشہور جگہ | Travel & Transportation | 2 |
+> 남산타워는 서울의 명소예요. | Namsan Tower is a Seoul landmark. | نمسان ٹاور سیول کی مشہور جگہ ہے۔
+> 벚꽃 명소에 사람이 많아요. | Famous cherry blossom spots are crowded. | چیری کے پھولوں والی مشہور جگہوں پر رش ہوتا ہے۔
+> 이 동네의 명소를 소개해 주세요. | Please tell me about this area's famous spots. | اس علاقے کی مشہور جگہیں بتائیں۔
++ 구경하다 |  | gugyeonghada | verb | to look around, to sightsee | سیر کرنا، دیکھنا | Travel & Transportation | 2 | Noun: 구경.
+> 시장을 구경했어요. | I looked around the market. | میں نے بازار کی سیر کی۔
+> 그냥 구경하는 거예요. | I'm just looking. | بس دیکھ رہا ہوں۔
+> 불꽃놀이를 구경하러 갔어요. | I went to watch the fireworks. | میں آتش بازی دیکھنے گیا۔
++ 체험 | 體驗 | cheheom | noun | (hands-on) experience | تجربہ (عملی) | Travel & Transportation | 2 | 체험하다.
+> 한복 입기 체험을 했어요. | I tried wearing hanbok. | میں نے ہانبوک پہن کر دیکھا۔
+> 김치 만들기 체험이 재미있었어요. | The kimchi-making experience was fun. | کمچی بنانے کا تجربہ مزے دار تھا۔
+> 직접 체험해 보니까 이해가 됐어요. | Experiencing it firsthand made me understand. | خود کر کے دیکھا تو سمجھ آ گئی۔
++ 기념품 | 記念品 | ginyeompum | noun | souvenir | یادگاری تحفہ | Travel & Transportation | 2 |
+> 친구에게 줄 기념품을 샀어요. | I bought a souvenir for my friend. | میں نے دوست کے لیے یادگاری تحفہ خریدا۔
+> 기념품 가게는 어디에 있어요? | Where is the souvenir shop? | یادگاری اشیاء کی دکان کہاں ہے؟
+> 여행 기념품으로 엽서를 모아요. | I collect postcards as travel souvenirs. | میں سفر کی یادگار کے طور پر پوسٹ کارڈ جمع کرتا ہوں۔
++ 여행사 | 旅行社 | yeohaengsa | noun | travel agency | ٹریول ایجنسی | Travel & Transportation | 2 |
+> 여행사에서 패키지를 예약했어요. | I booked a package at a travel agency. | میں نے ٹریول ایجنسی سے پیکج بک کیا۔
+> 여행사를 통해서 비자를 받았어요. | I got a visa through a travel agency. | میں نے ٹریول ایجنسی کے ذریعے ویزا لیا۔
+> 여행사 직원이 친절했어요. | The travel agency staff was kind. | ٹریول ایجنسی کا عملہ مہربان تھا۔
++ 비자 |  | bija | noun | visa | ویزا | Travel & Transportation | 2 |
+> 학생 비자를 받았어요. | I got a student visa. | مجھے اسٹوڈنٹ ویزا مل گیا۔
+> 비자 기간이 곧 끝나요. | My visa expires soon. | میرے ویزے کی مدت جلد ختم ہو رہی ہے۔
+> 비자를 연장하려면 서류가 필요해요. | You need documents to extend your visa. | ویزا بڑھانے کے لیے دستاویزات ضروری ہیں۔
++ 해외여행 | 海外旅行 | haeoeyeohaeng | noun | overseas travel | بیرون ملک سفر | Travel & Transportation | 2 |
+> 첫 해외여행이라서 설레요. | It's my first trip abroad, so I'm excited. | پہلا بیرون ملک سفر ہے، بہت خوشی ہے۔
+> 해외여행 갈 때는 보험을 드세요. | Get insurance when traveling abroad. | بیرون ملک سفر پر بیمہ ضرور لیں۔
+> 요즘 해외여행이 쉬워졌어요. | Traveling abroad has become easy these days. | آج کل بیرون ملک سفر آسان ہو گیا ہے۔
++ 배낭여행 | 背囊旅行 | baenangyeohaeng | noun | backpacking trip | بیگ پیک سفر | Travel & Transportation | 2 |
+> 대학생 때 유럽으로 배낭여행을 갔어요. | I went backpacking in Europe in college. | یونیورسٹی کے زمانے میں میں بیگ لے کر یورپ گھوما۔
+> 배낭여행은 돈이 적게 들어요. | Backpacking doesn't cost much. | بیگ پیک سفر میں کم خرچ ہوتا ہے۔
+> 혼자 배낭여행을 해 보고 싶어요. | I want to try backpacking alone. | میں اکیلے بیگ پیک سفر کرنا چاہتا ہوں۔
++ 출국 | 出國 | chulguk | noun | departure from a country | ملک سے روانگی | Travel & Transportation | 2 | Opposite: 입국 (entry).
+> 출국 날짜가 다가와요. | My departure date is approaching. | روانگی کی تاریخ قریب آ رہی ہے۔
+> 출국 수속을 마쳤어요. | I completed the departure procedures. | میں نے روانگی کی کارروائی مکمل کر لی۔
+> 입국할 때 지문을 찍어요. | They take fingerprints when you enter the country. | ملک میں داخلے پر انگلیوں کے نشان لیے جاتے ہیں۔
++ 환율 | 換率 | hwanyul | noun | exchange rate | شرحِ تبادلہ | Economy & Business | 2 |
+> 오늘 환율이 어때요? | What's the exchange rate today? | آج کرنسی کا ریٹ کیا ہے؟
+> 환율이 올라서 여행비가 늘었어요. | The exchange rate went up, so travel costs rose. | ریٹ بڑھنے سے سفر کا خرچ بڑھ گیا۔
+> 은행마다 환율이 조금씩 달라요. | Exchange rates differ slightly from bank to bank. | ہر بینک کا ریٹ تھوڑا مختلف ہوتا ہے۔
++ 성수기 | 盛需期 | seongsugi | noun | peak season | سیزن کا زور | Travel & Transportation | 2 | 비수기 = off-season.
+> 성수기라서 호텔이 비싸요. | Hotels are expensive because it's peak season. | سیزن ہونے کی وجہ سے ہوٹل مہنگے ہیں۔
+> 비수기에 여행하면 싸요. | Traveling in the off-season is cheap. | آف سیزن میں سفر سستا پڑتا ہے۔
+> 성수기에는 미리 예약하세요. | Book ahead during peak season. | سیزن میں پہلے سے بکنگ کرائیں۔
++ 민박 | 民泊 | minbak | noun | homestay, guesthouse | گیسٹ ہاؤس (گھریلو) | Travel & Transportation | 2 | Also 게스트하우스.
+> 시골 민박에서 하룻밤 잤어요. | I stayed one night at a countryside homestay. | میں نے گاؤں کے ایک گیسٹ ہاؤس میں ایک رات گزاری۔
+> 민박집 주인이 아침을 해 주셨어요. | The homestay owner made us breakfast. | گیسٹ ہاؤس کے مالک نے ہمیں ناشتہ کرایا۔
+> 민박은 호텔보다 저렴해요. | Homestays are cheaper than hotels. | گیسٹ ہاؤس ہوٹل سے سستے ہوتے ہیں۔
++ 섬 |  | seom | noun | island | جزیرہ | Nature & Weather | 2 |
+> 제주도는 한국에서 가장 큰 섬이에요. | Jeju is the largest island in Korea. | جیجو کوریا کا سب سے بڑا جزیرہ ہے۔
+> 배를 타고 섬에 갔어요. | We took a boat to the island. | ہم کشتی میں جزیرے پر گئے۔
+> 이 섬에는 사람이 별로 안 살아요. | Not many people live on this island. | اس جزیرے پر زیادہ لوگ نہیں رہتے۔
++ 숲 |  | sup | noun | forest, woods | جنگل | Nature & Weather | 2 |
+> 숲속을 걸으면 마음이 편해져요. | Walking in the forest calms the mind. | جنگل میں چلنے سے دل کو سکون ملتا ہے۔
+> 이 숲에는 다양한 동물이 살아요. | Various animals live in this forest. | اس جنگل میں مختلف جانور رہتے ہیں۔
+> 산불로 숲이 사라졌어요. | The forest disappeared in the wildfire. | جنگل کی آگ سے جنگل ختم ہو گیا۔
++ 호수 | 湖水 | hosu | noun | lake | جھیل | Nature & Weather | 2 |
+> 호수 주변을 산책했어요. | I took a walk around the lake. | میں نے جھیل کے گرد سیر کی۔
+> 호수가 거울처럼 맑아요. | The lake is as clear as a mirror. | جھیل آئینے کی طرح صاف ہے۔
+> 겨울에는 호수가 얼어요. | The lake freezes in winter. | سردیوں میں جھیل جم جاتی ہے۔
++ 별 |  | byeol | noun | star | ستارہ | Nature & Weather | 2 |
+> 시골에서는 별이 잘 보여요. | You can see the stars well in the countryside. | گاؤں میں ستارے صاف نظر آتے ہیں۔
+> 별을 보면서 소원을 빌었어요. | I made a wish looking at the stars. | ستاروں کو دیکھ کر میں نے دعا مانگی۔
+> 이 호텔은 별 다섯 개예요. | This hotel has five stars. | یہ فائیو اسٹار ہوٹل ہے۔
++ 해변 | 海邊 | haebyeon | noun | beach | ساحل | Nature & Weather | 2 | Also 바닷가.
+> 해변에서 일몰을 봤어요. | I watched the sunset at the beach. | میں نے ساحل پر غروبِ آفتاب دیکھا۔
+> 해변을 따라 걸었어요. | I walked along the beach. | میں ساحل کے ساتھ ساتھ چلا۔
+> 여름에 해변은 사람으로 가득해요. | Beaches are packed with people in summer. | گرمیوں میں ساحل لوگوں سے بھرا ہوتا ہے۔
++ 단풍 | 丹楓 | danpung | noun | autumn foliage | خزاں کے رنگین پتے | Nature & Weather | 2 | 단풍놀이 = going to see autumn leaves.
+> 10월에 단풍 구경을 가요. | I go to see the autumn leaves in October. | اکتوبر میں ہم رنگین پتے دیکھنے جاتے ہیں۔
+> 설악산 단풍이 유명해요. | The autumn foliage at Seoraksan is famous. | سوراک سان کے خزاں کے رنگ مشہور ہیں۔
+> 단풍이 들어서 산이 빨개졌어요. | The leaves have turned, making the mountain red. | پتوں کا رنگ بدلنے سے پہاڑ سرخ ہو گیا۔
++ 벚꽃 |  | beotkkot | noun | cherry blossom | چیری کے پھول | Nature & Weather | 2 |
+> 4월에는 벚꽃이 활짝 피어요. | Cherry blossoms are in full bloom in April. | اپریل میں چیری کے پھول کھل اٹھتے ہیں۔
+> 벚꽃 축제에 갔어요. | I went to a cherry blossom festival. | میں چیری کے پھولوں کے میلے میں گیا۔
+> 벚꽃이 비처럼 떨어져요. | Cherry blossom petals fall like rain. | چیری کی پنکھڑیاں بارش کی طرح گرتی ہیں۔
++ 궁 | 宮 | gung | noun | palace | محل | Society & Culture | 2 | 경복궁, 창덕궁. Also 궁궐.
+> 경복궁은 조선 시대의 궁이에요. | Gyeongbokgung is a palace from the Joseon dynasty. | گیونگ بوک گنگ جوسون دور کا محل ہے۔
+> 한복을 입으면 궁에 무료로 들어가요. | You enter the palace for free if you wear hanbok. | ہانبوک پہنیں تو محل میں داخلہ مفت ہے۔
+> 궁 안에 아름다운 정원이 있어요. | There's a beautiful garden inside the palace. | محل کے اندر خوبصورت باغ ہے۔
++ 절 |  | jeol | noun | Buddhist temple; a deep bow | بدھ مندر؛ جھک کر سلام | Society & Culture | 2 | 절하다 = to bow deeply (e.g., on New Year's).
+> 산속에 오래된 절이 있어요. | There's an old temple in the mountains. | پہاڑوں میں ایک پرانا مندر ہے۔
+> 설날에 어른들께 절을 해요. | On Lunar New Year we bow to our elders. | نئے قمری سال پر بڑوں کو جھک کر سلام کرتے ہیں۔
+> 절에서 하룻밤을 지내는 템플스테이가 있어요. | There's a temple stay where you spend a night at a temple. | مندر میں ایک رات گزارنے کا پروگرام ہوتا ہے۔
++ 한복 | 韓服 | hanbok | noun | hanbok (traditional Korean clothing) | ہانبوک (روایتی کوریائی لباس) | Society & Culture | 2 |
+> 명절에 한복을 입었어요. | I wore hanbok for the holiday. | تہوار پر میں نے ہانبوک پہنا۔
+> 한복 대여점에서 빌렸어요. | I rented it from a hanbok rental shop. | میں نے ہانبوک کرائے کی دکان سے لیا۔
+> 한복은 색깔이 아름다워요. | Hanbok has beautiful colors. | ہانبوک کے رنگ خوبصورت ہوتے ہیں۔
++ 설날 |  | seollal | noun | Lunar New Year (Korean New Year) | نیا قمری سال | Society & Culture | 2 |
+> 설날에 떡국을 먹어요. | We eat rice cake soup on Lunar New Year. | نئے سال پر چاول کے کیک کا سوپ کھاتے ہیں۔
+> 설날에는 세뱃돈을 받아요. | Children get New Year's money on Seollal. | نئے سال پر بچوں کو عیدی ملتی ہے۔
+> 설날 연휴에 고향에 가요. | I go home during the Lunar New Year holiday. | نئے سال کی چھٹیوں میں میں گھر جاتا ہوں۔
++ 추석 | 秋夕 | chuseok | noun | Chuseok (Korean harvest festival) | چھوسوک (فصل کا تہوار) | Society & Culture | 2 |
+> 추석에는 송편을 만들어요. | We make songpyeon on Chuseok. | چھوسوک پر ہم سونگ پیون بناتے ہیں۔
+> 추석은 한국의 추수 감사절이에요. | Chuseok is the Korean Thanksgiving. | چھوسوک کوریا کا فصل کا شکرانہ تہوار ہے۔
+> 추석 때 보름달을 보면서 소원을 빌어요. | On Chuseok we make wishes looking at the full moon. | چھوسوک پر پورے چاند کو دیکھ کر دعا مانگتے ہیں۔
++ 풍습 | 風習 | pungseup | noun | custom, tradition | رسم و رواج | Society & Culture | 2 |
+> 나라마다 결혼 풍습이 달라요. | Wedding customs differ by country. | ہر ملک میں شادی کی رسمیں مختلف ہیں۔
+> 오래된 풍습이 사라지고 있어요. | Old customs are disappearing. | پرانی رسمیں ختم ہو رہی ہیں۔
+> 이것은 한국의 독특한 풍습이에요. | This is a unique Korean custom. | یہ کوریا کی ایک منفرد رسم ہے۔
++ 존댓말 | 尊待- | jondaenmal | noun | honorific speech | ادب والی زبان | Society & Culture | 2 | Opposite: 반말 (casual speech).
+> 처음 만난 사람에게는 존댓말을 써요. | We use honorific speech with people we've just met. | پہلی بار ملنے والوں سے ادب سے بات کرتے ہیں۔
+> 존댓말은 외국인에게 어려워요. | Honorific speech is hard for foreigners. | ادب والی زبان غیر ملکیوں کے لیے مشکل ہے۔
+> 친한 친구에게는 반말을 해요. | We speak casually with close friends. | قریبی دوستوں سے بے تکلف بات کرتے ہیں۔
++ 반말 | 半- | banmal | noun | casual (informal) speech | بے تکلف زبان | Society & Culture | 2 |
+> 우리 이제 반말할까요? | Shall we speak casually now? | کیا اب ہم بے تکلفی سے بات کریں؟
+> 어른에게 반말하면 안 돼요. | You mustn't speak casually to elders. | بڑوں سے بے تکلفی سے بات نہیں کرنی چاہیے۔
+> 반말을 들어서 기분이 나빴어요. | I was offended because they spoke to me casually. | بے تکلف لہجہ سن کر برا لگا۔
++ 예의 | 禮儀 | yeui | noun | manners, courtesy | ادب، تہذیب | Society & Culture | 2 | 예의 바르다 = well-mannered.
+> 그 학생은 예의가 발라요. | That student is very polite. | وہ طالب علم بہت مؤدب ہے۔
+> 식사할 때 예의를 지키세요. | Mind your manners when eating. | کھاتے وقت آداب کا خیال رکھیں۔
+> 예의 없는 행동은 하지 마세요. | Don't behave rudely. | بدتمیزی نہ کریں۔
++ 차례 | 次例 | charye | noun | turn, order; ancestral rite | باری؛ ترتیب | Society & Culture | 2 | 차례를 지내다 = to hold an ancestral rite (holidays).
+> 이제 제 차례예요. | It's my turn now. | اب میری باری ہے۔
+> 차례대로 줄을 서세요. | Line up in order. | ترتیب سے قطار بنائیں۔
+> 추석 아침에 차례를 지내요. | We hold an ancestral rite on Chuseok morning. | چھوسوک کی صبح آبا و اجداد کی یاد میں رسم ادا کرتے ہیں۔
++ 전통문화 | 傳統文化 | jeontongmunhwa | noun | traditional culture | روایتی ثقافت | Society & Culture | 2 |
+> 전통문화를 지키는 것이 중요해요. | It's important to preserve traditional culture. | روایتی ثقافت کو محفوظ رکھنا اہم ہے۔
+> 한옥 마을에서 전통문화를 체험했어요. | I experienced traditional culture in a hanok village. | میں نے روایتی گاؤں میں قدیم ثقافت کا تجربہ کیا۔
+> 젊은 세대도 전통문화에 관심이 많아요. | The younger generation is also interested in traditional culture. | نئی نسل بھی روایتی ثقافت میں دلچسپی رکھتی ہے۔
++ 한류 | 韓流 | hallyu | noun | the Korean Wave | کوریائی لہر (ثقافتی مقبولیت) | Society & Culture | 2 | The global popularity of K-pop, dramas, food.
+> 한류 덕분에 한국어를 배우는 사람이 늘었어요. | Thanks to the Korean Wave, more people learn Korean. | کوریائی لہر کی بدولت کورین سیکھنے والے بڑھ گئے۔
+> 한류 스타가 공항에 도착했어요. | A Korean Wave star arrived at the airport. | ایک کوریائی اسٹار ایئرپورٹ پہنچا۔
+> 파키스탄에서도 한류가 인기예요. | The Korean Wave is popular in Pakistan too. | پاکستان میں بھی کوریائی ثقافت مقبول ہے۔
++ 케이팝 |  | keipap | noun | K-pop | کے پاپ | Society & Culture | 2 |
+> 케이팝 콘서트에 가 보고 싶어요. | I want to go to a K-pop concert. | میں کے پاپ کنسرٹ میں جانا چاہتا ہوں۔
+> 케이팝을 듣고 한국어를 시작했어요. | I started Korean after listening to K-pop. | کے پاپ سن کر میں نے کورین شروع کی۔
+> 케이팝 춤을 배우고 있어요. | I'm learning K-pop dance. | میں کے پاپ ڈانس سیکھ رہا ہوں۔
++ 팬 |  | paen | noun | fan | مداح | Society & Culture | 2 | 팬클럽 = fan club.
+> 저는 그 가수의 팬이에요. | I'm a fan of that singer. | میں اس گلوکار کا مداح ہوں۔
+> 팬들이 공항에서 기다렸어요. | Fans waited at the airport. | مداح ایئرپورٹ پر انتظار کر رہے تھے۔
+> 팬 사인회에 갔어요. | I went to a fan signing event. | میں مداحوں کے لیے آٹوگراف کی تقریب میں گیا۔
++ 인기 | 人氣 | ingi | noun | popularity | مقبولیت | Society & Culture | 2 | 인기가 있다/많다 = popular.
+> 이 노래는 인기가 많아요. | This song is very popular. | یہ گانا بہت مقبول ہے۔
+> 그 식당은 인기가 있어서 줄을 서야 해요. | That restaurant is popular, so you have to wait in line. | وہ ریستوران مقبول ہے، قطار میں کھڑا ہونا پڑتا ہے۔
+> 인기 메뉴가 뭐예요? | What's the most popular dish? | سب سے مقبول ڈش کون سی ہے؟
++ 문화재 | 文化財 | munhwajae | noun | cultural heritage, cultural asset | ثقافتی ورثہ | Society & Culture | 2 |
+> 이 탑은 국가 문화재예요. | This pagoda is a national cultural asset. | یہ مینار قومی ثقافتی ورثہ ہے۔
+> 문화재를 보호해야 해요. | We must protect cultural heritage. | ثقافتی ورثے کی حفاظت ضروری ہے۔
+> 박물관에서 문화재를 봤어요. | I saw cultural artifacts at the museum. | میں نے عجائب گھر میں ثقافتی نوادرات دیکھے۔
++ 유적 | 遺跡 | yujeok | noun | historic site, ruins | تاریخی آثار | Society & Culture | 2 |
+> 경주에는 신라 유적이 많아요. | Gyeongju has many Silla-era historic sites. | گیونگ جو میں شلا دور کے بہت آثار ہیں۔
+> 모헨조다로는 유명한 고대 유적이에요. | Mohenjo-daro is a famous ancient site. | موہنجو داڑو ایک مشہور قدیم آثار ہیں۔
+> 유적지를 방문했어요. | I visited a historic site. | میں نے ایک تاریخی مقام دیکھا۔
++ 세계 문화유산 | 世界文化遺産 | segye munhwayusan | noun | World Heritage Site | عالمی ثقافتی ورثہ | Society & Culture | 2 |
+> 종묘는 세계 문화유산이에요. | Jongmyo Shrine is a World Heritage Site. | جونگمیو عالمی ثقافتی ورثہ ہے۔
+> 세계 문화유산을 보러 여행을 가요. | I travel to see World Heritage Sites. | میں عالمی ورثے کے مقامات دیکھنے سفر کرتا ہوں۔
+> 라호르 성은 세계 문화유산으로 지정됐어요. | Lahore Fort is designated a World Heritage Site. | لاہور کا قلعہ عالمی ورثے میں شامل ہے۔
++ 기념일 | 記念日 | ginyeomil | noun | anniversary, commemorative day | سالگرہ (یادگار دن) | Society & Culture | 2 |
+> 오늘은 결혼 기념일이에요. | Today is our wedding anniversary. | آج ہماری شادی کی سالگرہ ہے۔
+> 한국 커플은 100일 기념일을 챙겨요. | Korean couples celebrate their 100-day anniversary. | کوریائی جوڑے سو دن کی یادگار مناتے ہیں۔
+> 한글날은 한글을 기념하는 날이에요. | Hangul Day commemorates Hangul. | ہنگل ڈے ہنگل کی یاد میں منایا جاتا ہے۔

@@ -1,0 +1,201 @@
+# Intermediate: education, media, technology
++ 입학 | 入學 | iphak | noun | admission, entering a school | داخلہ | Education & University | 2 | 입학하다; 입학식 = entrance ceremony.
+> 동생이 올해 대학교에 입학했어요. | My younger sibling entered university this year. | چھوٹے بھائی کا اس سال یونیورسٹی میں داخلہ ہوا۔
+> 입학 시험을 준비하고 있어요. | I'm preparing for the entrance exam. | میں داخلہ امتحان کی تیاری کر رہا ہوں۔
+> 3월에 입학식이 있어요. | The entrance ceremony is in March. | مارچ میں داخلے کی تقریب ہے۔
++ 학원 | 學院 | hagwon | noun | private academy, cram school | ٹیوشن سینٹر، نجی ادارہ | Education & University | 2 |
+> 아이들은 방과 후에 학원에 가요. | Children go to academies after school. | بچے اسکول کے بعد ٹیوشن سینٹر جاتے ہیں۔
+> 영어 학원에 다니고 있어요. | I'm attending an English academy. | میں انگریزی کے ادارے میں پڑھ رہا ہوں۔
+> 학원비가 너무 비싸요. | Academy fees are too expensive. | ٹیوشن کی فیس بہت زیادہ ہے۔
++ 교재 | 敎材 | gyojae | noun | textbook, teaching material | نصابی کتاب | Education & University | 2 | Also 교과서 (school textbook).
+> 새 교재로 공부를 시작했어요. | I started studying with a new textbook. | میں نے نئی نصابی کتاب سے پڑھائی شروع کی۔
+> 교재는 서점에서 살 수 있어요. | You can buy the textbook at the bookstore. | نصابی کتاب کتابوں کی دکان سے مل جاتی ہے۔
+> 이 교재는 듣기 연습이 많아요. | This textbook has a lot of listening practice. | اس کتاب میں سننے کی بہت مشقیں ہیں۔
++ 학년 | 學年 | haknyeon | noun | school year, grade | جماعت، سال (تعلیمی) | Education & University | 2 |
+> 몇 학년이에요? | What year are you in? | آپ کس جماعت میں ہیں؟
+> 저는 대학교 3학년이에요. | I'm a third-year university student. | میں یونیورسٹی کے تیسرے سال میں ہوں۔
+> 새 학년이 시작됐어요. | The new school year has started. | نیا تعلیمی سال شروع ہو گیا۔
++ 점수 | 點數 | jeomsu | noun | score, points | نمبر، اسکور | Education & University | 2 |
+> 시험 점수가 잘 나왔어요. | I got a good score on the exam. | امتحان میں اچھے نمبر آئے۔
+> 토픽 점수가 얼마예요? | What's your TOPIK score? | آپ کا ٹاپک اسکور کتنا ہے؟
+> 점수보다 실력이 중요해요. | Real ability matters more than scores. | نمبروں سے زیادہ صلاحیت اہم ہے۔
++ 문법 | 文法 | munbeop | noun | grammar | گرامر، قواعد | Education & University | 2 |
+> 한국어 문법은 생각보다 규칙적이에요. | Korean grammar is more regular than I thought. | کورین گرامر سوچ سے زیادہ باقاعدہ ہے۔
+> 문법 실수를 고쳐 주세요. | Please correct my grammar mistakes. | میری گرامر کی غلطیاں درست کریں۔
+> 이 문법은 시험에 자주 나와요. | This grammar often appears on the exam. | یہ گرامر امتحان میں اکثر آتی ہے۔
++ 발음 | 發音 | bareum | noun | pronunciation | تلفظ | Education & University | 2 |
+> 발음이 정말 좋아요. | Your pronunciation is really good. | آپ کا تلفظ بہت اچھا ہے۔
+> 이 단어 발음이 어려워요. | This word is hard to pronounce. | اس لفظ کا تلفظ مشکل ہے۔
+> 드라마를 보면서 발음을 연습해요. | I practice pronunciation while watching dramas. | میں ڈرامے دیکھتے ہوئے تلفظ کی مشق کرتا ہوں۔
++ 어휘 | 語彙 | eohwi | noun | vocabulary | ذخیرۂ الفاظ | Education & University | 2 |
+> 어휘력을 늘리려면 책을 많이 읽으세요. | Read a lot to expand your vocabulary. | ذخیرۂ الفاظ بڑھانے کے لیے بہت پڑھیں۔
+> 토픽 4급에 필요한 어휘가 많아요. | TOPIK level 4 requires a lot of vocabulary. | ٹاپک لیول چار کے لیے بہت سے الفاظ درکار ہیں۔
+> 매일 새로운 어휘를 배워요. | I learn new vocabulary every day. | میں روز نئے الفاظ سیکھتا ہوں۔
++ 듣기 |  | deutgi | noun | listening (skill) | سننا (مہارت) | Education & University | 2 | 말하기 speaking, 읽기 reading, 쓰기 writing.
+> 듣기 시험이 제일 어려워요. | The listening test is the hardest. | سننے کا امتحان سب سے مشکل ہے۔
+> 듣기 실력을 늘리고 싶어요. | I want to improve my listening skills. | میں سننے کی مہارت بہتر کرنا چاہتا ہوں۔
+> 매일 30분씩 듣기 연습을 해요. | I practice listening for 30 minutes every day. | میں روز تیس منٹ سننے کی مشق کرتا ہوں۔
++ 말하기 |  | malhagi | noun | speaking (skill) | بولنا (مہارت) | Education & University | 2 |
+> 말하기는 연습이 많이 필요해요. | Speaking needs a lot of practice. | بولنے کے لیے بہت مشق چاہیے۔
+> 말하기 대회에 나갈 거예요. | I'm going to enter a speaking contest. | میں تقریری مقابلے میں حصہ لوں گا۔
+> 쓰기보다 말하기가 더 자신 있어요. | I'm more confident at speaking than writing. | لکھنے سے زیادہ بولنے میں اعتماد ہے۔
++ 쓰기 |  | sseugi | noun | writing (skill) | لکھنا (مہارت) | Education & University | 2 |
+> 토픽 쓰기 시험은 시간이 부족해요. | Time is short in the TOPIK writing test. | ٹاپک کے تحریری امتحان میں وقت کم پڑتا ہے۔
+> 일기를 쓰면 쓰기 실력이 늘어요. | Keeping a diary improves your writing. | ڈائری لکھنے سے تحریر بہتر ہوتی ہے۔
+> 쓰기 숙제를 제출했어요. | I handed in my writing assignment. | میں نے لکھنے کا کام جمع کرایا۔
++ 읽기 |  | ilgi | noun | reading (skill) | پڑھنا (مہارت) | Education & University | 2 |
+> 읽기 지문이 너무 길어요. | The reading passage is too long. | پڑھنے کا متن بہت لمبا ہے۔
+> 신문으로 읽기 연습을 해요. | I practice reading with newspapers. | میں اخبار سے پڑھنے کی مشق کرتا ہوں۔
+> 읽기 점수가 많이 올랐어요. | My reading score went up a lot. | پڑھنے کے نمبر کافی بڑھ گئے۔
++ 실수 | 失手 | silsu | noun | mistake, error | غلطی | Education & University | 2 | 실수하다.
+> 누구나 실수를 해요. | Everyone makes mistakes. | ہر کوئی غلطی کرتا ہے۔
+> 같은 실수를 반복하지 마세요. | Don't repeat the same mistake. | ایک ہی غلطی بار بار نہ کریں۔
+> 제 실수였어요. 죄송합니다. | It was my mistake. I'm sorry. | یہ میری غلطی تھی، معذرت۔
++ 정답 | 正答 | jeongdap | noun | correct answer | صحیح جواب | Education & University | 2 | 오답 = wrong answer.
+> 정답을 맞혔어요. | I got the right answer. | میں نے صحیح جواب دیا۔
+> 정답은 3번이에요. | The correct answer is number 3. | صحیح جواب نمبر تین ہے۔
+> 인생에는 정답이 없어요. | There's no single right answer in life. | زندگی میں کوئی ایک صحیح جواب نہیں ہوتا۔
++ 장학생 | 奬學生 | janghaksaeng | noun | scholarship student | وظیفہ یافتہ طالب علم | Education & University | 2 |
+> 그는 정부 장학생으로 왔어요. | He came as a government scholarship student. | وہ سرکاری وظیفے پر آیا ہے۔
+> 장학생은 성적을 유지해야 해요. | Scholarship students must keep up their grades. | وظیفہ یافتہ طلبہ کو اپنے نمبر برقرار رکھنے ہوتے ہیں۔
+> 장학생으로 선발됐어요. | I was selected as a scholarship student. | مجھے وظیفے کے لیے منتخب کر لیا گیا۔
++ 대학원 | 大學院 | daehagwon | noun | graduate school | گریجویٹ اسکول (ماسٹرز/پی ایچ ڈی) | Education & University | 2 | 석사 = master's; 박사 = doctorate.
+> 졸업 후에 대학원에 가고 싶어요. | I want to go to graduate school after graduating. | فراغت کے بعد میں ماسٹرز کرنا چاہتا ہوں۔
+> 대학원에서 경영학을 공부해요. | I study business administration in graduate school. | میں گریجویٹ اسکول میں بزنس ایڈمنسٹریشن پڑھتا ہوں۔
+> 박사 과정에 합격했어요. | I was accepted into a doctoral program. | مجھے پی ایچ ڈی میں داخلہ مل گیا۔
++ 연구실 | 硏究室 | yeongusil | noun | laboratory, research office | تحقیقی کمرہ، لیب | Education & University | 2 |
+> 밤늦게까지 연구실에 있었어요. | I stayed in the lab until late at night. | میں رات دیر تک لیب میں رہا۔
+> 교수님 연구실은 3층이에요. | The professor's office is on the third floor. | پروفیسر کا دفتر تیسری منزل پر ہے۔
+> 연구실 동료들과 회의했어요. | I had a meeting with my lab colleagues. | میں نے لیب کے ساتھیوں سے میٹنگ کی۔
++ 실험 | 實驗 | silheom | noun | experiment | تجربہ (سائنسی) | Science & Technology | 2 |
+> 화학 실험을 했어요. | We did a chemistry experiment. | ہم نے کیمیا کا تجربہ کیا۔
+> 실험 결과가 예상과 같았어요. | The experiment result matched our expectations. | تجربے کا نتیجہ توقع کے مطابق نکلا۔
+> 실험할 때는 안전에 주의하세요. | Pay attention to safety when experimenting. | تجربہ کرتے وقت حفاظت کا خیال رکھیں۔
++ 과학 | 科學 | gwahak | noun | science | سائنس | Science & Technology | 2 |
+> 과학 기술이 빠르게 발전하고 있어요. | Science and technology are developing quickly. | سائنس اور ٹیکنالوجی تیزی سے ترقی کر رہی ہیں۔
+> 어렸을 때 과학을 좋아했어요. | I liked science when I was young. | بچپن میں مجھے سائنس پسند تھی۔
+> 과학자가 되는 것이 꿈이에요. | My dream is to become a scientist. | میرا خواب سائنسدان بننا ہے۔
++ 기술 | 技術 | gisul | noun | technology; skill, technique | ٹیکنالوجی؛ مہارت | Science & Technology | 2 |
+> 한국은 IT 기술이 뛰어나요. | Korea excels in IT technology. | کوریا آئی ٹی ٹیکنالوجی میں آگے ہے۔
+> 새로운 기술을 배우고 있어요. | I'm learning a new skill. | میں ایک نئی مہارت سیکھ رہا ہوں۔
+> 기술이 발전하면 일자리가 바뀌어요. | As technology advances, jobs change. | ٹیکنالوجی بڑھنے سے روزگار بدل جاتے ہیں۔
++ 인공지능 | 人工知能 | ingongjineung | noun | artificial intelligence | مصنوعی ذہانت | Science & Technology | 2 | Abbreviation: AI.
+> 인공지능이 우리 생활을 바꾸고 있어요. | Artificial intelligence is changing our lives. | مصنوعی ذہانت ہماری زندگی بدل رہی ہے۔
+> 인공지능으로 번역하는 앱이 많아요. | There are many apps that translate using AI. | مصنوعی ذہانت سے ترجمہ کرنے والی بہت سی ایپس ہیں۔
+> 인공지능에 대한 걱정도 있어요. | There are also concerns about AI. | مصنوعی ذہانت کے بارے میں خدشات بھی ہیں۔
++ 스마트폰 |  | seumateupon | noun | smartphone | اسمارٹ فون | Media & Technology | 2 |
+> 요즘은 누구나 스마트폰을 써요. | Everyone uses a smartphone these days. | آج کل ہر کوئی اسمارٹ فون استعمال کرتا ہے۔
+> 스마트폰 중독이 문제예요. | Smartphone addiction is a problem. | اسمارٹ فون کی لت ایک مسئلہ ہے۔
+> 스마트폰으로 은행 업무를 봐요. | I do my banking on my smartphone. | میں اسمارٹ فون سے بینک کے کام کرتا ہوں۔
++ 앱 |  | aep | noun | app | ایپ | Media & Technology | 2 | Also 애플리케이션 / 어플.
+> 이 앱으로 택시를 부를 수 있어요. | You can call a taxi with this app. | اس ایپ سے ٹیکسی بلا سکتے ہیں۔
+> 한국어 공부 앱을 추천해 주세요. | Please recommend a Korean study app. | کورین سیکھنے کی کوئی ایپ بتائیں۔
+> 앱을 다운로드했어요. | I downloaded the app. | میں نے ایپ ڈاؤن لوڈ کی۔
++ 비밀번호 | 祕密番號 | bimilbeonho | noun | password, PIN | پاس ورڈ | Media & Technology | 2 |
+> 비밀번호를 잊어버렸어요. | I forgot my password. | میں اپنا پاس ورڈ بھول گیا۔
+> 비밀번호는 다른 사람에게 알려 주지 마세요. | Don't tell your password to others. | پاس ورڈ کسی کو نہ بتائیں۔
+> 문 비밀번호가 뭐예요? | What's the door code? | دروازے کا کوڈ کیا ہے؟
++ 화면 | 畫面 | hwamyeon | noun | screen | اسکرین | Media & Technology | 2 |
+> 휴대폰 화면이 깨졌어요. | My phone screen cracked. | فون کی اسکرین ٹوٹ گئی۔
+> 화면이 너무 밝아요. | The screen is too bright. | اسکرین بہت روشن ہے۔
+> 화면을 오래 보면 눈이 피곤해요. | Looking at a screen for a long time tires your eyes. | دیر تک اسکرین دیکھنے سے آنکھیں تھک جاتی ہیں۔
++ 충전기 | 充電器 | chungjeongi | noun | charger | چارجر | Media & Technology | 2 | 배터리 = battery.
+> 충전기를 빌려줄 수 있어요? | Can you lend me a charger? | کیا آپ مجھے چارجر دے سکتے ہیں؟
+> 충전기를 집에 두고 왔어요. | I left my charger at home. | میں چارجر گھر بھول آیا۔
+> 배터리가 10% 남았어요. | There's 10% battery left. | بیٹری دس فیصد رہ گئی ہے۔
++ 메시지 |  | mesiji | noun | message | پیغام | Media & Technology | 2 |
+> 메시지를 남겨 주세요. | Please leave a message. | براہ کرم پیغام چھوڑیں۔
+> 친구에게 메시지를 보냈는데 답이 없어요. | I sent my friend a message but there's no reply. | دوست کو پیغام بھیجا مگر جواب نہیں آیا۔
+> 이 영화는 중요한 메시지를 담고 있어요. | This movie carries an important message. | یہ فلم ایک اہم پیغام رکھتی ہے۔
++ 댓글 | 對- | daetgeul | noun | (online) comment, reply | تبصرہ (آن لائن) | Media & Technology | 2 | 악플 = malicious comment.
+> 제 사진에 댓글이 많이 달렸어요. | My photo got many comments. | میری تصویر پر بہت سے تبصرے آئے۔
+> 나쁜 댓글은 쓰지 마세요. | Don't write mean comments. | برے تبصرے نہ لکھیں۔
+> 댓글을 읽고 기분이 좋아졌어요. | Reading the comments cheered me up. | تبصرے پڑھ کر موڈ اچھا ہو گیا۔
++ 동영상 | 動映像 | dongyeongsang | noun | video (clip) | ویڈیو | Media & Technology | 2 |
+> 요리 동영상을 보면서 따라 했어요. | I followed along while watching a cooking video. | میں نے کھانا پکانے کی ویڈیو دیکھ کر بنایا۔
+> 동영상을 찍어서 올렸어요. | I filmed a video and posted it. | میں نے ویڈیو بنا کر اپ لوڈ کی۔
+> 이 동영상은 조회 수가 백만이에요. | This video has a million views. | اس ویڈیو کو دس لاکھ بار دیکھا گیا ہے۔
++ 방송 | 放送 | bangsong | noun | broadcast | نشریات | Media & Technology | 2 | 방송국 = broadcasting station.
+> 이 방송은 생방송이에요. | This broadcast is live. | یہ نشریات براہ راست ہیں۔
+> 그 가수가 방송에 나왔어요. | That singer appeared on TV. | وہ گلوکار ٹی وی پر آیا۔
+> 안내 방송이 나오고 있어요. | An announcement is being made. | اعلان ہو رہا ہے۔
++ 프로그램 |  | peurogeuraem | noun | program (TV, software) | پروگرام | Media & Technology | 2 |
+> 이 프로그램은 매주 토요일에 해요. | This program airs every Saturday. | یہ پروگرام ہر ہفتے کو آتا ہے۔
+> 컴퓨터 프로그램을 설치했어요. | I installed a computer program. | میں نے کمپیوٹر پروگرام انسٹال کیا۔
+> 교환 학생 프로그램에 지원했어요. | I applied to an exchange student program. | میں نے ایکسچینج اسٹوڈنٹ پروگرام میں درخواست دی۔
++ 기사 | 記事 | gisa | noun | (news) article | خبر، مضمون | Media & Technology | 2 | Same sound as 기사 (driver).
+> 그 기사를 읽고 놀랐어요. | I was surprised reading that article. | وہ خبر پڑھ کر حیرت ہوئی۔
+> 기자가 기사를 썼어요. | The reporter wrote an article. | صحافی نے خبر لکھی۔
+> 이 기사는 사실이 아니에요. | This article isn't true. | یہ خبر سچ نہیں ہے۔
++ 언론 | 言論 | eollon | noun | the press, media | صحافت، میڈیا | Media & Technology | 2 |
+> 언론의 자유는 중요해요. | Freedom of the press is important. | صحافت کی آزادی اہم ہے۔
+> 그 사건은 언론에 크게 보도됐어요. | That incident was widely reported in the media. | وہ واقعہ میڈیا میں بڑے پیمانے پر رپورٹ ہوا۔
+> 언론은 사실을 전해야 해요. | The press should report facts. | صحافت کو حقائق بیان کرنے چاہئیں۔
++ 보도하다 | 報道- | bodohada | verb | to report (news) | خبر دینا | Media & Technology | 2 |
+> 뉴스에서 사고를 보도했어요. | The news reported the accident. | خبروں میں حادثے کی اطلاع دی گئی۔
+> 정확하게 보도해야 해요. | It must be reported accurately. | درست خبر دینا ضروری ہے۔
+> 그 소식은 아직 보도되지 않았어요. | That news hasn't been reported yet. | وہ خبر ابھی نشر نہیں ہوئی۔
++ 유튜브 |  | yutyubeu | noun | YouTube | یوٹیوب | Media & Technology | 2 | 유튜버 = YouTuber.
+> 유튜브로 한국어를 공부해요. | I study Korean on YouTube. | میں یوٹیوب سے کورین سیکھتا ہوں۔
+> 그는 유명한 유튜버예요. | He's a famous YouTuber. | وہ ایک مشہور یوٹیوبر ہے۔
+> 유튜브에 영상을 올렸어요. | I uploaded a video to YouTube. | میں نے یوٹیوب پر ویڈیو ڈالی۔
++ 사이트 |  | saiteu | noun | website | ویب سائٹ | Media & Technology | 2 | Also 홈페이지.
+> 학교 사이트에서 신청하세요. | Apply on the school website. | اسکول کی ویب سائٹ پر درخواست دیں۔
+> 이 사이트는 안전하지 않아요. | This site isn't safe. | یہ ویب سائٹ محفوظ نہیں ہے۔
+> 쇼핑 사이트에서 옷을 샀어요. | I bought clothes on a shopping site. | میں نے شاپنگ سائٹ سے کپڑے خریدے۔
++ 계정 | 計定 | gyejeong | noun | (online) account | اکاؤنٹ (آن لائن) | Media & Technology | 2 | Bank account: 계좌.
+> 새 계정을 만들었어요. | I created a new account. | میں نے نیا اکاؤنٹ بنایا۔
+> 계정이 해킹당했어요. | My account was hacked. | میرا اکاؤنٹ ہیک ہو گیا۔
+> 계정에 로그인할 수 없어요. | I can't log in to my account. | میں اپنے اکاؤنٹ میں لاگ ان نہیں کر سکتا۔
++ 다운로드하다 |  | daunnodeuhada | verb | to download | ڈاؤن لوڈ کرنا | Media & Technology | 2 | Upload: 업로드하다 / 올리다.
+> 파일을 다운로드했어요. | I downloaded the file. | میں نے فائل ڈاؤن لوڈ کی۔
+> 앱을 무료로 다운로드할 수 있어요. | You can download the app for free. | ایپ مفت ڈاؤن لوڈ ہو سکتی ہے۔
+> 다운로드가 너무 느려요. | The download is too slow. | ڈاؤن لوڈ بہت سست ہے۔
++ 올리다 |  | ollida | verb | to raise, to put up; to post (online) | بڑھانا؛ اوپر رکھنا؛ پوسٹ کرنا | Media & Technology | 2 | Opposite: 내리다.
+> 사진을 SNS에 올렸어요. | I posted a photo on social media. | میں نے تصویر سوشل میڈیا پر ڈالی۔
+> 가게가 가격을 올렸어요. | The shop raised its prices. | دکان نے قیمتیں بڑھا دیں۔
+> 짐을 선반 위에 올려 주세요. | Please put your luggage up on the shelf. | سامان اوپر والے خانے میں رکھ دیں۔
++ 온라인 |  | onnain | noun | online | آن لائن | Media & Technology | 2 | 오프라인 = offline.
+> 수업이 온라인으로 진행돼요. | Classes are held online. | کلاسیں آن لائن ہوتی ہیں۔
+> 온라인 쇼핑이 편리해요. | Online shopping is convenient. | آن لائن خریداری آسان ہے۔
+> 온라인으로 신청하세요. | Apply online. | آن لائن درخواست دیں۔
++ 전자 | 電子 | jeonja | noun | electronic | الیکٹرانک | Science & Technology | 2 | 전자 제품 = electronics; 전자레인지 = microwave.
+> 전자 제품은 이 층에 있어요. | Electronics are on this floor. | الیکٹرانک اشیاء اس منزل پر ہیں۔
+> 전자레인지에 데워 드세요. | Heat it in the microwave. | مائیکرو ویو میں گرم کر کے کھائیں۔
+> 전자책을 자주 읽어요. | I often read e-books. | میں اکثر ای بُکس پڑھتا ہوں۔
++ 기계 | 機械 | gigye | noun | machine | مشین | Science & Technology | 2 |
+> 이 기계는 어떻게 사용해요? | How do you use this machine? | یہ مشین کیسے استعمال ہوتی ہے؟
+> 기계가 사람의 일을 대신해요. | Machines do people's work in their place. | مشینیں انسانوں کا کام کرتی ہیں۔
+> 기계가 고장 나서 공장이 멈췄어요. | The machine broke down and the factory stopped. | مشین خراب ہونے سے کارخانہ رک گیا۔
++ 로봇 |  | robot | noun | robot | روبوٹ | Science & Technology | 2 |
+> 식당에서 로봇이 음식을 날라요. | A robot carries food at the restaurant. | ریستوران میں روبوٹ کھانا پہنچاتا ہے۔
+> 로봇 청소기가 있어요. | I have a robot vacuum cleaner. | میرے پاس روبوٹ ویکیوم ہے۔
+> 공장에서 로봇이 일해요. | Robots work in the factory. | کارخانے میں روبوٹ کام کرتے ہیں۔
++ 전기 | 電氣 | jeongi | noun | electricity | بجلی | Science & Technology | 2 | 전기 (傳記) also means "biography".
+> 갑자기 전기가 나갔어요. | The power suddenly went out. | اچانک بجلی چلی گئی۔
+> 전기 요금이 많이 나왔어요. | The electricity bill was high. | بجلی کا بل زیادہ آیا۔
+> 전기 자동차가 늘고 있어요. | Electric cars are increasing. | الیکٹرک گاڑیاں بڑھ رہی ہیں۔
++ 에너지 |  | eneoji | noun | energy | توانائی | Environment | 2 |
+> 에너지를 절약합시다. | Let's save energy. | توانائی بچائیں۔
+> 아침을 먹으면 에너지가 생겨요. | Eating breakfast gives you energy. | ناشتہ کرنے سے توانائی ملتی ہے۔
+> 재생 에너지에 투자해야 해요. | We should invest in renewable energy. | قابلِ تجدید توانائی میں سرمایہ کاری کرنی چاہیے۔
++ 우주 | 宇宙 | uju | noun | space, the universe | خلا، کائنات | Science & Technology | 2 |
+> 우주에는 별이 수없이 많아요. | There are countless stars in space. | کائنات میں بے شمار ستارے ہیں۔
+> 우주 여행을 해 보고 싶어요. | I'd like to travel to space. | میں خلا کا سفر کرنا چاہتا ہوں۔
+> 한국도 우주 개발에 투자하고 있어요. | Korea is also investing in space development. | کوریا بھی خلائی ترقی میں سرمایہ کاری کر رہا ہے۔
++ 지구 | 地球 | jigu | noun | the Earth | زمین (کرۂ ارض) | Environment | 2 |
+> 지구를 지키는 것은 우리의 책임이에요. | Protecting the Earth is our responsibility. | زمین کی حفاظت ہماری ذمہ داری ہے۔
+> 지구는 태양 주위를 돌아요. | The Earth revolves around the sun. | زمین سورج کے گرد گھومتی ہے۔
+> 지구의 온도가 올라가고 있어요. | The Earth's temperature is rising. | زمین کا درجۂ حرارت بڑھ رہا ہے۔
++ 정보화 | 情報化 | jeongbohwa | noun | informatization, the information age | معلوماتی دور | Science & Technology | 2 |
+> 정보화 사회에서는 컴퓨터 능력이 중요해요. | In the information society, computer skills matter. | معلوماتی معاشرے میں کمپیوٹر کی مہارت اہم ہے۔
+> 정보화 시대에 살고 있어요. | We live in the information age. | ہم معلوماتی دور میں رہ رہے ہیں۔
+> 정보화로 생활이 편리해졌어요. | Informatization made life convenient. | معلوماتی ترقی سے زندگی آسان ہو گئی۔
++ 개인 정보 | 個人情報 | gaein jeongbo | noun | personal information | ذاتی معلومات | Media & Technology | 2 |
+> 개인 정보가 유출됐어요. | Personal information was leaked. | ذاتی معلومات افشا ہو گئیں۔
+> 개인 정보를 함부로 알려 주지 마세요. | Don't give out personal information carelessly. | ذاتی معلومات بلا سوچے نہ دیں۔
+> 이 사이트는 개인 정보를 보호해요. | This site protects personal information. | یہ سائٹ ذاتی معلومات محفوظ رکھتی ہے۔
++ 중독 | 中毒 | jungdok | noun | addiction; poisoning | لت؛ زہر خوری | Health | 2 | 식중독 = food poisoning.
+> 게임 중독은 심각한 문제예요. | Gaming addiction is a serious problem. | گیم کی لت ایک سنگین مسئلہ ہے۔
+> 여름에는 식중독을 조심하세요. | Watch out for food poisoning in summer. | گرمیوں میں فوڈ پوائزننگ سے بچیں۔
+> 커피 중독인 것 같아요. | I think I'm addicted to coffee. | لگتا ہے مجھے کافی کی لت ہے۔

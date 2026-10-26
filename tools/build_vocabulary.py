@@ -48,6 +48,7 @@ def main(check: bool = False) -> int:
     before = json.dumps(current_seed["entries"], ensure_ascii=False, sort_keys=True)
     data["version"] = int(current_seed["version"])
     warnings: list[str] = []
+    homonyms: list[str] = []
     seen_new: set[tuple[str, str]] = set()
 
     for path in sorted(BATCHES.glob("*.txt")):
@@ -78,6 +79,8 @@ def main(check: bool = False) -> int:
             if line[0] == "+":
                 ko, hanja, rom, pos, en, ur, cat, level, notes = split(line, 8, 9, where)
                 key = (ko, en)
+                if " (" in ko and not ko.startswith("-"):
+                    raise SystemExit(f"{where}: put notes in the notes field, not in the Korean word: {ko!r}")
                 if key in seen_new:
                     raise SystemExit(f"{where}: {ko} ({en}) is added twice")
                 seen_new.add(key)
@@ -90,7 +93,7 @@ def main(check: bool = False) -> int:
                     entries.append(current)
                     index[key] = current
                     if any(k == ko for k, _ in index if (k, _) != key):
-                        warnings.append(f"{where}: {ko} also exists with another meaning")
+                        homonyms.append(ko)
                 current.update(
                     hanja=hanja, romanization=rom, part_of_speech=pos, meaning_ur=ur,
                     notes=notes, category=cat, difficulty=int(level),
@@ -134,6 +137,8 @@ def main(check: bool = False) -> int:
     status = "Would update" if changed and check else "Updated to" if changed else "Unchanged:"
     print(f"{status} version {data['version']}: {len(entries)} words, "
           f"{sentences} sentences; beginner {levels[1]}, intermediate {levels[2]}, advanced {levels[3]}")
+    if homonyms:
+        print(f"{len(homonyms)} homonyms (same Korean, another meaning): {', '.join(homonyms)}")
     for w in warnings:
         print("warning:", w)
     return 0
