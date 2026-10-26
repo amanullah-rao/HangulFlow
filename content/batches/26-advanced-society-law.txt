@@ -1,0 +1,193 @@
+# Advanced: politics, law, society
++ 정치 | 政治 | jeongchi | noun | politics | سیاست | Society & Culture | 3 | 정치인 = politician.
+> 젊은 세대도 정치에 관심을 가져야 한다. | The younger generation should also take an interest in politics. | نوجوان نسل کو بھی سیاست میں دلچسپی لینی چاہیے۔
+> 그는 정치 경력이 20년이다. | He has a 20-year political career. | اس کا سیاسی سفر بیس سال کا ہے۔
+> 정치적 갈등이 심해지고 있다. | Political conflict is intensifying. | سیاسی کشیدگی بڑھ رہی ہے۔
++ 국회 | 國會 | gukhoe | noun | National Assembly, parliament | قومی اسمبلی، پارلیمان | Society & Culture | 3 | 국회의원 = member of parliament.
+> 국회에서 새 법안이 통과되었다. | A new bill passed in the National Assembly. | قومی اسمبلی میں نیا بل منظور ہوا۔
+> 국회의원 선거가 다음 달에 있다. | The parliamentary election is next month. | پارلیمانی انتخاب اگلے مہینے ہے۔
+> 국회는 국민의 대표 기관이다. | The National Assembly represents the people. | قومی اسمبلی عوام کی نمائندہ ہے۔
++ 대통령 | 大統領 | daetongnyeong | noun | president (of a country) | صدر | Society & Culture | 3 |
+> 대통령이 연설을 했다. | The president gave a speech. | صدر نے تقریر کی۔
+> 대통령 임기는 5년이다. | The presidential term is five years. | صدر کی مدت پانچ سال ہے۔
+> 새 대통령이 취임했다. | The new president took office. | نئے صدر نے عہدہ سنبھالا۔
++ 법안 | 法案 | beoban | noun | bill (legislation) | قانونی مسودہ، بل | Society & Culture | 3 |
+> 법안이 국회를 통과했다. | The bill passed parliament. | بل پارلیمان سے منظور ہو گیا۔
+> 여러 단체가 그 법안에 반대한다. | Several groups oppose that bill. | کئی تنظیمیں اس بل کی مخالفت کرتی ہیں۔
+> 법안을 발의했다. | They proposed a bill. | انہوں نے بل پیش کیا۔
++ 개정하다 | 改正- | gaejeonghada | verb | to amend, to revise (law) | ترمیم کرنا | Society & Culture | 3 |
+> 헌법을 개정하자는 의견이 있다. | Some suggest amending the constitution. | آئین میں ترمیم کی تجویز ہے۔
+> 노동법이 개정되었다. | The labor law was amended. | لیبر قانون میں ترمیم کی گئی۔
+> 규정을 개정해야 할 필요가 있다. | The regulations need to be revised. | قواعد میں ترمیم کی ضرورت ہے۔
++ 헌법 | 憲法 | heonbeop | noun | constitution | آئین | Society & Culture | 3 |
+> 헌법은 국가의 최고 법이다. | The constitution is the highest law of the nation. | آئین ملک کا سب سے بڑا قانون ہے۔
+> 표현의 자유는 헌법으로 보장된다. | Freedom of expression is guaranteed by the constitution. | اظہار کی آزادی آئین کے تحت محفوظ ہے۔
+> 그 법은 헌법에 어긋난다. | That law violates the constitution. | وہ قانون آئین کے خلاف ہے۔
++ 재판 | 裁判 | jaepan | noun | trial | مقدمہ، عدالتی کارروائی | Society & Culture | 3 | 법원 = court; 판사 = judge.
+> 재판이 다음 주에 열린다. | The trial will be held next week. | مقدمے کی سماعت اگلے ہفتے ہوگی۔
+> 그는 재판에서 무죄를 선고받았다. | He was found not guilty at trial. | عدالت نے اسے بے گناہ قرار دیا۔
+> 공정한 재판을 받을 권리가 있다. | Everyone has the right to a fair trial. | ہر شخص کو منصفانہ سماعت کا حق ہے۔
++ 판결 | 判決 | pangyeol | noun | ruling, verdict | فیصلہ (عدالتی) | Society & Culture | 3 |
+> 법원은 원고의 손을 들어주는 판결을 내렸다. | The court ruled in favor of the plaintiff. | عدالت نے مدعی کے حق میں فیصلہ دیا۔
+> 판결에 불복해 항소했다. | They appealed, disagreeing with the ruling. | فیصلے سے اختلاف کرتے ہوئے اپیل کی۔
+> 이번 판결은 큰 의미가 있다. | This verdict is very significant. | یہ فیصلہ بہت اہمیت کا حامل ہے۔
++ 처벌 | 處罰 | cheobeol | noun | punishment | سزا | Society & Culture | 3 | 처벌하다 / 처벌받다.
+> 음주 운전은 엄격하게 처벌된다. | Drunk driving is strictly punished. | نشے میں گاڑی چلانے پر سخت سزا ہے۔
+> 처벌보다 예방이 중요하다. | Prevention is more important than punishment. | سزا سے زیادہ روک تھام اہم ہے۔
+> 범인은 법에 따라 처벌을 받았다. | The culprit was punished according to the law. | مجرم کو قانون کے مطابق سزا ملی۔
++ 위반 | 違反 | wiban | noun | violation | خلاف ورزی | Society & Culture | 3 | 위반하다.
+> 교통 법규 위반으로 벌금을 냈다. | I paid a fine for a traffic violation. | ٹریفک قانون کی خلاف ورزی پر جرمانہ دیا۔
+> 계약 위반은 책임이 따른다. | Breach of contract carries liability. | معاہدے کی خلاف ورزی کی ذمہ داری ہوتی ہے۔
+> 규칙을 위반하면 퇴장당한다. | If you break the rules, you'll be sent off. | اصول توڑنے پر باہر نکال دیا جاتا ہے۔
++ 벌금 | 罰金 | beolgeum | noun | fine (penalty) | جرمانہ | Society & Culture | 3 |
+> 주차 위반으로 벌금 4만 원을 냈다. | I paid a 40,000-won parking fine. | غلط پارکنگ پر چالیس ہزار وون جرمانہ دیا۔
+> 쓰레기를 버리면 벌금이 있다. | There's a fine for littering. | کچرا پھینکنے پر جرمانہ ہے۔
+> 벌금을 기한 내에 내야 한다. | The fine must be paid by the deadline. | جرمانہ مقررہ وقت میں ادا کرنا ہوگا۔
++ 시위 | 示威 | siwi | noun | demonstration, protest | احتجاج، مظاہرہ | Society & Culture | 3 |
+> 광장에서 대규모 시위가 열렸다. | A large protest was held in the square. | چوک میں بڑا مظاہرہ ہوا۔
+> 시민들이 평화적으로 시위했다. | Citizens protested peacefully. | شہریوں نے پرامن احتجاج کیا۔
+> 시위 때문에 도로가 통제되었다. | Roads were closed due to the protest. | احتجاج کی وجہ سے سڑکیں بند تھیں۔
++ 파업 | 罷業 | paeop | noun | strike (labor) | ہڑتال | Work & Employment | 3 |
+> 지하철 노조가 파업에 들어갔다. | The subway union went on strike. | میٹرو یونین نے ہڑتال کر دی۔
+> 파업으로 운행이 중단되었다. | Service stopped due to the strike. | ہڑتال کی وجہ سے سروس معطل ہو گئی۔
+> 노사 협상이 결렬되면서 파업이 시작되었다. | The strike began when labor talks broke down. | مذاکرات ناکام ہونے پر ہڑتال شروع ہوئی۔
++ 여당 | 與黨 | yeodang | noun | ruling party | حکمران جماعت | Society & Culture | 3 | 야당 = opposition party; 정당 = political party.
+> 여당과 야당이 합의에 실패했다. | The ruling and opposition parties failed to agree. | حکمران اور اپوزیشن جماعتیں متفق نہ ہو سکیں۔
+> 야당은 정부를 비판했다. | The opposition criticized the government. | اپوزیشن نے حکومت پر تنقید کی۔
+> 새로운 정당이 창당되었다. | A new political party was founded. | ایک نئی سیاسی جماعت بنی۔
++ 외교 | 外交 | oegyo | noun | diplomacy, foreign affairs | سفارت کاری | Society & Culture | 3 | 외교관 = diplomat.
+> 두 나라는 외교 관계를 맺었다. | The two countries established diplomatic relations. | دونوں ملکوں نے سفارتی تعلقات قائم کیے۔
+> 외교적 해결이 필요하다. | A diplomatic solution is needed. | سفارتی حل کی ضرورت ہے۔
+> 그는 외교관으로 일하고 있다. | He works as a diplomat. | وہ سفارت کار کے طور پر کام کرتا ہے۔
++ 협정 | 協定 | hyeopjeong | noun | agreement, accord, treaty | معاہدہ | Society & Culture | 3 |
+> 두 나라가 무역 협정을 체결했다. | The two countries signed a trade agreement. | دونوں ملکوں نے تجارتی معاہدہ کیا۔
+> 기후 협정에 많은 나라가 참여했다. | Many countries joined the climate accord. | کئی ممالک موسمیاتی معاہدے میں شامل ہوئے۔
+> 협정을 어기면 제재를 받는다. | Violating the agreement brings sanctions. | معاہدہ توڑنے پر پابندیاں لگتی ہیں۔
++ 제재 | 制裁 | jejae | noun | sanctions | پابندیاں | Society & Culture | 3 |
+> 국제 사회가 경제 제재를 가했다. | The international community imposed economic sanctions. | عالمی برادری نے معاشی پابندیاں لگائیں۔
+> 제재가 해제되었다. | The sanctions were lifted. | پابندیاں اٹھا لی گئیں۔
+> 규칙을 어긴 선수는 제재를 받았다. | The athlete who broke the rules was sanctioned. | قانون توڑنے والے کھلاڑی پر پابندی لگی۔
++ 난민 | 難民 | nanmin | noun | refugee | پناہ گزین | Society & Culture | 3 |
+> 전쟁으로 많은 난민이 발생했다. | The war created many refugees. | جنگ سے بہت سے لوگ پناہ گزین بن گئے۔
+> 난민을 돕는 단체에서 일한다. | I work for an organization that helps refugees. | میں پناہ گزینوں کی مدد کرنے والی تنظیم میں کام کرتا ہوں۔
+> 난민 수용 문제가 논란이 되고 있다. | Accepting refugees is controversial. | پناہ گزینوں کو قبول کرنا متنازع بن گیا ہے۔
++ 이민 | 移民 | imin | noun | immigration, emigration | ہجرت | Society & Culture | 3 | 이민자 = immigrant.
+> 그 가족은 캐나다로 이민을 갔다. | That family emigrated to Canada. | وہ خاندان کینیڈا ہجرت کر گیا۔
+> 이민자들이 새로운 문화에 적응하고 있다. | Immigrants are adapting to a new culture. | تارکینِ وطن نئی ثقافت میں ڈھل رہے ہیں۔
+> 이민 정책이 바뀌었다. | Immigration policy changed. | امیگریشن پالیسی بدل گئی۔
++ 다문화 | 多文化 | damunhwa | noun | multicultural | کثیر الثقافتی | Society & Culture | 3 | 다문화 가정 = multicultural family.
+> 한국에도 다문화 가정이 늘고 있다. | Multicultural families are increasing in Korea too. | کوریا میں بھی کثیر الثقافتی خاندان بڑھ رہے ہیں۔
+> 다문화 사회에서는 서로 이해해야 한다. | In a multicultural society, we must understand each other. | کثیر الثقافتی معاشرے میں ایک دوسرے کو سمجھنا ضروری ہے۔
+> 학교에서 다문화 교육을 실시한다. | Schools provide multicultural education. | اسکولوں میں کثیر الثقافتی تعلیم دی جاتی ہے۔
++ 인권 | 人權 | ingwon | noun | human rights | انسانی حقوق | Society & Culture | 3 |
+> 인권은 모든 사람에게 있다. | Everyone has human rights. | انسانی حقوق ہر ایک کے لیے ہیں۔
+> 인권 단체가 성명을 발표했다. | A human rights group issued a statement. | انسانی حقوق کی تنظیم نے بیان جاری کیا۔
+> 노동자의 인권을 보호해야 한다. | Workers' human rights must be protected. | مزدوروں کے انسانی حقوق کا تحفظ ضروری ہے۔
++ 성평등 | 性平等 | seongpyeongdeung | noun | gender equality | صنفی مساوات | Society & Culture | 3 |
+> 성평등을 위한 노력이 계속되고 있다. | Efforts toward gender equality are continuing. | صنفی مساوات کے لیے کوششیں جاری ہیں۔
+> 직장 내 성평등이 개선되었다. | Gender equality in the workplace has improved. | کام کی جگہ پر صنفی مساوات بہتر ہوئی ہے۔
+> 성평등 교육이 필요하다. | Gender equality education is needed. | صنفی مساوات کی تعلیم ضروری ہے۔
++ 격차 | 隔差 | gyeokcha | noun | gap, disparity | فرق، خلیج | Society & Culture | 3 |
+> 도시와 농촌의 격차가 커지고 있다. | The gap between cities and rural areas is widening. | شہروں اور دیہات کا فرق بڑھ رہا ہے۔
+> 소득 격차를 줄여야 한다. | We must reduce the income gap. | آمدنی کا فرق کم کرنا ہوگا۔
+> 세대 간 정보 격차가 있다. | There is an information gap between generations. | نسلوں کے درمیان معلومات کا فرق ہے۔
++ 빈곤 | 貧困 | bingon | noun | poverty | غربت | Society & Culture | 3 | Everyday: 가난.
+> 빈곤 문제를 해결하기 위한 정책이 필요하다. | Policies to solve poverty are needed. | غربت ختم کرنے کی پالیسیاں درکار ہیں۔
+> 아직도 많은 사람이 빈곤 속에 살고 있다. | Many people still live in poverty. | آج بھی بہت سے لوگ غربت میں رہتے ہیں۔
+> 교육은 빈곤에서 벗어나는 길이다. | Education is a way out of poverty. | تعلیم غربت سے نکلنے کا راستہ ہے۔
++ 부패 | 腐敗 | bupae | noun | corruption; decay | بدعنوانی؛ سڑنا | Society & Culture | 3 |
+> 정치 부패를 뿌리 뽑아야 한다. | Political corruption must be rooted out. | سیاسی بدعنوانی جڑ سے ختم کرنی ہوگی۔
+> 여름에는 음식이 쉽게 부패한다. | Food spoils easily in summer. | گرمیوں میں کھانا جلد خراب ہو جاتا ہے۔
+> 부패한 공무원이 체포되었다. | A corrupt official was arrested. | ایک بدعنوان سرکاری افسر گرفتار ہوا۔
++ 투명하다 | 透明- | tumyeonghada | adjective | transparent | شفاف | Society & Culture | 3 |
+> 정부는 투명하게 운영되어야 한다. | The government should operate transparently. | حکومت کو شفاف طریقے سے چلنا چاہیے۔
+> 투명한 유리컵을 샀다. | I bought a clear glass cup. | میں نے شفاف شیشے کا گلاس خریدا۔
+> 투명한 절차가 신뢰를 만든다. | Transparent procedures build trust. | شفاف طریقۂ کار اعتماد پیدا کرتا ہے۔
++ 공정하다 | 公正- | gongjeonghada | adjective | fair, impartial | منصفانہ | Society & Culture | 3 |
+> 공정한 경쟁이 필요하다. | Fair competition is needed. | منصفانہ مقابلہ ضروری ہے۔
+> 심판의 판정이 공정하지 않았다. | The referee's call wasn't fair. | ریفری کا فیصلہ منصفانہ نہیں تھا۔
+> 모든 사람에게 공정한 기회를 주어야 한다. | Everyone should be given a fair chance. | سب کو برابر موقع ملنا چاہیے۔
++ 공익 | 公益 | gongik | noun | public interest, public good | عوامی مفاد | Society & Culture | 3 |
+> 공익을 위해 일하는 사람들이다. | They are people who work for the public good. | یہ لوگ عوامی مفاد کے لیے کام کرتے ہیں۔
+> 공익 광고를 보고 생각이 바뀌었다. | My thinking changed after seeing a public service ad. | عوامی آگاہی کا اشتہار دیکھ کر سوچ بدل گئی۔
+> 개인의 이익보다 공익이 우선이다. | The public interest comes before personal gain. | ذاتی فائدے سے پہلے عوامی مفاد ہے۔
++ 여론 조사 | 輿論調査 | yeoron josa | noun | opinion poll | رائے شماری | Society & Culture | 3 |
+> 여론 조사에서 그 후보가 앞서고 있다. | That candidate is leading in the polls. | رائے شماری میں وہ امیدوار آگے ہے۔
+> 여론 조사 결과가 발표되었다. | The poll results were announced. | رائے شماری کے نتائج جاری کیے گئے۔
+> 여론 조사가 항상 정확한 것은 아니다. | Polls aren't always accurate. | رائے شماری ہمیشہ درست نہیں ہوتی۔
++ 후보 | 候補 | hubo | noun | candidate | امیدوار | Society & Culture | 3 |
+> 세 명의 후보가 출마했다. | Three candidates ran for office. | تین امیدوار میدان میں اترے۔
+> 그는 유력한 대통령 후보이다. | He is a leading presidential candidate. | وہ ایک مضبوط صدارتی امیدوار ہے۔
+> 수상 후보에 올랐다. | They were nominated for an award. | انہیں انعام کے لیے نامزد کیا گیا۔
++ 당선되다 | 當選- | dangseondoeda | verb | to be elected | منتخب ہونا | Society & Culture | 3 |
+> 그는 시장으로 당선되었다. | He was elected mayor. | وہ میئر منتخب ہوا۔
+> 반장으로 당선돼서 기뻤다. | I was happy to be elected class president. | کلاس کا نمائندہ منتخب ہو کر خوشی ہوئی۔
+> 첫 여성 대통령이 당선되었다. | The first female president was elected. | پہلی خاتون صدر منتخب ہوئیں۔
++ 공약 | 公約 | gongyak | noun | campaign pledge | انتخابی وعدہ | Society & Culture | 3 |
+> 후보들이 다양한 공약을 내놓았다. | Candidates put forward various pledges. | امیدواروں نے مختلف وعدے کیے۔
+> 공약을 지키지 않는 정치인이 많다. | Many politicians don't keep their pledges. | بہت سے سیاستدان اپنے وعدے پورے نہیں کرتے۔
+> 그 공약은 실현 가능성이 낮다. | That pledge is unlikely to be realized. | اس وعدے کے پورا ہونے کا امکان کم ہے۔
++ 지방 자치 | 地方自治 | jibang jachi | noun | local self-government | مقامی خود مختاری | Society & Culture | 3 | 지자체 = local government.
+> 지방 자치 단체가 축제를 주최했다. | The local government hosted the festival. | مقامی حکومت نے میلے کا انعقاد کیا۔
+> 지방 자치가 발전하고 있다. | Local self-government is developing. | مقامی خود مختاری فروغ پا رہی ہے۔
+> 지자체마다 정책이 다르다. | Policies differ by local government. | ہر مقامی حکومت کی پالیسی الگ ہے۔
++ 행정 | 行政 | haengjeong | noun | administration | انتظامیہ | Society & Culture | 3 |
+> 행정 절차가 복잡하다. | Administrative procedures are complicated. | انتظامی طریقۂ کار پیچیدہ ہے۔
+> 온라인으로 행정 서비스를 받을 수 있다. | You can receive administrative services online. | انتظامی خدمات آن لائن حاصل کی جا سکتی ہیں۔
+> 행정 기관에 민원을 넣었다. | I filed a complaint with the administrative office. | میں نے انتظامی دفتر میں شکایت درج کرائی۔
++ 민원 | 民願 | minwon | noun | civil complaint, public request | عوامی شکایت، درخواست | Society & Culture | 3 |
+> 소음 때문에 민원이 많이 들어왔다. | Many complaints came in about noise. | شور کی وجہ سے بہت سی شکایات آئیں۔
+> 민원 처리에 일주일이 걸린다. | It takes a week to process a complaint. | شکایت نمٹانے میں ایک ہفتہ لگتا ہے۔
+> 주민센터 민원실에서 서류를 뗐다. | I got the document at the community center's service desk. | کمیونٹی سینٹر کے دفتر سے دستاویز نکلوائی۔
++ 규제 | 規制 | gyuje | noun | regulation, restriction | ضابطہ، پابندی | Society & Culture | 3 | 규제하다.
+> 정부가 규제를 완화했다. | The government relaxed regulations. | حکومت نے پابندیاں نرم کر دیں۔
+> 일회용품 사용 규제가 강화되었다. | Regulations on disposable products were tightened. | ڈسپوزایبل اشیاء پر پابندیاں سخت ہو گئیں۔
+> 과도한 규제는 혁신을 막는다. | Excessive regulation blocks innovation. | حد سے زیادہ ضابطے اختراع کو روکتے ہیں۔
++ 보장하다 | 保障- | bojanghada | verb | to guarantee, to secure | ضمانت دینا | Society & Culture | 3 |
+> 법은 표현의 자유를 보장한다. | The law guarantees freedom of expression. | قانون اظہار کی آزادی کی ضمانت دیتا ہے۔
+> 노후 생활을 보장하는 제도가 필요하다. | A system that secures life after retirement is needed. | بڑھاپے کی زندگی محفوظ بنانے کا نظام ضروری ہے۔
+> 품질을 보장합니다. | We guarantee the quality. | ہم معیار کی ضمانت دیتے ہیں۔
++ 복지 정책 | 福祉政策 | bokji jeongchaek | noun | welfare policy | فلاحی پالیسی | Society & Culture | 3 |
+> 복지 정책을 확대해야 한다는 목소리가 높다. | There are strong calls to expand welfare policy. | فلاحی پالیسی بڑھانے کا مطالبہ زور پکڑ رہا ہے۔
+> 복지 정책에는 많은 예산이 필요하다. | Welfare policy requires a large budget. | فلاحی پالیسی کے لیے بڑا بجٹ چاہیے۔
+> 노인 복지 정책이 개선되었다. | Elderly welfare policies were improved. | بزرگوں کی فلاحی پالیسیاں بہتر کی گئیں۔
++ 예산 | 豫算 | yesan | noun | budget | بجٹ | Economy & Business | 3 |
+> 내년 예산이 확정되었다. | Next year's budget was finalized. | اگلے سال کا بجٹ طے ہو گیا۔
+> 예산이 부족해서 계획을 줄였다. | We scaled back plans due to a tight budget. | بجٹ کم ہونے سے منصوبہ مختصر کیا۔
+> 여행 예산은 얼마예요? | What's your travel budget? | سفر کا بجٹ کتنا ہے؟
++ 재정 | 財政 | jaejeong | noun | finance(s), fiscal | مالیات | Economy & Business | 3 |
+> 정부 재정이 악화되었다. | Government finances worsened. | حکومتی مالیات خراب ہو گئی۔
+> 회사의 재정 상태가 좋다. | The company's financial condition is good. | کمپنی کی مالی حالت اچھی ہے۔
+> 재정 지원을 받았다. | We received financial support. | ہمیں مالی امداد ملی۔
++ 국방 | 國防 | gukbang | noun | national defense | قومی دفاع | Society & Culture | 3 | 병역 = military service.
+> 국방 예산이 늘었다. | The defense budget increased. | دفاعی بجٹ بڑھ گیا۔
+> 병역은 국민의 의무이다. | Military service is a citizen's duty. | فوجی خدمت شہری کا فرض ہے۔
+> 국방부가 발표했다. | The Ministry of Defense announced it. | وزارتِ دفاع نے اعلان کیا۔
++ 통일 | 統一 | tongil | noun | unification, reunification | اتحاد، دوبارہ اتحاد | Society & Culture | 3 | Often refers to Korean reunification.
+> 많은 사람이 남북 통일을 바란다. | Many people hope for reunification of North and South. | بہت سے لوگ شمالی اور جنوبی کوریا کے اتحاد کے خواہاں ہیں۔
+> 통일 문제에 대한 의견은 다양하다. | Opinions on reunification vary. | اتحاد کے مسئلے پر آراء مختلف ہیں۔
+> 의견을 통일하기 어려웠다. | It was hard to unify our opinions. | آراء کو ایک کرنا مشکل تھا۔
++ 분단 | 分斷 | bundan | noun | division (of a country) | تقسیم (ملک کی) | Society & Culture | 3 |
+> 한반도는 70년 넘게 분단되어 있다. | The Korean Peninsula has been divided for over 70 years. | جزیرہ نما کوریا ستر سال سے زیادہ عرصے سے تقسیم ہے۔
+> 분단의 아픔을 다룬 영화이다. | It's a film about the pain of division. | یہ تقسیم کے دکھ پر مبنی فلم ہے۔
+> 이산가족은 분단의 비극이다. | Separated families are the tragedy of division. | بچھڑے ہوئے خاندان تقسیم کا المیہ ہیں۔
++ 시민 단체 | 市民團體 | simin danche | noun | civic group, NGO | شہری تنظیم | Society & Culture | 3 |
+> 시민 단체들이 환경 보호 운동을 벌였다. | Civic groups launched an environmental campaign. | شہری تنظیموں نے ماحولیاتی تحریک چلائی۔
+> 그는 시민 단체에서 봉사하고 있다. | He volunteers at a civic group. | وہ ایک شہری تنظیم میں رضاکار ہے۔
+> 시민 단체가 정부를 감시한다. | Civic groups monitor the government. | شہری تنظیمیں حکومت پر نظر رکھتی ہیں۔
++ 비판하다 | 批判- | bipanhada | verb | to criticize | تنقید کرنا | Society & Culture | 3 | Noun: 비판; 비판적 = critical.
+> 언론은 정부 정책을 비판했다. | The media criticized government policy. | میڈیا نے حکومتی پالیسی پر تنقید کی۔
+> 비판을 받아들이는 자세가 필요하다. | You need an attitude that accepts criticism. | تنقید قبول کرنے کا رویہ ضروری ہے۔
+> 비판적으로 생각하는 능력이 중요하다. | The ability to think critically is important. | تنقیدی سوچ کی صلاحیت اہم ہے۔
++ 옹호하다 | 擁護- | onghohada | verb | to defend, to advocate | حمایت کرنا، دفاع کرنا | Society & Culture | 3 |
+> 그는 소수자의 권리를 옹호한다. | He defends minority rights. | وہ اقلیتوں کے حقوق کا دفاع کرتا ہے۔
+> 친구를 옹호하다가 비난을 받았다. | I was criticized for defending my friend. | دوست کی حمایت پر مجھے تنقید کا سامنا ہوا۔
+> 그 정책을 옹호하는 사람도 있다. | Some people advocate that policy. | کچھ لوگ اس پالیسی کی حمایت کرتے ہیں۔
++ 반영하다 | 反映- | banyeonghada | verb | to reflect, to incorporate | عکاسی کرنا، شامل کرنا | Academic & Formal | 3 |
+> 시민의 의견을 정책에 반영해야 한다. | Citizens' opinions must be reflected in policy. | شہریوں کی رائے کو پالیسی میں شامل کرنا چاہیے۔
+> 이 소설은 당시 사회를 반영한다. | This novel reflects the society of that time. | یہ ناول اس دور کے معاشرے کی عکاسی کرتا ہے۔
+> 고객의 요구를 반영해 제품을 개선했다. | We improved the product reflecting customer needs. | گاہکوں کی ضرورت کے مطابق مصنوعات بہتر کیں۔
++ 의결하다 | 議決- | uigyeolhada | verb | to resolve, to vote on (formally) | فیصلہ کرنا (ووٹ سے) | Society & Culture | 3 |
+> 이사회에서 예산안을 의결했다. | The board voted on the budget. | بورڈ نے بجٹ کی منظوری دی۔
+> 법안이 만장일치로 의결되었다. | The bill was passed unanimously. | بل متفقہ طور پر منظور ہوا۔
+> 회의에서 중요한 사항을 의결했다. | They resolved important matters at the meeting. | میٹنگ میں اہم امور طے کیے گئے۔

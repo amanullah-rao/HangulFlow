@@ -1,0 +1,193 @@
+# Advanced: economy and business
++ 경기 침체 | 景氣沈滯 | gyeonggi chimche | noun | economic recession, slump | معاشی کساد | Economy & Business | 3 |
+> 경기 침체로 실업률이 높아졌다. | Unemployment rose due to the recession. | معاشی کساد کی وجہ سے بے روزگاری بڑھ گئی۔
+> 경기 침체에서 벗어나기 위한 대책이 필요하다. | Measures are needed to get out of the slump. | کساد بازاری سے نکلنے کے لیے اقدامات درکار ہیں۔
+> 장기적인 경기 침체가 우려된다. | A prolonged recession is feared. | طویل معاشی سست روی کا خدشہ ہے۔
++ 물가 상승 | 物價上昇 | mulga sangseung | noun | inflation, rising prices | مہنگائی میں اضافہ | Economy & Business | 3 | 인플레이션.
+> 물가 상승으로 생활이 어려워졌다. | Life became harder due to rising prices. | مہنگائی بڑھنے سے زندگی مشکل ہو گئی۔
+> 정부는 물가 상승을 막기 위해 노력하고 있다. | The government is working to curb inflation. | حکومت مہنگائی روکنے کی کوشش کر رہی ہے۔
+> 물가 상승률이 3%를 넘었다. | The inflation rate exceeded 3%. | مہنگائی کی شرح تین فیصد سے بڑھ گئی۔
++ 금리 | 金利 | geumni | noun | interest rate | شرحِ سود | Economy & Business | 3 |
+> 중앙은행이 금리를 인상했다. | The central bank raised interest rates. | مرکزی بینک نے شرحِ سود بڑھا دی۔
+> 금리가 오르면 대출 부담이 커진다. | When rates rise, the loan burden grows. | شرحِ سود بڑھے تو قرض کا بوجھ بڑھتا ہے۔
+> 낮은 금리가 계속되고 있다. | Low interest rates continue. | کم شرحِ سود برقرار ہے۔
++ 주식 | 株式 | jusik | noun | stock, share | حصص | Economy & Business | 3 | 주식 시장 = stock market.
+> 그는 주식 투자로 돈을 벌었다. | He made money investing in stocks. | اس نے حصص میں سرمایہ کاری سے پیسے کمائے۔
+> 주식 시장이 크게 하락했다. | The stock market fell sharply. | حصص بازار بری طرح گر گیا۔
+> 주식은 위험이 따른다. | Stocks come with risk. | حصص میں خطرہ ہوتا ہے۔
++ 하락하다 | 下落- | harakhada | verb | to fall, to drop (prices, value) | گرنا، کم ہونا | Economy & Business | 3 | Opposite: 상승하다.
+> 원화 가치가 하락했다. | The value of the won fell. | وون کی قدر گر گئی۔
+> 집값이 하락하고 있다. | House prices are falling. | مکانوں کی قیمتیں گر رہی ہیں۔
+> 지지율이 크게 하락했다. | The approval rating dropped sharply. | مقبولیت کی شرح بہت گر گئی۔
++ 상승하다 | 上昇- | sangseunghada | verb | to rise, to go up | بڑھنا | Economy & Business | 3 |
+> 기온이 계속 상승하고 있다. | Temperatures keep rising. | درجۂ حرارت بڑھتا جا رہا ہے۔
+> 주가가 5% 상승했다. | The stock price rose 5%. | حصص کی قیمت پانچ فیصد بڑھی۔
+> 생산 비용이 상승했다. | Production costs rose. | پیداواری لاگت بڑھ گئی۔
++ 급등하다 | 急騰- | geupdeunghada | verb | to soar, to skyrocket | تیزی سے بڑھنا | Economy & Business | 3 | Opposite: 급락하다 (plummet).
+> 기름값이 급등했다. | Fuel prices soared. | پیٹرول کی قیمتیں تیزی سے بڑھ گئیں۔
+> 주가가 하루 만에 급락했다. | Share prices plummeted in a single day. | ایک دن میں حصص کی قیمتیں گر گئیں۔
+> 채소 가격이 급등해서 걱정이다. | I'm worried because vegetable prices soared. | سبزیوں کی قیمتیں بہت بڑھ گئیں، فکر ہے۔
++ 수요 | 需要 | suyo | noun | demand | طلب | Economy & Business | 3 | 공급 = supply.
+> 여름에는 에어컨 수요가 늘어난다. | Demand for air conditioners rises in summer. | گرمیوں میں اے سی کی طلب بڑھ جاتی ہے۔
+> 수요와 공급에 따라 가격이 정해진다. | Prices are set by supply and demand. | قیمتیں طلب اور رسد سے طے ہوتی ہیں۔
+> 수요가 공급보다 많다. | Demand exceeds supply. | طلب رسد سے زیادہ ہے۔
++ 공급 | 供給 | gonggeup | noun | supply | رسد، فراہمی | Economy & Business | 3 | 공급하다.
+> 전기 공급이 중단되었다. | The power supply was cut off. | بجلی کی فراہمی بند ہو گئی۔
+> 주택 공급을 늘려야 한다. | Housing supply must be increased. | مکانات کی فراہمی بڑھانی ہوگی۔
+> 이 회사는 부품을 공급한다. | This company supplies parts. | یہ کمپنی پرزے فراہم کرتی ہے۔
++ 소비자 | 消費者 | sobija | noun | consumer | صارف | Economy & Business | 3 | 생산자 = producer.
+> 소비자의 권리를 보호해야 한다. | Consumer rights must be protected. | صارفین کے حقوق کا تحفظ ضروری ہے۔
+> 소비자들은 가격에 민감하다. | Consumers are sensitive to price. | صارفین قیمت کے بارے میں حساس ہوتے ہیں۔
+> 소비자 만족도 조사를 했다. | We conducted a consumer satisfaction survey. | ہم نے صارفین کے اطمینان کا سروے کیا۔
++ 기업 | 企業 | gieop | noun | company, enterprise | کاروباری ادارہ | Economy & Business | 3 |
+> 많은 기업이 해외로 진출하고 있다. | Many companies are expanding overseas. | بہت سی کمپنیاں بیرون ملک پھیل رہی ہیں۔
+> 기업의 사회적 책임이 강조되고 있다. | Corporate social responsibility is being emphasized. | کارپوریٹ سماجی ذمہ داری پر زور دیا جا رہا ہے۔
+> 중소기업을 지원하는 정책이다. | It's a policy that supports small businesses. | یہ چھوٹے کاروبار کی مدد کی پالیسی ہے۔
++ 진출하다 | 進出- | jinchulhada | verb | to advance into, to enter (a market) | (منڈی میں) داخل ہونا | Economy & Business | 3 |
+> 그 회사는 동남아 시장에 진출했다. | That company entered the Southeast Asian market. | وہ کمپنی جنوب مشرقی ایشیا کی منڈی میں داخل ہوئی۔
+> 우리 팀이 결승에 진출했다. | Our team advanced to the final. | ہماری ٹیم فائنل میں پہنچ گئی۔
+> 여성의 사회 진출이 늘었다. | Women's participation in society has increased. | خواتین کی سماجی شرکت بڑھ گئی ہے۔
++ 경쟁력 | 競爭力 | gyeongjaengnyeok | noun | competitiveness | مقابلے کی صلاحیت | Economy & Business | 3 |
+> 가격 경쟁력을 높여야 한다. | We must raise price competitiveness. | قیمت میں مقابلے کی صلاحیت بڑھانی ہوگی۔
+> 기술력이 곧 경쟁력이다. | Technology is competitiveness. | ٹیکنالوجی ہی مقابلے کی طاقت ہے۔
+> 국가 경쟁력 순위가 올랐다. | The national competitiveness ranking rose. | قومی مسابقت کی درجہ بندی بہتر ہوئی۔
++ 혁신 | 革新 | hyeoksin | noun | innovation | جدت، اختراع | Economy & Business | 3 | 혁신적 = innovative.
+> 기술 혁신이 경제를 이끈다. | Technological innovation drives the economy. | تکنیکی جدت معیشت کو آگے بڑھاتی ہے۔
+> 혁신적인 제품이 출시되었다. | An innovative product was launched. | ایک جدید پروڈکٹ متعارف کرائی گئی۔
+> 교육 혁신이 필요하다. | Innovation in education is needed. | تعلیم میں جدت کی ضرورت ہے۔
++ 출시하다 | 出市- | chulsihada | verb | to launch, to release (a product) | (پروڈکٹ) متعارف کرانا | Economy & Business | 3 |
+> 새 스마트폰이 다음 달에 출시된다. | A new smartphone will be released next month. | نیا اسمارٹ فون اگلے مہینے آئے گا۔
+> 회사는 신제품을 출시했다. | The company launched a new product. | کمپنی نے نئی پروڈکٹ متعارف کرائی۔
+> 출시하자마자 품절되었다. | It sold out as soon as it was released. | آتے ہی ختم ہو گئی۔
++ 마케팅 |  | maketing | noun | marketing | مارکیٹنگ | Economy & Business | 3 |
+> SNS 마케팅이 효과적이다. | Social media marketing is effective. | سوشل میڈیا مارکیٹنگ مؤثر ہے۔
+> 마케팅 전략을 세웠다. | We set up a marketing strategy. | ہم نے مارکیٹنگ کی حکمتِ عملی بنائی۔
+> 그녀는 마케팅 부서에서 일한다. | She works in the marketing department. | وہ مارکیٹنگ کے شعبے میں کام کرتی ہے۔
++ 전략 | 戰略 | jeollyak | noun | strategy | حکمتِ عملی | Economy & Business | 3 |
+> 새로운 판매 전략이 필요하다. | A new sales strategy is needed. | فروخت کی نئی حکمتِ عملی درکار ہے۔
+> 장기적인 전략을 세워야 한다. | We must establish a long-term strategy. | طویل مدتی حکمتِ عملی بنانی ہوگی۔
+> 그 전략은 성공적이었다. | That strategy was successful. | وہ حکمتِ عملی کامیاب رہی۔
++ 수익 | 收益 | suik | noun | profit, earnings, revenue | منافع، آمدنی | Economy & Business | 3 |
+> 올해 수익이 크게 늘었다. | Earnings rose substantially this year. | اس سال منافع کافی بڑھا۔
+> 수익의 일부를 기부한다. | We donate part of the profits. | ہم منافع کا کچھ حصہ عطیہ کرتے ہیں۔
+> 수익성이 낮은 사업을 정리했다. | They wound up unprofitable businesses. | کم منافع والے کاروبار بند کر دیے گئے۔
++ 적자 | 赤字 | jeokja | noun | deficit, loss (in the red) | خسارہ | Economy & Business | 3 | Opposite: 흑자 (surplus).
+> 회사가 3년 연속 적자를 기록했다. | The company posted losses for three years in a row. | کمپنی کو مسلسل تین سال خسارہ ہوا۔
+> 무역 흑자가 늘었다. | The trade surplus increased. | تجارتی سرپلس بڑھ گیا۔
+> 적자를 줄이기 위해 비용을 절감했다. | Costs were cut to reduce the deficit. | خسارہ کم کرنے کے لیے اخراجات گھٹائے۔
++ 부도 | 不渡 | budo | noun | bankruptcy, default | دیوالیہ پن | Economy & Business | 3 | 파산 = bankruptcy (legal).
+> 그 회사는 결국 부도가 났다. | That company eventually went bankrupt. | وہ کمپنی آخرکار دیوالیہ ہو گئی۔
+> 부도 위기에 처한 기업이 많다. | Many companies are on the verge of bankruptcy. | بہت سی کمپنیاں دیوالیہ ہونے کے قریب ہیں۔
+> 그는 파산 신청을 했다. | He filed for bankruptcy. | اس نے دیوالیہ ہونے کی درخواست دی۔
++ 구조 조정 | 構造調整 | gujo jojeong | noun | restructuring | تنظیمِ نو | Economy & Business | 3 |
+> 회사가 구조 조정을 단행했다. | The company carried out restructuring. | کمپنی نے تنظیمِ نو کی۔
+> 구조 조정으로 많은 직원이 회사를 떠났다. | Many employees left due to restructuring. | تنظیمِ نو کی وجہ سے بہت سے ملازمین چلے گئے۔
+> 산업 구조 조정이 필요하다. | Industrial restructuring is needed. | صنعتی ڈھانچے میں تبدیلی ضروری ہے۔
++ 일자리 |  | iljari | noun | job, employment opportunity | روزگار | Work & Employment | 3 |
+> 정부는 일자리 창출에 힘쓰고 있다. | The government is working to create jobs. | حکومت روزگار پیدا کرنے کی کوشش کر رہی ہے۔
+> 청년 일자리가 부족하다. | There aren't enough jobs for young people. | نوجوانوں کے لیے روزگار کم ہے۔
+> 인공지능이 일자리를 빼앗을 수도 있다. | AI might take away jobs. | مصنوعی ذہانت روزگار چھین سکتی ہے۔
++ 창출하다 | 創出- | changchulhada | verb | to create, to generate | پیدا کرنا | Economy & Business | 3 |
+> 새 공장이 일자리 천 개를 창출했다. | The new factory created a thousand jobs. | نئے کارخانے نے ہزار نوکریاں پیدا کیں۔
+> 부가 가치를 창출하는 산업이다. | It's an industry that generates added value. | یہ ایسی صنعت ہے جو اضافی قدر پیدا کرتی ہے۔
+> 새로운 수익을 창출해야 한다. | We must generate new revenue. | ہمیں نئی آمدنی پیدا کرنی ہوگی۔
++ 산업 | 産業 | saneop | noun | industry | صنعت | Economy & Business | 3 |
+> 반도체 산업이 성장하고 있다. | The semiconductor industry is growing. | سیمی کنڈکٹر صنعت ترقی کر رہی ہے۔
+> 관광 산업은 코로나로 큰 피해를 입었다. | The tourism industry was badly hit by COVID. | سیاحت کی صنعت کو کورونا سے بڑا نقصان ہوا۔
+> 4차 산업 혁명 시대이다. | It's the era of the Fourth Industrial Revolution. | یہ چوتھے صنعتی انقلاب کا دور ہے۔
++ 무역 | 貿易 | muyeok | noun | trade | تجارت | Economy & Business | 3 |
+> 두 나라 사이의 무역이 늘었다. | Trade between the two countries increased. | دونوں ملکوں کی تجارت بڑھ گئی۔
+> 그는 무역 회사에서 일한다. | He works for a trading company. | وہ ایک تجارتی کمپنی میں کام کرتا ہے۔
+> 자유 무역 협정을 체결했다. | They signed a free trade agreement. | آزاد تجارتی معاہدہ کیا گیا۔
++ 관세 | 關稅 | gwanse | noun | tariff, customs duty | محصول، کسٹم ڈیوٹی | Economy & Business | 3 |
+> 수입품에 관세가 부과된다. | Tariffs are imposed on imports. | درآمدی اشیاء پر محصول لگتا ہے۔
+> 관세를 인상하자 가격이 올랐다. | Prices rose when tariffs were raised. | محصول بڑھنے پر قیمتیں بڑھ گئیں۔
+> 면세점에서는 관세가 없다. | There's no duty at the duty-free shop. | ڈیوٹی فری شاپ پر محصول نہیں ہوتا۔
++ 환경 규제 | 環境規制 | hwangyeong gyuje | noun | environmental regulation | ماحولیاتی ضابطے | Environment | 3 |
+> 환경 규제가 강화되면서 기업들이 대응하고 있다. | Companies are responding as environmental regulations tighten. | ماحولیاتی ضوابط سخت ہونے سے کمپنیاں اقدامات کر رہی ہیں۔
+> 환경 규제를 지키지 않으면 벌금을 낸다. | Breaking environmental regulations means a fine. | ماحولیاتی ضوابط توڑنے پر جرمانہ ہوتا ہے۔
+> 환경 규제와 경제 성장 사이의 균형이 필요하다. | A balance between environmental rules and growth is needed. | ماحولیاتی ضوابط اور معاشی ترقی میں توازن ضروری ہے۔
++ 소득 | 所得 | sodeuk | noun | income | آمدنی | Economy & Business | 3 | 소득세 = income tax.
+> 소득이 높을수록 세금도 많이 낸다. | The higher the income, the more tax you pay. | آمدنی جتنی زیادہ، ٹیکس اتنا زیادہ۔
+> 국민 소득이 증가했다. | National income increased. | قومی آمدنی بڑھ گئی۔
+> 저소득층을 위한 지원이 필요하다. | Support for low-income groups is needed. | کم آمدنی والے طبقے کی مدد ضروری ہے۔
++ 재산 | 財産 | jaesan | noun | property, assets, fortune | جائیداد، دولت | Economy & Business | 3 |
+> 그는 재산을 모두 기부했다. | He donated all his wealth. | اس نے اپنی ساری دولت عطیہ کر دی۔
+> 건강이 가장 큰 재산이다. | Health is the greatest asset. | صحت سب سے بڑی دولت ہے۔
+> 재산을 자식에게 물려줬다. | They passed their property on to their children. | انہوں نے جائیداد اولاد کو منتقل کی۔
++ 자본 | 資本 | jabon | noun | capital | سرمایہ | Economy & Business | 3 | 자본주의 = capitalism.
+> 창업에는 자본이 필요하다. | Starting a business requires capital. | کاروبار شروع کرنے کے لیے سرمایہ چاہیے۔
+> 외국 자본이 들어왔다. | Foreign capital came in. | غیر ملکی سرمایہ آیا۔
+> 자본주의 사회의 문제점을 토론했다. | We debated the problems of capitalist society. | ہم نے سرمایہ دارانہ معاشرے کے مسائل پر بحث کی۔
++ 유통 | 流通 | yutong | noun | distribution, circulation | تقسیم، ترسیل | Economy & Business | 3 | 유통 기한 = expiration date.
+> 유통 과정에서 가격이 올라간다. | Prices rise during distribution. | ترسیل کے عمل میں قیمت بڑھ جاتی ہے۔
+> 그 회사는 유통업을 한다. | That company is in distribution. | وہ کمپنی ترسیل کا کام کرتی ہے۔
+> 위조지폐가 유통되고 있다. | Counterfeit bills are in circulation. | جعلی نوٹ گردش میں ہیں۔
++ 계약을 체결하다 | 契約- 締結- | gyeyageul chegyeolhada | expression | to conclude a contract | معاہدہ کرنا | Economy & Business | 3 | 체결하다 = to conclude, sign (formal).
+> 두 회사가 계약을 체결했다. | The two companies concluded a contract. | دونوں کمپنیوں نے معاہدہ کیا۔
+> 계약을 체결하기 전에 꼼꼼히 확인하세요. | Check carefully before signing a contract. | معاہدہ کرنے سے پہلے اچھی طرح دیکھیں۔
+> 수출 계약이 체결되었다. | An export contract was signed. | برآمدی معاہدے پر دستخط ہوئے۔
++ 손실 | 損失 | sonsil | noun | loss | نقصان | Economy & Business | 3 |
+> 화재로 큰 손실을 입었다. | We suffered a big loss from the fire. | آگ سے بڑا نقصان ہوا۔
+> 투자 손실이 발생했다. | An investment loss occurred. | سرمایہ کاری میں نقصان ہوا۔
+> 인재를 잃는 것은 큰 손실이다. | Losing talented people is a great loss. | باصلاحیت لوگوں کا جانا بڑا نقصان ہے۔
++ 위기 | 危機 | wigi | noun | crisis | بحران | Economy & Business | 3 |
+> 금융 위기가 전 세계로 퍼졌다. | The financial crisis spread worldwide. | مالی بحران دنیا بھر میں پھیل گیا۔
+> 위기를 기회로 바꿨다. | They turned the crisis into an opportunity. | انہوں نے بحران کو موقع میں بدل دیا۔
+> 멸종 위기에 처한 동물이 많다. | Many animals are endangered. | بہت سے جانور معدومیت کے خطرے میں ہیں۔
++ 회복세 | 回復勢 | hoebokse | noun | recovery trend | بحالی کا رجحان | Economy & Business | 3 |
+> 경제가 회복세를 보이고 있다. | The economy is showing signs of recovery. | معیشت میں بحالی کے آثار ہیں۔
+> 관광객 수가 회복세로 돌아섰다. | Tourist numbers have turned toward recovery. | سیاحوں کی تعداد بحال ہونے لگی۔
+> 회복세가 오래가기를 바란다. | I hope the recovery lasts. | امید ہے بحالی برقرار رہے گی۔
++ 지표 | 指標 | jipyo | noun | indicator, index | اشاریہ | Economy & Business | 3 |
+> 경제 지표가 개선되었다. | Economic indicators improved. | معاشی اشاریے بہتر ہوئے۔
+> 행복 지표를 조사했다. | They surveyed a happiness index. | خوشی کے اشاریے کا جائزہ لیا گیا۔
+> 이 지표는 성장률을 보여 준다. | This indicator shows the growth rate. | یہ اشاریہ ترقی کی شرح دکھاتا ہے۔
++ 통계 | 統計 | tonggye | noun | statistics | اعداد و شمار | Academic & Formal | 3 | 통계청 = Statistics Korea.
+> 통계에 따르면 출생률이 감소했다. | According to statistics, the birth rate decreased. | اعداد و شمار کے مطابق شرحِ پیدائش کم ہوئی۔
+> 통계를 분석해서 보고서를 썼다. | I analyzed the statistics and wrote a report. | میں نے اعداد و شمار کا تجزیہ کر کے رپورٹ لکھی۔
+> 통계는 해석에 따라 다르게 보인다. | Statistics look different depending on interpretation. | اعداد و شمار تشریح کے مطابق مختلف نظر آتے ہیں۔
++ 증가세 | 增加勢 | jeunggase | noun | upward trend | اضافے کا رجحان | Economy & Business | 3 | 감소세 = downward trend.
+> 1인 가구가 증가세를 보이고 있다. | Single-person households are on the rise. | اکیلے رہنے والے گھرانے بڑھ رہے ہیں۔
+> 수출이 감소세로 돌아섰다. | Exports have turned downward. | برآمدات کم ہونے لگی ہیں۔
+> 증가세가 둔화되었다. | The upward trend has slowed. | اضافے کی رفتار سست ہو گئی۔
++ 고용 | 雇用 | goyong | noun | employment, hiring | روزگار، ملازمت | Work & Employment | 3 | 고용하다; 고용주 = employer.
+> 고용 안정이 중요하다. | Job security is important. | ملازمت کا تحفظ اہم ہے۔
+> 회사가 직원 50명을 고용했다. | The company hired 50 employees. | کمپنی نے پچاس ملازمین رکھے۔
+> 고용률이 상승했다. | The employment rate rose. | روزگار کی شرح بڑھ گئی۔
++ 비정규직 | 非正規職 | bijeonggyujik | noun | non-regular (temporary/contract) worker | عارضی ملازم | Work & Employment | 3 | 정규직 = permanent position.
+> 비정규직 문제가 심각하다. | The issue of non-regular workers is serious. | عارضی ملازمین کا مسئلہ سنگین ہے۔
+> 정규직으로 전환되었다. | I was converted to a permanent position. | مجھے مستقل ملازمت مل گئی۔
+> 비정규직은 고용이 불안정하다. | Non-regular jobs are insecure. | عارضی ملازمت غیر محفوظ ہوتی ہے۔
++ 임금 | 賃金 | imgeum | noun | wage | اجرت | Work & Employment | 3 |
+> 임금 인상을 요구했다. | They demanded a wage increase. | انہوں نے اجرت میں اضافے کا مطالبہ کیا۔
+> 남녀 임금 격차가 줄었다. | The gender wage gap narrowed. | مرد و عورت کی اجرت کا فرق کم ہوا۔
+> 임금이 제때 지급되지 않았다. | Wages weren't paid on time. | اجرت وقت پر نہیں دی گئی۔
++ 생산성 | 生産性 | saengsanseong | noun | productivity | پیداواری صلاحیت | Economy & Business | 3 |
+> 기계를 도입해 생산성을 높였다. | They increased productivity by introducing machines. | مشینیں لا کر پیداوار بڑھائی گئی۔
+> 근무 시간보다 생산성이 중요하다. | Productivity matters more than working hours. | کام کے اوقات سے زیادہ پیداواری صلاحیت اہم ہے۔
+> 휴식이 생산성을 높인다. | Rest raises productivity. | آرام پیداوار بڑھاتا ہے۔
++ 도입하다 | 導入- | doiphada | verb | to introduce, to adopt (a system) | متعارف کرانا | Economy & Business | 3 |
+> 회사가 재택근무 제도를 도입했다. | The company introduced a remote work system. | کمپنی نے گھر سے کام کا نظام متعارف کرایا۔
+> 새로운 기술을 도입할 계획이다. | We plan to adopt new technology. | نئی ٹیکنالوجی اپنانے کا منصوبہ ہے۔
+> 이 제도는 2010년에 도입되었다. | This system was introduced in 2010. | یہ نظام 2010 میں متعارف ہوا۔
++ 개발도상국 | 開發途上國 | gaebaldosangguk | noun | developing country | ترقی پذیر ملک | Society & Culture | 3 | 선진국 = developed country.
+> 개발도상국의 경제 성장이 빠르다. | Developing countries' economies grow fast. | ترقی پذیر ممالک کی معیشت تیزی سے بڑھ رہی ہے۔
+> 선진국이 개발도상국을 지원한다. | Developed countries support developing ones. | ترقی یافتہ ممالک ترقی پذیر ممالک کی مدد کرتے ہیں۔
+> 한국은 개발도상국에서 선진국이 되었다. | Korea went from a developing to a developed country. | کوریا ترقی پذیر سے ترقی یافتہ ملک بن گیا۔
++ 세계화 | 世界化 | segyehwa | noun | globalization | عالمگیریت | Society & Culture | 3 |
+> 세계화로 문화 교류가 늘었다. | Cultural exchange increased with globalization. | عالمگیریت سے ثقافتی تبادلہ بڑھا۔
+> 세계화의 장단점을 토론했다. | We debated the pros and cons of globalization. | ہم نے عالمگیریت کے فائدے اور نقصانات پر بحث کی۔
+> 세계화 시대에는 외국어가 중요하다. | Foreign languages are important in the era of globalization. | عالمگیریت کے دور میں غیر ملکی زبانیں اہم ہیں۔
++ 소비 심리 | 消費心理 | sobi simni | noun | consumer sentiment | صارفین کا رجحان | Economy & Business | 3 |
+> 소비 심리가 위축되었다. | Consumer sentiment has weakened. | صارفین کا خرچ کرنے کا رجحان کم ہو گیا۔
+> 명절을 앞두고 소비 심리가 살아났다. | Consumer sentiment revived ahead of the holidays. | تہوار سے پہلے خریداری کا رجحان بڑھ گیا۔
+> 소비 심리를 자극하는 광고이다. | It's an ad that stimulates consumer desire. | یہ اشتہار خریداری کی خواہش ابھارتا ہے۔
++ 거래 | 去來 | georae | noun | transaction, deal, trade | لین دین، سودا | Economy & Business | 3 | 거래하다; 거래처 = business partner.
+> 온라인 거래가 늘어나고 있다. | Online transactions are increasing. | آن لائن لین دین بڑھ رہا ہے۔
+> 두 회사는 오래 거래해 왔다. | The two companies have done business for a long time. | دونوں کمپنیاں کافی عرصے سے کاروبار کر رہی ہیں۔
+> 거래처에 연락했다. | I contacted our business partner. | میں نے کاروباری ساتھی سے رابطہ کیا۔
++ 사업가 | 事業家 | saeopga | noun | businessperson, entrepreneur | کاروباری شخص | Economy & Business | 3 |
+> 그는 성공한 사업가이다. | He is a successful businessman. | وہ ایک کامیاب کاروباری ہے۔
+> 젊은 사업가들이 늘고 있다. | Young entrepreneurs are increasing. | نوجوان کاروباری افراد بڑھ رہے ہیں۔
+> 사업가에게는 결단력이 필요하다. | Entrepreneurs need decisiveness. | کاروباری شخص کو فیصلہ کن ہونا چاہیے۔
