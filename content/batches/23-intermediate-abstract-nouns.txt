@@ -1,0 +1,221 @@
+# Intermediate: core abstract nouns
++ 경우 | 境遇 | gyeongu | noun | case, circumstance | صورت، حالت | Academic & Formal | 2 | -(으)ㄴ/는 경우(에) = in case of.
+> 비가 오는 경우에는 행사가 취소됩니다. | In case of rain, the event will be canceled. | بارش کی صورت میں تقریب منسوخ ہو جائے گی۔
+> 이런 경우는 처음이에요. | This is the first time a case like this has happened. | ایسا معاملہ پہلی بار ہوا ہے۔
+> 대부분의 경우 문제가 없어요. | In most cases there's no problem. | زیادہ تر صورتوں میں کوئی مسئلہ نہیں ہوتا۔
++ 과정 | 過程 | gwajeong | noun | process; course (of study) | عمل؛ کورس | Academic & Formal | 2 |
+> 결과보다 과정이 중요해요. | The process is more important than the result. | نتیجے سے زیادہ عمل اہم ہے۔
+> 한국어 과정을 수료했어요. | I completed the Korean language course. | میں نے کورین زبان کا کورس مکمل کیا۔
+> 배우는 과정에서 실수는 당연해요. | Mistakes are natural in the learning process. | سیکھنے کے عمل میں غلطیاں فطری ہیں۔
++ 내용 | 內容 | naeyong | noun | content, contents | مواد، مضمون | Academic & Formal | 2 |
+> 이 책은 내용이 어려워요. | The content of this book is difficult. | اس کتاب کا مواد مشکل ہے۔
+> 회의 내용을 정리했어요. | I summarized what was said in the meeting. | میں نے میٹنگ کی باتوں کا خلاصہ کیا۔
+> 계약서 내용을 확인하세요. | Check the contents of the contract. | معاہدے کا مضمون دیکھ لیں۔
++ 부분 | 部分 | bubun | noun | part, portion | حصہ | Academic & Formal | 2 |
+> 이 부분이 이해가 안 돼요. | I don't understand this part. | یہ حصہ سمجھ میں نہیں آیا۔
+> 대부분 좋았지만 한 부분이 아쉬웠어요. | Most of it was good, but one part was disappointing. | زیادہ تر اچھا تھا مگر ایک حصہ کمزور تھا۔
+> 중요한 부분에 밑줄을 그으세요. | Underline the important parts. | اہم حصوں کے نیچے لکیر لگائیں۔
++ 전체 | 全體 | jeonche | noun | whole, entire | پورا، کل | Academic & Formal | 2 |
+> 전체 학생 중 절반이 찬성했어요. | Half of all the students agreed. | تمام طلبہ میں سے آدھوں نے حمایت کی۔
+> 전체 내용을 다시 읽어 보세요. | Read the whole thing again. | پورا مضمون دوبارہ پڑھیں۔
+> 전체적으로 만족해요. | Overall, I'm satisfied. | مجموعی طور پر مطمئن ہوں۔
++ 방식 | 方式 | bangsik | noun | way, method, style | طریقہ، انداز | Academic & Formal | 2 |
+> 공부 방식을 바꿔 봤어요. | I tried changing my study method. | میں نے پڑھنے کا طریقہ بدل کر دیکھا۔
+> 나라마다 생활 방식이 달라요. | Lifestyles differ by country. | ہر ملک کا طرزِ زندگی مختلف ہے۔
+> 결제 방식을 선택하세요. | Choose a payment method. | ادائیگی کا طریقہ منتخب کریں۔
++ 수준 | 水準 | sujun | noun | level, standard | معیار، سطح | Academic & Formal | 2 |
+> 제 한국어 수준은 중급이에요. | My Korean is at the intermediate level. | میری کورین درمیانی سطح کی ہے۔
+> 생활 수준이 높아졌어요. | The standard of living has risen. | معیارِ زندگی بلند ہو گیا ہے۔
+> 수준에 맞는 책을 고르세요. | Choose a book that fits your level. | اپنی سطح کے مطابق کتاب چنیں۔
++ 조건 | 條件 | jogeon | noun | condition, terms | شرط | Academic & Formal | 2 |
+> 이 회사의 근무 조건이 좋아요. | This company's working conditions are good. | اس کمپنی میں کام کی شرائط اچھی ہیں۔
+> 한 가지 조건이 있어요. | There's one condition. | ایک شرط ہے۔
+> 조건에 맞는 사람만 지원하세요. | Only those who meet the conditions should apply. | صرف شرائط پر پورا اترنے والے درخواست دیں۔
++ 기준 | 基準 | gijun | noun | standard, criterion | معیار، پیمانہ | Academic & Formal | 2 |
+> 선택의 기준이 뭐예요? | What's your criterion for choosing? | انتخاب کا معیار کیا ہے؟
+> 사람마다 행복의 기준이 달라요. | Everyone has a different standard of happiness. | ہر شخص کا خوشی کا پیمانہ الگ ہوتا ہے۔
+> 안전 기준을 지켜야 해요. | Safety standards must be followed. | حفاظتی معیار پر عمل ضروری ہے۔
++ 범위 | 範圍 | beomwi | noun | range, scope | دائرہ، حد | Academic & Formal | 2 |
+> 시험 범위가 너무 넓어요. | The exam covers too much material. | امتحان کا نصاب بہت زیادہ ہے۔
+> 그건 제 능력 범위 밖이에요. | That's beyond my abilities. | یہ میری استطاعت سے باہر ہے۔
+> 가격 범위를 정해 주세요. | Please set a price range. | قیمت کی حد مقرر کریں۔
++ 단계 | 段階 | dangye | noun | stage, step | مرحلہ | Academic & Formal | 2 |
+> 첫 번째 단계를 끝냈어요. | I finished the first stage. | میں نے پہلا مرحلہ مکمل کر لیا۔
+> 단계별로 설명해 드릴게요. | I'll explain step by step. | میں مرحلہ وار سمجھاتا ہوں۔
+> 아직 계획 단계예요. | It's still at the planning stage. | ابھی منصوبہ بندی کے مرحلے میں ہے۔
++ 분야 | 分野 | bunya | noun | field, area (of expertise) | شعبہ | Academic & Formal | 2 |
+> 어떤 분야에서 일하세요? | What field do you work in? | آپ کس شعبے میں کام کرتے ہیں؟
+> 그는 이 분야의 전문가예요. | He is an expert in this field. | وہ اس شعبے کا ماہر ہے۔
+> IT 분야에 관심이 많아요. | I'm very interested in the IT field. | مجھے آئی ٹی کے شعبے میں بہت دلچسپی ہے۔
++ 역할 | 役割 | yeokhal | noun | role | کردار | Academic & Formal | 2 |
+> 부모의 역할이 중요해요. | The role of parents is important. | والدین کا کردار اہم ہے۔
+> 저는 팀에서 디자인 역할을 맡았어요. | I took on the design role on the team. | میں نے ٹیم میں ڈیزائن کی ذمہ داری لی۔
+> 그 배우는 왕의 역할을 했어요. | That actor played the role of the king. | اس اداکار نے بادشاہ کا کردار ادا کیا۔
++ 입장 | 立場 | ipjang | noun | position, standpoint; (入場) admission | مؤقف؛ داخلہ | Academic & Formal | 2 | 입장료 = admission fee.
+> 제 입장도 이해해 주세요. | Please understand my position too. | میرا مؤقف بھی سمجھیں۔
+> 정부의 입장을 발표했어요. | They announced the government's position. | حکومت کا مؤقف بیان کیا گیا۔
+> 입장료는 만 원이에요. | The admission fee is 10,000 won. | داخلہ فیس دس ہزار وون ہے۔
++ 특징 | 特徵 | teukjing | noun | characteristic, feature | خصوصیت | Academic & Formal | 2 |
+> 이 제품의 특징은 가볍다는 거예요. | A feature of this product is that it's light. | اس پروڈکٹ کی خصوصیت یہ ہے کہ ہلکی ہے۔
+> 한국어의 특징을 설명해 주세요. | Please explain the characteristics of Korean. | کورین زبان کی خصوصیات بتائیں۔
+> 그 지역은 특징이 뚜렷해요. | That region has distinct characteristics. | اس علاقے کی خصوصیات نمایاں ہیں۔
++ 장소 | 場所 | jangso | noun | place, location | جگہ، مقام | Places & Directions | 2 |
+> 만날 장소를 정했어요? | Have you decided where to meet? | ملنے کی جگہ طے کی؟
+> 이곳은 사진 찍기 좋은 장소예요. | This is a good place for photos. | یہ تصویریں لینے کے لیے اچھی جگہ ہے۔
+> 공공장소에서는 조용히 하세요. | Be quiet in public places. | عوامی جگہوں پر خاموش رہیں۔
++ 공간 | 空間 | gonggan | noun | space, room | جگہ، گنجائش | Places & Directions | 2 |
+> 방에 공간이 부족해요. | There isn't enough space in the room. | کمرے میں جگہ کم ہے۔
+> 나만의 공간이 필요해요. | I need a space of my own. | مجھے اپنی جگہ چاہیے۔
+> 주차 공간이 없어요. | There's no parking space. | پارکنگ کی جگہ نہیں ہے۔
++ 시기 | 時期 | sigi | noun | period, time, season | وقت، دور | Time & Numbers | 2 |
+> 지금은 중요한 시기예요. | This is an important period. | یہ ایک اہم وقت ہے۔
+> 여행하기 좋은 시기는 가을이에요. | Autumn is a good time to travel. | سفر کے لیے اچھا وقت خزاں ہے۔
+> 어려운 시기를 함께 견뎠어요. | We endured a difficult period together. | ہم نے مشکل وقت مل کر گزارا۔
++ 시대 | 時代 | sidae | noun | era, age, times | دور، زمانہ | Society & Culture | 2 |
+> 조선 시대에는 한복을 입었어요. | People wore hanbok in the Joseon era. | جوسون دور میں لوگ ہانبوک پہنتے تھے۔
+> 시대가 많이 변했어요. | Times have changed a lot. | زمانہ بہت بدل گیا ہے۔
+> 우리는 정보화 시대에 살고 있어요. | We live in the information age. | ہم معلوماتی دور میں رہ رہے ہیں۔
++ 미래 | 未來 | mirae | noun | future | مستقبل | Time & Numbers | 2 |
+> 미래에 무엇을 하고 싶어요? | What do you want to do in the future? | مستقبل میں کیا کرنا چاہتے ہیں؟
+> 미래를 위해 저축해요. | I save for the future. | مستقبل کے لیے بچت کرتا ہوں۔
+> 아이들은 우리의 미래예요. | Children are our future. | بچے ہمارا مستقبل ہیں۔
++ 과거 | 過去 | gwageo | noun | past | ماضی | Time & Numbers | 2 |
+> 과거는 바꿀 수 없어요. | You can't change the past. | ماضی بدلا نہیں جا سکتا۔
+> 과거에는 여기가 논이었어요. | In the past, this was a rice paddy. | ماضی میں یہاں دھان کا کھیت تھا۔
+> 과거의 실수에서 배웠어요. | I learned from past mistakes. | میں نے ماضی کی غلطیوں سے سیکھا۔
++ 현재 | 現在 | hyeonjae | noun | present, now | حال، موجودہ | Time & Numbers | 2 |
+> 현재 시간은 오후 3시입니다. | The current time is 3 p.m. | اس وقت سہ پہر کے تین بجے ہیں۔
+> 현재 서울에 살고 있어요. | I'm currently living in Seoul. | میں اس وقت سیول میں رہ رہا ہوں۔
+> 과거보다 현재가 중요해요. | The present matters more than the past. | ماضی سے زیادہ حال اہم ہے۔
++ 사실 | 事實 | sasil | noun/adverb | fact, truth; actually | حقیقت؛ دراصل | Academic & Formal | 2 |
+> 그건 사실이 아니에요. | That's not true. | یہ سچ نہیں ہے۔
+> 사실은 저도 잘 몰라요. | Actually, I don't really know either. | دراصل مجھے بھی ٹھیک سے معلوم نہیں۔
+> 사실을 말해 주세요. | Please tell me the truth. | سچ بتائیں۔
++ 진실 | 眞實 | jinsil | noun | truth | سچائی | Academic & Formal | 2 |
+> 진실은 언젠가 밝혀져요. | The truth comes out eventually. | سچائی کبھی نہ کبھی سامنے آ جاتی ہے۔
+> 진실을 알고 싶어요. | I want to know the truth. | میں سچ جاننا چاہتا ہوں۔
+> 그의 말에는 진실이 담겨 있었어요. | There was truth in his words. | اس کی باتوں میں سچائی تھی۔
++ 가능성 | 可能性 | ganeungseong | noun | possibility, likelihood | امکان | Academic & Formal | 2 |
+> 내일 비가 올 가능성이 높아요. | There's a high chance of rain tomorrow. | کل بارش کا امکان زیادہ ہے۔
+> 성공할 가능성은 충분해요. | There's a good chance of success. | کامیابی کا کافی امکان ہے۔
+> 모든 가능성을 생각해 봐야 해요. | We should consider every possibility. | ہر امکان پر غور کرنا چاہیے۔
++ 능력 | 能力 | neungnyeok | noun | ability, capability | صلاحیت | Academic & Formal | 2 |
+> 그는 외국어 능력이 뛰어나요. | He has outstanding foreign language ability. | اس کی غیر ملکی زبانوں کی صلاحیت شاندار ہے۔
+> 자신의 능력을 믿으세요. | Believe in your abilities. | اپنی صلاحیتوں پر یقین رکھیں۔
+> 토픽은 한국어 능력 시험이에요. | TOPIK is a Korean proficiency test. | ٹاپک کورین زبان کی مہارت کا امتحان ہے۔
++ 개성 | 個性 | gaeseong | noun | individuality, personality | انفرادیت | Emotions & Relationships | 2 |
+> 그 사람은 개성이 강해요. | That person has a strong personality. | اس شخص کی انفرادیت نمایاں ہے۔
+> 개성 있는 옷을 좋아해요. | I like distinctive clothes. | مجھے منفرد کپڑے پسند ہیں۔
+> 사람마다 개성이 달라요. | Everyone has their own individuality. | ہر شخص کی اپنی انفرادیت ہوتی ہے۔
++ 취향 | 趣向 | chwihyang | noun | taste, preference | ذوق، پسند | Emotions & Relationships | 2 |
+> 음악 취향이 어떻게 돼요? | What's your taste in music? | موسیقی میں آپ کا ذوق کیسا ہے؟
+> 그건 제 취향이 아니에요. | That's not my taste. | یہ میری پسند کا نہیں۔
+> 취향에 맞게 고르세요. | Choose according to your taste. | اپنے ذوق کے مطابق چنیں۔
++ 지역 | 地域 | jiyeok | noun | region, area | علاقہ | Places & Directions | 2 |
+> 이 지역은 겨울에 눈이 많이 와요. | This region gets a lot of snow in winter. | اس علاقے میں سردیوں میں بہت برف پڑتی ہے۔
+> 지역마다 음식 맛이 달라요. | Food tastes different in each region. | ہر علاقے کے کھانے کا ذائقہ الگ ہوتا ہے۔
+> 지역 축제에 참가했어요. | I took part in a local festival. | میں نے علاقائی میلے میں حصہ لیا۔
++ 주변 | 周邊 | jubyeon | noun | surroundings, vicinity | اردگرد | Places & Directions | 2 |
+> 학교 주변에 식당이 많아요. | There are many restaurants around the school. | اسکول کے اردگرد بہت ریستوران ہیں۔
+> 주변 사람들에게 도움을 받았어요. | I got help from the people around me. | اپنے آس پاس کے لوگوں سے مدد ملی۔
+> 주변을 잘 살펴보세요. | Look around carefully. | اردگرد غور سے دیکھیں۔
++ 인간 | 人間 | ingan | noun | human being | انسان | Society & Culture | 2 |
+> 인간은 혼자 살 수 없어요. | Humans can't live alone. | انسان اکیلا نہیں رہ سکتا۔
+> 인간관계가 어려워요. | Human relationships are difficult. | انسانی تعلقات مشکل ہوتے ہیں۔
+> 로봇이 인간의 일을 대신해요. | Robots replace human work. | روبوٹ انسانوں کا کام کرتے ہیں۔
++ 인생 | 人生 | insaeng | noun | life (one's life) | زندگی | Emotions & Relationships | 2 |
+> 인생은 한 번뿐이에요. | You only live once. | زندگی ایک ہی بار ملتی ہے۔
+> 그 책이 제 인생을 바꿨어요. | That book changed my life. | اس کتاب نے میری زندگی بدل دی۔
+> 인생에서 가장 행복했던 순간은 언제예요? | What was the happiest moment of your life? | آپ کی زندگی کا سب سے خوشگوار لمحہ کب تھا؟
++ 세상 | 世上 | sesang | noun | the world (we live in) | دنیا، جہان | Society & Culture | 2 |
+> 세상은 넓어요. | The world is a big place. | دنیا بہت بڑی ہے۔
+> 세상에 이런 일이! | What on earth! (I can't believe it) | دنیا میں ایسا بھی ہوتا ہے!
+> 아기가 세상에 태어났어요. | The baby came into the world. | بچہ دنیا میں آیا۔
++ 생명 | 生命 | saengmyeong | noun | life (biological), lifespan | جان، زندگی | Health | 2 |
+> 의사들이 환자의 생명을 구했어요. | The doctors saved the patient's life. | ڈاکٹروں نے مریض کی جان بچائی۔
+> 모든 생명은 소중해요. | All life is precious. | ہر جان قیمتی ہے۔
+> 이 배터리는 생명이 길어요. | This battery lasts a long time. | اس بیٹری کی عمر لمبی ہے۔
++ 평화 | 平和 | pyeonghwa | noun | peace | امن | Society & Culture | 2 |
+> 세계 평화를 바라요. | I wish for world peace. | میں عالمی امن کی دعا کرتا ہوں۔
+> 평화로운 아침이에요. | It's a peaceful morning. | یہ ایک پرسکون صبح ہے۔
+> 두 나라가 평화 협정을 맺었어요. | The two countries signed a peace treaty. | دونوں ملکوں نے امن معاہدہ کیا۔
++ 전쟁 | 戰爭 | jeonjaeng | noun | war | جنگ | Society & Culture | 2 |
+> 전쟁은 많은 것을 빼앗아요. | War takes away so much. | جنگ بہت کچھ چھین لیتی ہے۔
+> 할아버지는 전쟁을 겪으셨어요. | My grandfather lived through a war. | دادا جان نے جنگ دیکھی۔
+> 전쟁이 끝나기를 기도해요. | I pray for the war to end. | دعا ہے کہ جنگ ختم ہو جائے۔
++ 자유 | 自由 | jayu | noun | freedom | آزادی | Society & Culture | 2 | 자유롭다 = free.
+> 표현의 자유가 중요해요. | Freedom of expression is important. | اظہار کی آزادی اہم ہے۔
+> 주말에는 자유 시간이 많아요. | I have a lot of free time on weekends. | ہفتے کے آخر میں فارغ وقت زیادہ ہوتا ہے۔
+> 혼자 사니까 자유로워요. | Living alone feels free. | اکیلے رہنے میں آزادی ہے۔
++ 행동 | 行動 | haengdong | noun | action, behavior | عمل، رویہ | Emotions & Relationships | 2 | 행동하다.
+> 말보다 행동이 중요해요. | Actions are more important than words. | باتوں سے زیادہ عمل اہم ہے۔
+> 그의 행동이 이상했어요. | His behavior was strange. | اس کا رویہ عجیب تھا۔
+> 생각한 것을 행동으로 옮기세요. | Put your thoughts into action. | اپنی سوچ کو عمل میں لائیں۔
++ 반응 | 反應 | baneung | noun | reaction, response | ردعمل | Emotions & Relationships | 2 |
+> 관객들의 반응이 좋았어요. | The audience's reaction was good. | ناظرین کا ردعمل اچھا تھا۔
+> 그 소식에 어떤 반응을 보였어요? | How did they react to the news? | اس خبر پر ان کا ردعمل کیا تھا؟
+> 약에 알레르기 반응이 생겼어요. | I had an allergic reaction to the medicine. | دوا سے الرجی کا ردعمل ہوا۔
++ 결정 | 決定 | gyeoljeong | noun | decision | فیصلہ | Academic & Formal | 2 |
+> 어려운 결정을 내렸어요. | I made a difficult decision. | میں نے ایک مشکل فیصلہ کیا۔
+> 최종 결정은 다음 주에 나와요. | The final decision comes out next week. | حتمی فیصلہ اگلے ہفتے آئے گا۔
+> 당신의 결정을 존중해요. | I respect your decision. | میں آپ کے فیصلے کا احترام کرتا ہوں۔
++ 선택 | 選擇 | seontaek | noun | choice, selection | انتخاب | Academic & Formal | 2 |
+> 좋은 선택이에요. | That's a good choice. | یہ اچھا انتخاب ہے۔
+> 선택의 기회가 많지 않아요. | There aren't many choices. | انتخاب کے مواقع زیادہ نہیں۔
+> 그것은 당신의 선택이에요. | That's your choice. | یہ آپ کی مرضی ہے۔
++ 기억 | 記憶 | gieok | noun | memory | یاد، حافظہ | Emotions & Relationships | 2 |
+> 어릴 때 기억이 많이 나요. | I remember a lot from my childhood. | بچپن کی بہت سی یادیں ہیں۔
+> 기억력이 점점 나빠져요. | My memory is getting worse. | میرا حافظہ کمزور ہوتا جا رہا ہے۔
+> 좋은 기억으로 남을 거예요. | It'll remain a good memory. | یہ ایک اچھی یاد بن کر رہے گا۔
++ 경험 | 經驗 | gyeongheom | noun | experience | تجربہ | Work & Employment | 2 |
+> 좋은 경험이 됐어요. | It became a good experience. | یہ ایک اچھا تجربہ رہا۔
+> 경험이 많은 사람에게 물어보세요. | Ask someone with a lot of experience. | کسی تجربہ کار شخص سے پوچھیں۔
+> 해외 생활 경험이 있어요? | Do you have experience living abroad? | کیا آپ کو بیرون ملک رہنے کا تجربہ ہے؟
++ 감각 | 感覺 | gamgak | noun | sense, feeling; flair | حس، احساس | Academic & Formal | 2 |
+> 그녀는 패션 감각이 좋아요. | She has a good sense of fashion. | اس کا فیشن کا ذوق اچھا ہے۔
+> 추워서 손가락에 감각이 없어요. | My fingers are numb from the cold. | سردی سے انگلیاں سن ہو گئیں۔
+> 유머 감각이 있는 사람이 좋아요. | I like people with a sense of humor. | مجھے مزاح کی حس رکھنے والے لوگ پسند ہیں۔
++ 의미 있다 | 意味- | uimi itda | adjective | meaningful | بامعنی | Emotions & Relationships | 2 |
+> 의미 있는 시간을 보냈어요. | I spent meaningful time. | میں نے بامعنی وقت گزارا۔
+> 봉사 활동은 의미 있는 일이에요. | Volunteering is meaningful work. | رضاکارانہ کام ایک بامعنی کام ہے۔
+> 결과보다 노력이 더 의미 있어요. | The effort is more meaningful than the result. | نتیجے سے زیادہ محنت معنی رکھتی ہے۔
++ 가치 | 價値 | gachi | noun | value, worth | قدر، قیمت | Academic & Formal | 2 | 가치 있다 = worthwhile.
+> 이 그림은 가치가 높아요. | This painting is highly valuable. | اس تصویر کی قیمت بہت زیادہ ہے۔
+> 시간의 가치를 알아야 해요. | You should know the value of time. | وقت کی قدر جاننی چاہیے۔
+> 해 볼 가치가 있어요. | It's worth trying. | کرنے کے قابل ہے۔
++ 영향력 | 影響力 | yeonghyangnyeok | noun | influence (power) | اثر و رسوخ | Society & Culture | 2 |
+> 그는 영향력이 큰 사람이에요. | He is a very influential person. | وہ بہت بااثر شخص ہے۔
+> SNS의 영향력이 커지고 있어요. | The influence of social media is growing. | سوشل میڈیا کا اثر بڑھ رہا ہے۔
+> 부모는 아이에게 가장 큰 영향력을 가져요. | Parents have the biggest influence on children. | والدین کا بچوں پر سب سے زیادہ اثر ہوتا ہے۔
++ 관점 | 觀點 | gwanjeom | noun | point of view, perspective | نقطۂ نظر | Academic & Formal | 2 |
+> 다른 관점에서 생각해 보세요. | Try thinking from a different perspective. | کسی اور نقطۂ نظر سے سوچیں۔
+> 관점에 따라 결론이 달라요. | Conclusions differ depending on perspective. | نقطۂ نظر کے مطابق نتیجہ بدل جاتا ہے۔
+> 외국인의 관점에서 쓴 책이에요. | It's a book written from a foreigner's point of view. | یہ ایک غیر ملکی کے نقطۂ نظر سے لکھی گئی کتاب ہے۔
++ 의견 차이 | 意見差異 | uigyeon chai | noun | difference of opinion | رائے کا اختلاف | Emotions & Relationships | 2 |
+> 의견 차이가 있어도 존중해야 해요. | Even with differences of opinion, we should respect each other. | رائے میں اختلاف ہو تب بھی احترام ضروری ہے۔
+> 부부 사이에 의견 차이가 생겼어요. | A difference of opinion arose between the couple. | میاں بیوی کے درمیان اختلاف رائے پیدا ہو گیا۔
+> 의견 차이를 대화로 좁혔어요. | We narrowed our differences through dialogue. | ہم نے بات چیت سے اختلافات کم کیے۔
++ 공통점 | 共通點 | gongtongjeom | noun | something in common | مشترک بات | Academic & Formal | 2 | 차이점 = difference.
+> 우리는 공통점이 많아요. | We have a lot in common. | ہم میں بہت سی باتیں مشترک ہیں۔
+> 두 나라의 공통점과 차이점을 써 보세요. | Write the similarities and differences of the two countries. | دونوں ملکوں کی مشترکہ اور مختلف باتیں لکھیں۔
+> 공통점을 찾으면 쉽게 친해져요. | Finding common ground makes it easy to become friends. | مشترک بات مل جائے تو جلد دوستی ہو جاتی ہے۔
++ 차이점 | 差異點 | chaijeom | noun | difference (point of difference) | فرق | Academic & Formal | 2 |
+> 두 단어의 차이점이 뭐예요? | What's the difference between the two words? | دونوں الفاظ میں کیا فرق ہے؟
+> 차이점을 비교해 봅시다. | Let's compare the differences. | فرق کا موازنہ کرتے ہیں۔
+> 큰 차이점은 없어요. | There's no big difference. | کوئی بڑا فرق نہیں ہے۔
++ 장애 | 障礙 | jangae | noun | obstacle; disability; failure (technical) | رکاوٹ؛ معذوری؛ خرابی | Society & Culture | 2 | 장애인 = person with a disability.
+> 시스템 장애로 결제가 안 돼요. | Payments aren't working due to a system failure. | سسٹم کی خرابی سے ادائیگی نہیں ہو رہی۔
+> 장애인을 위한 시설이 늘었어요. | Facilities for people with disabilities have increased. | معذور افراد کے لیے سہولیات بڑھ گئی ہیں۔
+> 언어 장벽은 큰 장애가 아니에요. | The language barrier isn't a big obstacle. | زبان کی رکاوٹ کوئی بڑی مشکل نہیں۔
++ 장점과 단점 | 長點- 短點 | jangjeomgwa danjeom | expression | pros and cons | فائدے اور نقصانات | Academic & Formal | 2 | Common TOPIK writing topic.
+> 온라인 수업의 장점과 단점을 써 보세요. | Write the pros and cons of online classes. | آن لائن کلاسوں کے فائدے اور نقصانات لکھیں۔
+> 모든 일에는 장점과 단점이 있어요. | Everything has pros and cons. | ہر کام کے فائدے اور نقصانات ہوتے ہیں۔
+> 장점과 단점을 비교해서 결정했어요. | I decided after comparing the pros and cons. | فائدے اور نقصانات کا موازنہ کر کے فیصلہ کیا۔
++ 원래 | 元來 | wollae | adverb/noun | originally, by nature | اصل میں، شروع سے | Common Verbs & Adjectives | 2 |
+> 저는 원래 아침을 안 먹어요. | I don't usually eat breakfast in the first place. | میں ویسے ہی ناشتہ نہیں کرتا۔
+> 원래 계획은 부산에 가는 거였어요. | The original plan was to go to Busan. | اصل منصوبہ بوسان جانے کا تھا۔
+> 그는 원래 조용한 사람이에요. | He's a quiet person by nature. | وہ فطرتاً خاموش انسان ہے۔
++ 실은 | 實- | sireun | adverb | actually, to tell the truth | دراصل | Common Verbs & Adjectives | 2 | Similar: 사실은.
+> 실은 오늘이 제 생일이에요. | Actually, today is my birthday. | دراصل آج میری سالگرہ ہے۔
+> 실은 그 영화를 벌써 봤어요. | To tell the truth, I've already seen that movie. | سچ پوچھیں تو وہ فلم میں دیکھ چکا ہوں۔
+> 실은 부탁이 있어서 왔어요. | Actually, I came because I have a favor to ask. | دراصل ایک کام سے آیا ہوں۔
