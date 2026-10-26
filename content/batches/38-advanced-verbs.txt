@@ -1,0 +1,233 @@
+# Advanced: verbs
++ 거론하다 | 擧論- | georonhada | verb | to bring up for discussion, to mention | زیرِ بحث لانا | Academic & Formal | 3 |
+> 회의에서 예산 문제가 거론되었다. | The budget issue was brought up at the meeting. | میٹنگ میں بجٹ کا مسئلہ زیرِ بحث آیا۔
+> 그 이름은 차기 후보로 거론되고 있다. | That name is being mentioned as the next candidate. | اس نام کا ذکر آئندہ امیدوار کے طور پر ہو رہا ہے۔
+> 개인적인 일을 거론하지 마세요. | Don't bring up personal matters. | ذاتی معاملات کا ذکر نہ کریں۔
++ 결부시키다 | 結付- | gyeolbusikida | verb | to link, to connect (two matters) | جوڑنا (دو معاملات) | Academic & Formal | 3 |
+> 개인 감정을 일과 결부시키지 마세요. | Don't link personal feelings with work. | ذاتی جذبات کو کام سے نہ جوڑیں۔
+> 그 사건을 정치와 결부시키는 것은 무리다. | Linking that incident to politics is a stretch. | اس واقعے کو سیاست سے جوڑنا زیادتی ہے۔
+> 두 문제는 결부되어 있다. | The two issues are linked. | دونوں مسائل آپس میں جڑے ہیں۔
++ 고수하다 | 固守- | gosuhada | verb | to adhere to, to stick to | ڈٹے رہنا | Academic & Formal | 3 |
+> 그 식당은 전통 방식을 고수한다. | That restaurant sticks to traditional methods. | وہ ریستوران روایتی طریقے پر قائم ہے۔
+> 그는 자신의 의견을 끝까지 고수했다. | He stuck to his opinion to the end. | وہ آخر تک اپنی رائے پر ڈٹا رہا۔
+> 원칙을 고수하는 것이 중요하다. | It's important to adhere to principles. | اصولوں پر قائم رہنا اہم ہے۔
++ 관철하다 | 貫徹- | gwancheolhada | verb | to carry through, to accomplish (one's will) | منوانا، پورا کرنا | Academic & Formal | 3 |
+> 노조는 요구 사항을 관철했다. | The union pushed its demands through. | یونین نے اپنے مطالبات منوا لیے۔
+> 그는 자신의 뜻을 관철시켰다. | He got his way. | اس نے اپنی بات منوا لی۔
+> 목표를 관철하기 위해 노력했다. | They worked to carry their goal through. | ہدف پورا کرنے کے لیے محنت کی۔
++ 규정하다 | 規定- | gyujeonghada | verb | to define, to prescribe (by rule) | تعریف کرنا، مقرر کرنا | Academic & Formal | 3 | Noun: 규정 (regulation).
+> 법은 근무 시간을 주 52시간으로 규정한다. | The law sets working hours at 52 a week. | قانون کام کے اوقات باون گھنٹے فی ہفتہ مقرر کرتا ہے۔
+> 그를 한마디로 규정하기는 어렵다. | It's hard to define him in a word. | اسے ایک لفظ میں بیان کرنا مشکل ہے۔
+> 회사 규정을 따라야 한다. | You must follow company regulations. | کمپنی کے قواعد پر عمل ضروری ہے۔
++ 극복되다 | 克服- | geukbokdoeda | verb | to be overcome | قابو پا لیا جانا | Academic & Formal | 3 |
+> 위기는 협력으로 극복되었다. | The crisis was overcome through cooperation. | تعاون سے بحران پر قابو پا لیا گیا۔
+> 언어 장벽은 노력으로 극복될 수 있다. | The language barrier can be overcome with effort. | محنت سے زبان کی رکاوٹ دور ہو سکتی ہے۔
+> 두려움이 점차 극복되었다. | The fear was gradually overcome. | خوف آہستہ آہستہ ختم ہو گیا۔
++ 내세우다 |  | naeseuda | verb | to put forward, to promote, to claim | آگے رکھنا، دعویٰ کرنا | Academic & Formal | 3 |
+> 그 후보는 경제 회복을 공약으로 내세웠다. | The candidate put forward economic recovery as a pledge. | امیدوار نے معاشی بحالی کو اپنا وعدہ بنایا۔
+> 자기 의견만 내세우지 마세요. | Don't push only your own opinion. | صرف اپنی رائے آگے نہ رکھیں۔
+> 회사는 품질을 장점으로 내세운다. | The company promotes quality as its strength. | کمپنی معیار کو اپنی خوبی بتاتی ہے۔
++ 누리다 |  | nurida | verb | to enjoy (benefits, popularity) | لطف اٹھانا، حاصل ہونا | Academic & Formal | 3 |
+> 그 가수는 큰 인기를 누렸다. | That singer enjoyed great popularity. | اس گلوکار نے بڑی مقبولیت حاصل کی۔
+> 자유를 누릴 권리가 있다. | We have the right to enjoy freedom. | آزادی سے لطف اٹھانے کا حق ہے۔
+> 은퇴 후 여유를 누리고 있다. | I'm enjoying leisure after retirement. | ریٹائرمنٹ کے بعد فرصت کا مزہ لے رہا ہوں۔
++ 다지다 |  | dajida | verb | to strengthen, to consolidate; to mince | مضبوط کرنا؛ باریک کاٹنا | Academic & Formal | 3 | 기초를 다지다 = to build a firm foundation.
+> 기초를 탄탄하게 다져야 한다. | You must build a solid foundation. | بنیاد مضبوط کرنی چاہیے۔
+> 결의를 다지고 다시 시작했다. | They strengthened their resolve and started again. | عزم پختہ کر کے دوبارہ شروع کیا۔
+> 마늘을 곱게 다지세요. | Mince the garlic finely. | لہسن باریک کاٹیں۔
++ 대처하다 | 對處- | daecheohada | verb | to cope with, to deal with | نمٹنا | Academic & Formal | 3 |
+> 위기에 침착하게 대처했다. | They dealt with the crisis calmly. | انہوں نے بحران سے پرسکون طریقے سے نمٹا۔
+> 갑작스러운 상황에 대처하는 능력이 필요하다. | You need the ability to cope with sudden situations. | اچانک حالات سے نمٹنے کی صلاحیت چاہیے۔
+> 정부의 대처가 늦었다는 비판이 있다. | There's criticism that the government responded late. | تنقید ہے کہ حکومت نے دیر سے اقدام کیا۔
++ 대응하다 | 對應- | daeeunghada | verb | to respond to, to counter | جواب دینا، مقابلہ کرنا | Academic & Formal | 3 |
+> 기후 변화에 대응해야 한다. | We must respond to climate change. | موسمیاتی تبدیلی کا مقابلہ کرنا ہوگا۔
+> 회사는 고객 불만에 빠르게 대응했다. | The company responded quickly to complaints. | کمپنی نے شکایات پر فوری ردعمل دیا۔
+> 감정적으로 대응하지 마세요. | Don't respond emotionally. | جذباتی ردعمل نہ دیں۔
++ 도달하다 | 到達- | dodalhada | verb | to reach, to arrive at | پہنچنا | Academic & Formal | 3 |
+> 우리는 마침내 정상에 도달했다. | We finally reached the summit. | آخرکار ہم چوٹی پر پہنچ گئے۔
+> 협상이 합의에 도달했다. | The negotiations reached an agreement. | مذاکرات ایک معاہدے پر پہنچ گئے۔
+> 목표 금액에 도달했다. | We reached the target amount. | ہدف کی رقم پوری ہو گئی۔
++ 동원하다 | 動員- | dongwonhada | verb | to mobilize | متحرک کرنا، بروئے کار لانا | Academic & Formal | 3 |
+> 모든 방법을 동원했다. | We mobilized every possible means. | ہر ممکن طریقہ اختیار کیا۔
+> 행사에 많은 인원이 동원되었다. | Many people were mobilized for the event. | تقریب کے لیے بہت سے لوگ لائے گئے۔
+> 기억을 총동원해서 답을 찾았다. | I racked my memory to find the answer. | ساری یادداشت لگا کر جواب ڈھونڈا۔
++ 뒷받침하다 |  | dwitbatchimhada | verb | to support, to back up | تائید کرنا | Academic & Formal | 3 |
+> 주장을 뒷받침할 근거가 필요하다. | Evidence is needed to back up the claim. | دعوے کی تائید کے لیے ثبوت چاہیے۔
+> 통계가 그의 이론을 뒷받침한다. | Statistics support his theory. | اعداد و شمار اس کے نظریے کی تائید کرتے ہیں۔
+> 가족의 뒷받침 덕분에 성공했다. | I succeeded thanks to my family's support. | خاندان کی حمایت کی بدولت کامیاب ہوا۔
++ 마다하다 |  | madahada | verb | to refuse, to decline (usually in negative) | انکار کرنا | Academic & Formal | 3 | Often 마다하지 않다 = not shy away from.
+> 그는 힘든 일도 마다하지 않는다. | He doesn't shy away from hard work. | وہ مشکل کام سے بھی انکار نہیں کرتا۔
+> 좋은 제안을 마다할 이유가 없다. | There's no reason to decline a good offer. | اچھی پیشکش ٹھکرانے کی کوئی وجہ نہیں۔
+> 그녀는 도움을 마다했다. | She declined help. | اس نے مدد لینے سے انکار کیا۔
++ 망설이다 |  | mangseorida | verb | to hesitate | ہچکچانا | Emotions & Relationships | 3 |
+> 고백할까 말까 망설였다. | I hesitated over whether to confess. | دل کی بات کہوں یا نہیں، ہچکچاتا رہا۔
+> 망설이지 말고 도전하세요. | Don't hesitate; go for it. | ہچکچائیں نہیں، کوشش کریں۔
+> 그는 망설임 없이 대답했다. | He answered without hesitation. | اس نے بلا جھجک جواب دیا۔
++ 모방하다 | 模倣- | mobanghada | verb | to imitate | نقل کرنا | Academic & Formal | 3 |
+> 아이들은 어른의 행동을 모방한다. | Children imitate adults' behavior. | بچے بڑوں کے رویے کی نقل کرتے ہیں۔
+> 다른 회사의 디자인을 모방하면 안 된다. | You shouldn't copy other companies' designs. | دوسری کمپنیوں کے ڈیزائن کی نقل نہیں کرنی چاہیے۔
+> 모방에서 창조가 시작된다. | Creation begins with imitation. | تخلیق نقل سے شروع ہوتی ہے۔
++ 묘사하다 | 描寫- | myosahada | verb | to describe, to depict | تصویر کشی کرنا | Academic & Formal | 3 |
+> 작가는 시골 풍경을 아름답게 묘사했다. | The author beautifully depicted the countryside. | مصنف نے دیہی منظر کی خوبصورت تصویر کشی کی۔
+> 범인의 얼굴을 묘사해 주세요. | Please describe the culprit's face. | مجرم کے چہرے کی تفصیل بتائیں۔
+> 이 소설은 감정 묘사가 뛰어나다. | This novel excels at depicting emotions. | یہ ناول جذبات کی عمدہ عکاسی کرتا ہے۔
++ 무릅쓰다 |  | mureupsseuda | verb | to brave, to risk (danger) | خطرہ مول لینا | Academic & Formal | 3 |
+> 소방관은 위험을 무릅쓰고 아이를 구했다. | The firefighter braved danger to save the child. | فائر فائٹر نے خطرہ مول لے کر بچے کو بچایا۔
+> 반대를 무릅쓰고 결혼했다. | They married despite opposition. | مخالفت کے باوجود شادی کی۔
+> 추위를 무릅쓰고 산에 올랐다. | They climbed the mountain braving the cold. | سردی کی پروا کیے بغیر پہاڑ پر چڑھے۔
++ 밑돌다 |  | mitdolda | verb | to fall below (an expected figure) | (اندازے سے) کم رہنا | Economy & Business | 3 | Opposite: 웃돌다 (to exceed).
+> 이번 분기 실적이 예상치를 밑돌았다. | This quarter's results fell below expectations. | اس سہ ماہی کے نتائج توقع سے کم رہے۔
+> 투표율이 50%를 밑돌았다. | Turnout fell below 50%. | ووٹ ڈالنے کی شرح پچاس فیصد سے کم رہی۔
+> 올해 쌀 생산량이 작년 수준을 밑돌았다. | This year's rice output fell below last year's level. | اس سال چاول کی پیداوار پچھلے سال سے کم رہی۔
++ 반박하다 | 反駁- | banbakhada | verb | to refute, to rebut | رد کرنا، تردید کرنا | Academic & Formal | 3 |
+> 그는 상대의 주장을 조목조목 반박했다. | He refuted his opponent's claims point by point. | اس نے مخالف کے دلائل نکتہ بہ نکتہ رد کیے۔
+> 반박할 근거가 없었다. | There were no grounds to rebut. | تردید کی کوئی بنیاد نہیں تھی۔
+> 정부는 그 보도를 반박했다. | The government refuted that report. | حکومت نے اس خبر کی تردید کی۔
++ 방지하다 | 防止- | bangjihada | verb | to prevent | روکنا | Academic & Formal | 3 | Similar: 예방하다.
+> 사고를 방지하기 위해 안전 교육을 실시한다. | Safety training is held to prevent accidents. | حادثات روکنے کے لیے حفاظتی تربیت دی جاتی ہے۔
+> 범죄 방지를 위해 CCTV를 설치했다. | CCTV was installed to prevent crime. | جرائم روکنے کے لیے سی سی ٹی وی لگائے گئے۔
+> 재발 방지 대책을 세웠다. | Measures to prevent recurrence were established. | دوبارہ ہونے سے روکنے کے اقدامات کیے گئے۔
++ 번복하다 | 飜覆- | beonbokhada | verb | to reverse (a decision), to retract | (فیصلہ) بدل دینا | Academic & Formal | 3 |
+> 그는 진술을 여러 번 번복했다. | He reversed his statement several times. | اس نے کئی بار اپنا بیان بدلا۔
+> 결정을 번복하기는 어렵다. | It's hard to reverse the decision. | فیصلہ بدلنا مشکل ہے۔
+> 심판이 판정을 번복했다. | The referee reversed the call. | ریفری نے اپنا فیصلہ بدل دیا۔
++ 보급하다 | 普及- | bogeuphada | verb | to spread, to popularize, to supply | عام کرنا، فراہم کرنا | Academic & Formal | 3 |
+> 스마트폰이 빠르게 보급되었다. | Smartphones spread rapidly. | اسمارٹ فون تیزی سے عام ہو گئے۔
+> 정부는 무료 백신을 보급했다. | The government supplied free vaccines. | حکومت نے مفت ویکسین فراہم کیں۔
+> 한글을 보급하기 위해 노력했다. | They worked to spread Hangul. | ہنگل کو عام کرنے کی کوشش کی۔
++ 부여하다 | 附與- | buyeohada | verb | to grant, to give (meaning, rights) | عطا کرنا | Academic & Formal | 3 |
+> 이 일에 큰 의미를 부여한다. | I give great meaning to this work. | میں اس کام کو بڑی اہمیت دیتا ہوں۔
+> 학생들에게 투표권이 부여되었다. | Students were granted voting rights. | طلبہ کو ووٹ کا حق دیا گیا۔
+> 동기를 부여하는 말이 필요하다. | Motivating words are needed. | حوصلہ افزا الفاظ کی ضرورت ہے۔
++ 비롯되다 |  | birotdoeda | verb | to originate from, to stem from | سے شروع ہونا | Academic & Formal | 3 | -(으)로부터 비롯되다; -을 비롯해 = including.
+> 갈등은 작은 오해에서 비롯되었다. | The conflict stemmed from a small misunderstanding. | تنازع ایک چھوٹی غلط فہمی سے شروع ہوا۔
+> 이 풍습은 고대에서 비롯되었다. | This custom originated in ancient times. | یہ رسم قدیم زمانے سے چلی آ رہی ہے۔
+> 서울을 비롯한 대도시에 인구가 몰린다. | Population concentrates in big cities including Seoul. | سیول سمیت بڑے شہروں میں آبادی جمع ہو رہی ہے۔
++ 비유하다 | 比喩- | biyuhada | verb | to compare (figuratively), to liken | تشبیہ دینا | Academic & Formal | 3 |
+> 인생을 여행에 비유하기도 한다. | Life is sometimes likened to a journey. | زندگی کو سفر سے تشبیہ دی جاتی ہے۔
+> 시인은 사랑을 꽃에 비유했다. | The poet compared love to a flower. | شاعر نے محبت کو پھول سے تشبیہ دی۔
+> 적절한 비유로 쉽게 설명했다. | They explained easily with an apt metaphor. | مناسب تشبیہ سے آسانی سے سمجھایا۔
++ 상기시키다 | 想起- | sanggisikida | verb | to remind | یاد دلانا | Academic & Formal | 3 |
+> 그 노래는 어린 시절을 상기시킨다. | That song reminds me of my childhood. | وہ گانا بچپن کی یاد دلاتا ہے۔
+> 마감 기한을 다시 상기시켜 드립니다. | I'm reminding you of the deadline again. | آخری تاریخ کی دوبارہ یاد دہانی کراتا ہوں۔
+> 이번 사고는 안전의 중요성을 상기시켰다. | This accident reminded us of the importance of safety. | اس حادثے نے حفاظت کی اہمیت یاد دلائی۔
++ 선도하다 | 先導- | seondohada | verb | to lead, to spearhead | رہنمائی کرنا | Economy & Business | 3 |
+> 그 회사는 기술 혁신을 선도하고 있다. | That company is spearheading technological innovation. | وہ کمپنی تکنیکی جدت میں آگے ہے۔
+> 한국은 IT 산업을 선도한다. | Korea leads the IT industry. | کوریا آئی ٹی صنعت میں آگے ہے۔
+> 유행을 선도하는 연예인이다. | They're a celebrity who leads trends. | وہ رجحانات بنانے والا فنکار ہے۔
++ 소요되다 | 所要- | soyodoeda | verb | to be required, to take (time, cost) | (وقت، خرچ) لگنا | Academic & Formal | 3 |
+> 공사에 2년이 소요될 예정이다. | Construction is expected to take two years. | تعمیر میں دو سال لگنے کی توقع ہے۔
+> 많은 비용이 소요되었다. | A lot of cost was incurred. | بہت خرچ آیا۔
+> 소요 시간은 약 한 시간이다. | It takes about an hour. | اس میں تقریباً ایک گھنٹہ لگتا ہے۔
++ 손꼽히다 |  | sonkkophida | verb | to be ranked among the best | سرفہرست شمار ہونا | Academic & Formal | 3 |
+> 그는 한국 최고의 배우로 손꼽힌다. | He is counted among Korea's best actors. | وہ کوریا کے بہترین اداکاروں میں شمار ہوتا ہے۔
+> 이곳은 세계적인 관광지로 손꼽힌다. | This place is ranked among top world destinations. | یہ جگہ دنیا کے بہترین سیاحتی مقامات میں شامل ہے۔
+> 손꼽히는 명문 대학이다. | It's one of the top prestigious universities. | یہ چوٹی کی یونیورسٹیوں میں سے ہے۔
++ 수습하다 | 收拾- | suseuphada | verb | to bring under control, to sort out (a mess) | سنبھالنا، قابو پانا | Academic & Formal | 3 |
+> 정부는 사태를 수습하기 위해 노력했다. | The government worked to bring the situation under control. | حکومت نے صورتحال سنبھالنے کی کوشش کی۔
+> 실수를 수습하느라 고생했다. | I had a hard time cleaning up my mistake. | اپنی غلطی سنبھالنے میں مشکل ہوئی۔
+> 혼란이 빨리 수습되었다. | The confusion was quickly brought under control. | افراتفری جلد قابو میں آ گئی۔
++ 실현하다 | 實現- | silhyeonhada | verb | to realize, to make come true | حقیقت بنانا | Academic & Formal | 3 |
+> 꿈을 실현하기 위해 노력한다. | I work to make my dream come true. | خواب کو حقیقت بنانے کی کوشش کر رہا ہوں۔
+> 그 계획은 실현 가능성이 낮다. | That plan is unlikely to be realized. | اس منصوبے کے حقیقت بننے کا امکان کم ہے۔
+> 평화가 실현되기를 바란다. | I hope peace becomes reality. | امید ہے امن قائم ہو۔
++ 엄수하다 | 嚴守- | eomsuhada | verb | to strictly observe | سختی سے پابندی کرنا | Academic & Formal | 3 |
+> 시험 시간을 엄수하세요. | Strictly observe the exam time. | امتحان کے وقت کی سختی سے پابندی کریں۔
+> 비밀을 엄수해야 한다. | Confidentiality must be strictly kept. | راز کی سختی سے حفاظت کرنی ہوگی۔
+> 마감 기한 엄수 바랍니다. | Please strictly observe the deadline. | آخری تاریخ کی پابندی کریں۔
++ 역임하다 | 歷任- | yeogimhada | verb | to have served (in posts) | (عہدوں پر) فائز رہنا | Work & Employment | 3 |
+> 그는 장관을 역임했다. | He has served as a minister. | وہ وزیر رہ چکا ہے۔
+> 여러 회사의 대표를 역임했다. | They have served as CEO of several companies. | وہ کئی کمپنیوں کے سربراہ رہ چکے ہیں۔
+> 대학 총장을 역임한 학자이다. | He's a scholar who served as university president. | وہ یونیورسٹی کے صدر رہ چکے عالم ہیں۔
++ 연루되다 | 連累- | yeolludoeda | verb | to be implicated, to be involved (in wrongdoing) | ملوث ہونا | Society & Culture | 3 |
+> 그는 사건에 연루되었다. | He was implicated in the case. | وہ معاملے میں ملوث تھا۔
+> 비리에 연루된 공무원이 해임되었다. | The official involved in corruption was dismissed. | بدعنوانی میں ملوث افسر برطرف ہوا۔
+> 나는 그 일에 연루되고 싶지 않다. | I don't want to get involved in that. | میں اس معاملے میں نہیں پڑنا چاہتا۔
++ 위협하다 | 威脅- | wihyeopada | verb | to threaten | دھمکی دینا، خطرہ بننا | Academic & Formal | 3 | Noun: 위협.
+> 기후 변화가 인류를 위협하고 있다. | Climate change threatens humanity. | موسمیاتی تبدیلی انسانیت کے لیے خطرہ ہے۔
+> 범인은 칼로 직원을 위협했다. | The culprit threatened the staff with a knife. | مجرم نے چاقو سے ملازم کو دھمکایا۔
+> 생존을 위협받고 있다. | Survival is under threat. | بقا خطرے میں ہے۔
++ 유도하다 | 誘導- | yudohada | verb | to induce, to guide, to lead to | راغب کرنا، رہنمائی کرنا | Academic & Formal | 3 |
+> 광고는 소비를 유도한다. | Advertising induces consumption. | اشتہار خریداری کی ترغیب دیتے ہیں۔
+> 경찰이 차량을 우회 도로로 유도했다. | The police guided cars to a detour. | پولیس نے گاڑیوں کو متبادل راستے پر موڑا۔
+> 질문으로 대답을 유도했다. | They led the answer with questions. | سوالوں کے ذریعے جواب نکلوایا۔
++ 이끌다 |  | ikkeulda | verb | to lead, to guide | قیادت کرنا | Academic & Formal | 3 | ㄹ-irregular.
+> 그는 팀을 우승으로 이끌었다. | He led the team to victory. | اس نے ٹیم کو فتح دلائی۔
+> 선생님이 학생들을 이끌고 박물관에 갔다. | The teacher led the students to the museum. | استاد طلبہ کو عجائب گھر لے گئے۔
+> 변화를 이끄는 리더가 필요하다. | We need leaders who drive change. | تبدیلی لانے والے رہنما درکار ہیں۔
++ 일삼다 |  | ilsamda | verb | to make a habit of (doing something bad) | عادت بنا لینا (بری بات) | Academic & Formal | 3 |
+> 그는 거짓말을 일삼는다. | He habitually lies. | وہ عادتاً جھوٹ بولتا ہے۔
+> 폭력을 일삼는 사람은 처벌받아야 한다. | Those who habitually use violence should be punished. | تشدد کو عادت بنانے والوں کو سزا ملنی چاہیے۔
+> 지각을 일삼다가 경고를 받았다. | He got a warning for habitually being late. | بار بار دیر کرنے پر انتباہ ملا۔
++ 일으키다 |  | ireukida | verb | to cause, to raise, to start | پیدا کرنا، شروع کرنا | Academic & Formal | 3 |
+> 작은 실수가 큰 사고를 일으켰다. | A small mistake caused a big accident. | چھوٹی غلطی نے بڑا حادثہ کر دیا۔
+> 넘어진 아이를 일으켜 세웠다. | I helped the fallen child up. | گرے ہوئے بچے کو اٹھایا۔
+> 그 발언은 논란을 일으켰다. | The remark caused controversy. | اس بیان نے تنازع کھڑا کر دیا۔
++ 자아내다 |  | jaanaeda | verb | to evoke, to arouse (feelings) | (جذبات) ابھارنا | Academic & Formal | 3 |
+> 그 장면은 관객의 눈물을 자아냈다. | That scene brought the audience to tears. | اس منظر نے ناظرین کو رلا دیا۔
+> 웃음을 자아내는 이야기다. | It's a story that evokes laughter. | یہ ہنسانے والی کہانی ہے۔
+> 호기심을 자아내는 제목이다. | It's a title that arouses curiosity. | یہ تجسس ابھارنے والا عنوان ہے۔
++ 장악하다 | 掌握- | jangakhada | verb | to take control of, to dominate | قبضہ کرنا، غلبہ پانا | Academic & Formal | 3 |
+> 그 회사는 시장의 절반을 장악했다. | That company controls half the market. | اس کمپنی کا آدھی منڈی پر قبضہ ہے۔
+> 경기 초반부터 분위기를 장악했다. | They dominated the atmosphere from the start of the game. | میچ کے آغاز سے ہی انہوں نے غلبہ پا لیا۔
+> 상황을 빠르게 장악해야 한다. | You must quickly take control of the situation. | صورتحال پر جلد قابو پانا ہوگا۔
++ 정착하다 | 定着- | jeongchakhada | verb | to settle (down), to take root | آباد ہونا، رائج ہونا | Society & Culture | 3 |
+> 그 가족은 한국에 정착했다. | The family settled in Korea. | وہ خاندان کوریا میں آباد ہو گیا۔
+> 새로운 문화가 사회에 정착했다. | A new culture took root in society. | ایک نئی ثقافت معاشرے میں رائج ہو گئی۔
+> 정착 지원금을 받았다. | They received a settlement subsidy. | آبادکاری کی امداد ملی۔
++ 제기하다 | 提起- | jegihada | verb | to raise (an issue, question) | (مسئلہ) اٹھانا | Academic & Formal | 3 |
+> 그는 중요한 문제를 제기했다. | He raised an important issue. | اس نے ایک اہم مسئلہ اٹھایا۔
+> 의문이 제기되었다. | Questions were raised. | سوالات اٹھائے گئے۔
+> 이의를 제기할 수 있다. | You can raise an objection. | آپ اعتراض کر سکتے ہیں۔
++ 조장하다 | 助長- | jojanghada | verb | to encourage, to foster (something bad) | (برائی کو) ہوا دینا | Society & Culture | 3 |
+> 그런 광고는 과소비를 조장한다. | Ads like that encourage overspending. | ایسے اشتہار فضول خرچی کو ہوا دیتے ہیں۔
+> 지역 갈등을 조장해서는 안 된다. | Regional conflict must not be stirred up. | علاقائی تنازع کو ہوا نہیں دینی چاہیے۔
+> 불안감을 조장하는 뉴스가 많다. | There's a lot of news that fuels anxiety. | بے چینی پھیلانے والی خبریں بہت ہیں۔
++ 좌우하다 | 左右- | jwauhada | verb | to determine, to sway | فیصلہ کن ہونا | Academic & Formal | 3 |
+> 첫인상이 결과를 좌우한다. | First impressions determine the outcome. | پہلا تاثر نتیجہ طے کرتا ہے۔
+> 날씨가 농사를 좌우한다. | The weather determines farming. | موسم زراعت پر فیصلہ کن اثر رکھتا ہے۔
+> 감정에 좌우되지 마세요. | Don't be swayed by emotions. | جذبات میں نہ بہیں۔
++ 주목하다 | 注目- | jumokhada | verb | to pay attention to, to take note of | توجہ دینا | Academic & Formal | 3 |
+> 세계가 한국 영화에 주목하고 있다. | The world is paying attention to Korean films. | دنیا کوریائی فلموں پر توجہ دے رہی ہے۔
+> 이 점에 주목해 주십시오. | Please take note of this point. | اس نکتے پر توجہ دیں۔
+> 주목받는 신인 배우이다. | They're a rookie actor drawing attention. | وہ توجہ کا مرکز بننے والا نیا اداکار ہے۔
++ 지적하다 | 指摘- | jijeokhada | verb | to point out | نشاندہی کرنا | Academic & Formal | 3 |
+> 선생님이 제 실수를 지적하셨어요. | The teacher pointed out my mistake. | استاد نے میری غلطی کی نشاندہی کی۔
+> 전문가들은 문제점을 지적했다. | Experts pointed out the problems. | ماہرین نے خامیوں کی نشاندہی کی۔
+> 남의 단점만 지적하지 마세요. | Don't only point out others' faults. | صرف دوسروں کی خامیاں نہ گنوائیں۔
++ 집착하다 | 執着- | jipchakhada | verb | to be obsessed with, to cling to | چمٹے رہنا | Emotions & Relationships | 3 |
+> 결과에 너무 집착하지 마세요. | Don't be too obsessed with results. | نتیجے پر حد سے زیادہ توجہ نہ دیں۔
+> 그는 과거에 집착한다. | He clings to the past. | وہ ماضی سے چمٹا ہوا ہے۔
+> 돈에 집착하는 사람이 많다. | Many people are obsessed with money. | بہت سے لوگ پیسے کے پیچھے پاگل ہیں۔
++ 초래하다 | 招來- | choraehada | verb | to bring about, to cause (bad results) | (برا نتیجہ) لانا | Academic & Formal | 3 |
+> 부주의가 큰 사고를 초래했다. | Carelessness brought about a big accident. | لاپروائی نے بڑا حادثہ کر دیا۔
+> 잘못된 정책은 혼란을 초래한다. | Wrong policies cause confusion. | غلط پالیسیاں افراتفری پیدا کرتی ہیں۔
+> 과도한 경쟁이 부작용을 초래했다. | Excessive competition caused side effects. | حد سے زیادہ مقابلے نے منفی اثرات پیدا کیے۔
++ 충족하다 | 充足- | chungjokhada | verb | to satisfy, to meet (requirements) | پورا کرنا (شرائط) | Academic & Formal | 3 |
+> 지원 조건을 충족해야 한다. | You must meet the application requirements. | درخواست کی شرائط پوری کرنی ہوں گی۔
+> 고객의 요구를 충족시켰다. | We satisfied the customer's needs. | ہم نے گاہک کی ضروریات پوری کیں۔
+> 기준을 충족하지 못했다. | It didn't meet the standard. | معیار پر پورا نہیں اترا۔
++ 탈피하다 | 脫皮- | talpihada | verb | to break away from, to shed | سے نکلنا، چھٹکارا پانا | Academic & Formal | 3 |
+> 낡은 사고방식에서 탈피해야 한다. | We must break away from old ways of thinking. | پرانی سوچ سے نکلنا ہوگا۔
+> 그 가수는 기존 이미지에서 탈피했다. | That singer broke away from their old image. | اس گلوکار نے اپنی پرانی شبیہ بدل دی۔
+> 고정관념에서 탈피하는 것이 쉽지 않다. | Breaking away from stereotypes isn't easy. | دقیانوسی سوچ سے نکلنا آسان نہیں۔
++ 터득하다 | 攄得- | teodeukhada | verb | to master (through experience), to learn by oneself | خود سیکھ لینا | Academic & Formal | 3 |
+> 오랜 경험으로 요령을 터득했다. | I learned the knack through long experience. | طویل تجربے سے ہنر سیکھ لیا۔
+> 그는 혼자서 기술을 터득했다. | He mastered the skill by himself. | اس نے خود ہی مہارت حاصل کی۔
+> 실패를 통해 교훈을 터득했다. | I learned a lesson through failure. | ناکامی سے سبق سیکھا۔
++ 표명하다 | 表明- | pyomyeonghada | verb | to express, to state (officially) | اظہار کرنا (رسمی) | Academic & Formal | 3 |
+> 정부는 유감을 표명했다. | The government expressed regret. | حکومت نے افسوس کا اظہار کیا۔
+> 그는 사퇴 의사를 표명했다. | He expressed his intention to resign. | اس نے مستعفی ہونے کا ارادہ ظاہر کیا۔
+> 반대 입장을 분명히 표명했다. | They clearly stated their opposition. | انہوں نے اپنی مخالفت واضح طور پر ظاہر کی۔
++ 해명하다 | 解明- | haemyeonghada | verb | to explain, to clarify (oneself) | وضاحت پیش کرنا | Academic & Formal | 3 |
+> 그는 논란에 대해 해명했다. | He gave an explanation about the controversy. | اس نے تنازع کے بارے میں وضاحت دی۔
+> 해명이 필요한 부분이 있다. | There are parts that need explaining. | کچھ حصوں کی وضاحت ضروری ہے۔
+> 회사는 공식 해명 자료를 냈다. | The company issued an official explanation. | کمپنی نے سرکاری وضاحت جاری کی۔
++ 허물다 |  | heomulda | verb | to tear down, to break down (barriers) | گرانا، ڈھانا | Academic & Formal | 3 | ㄹ-irregular.
+> 낡은 건물을 허물고 새로 지었다. | They tore down the old building and built a new one. | پرانی عمارت گرا کر نئی بنائی۔
+> 편견의 벽을 허물어야 한다. | We must break down the walls of prejudice. | تعصب کی دیواریں گرانی ہوں گی۔
+> 두 나라 사이의 장벽이 허물어졌다. | The barrier between the two countries came down. | دونوں ملکوں کے درمیان دیوار گر گئی۔
++ 훼손하다 | 毁損- | hwesonhada | verb | to damage, to tarnish | نقصان پہنچانا، داغدار کرنا | Academic & Formal | 3 |
+> 그의 행동은 회사의 이미지를 훼손했다. | His behavior tarnished the company's image. | اس کے رویے نے کمپنی کی ساکھ کو نقصان پہنچایا۔
+> 자연을 훼손하지 맙시다. | Let's not damage nature. | فطرت کو نقصان نہ پہنچائیں۔
+> 명예를 훼손하는 글을 쓰면 안 된다. | You must not write defamatory posts. | ہتکِ عزت والی تحریر نہیں لکھنی چاہیے۔

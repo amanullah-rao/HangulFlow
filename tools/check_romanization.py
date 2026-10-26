@@ -108,6 +108,10 @@ def main() -> int:
         given = e["romanization"].replace(" ", "").replace("-", "").lower()
         # RR keeps ㅎ after ㄱ/ㄷ/ㅂ in 하다 verbs and nouns, so "kh"/"ph"/"th" spellings are fine.
         relaxed = re.sub(r"(k|p|t)h", lambda m: m.group(1), given)
+        if e["korean"].count(" ") != e["romanization"].strip().count(" "):
+            diffs += 1
+            print(f"{e['korean']}	given={e['romanization']}	spacing differs from the Korean")
+            continue
         if expected not in (given, relaxed) and expected.replace("kk", "k") != given:
             diffs += 1
             print(f"{e['korean']}\tgiven={e['romanization']}\trule={romanize(e['korean'])}")
