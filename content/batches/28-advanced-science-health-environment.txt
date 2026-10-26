@@ -1,0 +1,201 @@
+# Advanced: science, health, environment
++ 기후 변화 | 氣候變化 | gihu byeonhwa | noun | climate change | موسمیاتی تبدیلی | Environment | 3 |
+> 기후 변화로 이상 기온이 잦아졌다. | Abnormal temperatures have become frequent due to climate change. | موسمیاتی تبدیلی سے غیر معمولی درجۂ حرارت عام ہو گیا ہے۔
+> 기후 변화에 대응하기 위한 국제 협력이 필요하다. | International cooperation is needed to respond to climate change. | موسمیاتی تبدیلی سے نمٹنے کے لیے عالمی تعاون ضروری ہے۔
+> 기후 변화는 농업에 큰 영향을 미친다. | Climate change greatly affects agriculture. | موسمیاتی تبدیلی زراعت پر گہرا اثر ڈالتی ہے۔
++ 온실가스 | 溫室- | onsilgaseu | noun | greenhouse gas | گرین ہاؤس گیس | Environment | 3 |
+> 온실가스 배출을 줄여야 한다. | Greenhouse gas emissions must be reduced. | گرین ہاؤس گیسوں کا اخراج کم کرنا ہوگا۔
+> 자동차는 온실가스의 주요 원인이다. | Cars are a major source of greenhouse gases. | گاڑیاں گرین ہاؤس گیسوں کا بڑا ذریعہ ہیں۔
+> 온실가스 감축 목표를 세웠다. | They set greenhouse gas reduction targets. | گیسوں میں کمی کے اہداف مقرر کیے گئے۔
++ 재생 에너지 | 再生- | jaesaeng eneoji | noun | renewable energy | قابلِ تجدید توانائی | Environment | 3 |
+> 재생 에너지 사용 비율이 증가하고 있다. | The share of renewable energy is increasing. | قابلِ تجدید توانائی کا استعمال بڑھ رہا ہے۔
+> 풍력과 태양광은 대표적인 재생 에너지이다. | Wind and solar are typical renewable energies. | ہوا اور سورج کی توانائی نمایاں قابلِ تجدید ذرائع ہیں۔
+> 재생 에너지로의 전환이 시급하다. | The transition to renewable energy is urgent. | قابلِ تجدید توانائی کی طرف منتقلی فوری ضروری ہے۔
++ 오염 물질 | 汚染物質 | oyeom muljil | noun | pollutant | آلودگی پھیلانے والے مادے | Environment | 3 |
+> 공장에서 오염 물질이 배출되었다. | Pollutants were discharged from the factory. | کارخانے سے آلودہ مادے خارج ہوئے۔
+> 오염 물질이 강으로 흘러 들어갔다. | Pollutants flowed into the river. | آلودہ مادے دریا میں شامل ہو گئے۔
+> 오염 물질 배출 기준을 강화했다. | Pollutant emission standards were tightened. | آلودگی کے اخراج کے معیار سخت کر دیے گئے۔
++ 생물 다양성 | 生物多樣性 | saengmul dayangseong | noun | biodiversity | حیاتیاتی تنوع | Environment | 3 |
+> 생물 다양성을 보존해야 한다. | Biodiversity must be preserved. | حیاتیاتی تنوع کو محفوظ رکھنا ضروری ہے۔
+> 숲이 사라지면서 생물 다양성이 줄고 있다. | Biodiversity is decreasing as forests disappear. | جنگلات ختم ہونے سے حیاتیاتی تنوع کم ہو رہا ہے۔
+> 이 섬은 생물 다양성이 풍부하다. | This island is rich in biodiversity. | یہ جزیرہ حیاتیاتی تنوع سے بھرپور ہے۔
++ 보존하다 | 保存- | bojonhada | verb | to preserve, to conserve | محفوظ رکھنا | Environment | 3 |
+> 자연환경을 보존하는 것이 중요하다. | It's important to preserve the natural environment. | قدرتی ماحول کو محفوظ رکھنا اہم ہے۔
+> 이 마을은 옛 모습을 잘 보존하고 있다. | This village preserves its old appearance well. | یہ گاؤں اپنی پرانی شکل برقرار رکھے ہوئے ہے۔
+> 음식을 오래 보존하는 방법을 배웠다. | I learned how to preserve food for a long time. | میں نے کھانا دیر تک محفوظ رکھنے کا طریقہ سیکھا۔
++ 훼손 | 毁損 | hweson | noun | damage, defacement | نقصان، بگاڑ | Environment | 3 | 훼손하다 / 훼손되다.
+> 개발로 자연이 훼손되었다. | Nature was damaged by development. | ترقیاتی کاموں سے فطرت کو نقصان پہنچا۔
+> 문화재 훼손은 처벌을 받는다. | Damaging cultural heritage is punishable. | ثقافتی ورثے کو نقصان پہنچانے پر سزا ہے۔
+> 명예 훼손으로 고소당했다. | They were sued for defamation. | ہتکِ عزت پر مقدمہ ہوا۔
++ 고갈되다 | 枯渴- | gogaldoeda | verb | to be depleted, to run dry | ختم ہو جانا | Environment | 3 |
+> 지하수가 고갈되고 있다. | Groundwater is running dry. | زیرِ زمین پانی ختم ہو رہا ہے۔
+> 화석 연료는 언젠가 고갈될 것이다. | Fossil fuels will be depleted someday. | فوسل ایندھن کبھی نہ کبھی ختم ہو جائے گا۔
+> 체력이 고갈된 느낌이다. | I feel completely drained. | لگتا ہے ساری طاقت ختم ہو گئی ہے۔
++ 화석 연료 | 化石燃料 | hwaseok yeollyo | noun | fossil fuel | فوسل ایندھن | Environment | 3 |
+> 화석 연료 사용을 줄여야 한다. | The use of fossil fuels must be reduced. | فوسل ایندھن کا استعمال کم کرنا ہوگا۔
+> 석탄과 석유는 화석 연료이다. | Coal and oil are fossil fuels. | کوئلہ اور تیل فوسل ایندھن ہیں۔
+> 화석 연료를 태우면 이산화탄소가 나온다. | Burning fossil fuels releases carbon dioxide. | فوسل ایندھن جلانے سے کاربن ڈائی آکسائیڈ نکلتی ہے۔
++ 이산화탄소 | 二酸化炭素 | isanhwatanso | noun | carbon dioxide | کاربن ڈائی آکسائیڈ | Science & Technology | 3 |
+> 나무는 이산화탄소를 흡수한다. | Trees absorb carbon dioxide. | درخت کاربن ڈائی آکسائیڈ جذب کرتے ہیں۔
+> 이산화탄소 농도가 높아지고 있다. | Carbon dioxide concentration is rising. | کاربن ڈائی آکسائیڈ کی مقدار بڑھ رہی ہے۔
+> 이산화탄소 배출량을 측정했다. | They measured carbon dioxide emissions. | کاربن ڈائی آکسائیڈ کے اخراج کی پیمائش کی گئی۔
++ 흡수하다 | 吸收- | heupsuhada | verb | to absorb | جذب کرنا | Science & Technology | 3 |
+> 스펀지가 물을 흡수했다. | The sponge absorbed the water. | اسفنج نے پانی جذب کر لیا۔
+> 아이들은 새로운 지식을 빨리 흡수한다. | Children absorb new knowledge quickly. | بچے نیا علم جلدی سیکھ لیتے ہیں۔
+> 이 크림은 피부에 잘 흡수된다. | This cream absorbs well into the skin. | یہ کریم جلد میں اچھی طرح جذب ہو جاتی ہے۔
++ 측정하다 | 測定- | cheukjeonghada | verb | to measure | ناپنا | Science & Technology | 3 |
+> 매일 혈압을 측정한다. | I measure my blood pressure every day. | میں روزانہ بلڈ پریشر چیک کرتا ہوں۔
+> 미세먼지 농도를 측정했다. | They measured the fine dust concentration. | باریک گرد کی مقدار ناپی گئی۔
+> 행복은 측정하기 어렵다. | Happiness is hard to measure. | خوشی کو ناپنا مشکل ہے۔
++ 실험실 | 實驗室 | silheomsil | noun | laboratory | تجربہ گاہ | Science & Technology | 3 |
+> 실험실에서 안전 수칙을 지켜야 한다. | Safety rules must be followed in the lab. | تجربہ گاہ میں حفاظتی اصولوں پر عمل ضروری ہے۔
+> 실험실 결과가 나왔다. | The lab results came out. | لیب کا نتیجہ آ گیا۔
+> 그는 하루 종일 실험실에 있었다. | He was in the lab all day. | وہ سارا دن تجربہ گاہ میں رہا۔
++ 가설 | 假說 | gaseol | noun | hypothesis | مفروضہ | Science & Technology | 3 |
+> 실험을 통해 가설을 검증했다. | They tested the hypothesis through experiments. | تجربے کے ذریعے مفروضے کی جانچ کی گئی۔
+> 그의 가설은 틀린 것으로 밝혀졌다. | His hypothesis turned out to be wrong. | اس کا مفروضہ غلط ثابت ہوا۔
+> 새로운 가설을 세웠다. | They formed a new hypothesis. | ایک نیا مفروضہ قائم کیا گیا۔
++ 검증하다 | 檢證- | geomjeunghada | verb | to verify, to test | تصدیق کرنا | Science & Technology | 3 |
+> 정보의 사실 여부를 검증해야 한다. | We must verify whether the information is true. | معلومات کی صداقت کی تصدیق ضروری ہے۔
+> 안전성이 검증된 제품이다. | It's a product with verified safety. | یہ تصدیق شدہ محفوظ پروڈکٹ ہے۔
+> 이론을 실험으로 검증했다. | They verified the theory by experiment. | نظریے کی تجربے سے تصدیق کی گئی۔
++ 이론 | 理論 | iron | noun | theory | نظریہ | Science & Technology | 3 |
+> 이론과 실제는 다르다. | Theory and practice differ. | نظریہ اور عمل مختلف ہیں۔
+> 아인슈타인의 상대성 이론은 유명하다. | Einstein's theory of relativity is famous. | آئن سٹائن کا نظریۂ اضافیت مشہور ہے۔
+> 이론적으로는 가능하다. | In theory, it's possible. | نظریاتی طور پر ممکن ہے۔
++ 원리 | 原理 | wolli | noun | principle | اصول | Science & Technology | 3 |
+> 비행기가 나는 원리를 설명해 주세요. | Please explain the principle of how planes fly. | ہوائی جہاز کے اڑنے کا اصول سمجھائیں۔
+> 기본 원리를 이해하면 쉽다. | It's easy once you understand the basic principle. | بنیادی اصول سمجھ لیں تو آسان ہے۔
+> 시장 경제의 원리를 배웠다. | We learned the principles of the market economy. | ہم نے منڈی کی معیشت کے اصول سیکھے۔
++ 유전자 | 遺傳子 | yujeonja | noun | gene | جین | Science & Technology | 3 | 유전 = heredity.
+> 키는 유전자의 영향을 받는다. | Height is influenced by genes. | قد جینز سے متاثر ہوتا ہے۔
+> 유전자 연구가 빠르게 발전하고 있다. | Genetic research is advancing rapidly. | جینیاتی تحقیق تیزی سے آگے بڑھ رہی ہے۔
+> 그 병은 유전된다. | That disease is hereditary. | وہ بیماری موروثی ہے۔
++ 세포 | 細胞 | sepo | noun | cell (biology) | خلیہ | Science & Technology | 3 |
+> 인간의 몸은 수많은 세포로 이루어져 있다. | The human body is made of countless cells. | انسانی جسم بے شمار خلیوں سے بنا ہے۔
+> 암세포가 퍼지는 것을 막았다. | They stopped the cancer cells from spreading. | کینسر کے خلیوں کو پھیلنے سے روکا گیا۔
+> 세포 분열을 현미경으로 관찰했다. | They observed cell division under a microscope. | خوردبین سے خلیوں کی تقسیم کا مشاہدہ کیا۔
++ 바이러스 |  | baireoseu | noun | virus | وائرس | Health | 3 |
+> 바이러스가 전 세계로 퍼졌다. | The virus spread worldwide. | وائرس دنیا بھر میں پھیل گیا۔
+> 컴퓨터가 바이러스에 감염되었다. | The computer got infected with a virus. | کمپیوٹر میں وائرس آ گیا۔
+> 손을 씻으면 바이러스를 예방할 수 있다. | Washing hands can prevent viruses. | ہاتھ دھونے سے وائرس سے بچاؤ ممکن ہے۔
++ 감염 | 感染 | gamyeom | noun | infection | انفیکشن، چھوت | Health | 3 | 감염되다.
+> 감염을 막기 위해 마스크를 쓴다. | We wear masks to prevent infection. | انفیکشن سے بچنے کے لیے ماسک پہنتے ہیں۔
+> 상처가 감염되지 않게 소독하세요. | Disinfect the wound so it doesn't get infected. | زخم کو انفیکشن سے بچانے کے لیے صاف کریں۔
+> 감염자가 줄어들고 있다. | The number of infected people is decreasing. | متاثرہ افراد کی تعداد کم ہو رہی ہے۔
++ 전염병 | 傳染病 | jeonyeombyeong | noun | infectious disease, epidemic | متعدی بیماری | Health | 3 |
+> 전염병이 유행하고 있다. | An epidemic is spreading. | ایک وبا پھیلی ہوئی ہے۔
+> 전염병 예방을 위해 백신을 맞았다. | I got vaccinated to prevent infectious disease. | متعدی بیماری سے بچنے کے لیے ٹیکا لگوایا۔
+> 역사적으로 전염병은 큰 피해를 주었다. | Historically, epidemics caused great damage. | تاریخ میں وباؤں نے بڑا نقصان پہنچایا۔
++ 백신 |  | baeksin | noun | vaccine | ویکسین | Health | 3 | 예방 접종 = vaccination.
+> 백신을 두 번 맞았다. | I got the vaccine twice. | میں نے دو بار ویکسین لگوائی۔
+> 새로운 백신이 개발되었다. | A new vaccine was developed. | نئی ویکسین تیار کی گئی۔
+> 아이들은 예방 접종을 받아야 한다. | Children should be vaccinated. | بچوں کو ٹیکے لگوانے چاہئیں۔
++ 면역 | 免疫 | myeonyeok | noun | immunity | مدافعت | Health | 3 | 면역력 = immune strength.
+> 백신은 면역을 만든다. | Vaccines build immunity. | ویکسین مدافعت پیدا کرتی ہے۔
+> 면역 체계가 약해졌다. | The immune system weakened. | مدافعتی نظام کمزور ہو گیا۔
+> 그 병에 대한 면역이 생겼다. | Immunity to that disease developed. | اس بیماری کے خلاف مدافعت پیدا ہو گئی۔
++ 만성 | 慢性 | manseong | noun | chronic | دائمی | Health | 3 | 만성 질환 = chronic disease. Opposite: 급성 (acute).
+> 그는 만성 두통에 시달린다. | He suffers from chronic headaches. | وہ دائمی سر درد کا شکار ہے۔
+> 만성 질환은 꾸준한 관리가 필요하다. | Chronic diseases need consistent management. | دائمی بیماریوں کی مسلسل دیکھ بھال ضروری ہے۔
+> 급성 장염으로 입원했다. | I was hospitalized with acute enteritis. | شدید معدے کی سوزش کی وجہ سے ہسپتال داخل ہوا۔
++ 질환 | 疾患 | jilhwan | noun | disease, disorder (formal) | بیماری، عارضہ | Health | 3 |
+> 심장 질환 환자가 늘고 있다. | Patients with heart disease are increasing. | دل کے مریض بڑھ رہے ہیں۔
+> 피부 질환을 치료받고 있다. | I'm being treated for a skin condition. | میرا جلدی بیماری کا علاج ہو رہا ہے۔
+> 정신 질환에 대한 편견을 버려야 한다. | We must drop prejudice about mental illness. | ذہنی بیماری کے بارے میں تعصب ختم کرنا چاہیے۔
++ 진단 | 診斷 | jindan | noun | diagnosis | تشخیص | Health | 3 | 진단하다 / 진단받다.
+> 의사가 감기로 진단했다. | The doctor diagnosed it as a cold. | ڈاکٹر نے زکام تشخیص کیا۔
+> 조기 진단이 중요하다. | Early diagnosis is important. | جلد تشخیص اہم ہے۔
+> 그는 당뇨 진단을 받았다. | He was diagnosed with diabetes. | اسے ذیابیطس کی تشخیص ہوئی۔
++ 처방전 | 處方箋 | cheobangjeon | noun | prescription (slip) | نسخہ | Health | 3 |
+> 처방전이 없으면 약을 살 수 없다. | You can't buy the medicine without a prescription. | نسخے کے بغیر دوا نہیں ملتی۔
+> 약사에게 처방전을 드렸다. | I gave the prescription to the pharmacist. | میں نے نسخہ فارماسسٹ کو دیا۔
+> 처방전 유효 기간은 3일이다. | The prescription is valid for three days. | نسخہ تین دن کے لیے کارآمد ہے۔
++ 재활 | 再活 | jaehwal | noun | rehabilitation | بحالی (علاج) | Health | 3 |
+> 수술 후 재활 치료를 받고 있다. | I'm getting rehab after surgery. | آپریشن کے بعد بحالی کا علاج ہو رہا ہے۔
+> 재활에는 시간이 걸린다. | Rehabilitation takes time. | بحالی میں وقت لگتا ہے۔
+> 그 선수는 재활에 성공했다. | That athlete successfully rehabilitated. | اس کھلاڑی کی بحالی کامیاب رہی۔
++ 의료 | 醫療 | uiryo | noun | medical care | طبی سہولیات | Health | 3 | 의료진 = medical staff.
+> 의료 서비스가 개선되었다. | Medical services improved. | طبی خدمات بہتر ہو گئیں۔
+> 의료진의 헌신에 감사드린다. | We thank the medical staff for their dedication. | طبی عملے کی لگن کا شکریہ۔
+> 시골에는 의료 시설이 부족하다. | Rural areas lack medical facilities. | دیہات میں طبی سہولیات کم ہیں۔
++ 수명 | 壽命 | sumyeong | noun | lifespan | عمر | Health | 3 | 평균 수명 = life expectancy.
+> 평균 수명이 늘어났다. | Life expectancy has increased. | اوسط عمر بڑھ گئی ہے۔
+> 배터리 수명이 짧다. | The battery life is short. | بیٹری کی عمر کم ہے۔
+> 건강한 습관이 수명을 늘린다. | Healthy habits extend lifespan. | صحت مند عادات عمر بڑھاتی ہیں۔
++ 노화 | 老化 | nohwa | noun | aging (of the body) | بڑھاپا (جسمانی) | Health | 3 |
+> 자외선은 피부 노화를 촉진한다. | UV rays accelerate skin aging. | الٹرا وائلٹ شعاعیں جلد کو جلد بوڑھا کرتی ہیں۔
+> 노화를 늦추는 방법을 연구한다. | They research ways to slow aging. | بڑھاپے کو سست کرنے کے طریقوں پر تحقیق ہو رہی ہے۔
+> 노화는 자연스러운 과정이다. | Aging is a natural process. | بڑھاپا ایک فطری عمل ہے۔
++ 영양소 | 營養素 | yeongyangso | noun | nutrient | غذائی جزو | Health | 3 |
+> 채소에는 다양한 영양소가 들어 있다. | Vegetables contain various nutrients. | سبزیوں میں مختلف غذائی اجزاء ہوتے ہیں۔
+> 필수 영양소를 골고루 섭취하세요. | Take in essential nutrients evenly. | ضروری غذائی اجزاء متوازن مقدار میں لیں۔
+> 영양소가 부족하면 병에 걸리기 쉽다. | A lack of nutrients makes you prone to illness. | غذائیت کی کمی سے بیماری جلد لگتی ہے۔
++ 섭취하다 | 攝取- | seopchwihada | verb | to take in, to consume (food, nutrients) | (غذا) لینا | Health | 3 |
+> 하루에 물을 2리터 이상 섭취하세요. | Drink more than 2 liters of water a day. | روزانہ دو لیٹر سے زیادہ پانی پئیں۔
+> 단백질을 충분히 섭취해야 한다. | You should take in enough protein. | پروٹین مناسب مقدار میں لینا ضروری ہے۔
+> 카페인 섭취를 줄였다. | I cut down on caffeine. | میں نے کیفین کم کر دی۔
++ 비타민 |  | bitamin | noun | vitamin | وٹامن | Health | 3 |
+> 비타민 C는 감기 예방에 좋다. | Vitamin C is good for preventing colds. | وٹامن سی زکام سے بچاؤ کے لیے اچھا ہے۔
+> 햇빛을 받으면 비타민 D가 생긴다. | Sunlight produces vitamin D. | دھوپ سے وٹامن ڈی بنتا ہے۔
+> 비타민이 풍부한 과일을 먹어요. | I eat fruit rich in vitamins. | میں وٹامنز سے بھرپور پھل کھاتا ہوں۔
++ 정신 건강 | 精神健康 | jeongsin geongang | noun | mental health | ذہنی صحت | Health | 3 |
+> 정신 건강도 몸 건강만큼 중요하다. | Mental health is as important as physical health. | ذہنی صحت جسمانی صحت جتنی ہی اہم ہے۔
+> 정신 건강을 위해 상담을 받는다. | I get counseling for my mental health. | ذہنی صحت کے لیے میں مشاورت لیتا ہوں۔
+> 직장인의 정신 건강이 위협받고 있다. | Office workers' mental health is under threat. | دفتری ملازمین کی ذہنی صحت خطرے میں ہے۔
++ 과로 | 過勞 | gwaro | noun | overwork | زیادہ کام، حد سے زیادہ تھکن | Health | 3 | 과로사 = death from overwork.
+> 과로로 쓰러졌다. | They collapsed from overwork. | زیادہ کام کی وجہ سے وہ گر پڑے۔
+> 과로는 건강의 적이다. | Overwork is the enemy of health. | حد سے زیادہ کام صحت کا دشمن ہے۔
+> 과로하지 말고 쉬면서 하세요. | Don't overwork; take breaks. | حد سے زیادہ کام نہ کریں، وقفے لیں۔
++ 불면증 | 不眠症 | bulmyeonjeung | noun | insomnia | بے خوابی | Health | 3 |
+> 스트레스 때문에 불면증이 생겼다. | I developed insomnia due to stress. | ذہنی دباؤ سے بے خوابی ہو گئی۔
+> 불면증에는 규칙적인 생활이 도움이 된다. | A regular routine helps with insomnia. | باقاعدہ زندگی بے خوابی میں مددگار ہے۔
+> 불면증으로 고생하고 있다. | I'm suffering from insomnia. | میں بے خوابی سے پریشان ہوں۔
++ 증후군 | 症候群 | jeunghugun | noun | syndrome | سنڈروم | Health | 3 |
+> 번아웃 증후군을 겪는 직장인이 많다. | Many office workers experience burnout syndrome. | بہت سے ملازمین برن آؤٹ کا شکار ہیں۔
+> 명절 증후군이라는 말이 있다. | There's a term "holiday syndrome." | "تہوار سنڈروم" کی اصطلاح موجود ہے۔
+> 그 증후군의 원인은 아직 모른다. | The cause of that syndrome is still unknown. | اس سنڈروم کی وجہ ابھی معلوم نہیں۔
++ 치료법 | 治療法 | chiryobeop | noun | treatment method, cure | طریقۂ علاج | Health | 3 |
+> 새로운 치료법이 개발되었다. | A new treatment was developed. | نیا طریقۂ علاج تیار کیا گیا۔
+> 아직 확실한 치료법이 없다. | There's still no sure cure. | ابھی تک کوئی یقینی علاج نہیں۔
+> 한방 치료법에 관심이 많다. | I'm very interested in traditional Korean medicine treatments. | مجھے روایتی کوریائی طریقۂ علاج میں دلچسپی ہے۔
++ 부작용을 일으키다 | 副作用- | bujagyongeul ireukida | expression | to cause side effects | مضر اثرات پیدا کرنا | Health | 3 |
+> 이 약은 부작용을 일으킬 수 있다. | This medicine can cause side effects. | یہ دوا مضر اثرات پیدا کر سکتی ہے۔
+> 정책이 예상치 못한 부작용을 일으켰다. | The policy caused unexpected side effects. | پالیسی نے غیر متوقع مسائل پیدا کیے۔
+> 부작용을 일으키지 않도록 조심하세요. | Be careful not to cause side effects. | مضر اثرات سے بچنے کے لیے احتیاط کریں۔
++ 인공 | 人工 | ingong | noun | artificial, man-made | مصنوعی | Science & Technology | 3 | Opposite: 천연 (natural).
+> 인공 위성이 지구를 돈다. | An artificial satellite orbits the Earth. | مصنوعی سیارہ زمین کے گرد گھومتا ہے۔
+> 이 호수는 인공 호수이다. | This lake is man-made. | یہ جھیل مصنوعی ہے۔
+> 천연 재료로 만든 비누다. | It's soap made from natural ingredients. | یہ قدرتی اجزاء سے بنا صابن ہے۔
++ 위성 | 衛星 | wiseong | noun | satellite | سیارچہ | Science & Technology | 3 |
+> 한국은 인공위성을 발사했다. | Korea launched an artificial satellite. | کوریا نے مصنوعی سیارہ خلا میں بھیجا۔
+> 위성 사진으로 날씨를 예측한다. | Weather is forecast using satellite images. | سیارچوں کی تصاویر سے موسم کی پیش گوئی کی جاتی ہے۔
+> 달은 지구의 위성이다. | The moon is Earth's satellite. | چاند زمین کا سیارچہ ہے۔
++ 반도체 | 半導體 | bandoche | noun | semiconductor | سیمی کنڈکٹر | Science & Technology | 3 |
+> 한국은 반도체 강국이다. | Korea is a semiconductor powerhouse. | کوریا سیمی کنڈکٹر کی بڑی طاقت ہے۔
+> 반도체 수출이 크게 늘었다. | Semiconductor exports rose sharply. | سیمی کنڈکٹر کی برآمدات بہت بڑھ گئیں۔
+> 스마트폰에는 반도체가 들어간다. | Smartphones contain semiconductors. | اسمارٹ فون میں سیمی کنڈکٹر ہوتے ہیں۔
++ 자율 주행 | 自律走行 | jayul juhaeng | noun | autonomous driving | خودکار ڈرائیونگ | Science & Technology | 3 |
+> 자율 주행 자동차가 시험 운행 중이다. | Self-driving cars are in test operation. | خودکار گاڑیاں آزمائشی طور پر چل رہی ہیں۔
+> 자율 주행 기술이 발전하고 있다. | Autonomous driving technology is advancing. | خودکار ڈرائیونگ ٹیکنالوجی ترقی کر رہی ہے۔
+> 자율 주행 사고의 책임은 누구에게 있을까? | Who is responsible for self-driving accidents? | خودکار گاڑی کے حادثے کا ذمہ دار کون ہے؟
++ 빅데이터 |  | bikdeiteo | noun | big data | بگ ڈیٹا | Science & Technology | 3 |
+> 빅데이터를 분석해서 소비 패턴을 파악한다. | They analyze big data to understand spending patterns. | بگ ڈیٹا کا تجزیہ کر کے خرچ کے رجحانات سمجھتے ہیں۔
+> 빅데이터 전문가가 부족하다. | There's a shortage of big data experts. | بگ ڈیٹا کے ماہرین کی کمی ہے۔
+> 빅데이터는 개인 정보 문제와 연결된다. | Big data is linked to privacy issues. | بگ ڈیٹا ذاتی معلومات کے مسائل سے جڑا ہے۔
++ 가상 현실 | 假想現實 | gasang hyeonsil | noun | virtual reality | ورچوئل رئیلٹی | Science & Technology | 3 |
+> 가상 현실 게임을 체험했다. | I tried a virtual reality game. | میں نے ورچوئل رئیلٹی گیم آزمایا۔
+> 가상 현실로 여행을 즐길 수 있다. | You can enjoy travel through virtual reality. | ورچوئل رئیلٹی سے سیر کا لطف اٹھا سکتے ہیں۔
+> 가상 현실 기술이 교육에 쓰인다. | VR technology is used in education. | ورچوئل رئیلٹی تعلیم میں استعمال ہوتی ہے۔
++ 해킹 |  | haeking | noun | hacking | ہیکنگ | Science & Technology | 3 | 해킹당하다 = to be hacked.
+> 은행 시스템이 해킹당했다. | The bank system was hacked. | بینک کا سسٹم ہیک ہو گیا۔
+> 해킹을 막기 위해 비밀번호를 바꾸세요. | Change your password to prevent hacking. | ہیکنگ سے بچنے کے لیے پاس ورڈ بدلیں۔
+> 해킹 피해가 늘고 있다. | Hacking damage is increasing. | ہیکنگ کے نقصانات بڑھ رہے ہیں۔
++ 보안 | 保安 | boan | noun | security | سیکیورٹی، تحفظ | Science & Technology | 3 |
+> 보안을 강화했다. | Security was strengthened. | سیکیورٹی سخت کر دی گئی۔
+> 이 건물은 보안이 철저하다. | This building has tight security. | اس عمارت کی سیکیورٹی سخت ہے۔
+> 보안 프로그램을 설치하세요. | Install a security program. | سیکیورٹی پروگرام انسٹال کریں۔
++ 알고리즘 |  | algorijeum | noun | algorithm | الگورتھم | Science & Technology | 3 |
+> 유튜브 알고리즘이 영상을 추천한다. | YouTube's algorithm recommends videos. | یوٹیوب کا الگورتھم ویڈیوز تجویز کرتا ہے۔
+> 알고리즘을 개선했다. | They improved the algorithm. | الگورتھم بہتر کیا گیا۔
+> 알고리즘 때문에 비슷한 정보만 본다. | Because of algorithms, we only see similar information. | الگورتھم کی وجہ سے ہم صرف ملتی جلتی معلومات دیکھتے ہیں۔
