@@ -82,6 +82,8 @@ def main(check: bool = False) -> int:
                 missing = [n for n, v in (("romanization", rom), ("part of speech", pos), ("Urdu", ur), ("category", cat)) if not v]
                 if missing:
                     raise SystemExit(f"{where}: {ko} is missing {', '.join(missing)}")
+                if not rom.isascii():
+                    raise SystemExit(f"{where}: romanization of {ko} has non-Latin letters: {rom!r}")
                 if " (" in ko and not ko.startswith("-"):
                     raise SystemExit(f"{where}: put notes in the notes field, not in the Korean word: {ko!r}")
                 if key in seen_new:
