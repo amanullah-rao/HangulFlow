@@ -1,0 +1,237 @@
+# Intermediate: society, economy, work
++ 경제 | 經濟 | gyeongje | noun | economy | معیشت | Economy & Business | 2 | 경제적 = economic; economical.
+> 요즘 경제가 어려워요. | The economy is tough these days. | آج کل معیشت مشکل حالات میں ہے۔
+> 경제를 살리기 위한 정책이 필요해요. | Policies to revive the economy are needed. | معیشت کو بحال کرنے کی پالیسیاں درکار ہیں۔
+> 대중교통이 경제적이에요. | Public transport is economical. | پبلک ٹرانسپورٹ کفایتی ہے۔
++ 물가 | 物價 | mulga | noun | prices (cost of living) | مہنگائی، اشیاء کی قیمتیں | Economy & Business | 2 | 물가가 오르다 = prices rise.
+> 서울은 물가가 비싸요. | Seoul has a high cost of living. | سیول میں مہنگائی زیادہ ہے۔
+> 물가가 계속 오르고 있어요. | Prices keep rising. | مہنگائی مسلسل بڑھ رہی ہے۔
+> 물가에 비해 월급이 적어요. | Salaries are low compared to prices. | مہنگائی کے مقابلے میں تنخواہیں کم ہیں۔
++ 세금 | 稅金 | segeum | noun | tax | ٹیکس | Economy & Business | 2 |
+> 월급에서 세금이 빠져요. | Tax is deducted from my salary. | تنخواہ سے ٹیکس کٹتا ہے۔
+> 세금을 제때 내야 해요. | You have to pay taxes on time. | ٹیکس وقت پر ادا کرنا ضروری ہے۔
+> 이 가격에는 세금이 포함되어 있어요. | Tax is included in this price. | اس قیمت میں ٹیکس شامل ہے۔
++ 수입 | 收入 | suip | noun | income; import | آمدنی؛ درآمد | Economy & Business | 2 | 수입 (輸入) = import; 수출 = export.
+> 아르바이트로 수입이 생겼어요. | I got some income from a part-time job. | پارٹ ٹائم کام سے آمدنی ہونے لگی۔
+> 한국은 석유를 수입해요. | Korea imports oil. | کوریا تیل درآمد کرتا ہے۔
+> 수입보다 지출이 많아요. | Spending is more than income. | خرچ آمدنی سے زیادہ ہے۔
++ 수출 | 輸出 | suchul | noun | export | برآمد | Economy & Business | 2 |
+> 한국은 자동차를 많이 수출해요. | Korea exports many cars. | کوریا بہت سی گاڑیاں برآمد کرتا ہے۔
+> 수출이 작년보다 늘었어요. | Exports increased compared to last year. | برآمدات پچھلے سال سے بڑھ گئیں۔
+> 파키스탄은 쌀과 옷을 수출해요. | Pakistan exports rice and clothing. | پاکستان چاول اور کپڑے برآمد کرتا ہے۔
++ 지출 | 支出 | jichul | noun | expenditure, spending | خرچ | Economy & Business | 2 |
+> 이번 달 지출이 너무 많아요. | This month's spending is too high. | اس مہینے خرچ بہت زیادہ ہے۔
+> 지출을 줄이려고 가계부를 써요. | I keep a household budget to reduce spending. | خرچ کم کرنے کے لیے حساب کتاب لکھتا ہوں۔
+> 교육비 지출이 늘었어요. | Education spending has increased. | تعلیم پر خرچ بڑھ گیا۔
++ 사업 | 事業 | saeop | noun | business, enterprise | کاروبار | Economy & Business | 2 | 사업가 = businessperson.
+> 아버지는 작은 사업을 하세요. | My father runs a small business. | ابو ایک چھوٹا کاروبار کرتے ہیں۔
+> 사업이 잘돼서 다행이에요. | I'm glad the business is going well. | شکر ہے کاروبار اچھا چل رہا ہے۔
+> 새로운 사업을 시작했어요. | I started a new business. | میں نے نیا کاروبار شروع کیا۔
++ 회사원 생활 |  | hoesawon saenghwal | expression | office life | دفتری زندگی | Work & Employment | 2 |
+> 회사원 생활은 생각보다 바빠요. | Office life is busier than I thought. | دفتری زندگی سوچ سے زیادہ مصروف ہے۔
+> 회사원 생활 3년 차예요. | I'm in my third year of office life. | دفتری زندگی کا تیسرا سال ہے۔
+> 회사원 생활에 적응하고 있어요. | I'm adjusting to life as an office worker. | میں دفتری زندگی کا عادی ہو رہا ہوں۔
++ 직장 | 職場 | jikjang | noun | workplace, job | کام کی جگہ، نوکری | Work & Employment | 2 | 직장인 = working person.
+> 직장이 집에서 가까워요. | My workplace is close to home. | میری نوکری کی جگہ گھر کے قریب ہے۔
+> 직장 동료들과 사이가 좋아요. | I get along well with my coworkers. | میرے دفتری ساتھیوں سے اچھے تعلقات ہیں۔
+> 새 직장을 구하고 있어요. | I'm looking for a new job. | میں نئی نوکری ڈھونڈ رہا ہوں۔
++ 취업 | 就業 | chwieop | noun | employment, getting a job | ملازمت ملنا | Work & Employment | 2 | 취업하다 = 취직하다.
+> 졸업 후 취업이 걱정돼요. | I'm worried about getting a job after graduation. | فراغت کے بعد نوکری کی فکر ہے۔
+> 취업 준비 중이에요. | I'm preparing to get a job. | میں نوکری کی تیاری کر رہا ہوں۔
+> 외국인 취업 비자를 받았어요. | I got a foreign worker visa. | مجھے غیر ملکی ورک ویزا مل گیا۔
++ 신입 사원 | 新入社員 | sinip sawon | noun | new employee | نیا ملازم | Work & Employment | 2 |
+> 신입 사원 교육이 일주일 동안 있어요. | New employee training lasts a week. | نئے ملازمین کی تربیت ایک ہفتے کی ہے۔
+> 저는 올해 입사한 신입 사원이에요. | I'm a new employee who joined this year. | میں اس سال آنے والا نیا ملازم ہوں۔
+> 신입 사원들을 환영합니다. | We welcome the new employees. | ہم نئے ملازمین کو خوش آمدید کہتے ہیں۔
++ 회식 | 會食 | hoesik | noun | company dinner, team dinner | دفتری دعوت | Work & Employment | 2 | Common in Korean workplace culture.
+> 금요일에 회식이 있어요. | There's a team dinner on Friday. | جمعہ کو دفتری دعوت ہے۔
+> 회식에서 술을 안 마셔도 돼요. | You don't have to drink at team dinners. | دفتری دعوت میں شراب پینا ضروری نہیں۔
+> 요즘은 점심 회식도 많아요. | These days there are many lunch gatherings too. | آج کل دوپہر کی دفتری دعوتیں بھی عام ہیں۔
++ 계약서 | 契約書 | gyeyakseo | noun | contract (document) | معاہدہ نامہ | Work & Employment | 2 |
+> 근로 계약서를 꼭 쓰세요. | Be sure to sign an employment contract. | ملازمت کا معاہدہ ضرور لکھوائیں۔
+> 계약서에 서명했어요. | I signed the contract. | میں نے معاہدے پر دستخط کیے۔
+> 계약서 내용을 잘 확인하세요. | Check the contents of the contract carefully. | معاہدے کی شرائط غور سے دیکھیں۔
++ 휴일 | 休日 | hyuil | noun | holiday, day off | چھٹی کا دن | Time & Numbers | 2 | 공휴일 = public holiday.
+> 휴일에는 집에서 쉬어요. | I rest at home on holidays. | چھٹی کے دن میں گھر پر آرام کرتا ہوں۔
+> 다음 주 월요일은 공휴일이에요. | Next Monday is a public holiday. | اگلا پیر سرکاری چھٹی ہے۔
+> 휴일에도 일해야 해요. | I have to work even on holidays. | مجھے چھٹی کے دن بھی کام کرنا پڑتا ہے۔
++ 사회 | 社會 | sahoe | noun | society | معاشرہ | Society & Culture | 2 | 사회적 = social.
+> 사회 문제에 관심이 많아요. | I'm very interested in social issues. | مجھے سماجی مسائل میں بہت دلچسپی ہے۔
+> 사회생활은 쉽지 않아요. | Working life (life in society) isn't easy. | معاشرتی زندگی آسان نہیں۔
+> 사회가 빠르게 변하고 있어요. | Society is changing rapidly. | معاشرہ تیزی سے بدل رہا ہے۔
++ 국가 | 國家 | gukga | noun | nation, state | ریاست، قوم | Society & Culture | 2 | 국가 대표 = national team player.
+> 국가 경제가 성장했어요. | The national economy grew. | قومی معیشت میں ترقی ہوئی۔
+> 그는 국가 대표 선수예요. | He's a national team athlete. | وہ قومی ٹیم کا کھلاڑی ہے۔
+> 국가마다 법이 달라요. | Each nation has different laws. | ہر ملک کے قوانین مختلف ہیں۔
++ 정부 | 政府 | jeongbu | noun | government | حکومت | Society & Culture | 2 |
+> 정부가 새 정책을 발표했어요. | The government announced a new policy. | حکومت نے نئی پالیسی کا اعلان کیا۔
+> 정부의 지원을 받았어요. | We received government support. | ہمیں حکومتی امداد ملی۔
+> 정부는 국민의 의견을 들어야 해요. | The government should listen to the people. | حکومت کو عوام کی رائے سننی چاہیے۔
++ 국민 | 國民 | gungmin | noun | the people, citizens (of a nation) | عوام، شہری | Society & Culture | 2 |
+> 국민의 행복이 가장 중요해요. | The happiness of the people is most important. | عوام کی خوشی سب سے اہم ہے۔
+> 많은 국민이 투표에 참여했어요. | Many citizens took part in the vote. | بہت سے شہریوں نے ووٹ ڈالا۔
+> 그는 국민 가수로 불려요. | He's called the nation's singer. | اسے قوم کا گلوکار کہا جاتا ہے۔
++ 선거 | 選擧 | seongeo | noun | election | انتخاب، الیکشن | Society & Culture | 2 | 투표 = vote.
+> 다음 달에 대통령 선거가 있어요. | There's a presidential election next month. | اگلے مہینے صدارتی انتخاب ہے۔
+> 선거 날은 공휴일이에요. | Election day is a public holiday. | انتخاب کا دن سرکاری چھٹی ہوتا ہے۔
+> 선거 결과가 발표됐어요. | The election results were announced. | انتخابی نتائج کا اعلان ہو گیا۔
++ 투표하다 | 投票- | tupyohada | verb | to vote | ووٹ ڈالنا | Society & Culture | 2 |
+> 저는 아침 일찍 투표했어요. | I voted early in the morning. | میں نے صبح سویرے ووٹ ڈالا۔
+> 18세 이상은 투표할 수 있어요. | People 18 and older can vote. | اٹھارہ سال سے زیادہ عمر والے ووٹ دے سکتے ہیں۔
+> 반장을 투표로 뽑았어요. | We chose the class leader by vote. | ہم نے ووٹ سے کلاس مانیٹر چنا۔
++ 법 | 法 | beop | noun | law | قانون | Society & Culture | 2 | 법을 지키다 = to obey the law.
+> 법을 지켜야 해요. | You must obey the law. | قانون کی پابندی ضروری ہے۔
+> 새로운 법이 만들어졌어요. | A new law was made. | ایک نیا قانون بنا۔
+> 그건 법에 어긋나요. | That's against the law. | یہ قانون کے خلاف ہے۔
++ 권리 | 權利 | gwolli | noun | right (entitlement) | حق | Society & Culture | 2 | 의무 = duty.
+> 모든 사람은 교육받을 권리가 있어요. | Everyone has the right to education. | ہر شخص کو تعلیم کا حق ہے۔
+> 자신의 권리를 알아야 해요. | You should know your rights. | اپنے حقوق جاننے چاہئیں۔
+> 노동자의 권리를 보호해야 해요. | Workers' rights must be protected. | مزدوروں کے حقوق کا تحفظ ضروری ہے۔
++ 의무 | 義務 | uimu | noun | duty, obligation | فرض، ذمہ داری | Society & Culture | 2 |
+> 한국 남자는 군대에 가야 할 의무가 있어요. | Korean men have a duty to do military service. | کوریائی مردوں پر فوجی خدمت فرض ہے۔
+> 세금을 내는 것은 국민의 의무예요. | Paying taxes is a citizen's duty. | ٹیکس دینا شہری کا فرض ہے۔
+> 의무 교육은 무료예요. | Compulsory education is free. | لازمی تعلیم مفت ہے۔
++ 문제 | 問題 | munje | noun | problem; question (on a test) | مسئلہ؛ سوال | Common Verbs & Adjectives | 2 | 문제없다 = no problem.
+> 무슨 문제가 있어요? | Is there a problem? | کوئی مسئلہ ہے؟
+> 시험 문제가 어려웠어요. | The exam questions were hard. | امتحان کے سوالات مشکل تھے۔
+> 문제없어요. 제가 할게요. | No problem. I'll do it. | کوئی مسئلہ نہیں، میں کر دوں گا۔
++ 상황 | 狀況 | sanghwang | noun | situation, circumstances | صورتحال | Common Verbs & Adjectives | 2 |
+> 지금 상황이 좀 복잡해요. | The situation is a bit complicated now. | اس وقت صورتحال کچھ پیچیدہ ہے۔
+> 상황에 따라 계획이 바뀔 수 있어요. | Plans may change depending on the situation. | حالات کے مطابق منصوبہ بدل سکتا ہے۔
+> 그 상황에서는 어쩔 수 없었어요. | There was nothing I could do in that situation. | اس صورتحال میں کوئی چارہ نہیں تھا۔
++ 이유 | 理由 | iyu | noun | reason | وجہ | Common Verbs & Adjectives | 2 |
+> 늦은 이유가 뭐예요? | What's the reason you were late? | دیر سے آنے کی کیا وجہ ہے؟
+> 한국어를 배우는 이유는 여러 가지예요. | There are many reasons I'm learning Korean. | کورین سیکھنے کی کئی وجوہات ہیں۔
+> 이유 없이 화를 내지 마세요. | Don't get angry for no reason. | بلاوجہ غصہ نہ کریں۔
++ 방법 | 方法 | bangbeop | noun | method, way | طریقہ | Common Verbs & Adjectives | 2 |
+> 좋은 방법이 있어요? | Is there a good way? | کوئی اچھا طریقہ ہے؟
+> 한국어를 잘하는 방법을 알려 주세요. | Tell me how to get good at Korean. | کورین بہتر کرنے کا طریقہ بتائیں۔
+> 다른 방법을 찾아봅시다. | Let's look for another way. | کوئی اور طریقہ ڈھونڈتے ہیں۔
++ 목적 | 目的 | mokjeok | noun | purpose, aim | مقصد | Academic & Formal | 2 | 목적지 = destination.
+> 방문 목적이 무엇입니까? | What is the purpose of your visit? | آپ کے دورے کا مقصد کیا ہے؟
+> 목적지에 도착했습니다. | You have arrived at your destination. | آپ اپنی منزل پر پہنچ گئے ہیں۔
+> 이 연구의 목적은 무엇인가요? | What is the purpose of this research? | اس تحقیق کا مقصد کیا ہے؟
++ 목표 | 目標 | mokpyo | noun | goal, target | ہدف | Common Verbs & Adjectives | 2 |
+> 올해 목표는 토픽 4급이에요. | My goal this year is TOPIK level 4. | اس سال میرا ہدف ٹاپک لیول چار ہے۔
+> 목표를 세우고 노력하세요. | Set a goal and work toward it. | ہدف مقرر کر کے محنت کریں۔
+> 드디어 목표를 이뤘어요. | I finally achieved my goal. | آخرکار میں نے اپنا ہدف حاصل کر لیا۔
++ 계획 | 計劃 | gyehoek | noun | plan | منصوبہ | Common Verbs & Adjectives | 2 |
+> 방학 계획이 있어요? | Do you have plans for the vacation? | چھٹیوں کا کوئی منصوبہ ہے؟
+> 계획대로 잘 되고 있어요. | It's going according to plan. | سب منصوبے کے مطابق ہو رہا ہے۔
+> 계획을 바꿨어요. | I changed my plans. | میں نے منصوبہ بدل دیا۔
++ 기회 | 機會 | gihoe | noun | opportunity, chance | موقع | Common Verbs & Adjectives | 2 |
+> 좋은 기회를 놓치지 마세요. | Don't miss a good opportunity. | اچھا موقع ہاتھ سے نہ جانے دیں۔
+> 한국에서 일할 기회가 생겼어요. | I got a chance to work in Korea. | مجھے کوریا میں کام کرنے کا موقع ملا۔
+> 기회가 되면 다시 만나요. | Let's meet again if we get the chance. | موقع ملا تو پھر ملیں گے۔
++ 관심 | 關心 | gwansim | noun | interest, concern | دلچسپی | Common Verbs & Adjectives | 2 | -에 관심이 있다 = to be interested in.
+> 저는 한국 역사에 관심이 있어요. | I'm interested in Korean history. | مجھے کوریا کی تاریخ میں دلچسپی ہے۔
+> 관심을 가져 주셔서 감사합니다. | Thank you for your interest. | دلچسپی لینے کا شکریہ۔
+> 요즘 환경 문제에 관심이 많아졌어요. | Interest in environmental issues has grown lately. | آج کل ماحولیاتی مسائل میں دلچسپی بڑھ گئی ہے۔
++ 정보 | 情報 | jeongbo | noun | information | معلومات | Media & Technology | 2 |
+> 자세한 정보는 홈페이지를 보세요. | See the website for detailed information. | تفصیلی معلومات کے لیے ویب سائٹ دیکھیں۔
+> 개인 정보를 조심하세요. | Be careful with your personal information. | اپنی ذاتی معلومات کا خیال رکھیں۔
+> 여행 정보를 찾고 있어요. | I'm looking for travel information. | میں سفر کی معلومات ڈھونڈ رہا ہوں۔
++ 소식 | 消息 | sosik | noun | news (from someone) | خبر، اطلاع | Daily Life in Korea | 2 |
+> 좋은 소식이 있어요! | I have good news! | ایک خوش خبری ہے!
+> 친구 소식을 들었어요. | I heard news about my friend. | مجھے دوست کی خبر ملی۔
+> 오랫동안 소식이 없었어요. | There's been no news for a long time. | بہت عرصے سے کوئی خبر نہیں تھی۔
++ 사건 | 事件 | sageon | noun | incident, case, event | واقعہ | Society & Culture | 2 |
+> 어젯밤에 큰 사건이 있었어요. | There was a big incident last night. | کل رات ایک بڑا واقعہ پیش آیا۔
+> 경찰이 사건을 조사하고 있어요. | The police are investigating the case. | پولیس واقعے کی تفتیش کر رہی ہے۔
+> 그 사건은 아직 해결되지 않았어요. | That case hasn't been solved yet. | وہ مقدمہ ابھی حل نہیں ہوا۔
++ 사고 | 事故 | sago | noun | accident | حادثہ | Society & Culture | 2 | 사고가 나다 = an accident happens. 사고 (思考) = thinking.
+> 고속도로에서 사고가 났어요. | There was an accident on the highway. | موٹروے پر حادثہ ہو گیا۔
+> 사고 때문에 길이 막혀요. | The road is jammed because of an accident. | حادثے کی وجہ سے سڑک بند ہے۔
+> 다행히 큰 사고는 아니었어요. | Luckily, it wasn't a serious accident. | شکر ہے بڑا حادثہ نہیں تھا۔
++ 피해 | 被害 | pihae | noun | damage, harm | نقصان | Society & Culture | 2 | 피해를 입다 = to suffer damage.
+> 태풍으로 피해가 컸어요. | The typhoon caused great damage. | طوفان سے بہت نقصان ہوا۔
+> 다른 사람에게 피해를 주지 마세요. | Don't cause trouble for others. | دوسروں کو نقصان نہ پہنچائیں۔
+> 피해를 입은 사람들을 도와야 해요. | We must help those who suffered damage. | متاثرین کی مدد کرنی چاہیے۔
++ 범죄 | 犯罪 | beomjoe | noun | crime | جرم | Society & Culture | 2 | 범인 = criminal, culprit.
+> 이 동네는 범죄가 적어요. | There's little crime in this neighborhood. | اس محلے میں جرائم کم ہیں۔
+> 범죄를 예방하기 위해 CCTV를 설치했어요. | CCTV was installed to prevent crime. | جرائم روکنے کے لیے سی سی ٹی وی لگائے گئے۔
+> 범인이 잡혔어요. | The culprit was caught. | مجرم پکڑا گیا۔
++ 안전 | 安全 | anjeon | noun | safety | حفاظت | Society & Culture | 2 |
+> 안전이 가장 중요해요. | Safety is the most important thing. | حفاظت سب سے اہم ہے۔
+> 안전 교육을 받았어요. | I received safety training. | میں نے حفاظتی تربیت لی۔
+> 아이들의 안전을 지켜야 해요. | We must protect children's safety. | بچوں کی حفاظت ضروری ہے۔
++ 환경 보호 | 環境保護 | hwangyeong boho | noun | environmental protection | ماحولیاتی تحفظ | Environment | 2 |
+> 환경 보호를 위해 장바구니를 써요. | I use a shopping bag to protect the environment. | ماحول کے تحفظ کے لیے میں اپنا تھیلا استعمال کرتا ہوں۔
+> 환경 보호 캠페인에 참여했어요. | I took part in an environmental protection campaign. | میں نے ماحولیاتی تحفظ کی مہم میں حصہ لیا۔
+> 환경 보호는 작은 습관에서 시작돼요. | Protecting the environment starts with small habits. | ماحولیاتی تحفظ چھوٹی عادتوں سے شروع ہوتا ہے۔
++ 역사 | 歷史 | yeoksa | noun | history | تاریخ | Society & Culture | 2 |
+> 한국 역사에 대해 배우고 있어요. | I'm learning about Korean history. | میں کوریا کی تاریخ کے بارے میں سیکھ رہا ہوں۔
+> 이 절은 천 년의 역사를 가지고 있어요. | This temple has a thousand years of history. | اس مندر کی ہزار سالہ تاریخ ہے۔
+> 역사를 알면 현재가 보여요. | If you know history, you understand the present. | تاریخ جانیں تو حال سمجھ آتا ہے۔
++ 종교 | 宗敎 | jonggyo | noun | religion | مذہب | Society & Culture | 2 |
+> 종교가 있으세요? | Do you have a religion? | کیا آپ کسی مذہب کے پیروکار ہیں؟
+> 저는 종교 때문에 돼지고기를 안 먹어요. | I don't eat pork because of my religion. | میں مذہبی وجہ سے سور کا گوشت نہیں کھاتا۔
+> 한국에는 다양한 종교가 있어요. | There are various religions in Korea. | کوریا میں مختلف مذاہب ہیں۔
++ 언어 | 言語 | eoneo | noun | language | زبان | Education & University | 2 |
+> 언어는 문화를 이해하는 열쇠예요. | Language is the key to understanding culture. | زبان ثقافت کو سمجھنے کی کنجی ہے۔
+> 몇 가지 언어를 할 수 있어요? | How many languages can you speak? | آپ کتنی زبانیں بول سکتے ہیں؟
+> 언어를 배우려면 인내가 필요해요. | Learning a language requires patience. | زبان سیکھنے کے لیے صبر چاہیے۔
++ 생활 | 生活 | saenghwal | noun | life, daily living | زندگی، رہن سہن | Daily Life in Korea | 2 | 생활하다 = to live.
+> 한국 생활은 어때요? | How's life in Korea? | کوریا میں زندگی کیسی ہے؟
+> 규칙적인 생활이 건강에 좋아요. | A regular routine is good for your health. | باقاعدہ زندگی صحت کے لیے اچھی ہے۔
+> 학교생활이 즐거워요. | School life is enjoyable. | اسکول کی زندگی خوشگوار ہے۔
++ 행사 | 行事 | haengsa | noun | event, function | تقریب | Society & Culture | 2 |
+> 학교에서 큰 행사가 있어요. | There's a big event at school. | اسکول میں ایک بڑی تقریب ہے۔
+> 행사에 많은 사람이 참석했어요. | Many people attended the event. | تقریب میں بہت سے لوگ شریک ہوئے۔
+> 비 때문에 행사가 취소됐어요. | The event was canceled because of rain. | بارش کی وجہ سے تقریب منسوخ ہو گئی۔
++ 축제 | 祝祭 | chukje | noun | festival | میلہ، جشن | Society & Culture | 2 |
+> 가을에 대학 축제가 있어요. | There's a university festival in autumn. | خزاں میں یونیورسٹی کا میلہ ہوتا ہے۔
+> 불꽃 축제를 보러 갔어요. | I went to see the fireworks festival. | میں آتش بازی کا میلہ دیکھنے گیا۔
+> 축제 기간에는 사람이 많아요. | It's crowded during the festival. | میلے کے دنوں میں رش ہوتا ہے۔
++ 공연 | 公演 | gongyeon | noun | performance, show | پرفارمنس، شو | Hobbies & Leisure | 2 |
+> 공연이 몇 시에 시작해요? | What time does the show start? | شو کتنے بجے شروع ہوگا؟
+> 뮤지컬 공연을 봤어요. | I watched a musical performance. | میں نے ایک موسیقی کا شو دیکھا۔
+> 공연이 끝나고 박수를 쳤어요. | We applauded after the performance. | پرفارمنس کے بعد ہم نے تالیاں بجائیں۔
++ 전시회 | 展示會 | jeonsihoe | noun | exhibition | نمائش | Hobbies & Leisure | 2 |
+> 미술 전시회에 갔어요. | I went to an art exhibition. | میں ایک فن کی نمائش میں گیا۔
+> 이번 전시회는 무료예요. | This exhibition is free. | یہ نمائش مفت ہے۔
+> 사진 전시회가 다음 달까지 열려요. | The photo exhibition runs until next month. | تصاویر کی نمائش اگلے مہینے تک جاری ہے۔
++ 대회 | 大會 | daehoe | noun | contest, competition, tournament | مقابلہ | Hobbies & Leisure | 2 |
+> 한국어 말하기 대회에 나갔어요. | I entered a Korean speaking contest. | میں نے کورین تقریری مقابلے میں حصہ لیا۔
+> 대회에서 1등을 했어요. | I won first place in the contest. | میں نے مقابلے میں پہلی پوزیشن حاصل کی۔
+> 마라톤 대회가 주말에 열려요. | The marathon is held on the weekend. | میراتھن مقابلہ ہفتے کے آخر میں ہوگا۔
++ 경기 | 競技 | gyeonggi | noun | game, match; (景氣) economic conditions | میچ، مقابلہ؛ معاشی حالات | Hobbies & Leisure | 2 | 경기 (景氣) = the economy: 경기가 나쁘다.
+> 축구 경기를 보러 갔어요. | I went to see a soccer match. | میں فٹبال کا میچ دیکھنے گیا۔
+> 경기가 2대 2로 끝났어요. | The match ended 2–2. | میچ دو دو سے برابر رہا۔
+> 요즘 경기가 안 좋아요. | Economic conditions aren't good these days. | آج کل معاشی حالات اچھے نہیں۔
++ 선수 | 選手 | seonsu | noun | athlete, player | کھلاڑی | Hobbies & Leisure | 2 |
+> 그 선수는 세계적으로 유명해요. | That athlete is world-famous. | وہ کھلاڑی دنیا بھر میں مشہور ہے۔
+> 축구 선수가 되고 싶었어요. | I wanted to be a soccer player. | میں فٹبال کا کھلاڑی بننا چاہتا تھا۔
+> 선수들이 열심히 연습해요. | The players practice hard. | کھلاڑی محنت سے مشق کرتے ہیں۔
++ 팀 |  | tim | noun | team | ٹیم | Work & Employment | 2 | 팀장 = team leader.
+> 우리 팀이 이겼어요. | Our team won. | ہماری ٹیم جیت گئی۔
+> 팀장님께 보고했어요. | I reported to the team leader. | میں نے ٹیم لیڈر کو رپورٹ دی۔
+> 팀으로 일하는 것을 좋아해요. | I like working in a team. | مجھے ٹیم میں کام کرنا پسند ہے۔
++ 고객 | 顧客 | gogaek | noun | customer, client | گاہک، صارف | Economy & Business | 2 | 고객센터 = customer service center.
+> 고객의 의견을 듣겠습니다. | We will listen to customers' opinions. | ہم گاہکوں کی رائے سنیں گے۔
+> 고객센터에 전화했어요. | I called customer service. | میں نے کسٹمر سروس کو فون کیا۔
+> 고객 만족이 최우선입니다. | Customer satisfaction is our top priority. | گاہک کا اطمینان ہماری اولین ترجیح ہے۔
++ 상품 | 商品 | sangpum | noun | product, goods; prize | مصنوعات؛ انعام | Economy & Business | 2 |
+> 이 상품은 인기가 많아요. | This product is very popular. | یہ مصنوعات بہت مقبول ہیں۔
+> 신상품이 나왔어요. | A new product has come out. | نئی پروڈکٹ آ گئی ہے۔
+> 대회에서 상품을 받았어요. | I got a prize at the contest. | مجھے مقابلے میں انعام ملا۔
++ 광고 | 廣告 | gwanggo | noun | advertisement | اشتہار | Media & Technology | 2 |
+> 텔레비전 광고를 보고 샀어요. | I bought it after seeing a TV ad. | میں نے ٹی وی اشتہار دیکھ کر خریدا۔
+> 광고가 너무 많아요. | There are too many ads. | اشتہارات بہت زیادہ ہیں۔
+> 그 배우가 광고에 나와요. | That actor appears in commercials. | وہ اداکار اشتہاروں میں آتا ہے۔
++ 서비스 |  | seobiseu | noun | service; freebie (on the house) | سروس؛ مفت چیز | Economy & Business | 2 | In Korea, 서비스 also means a free extra item.
+> 이 호텔은 서비스가 좋아요. | This hotel has good service. | اس ہوٹل کی سروس اچھی ہے۔
+> 사장님이 음료수를 서비스로 주셨어요. | The owner gave us drinks on the house. | مالک نے ہمیں مفت مشروب دیے۔
+> 고객 서비스에 문의하세요. | Contact customer service. | کسٹمر سروس سے رابطہ کریں۔
++ 품질 | 品質 | pumjil | noun | quality | معیار | Economy & Business | 2 |
+> 이 제품은 품질이 좋아요. | This product is of good quality. | اس پروڈکٹ کا معیار اچھا ہے۔
+> 가격보다 품질이 중요해요. | Quality is more important than price. | قیمت سے زیادہ معیار اہم ہے۔
+> 품질에 문제가 있으면 교환해 드려요. | If there's a quality problem, we'll exchange it. | معیار میں خرابی ہو تو ہم بدل دیں گے۔
++ 제품 | 製品 | jepum | noun | product, manufactured goods | مصنوعات | Economy & Business | 2 |
+> 한국 전자 제품은 인기가 많아요. | Korean electronics are very popular. | کوریائی الیکٹرانک مصنوعات بہت مقبول ہیں۔
+> 새 제품을 개발하고 있어요. | We're developing a new product. | ہم ایک نئی پروڈکٹ تیار کر رہے ہیں۔
+> 제품 설명서를 읽어 보세요. | Read the product manual. | پروڈکٹ کا ہدایت نامہ پڑھیں۔
++ 시장 조사 | 市場調査 | sijang josa | noun | market research | مارکیٹ ریسرچ | Economy & Business | 2 |
+> 시장 조사를 먼저 해야 해요. | We need to do market research first. | پہلے مارکیٹ ریسرچ کرنی ہوگی۔
+> 시장 조사 결과를 발표했어요. | We presented the market research results. | ہم نے مارکیٹ ریسرچ کے نتائج پیش کیے۔
+> 시장 조사에 따르면 수요가 많아요. | According to market research, demand is high. | مارکیٹ ریسرچ کے مطابق مانگ زیادہ ہے۔
