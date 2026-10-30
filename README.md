@@ -86,8 +86,29 @@ file, raise `version` by one and push.
 3. Start it from the Start menu. Uninstall from **Settings → Apps**; your words and
    progress in `%LOCALAPPDATA%\HangulFlow` are kept.
 
-Windows may show "Windows protected your PC" because the installer is not code-signed:
-click **More info → Run anyway**.
+#### "Windows protected your PC"
+HangulFlow is a free app and its installer is not code-signed (a signing
+certificate costs money every year). Windows warns about unsigned programs it
+has not seen often, so on a new PC you may see:
+
+1. **In the browser** (if you downloaded the file): Edge or Chrome may say the
+   file "isn't commonly downloaded". Choose **⋯ → Keep → Keep anyway**.
+2. **When you run it**: a blue "Windows protected your PC" box. Click
+   **More info**, then **Run anyway**.
+
+You only see this once per PC; the installed app starts normally afterwards.
+
+**Smart App Control** (some Windows 11 PCs) blocks unsigned programs without a
+"Run anyway" button. If that happens, install from source (Option B) or turn
+Smart App Control off in **Windows Security → App & browser control**. Note that
+it cannot be turned back on without resetting Windows.
+
+To check that your copy is genuine, compare its SHA-256 hash with the one
+published next to the download:
+
+```powershell
+Get-FileHash .\HangulFlow-Setup-<version>.exe -Algorithm SHA256
+```
 
 ### Option B: from source
 Requires Windows 10/11 and [Python 3.13](https://www.python.org/downloads/) from python.org.
@@ -170,9 +191,23 @@ Install [Inno Setup 6](https://jrsoftware.org/isinfo.php), build the .exe as abo
 & "$env:LOCALAPPDATA\Programs\Inno Setup 6\ISCC.exe" installer\hangulflow.iss
 ```
 
-This writes `dist\HangulFlow-Setup-<version>.exe` (about 27 MB), a single file
+This writes `dist\HangulFlow-Setup-<version>.exe` (about 30 MB), a single file
 you can copy to any Windows 10/11 PC. Keep `AppVersion` in the script equal to
 `__version__` in `hangulflow/__init__.py`.
+
+When you share the installer, publish its hash with it so others can check it
+(see *"Windows protected your PC"* above):
+
+```powershell
+(Get-FileHash dist\HangulFlow-Setup-<version>.exe -Algorithm SHA256).Hash
+```
+
+To remove the warning entirely, the installer and `HangulFlow.exe` must be signed
+with a code-signing certificate. Options include a paid certificate from a
+certificate authority, Microsoft's cloud signing service (monthly fee; check
+whether it is available in your country), or SignPath Foundation, which signs
+open-source projects for free. Sign with `signtool sign` after PyInstaller and
+again after Inno Setup.
 
 ## License
 
