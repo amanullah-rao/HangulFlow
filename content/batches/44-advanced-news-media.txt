@@ -1,0 +1,205 @@
+# Advanced: news and media vocabulary
++ 속보 | 速報 | sokbo | noun | breaking news | تازہ ترین خبر | Media & Technology | 3 |
+> 방금 속보가 들어왔습니다. | Breaking news just came in. | ابھی ابھی تازہ خبر آئی ہے۔
+> 속보로 지진 소식이 전해졌다. | News of the earthquake came as breaking news. | زلزلے کی خبر فوری طور پر نشر ہوئی۔
+> 휴대폰으로 속보 알림을 받았다. | I got a breaking news alert on my phone. | فون پر تازہ خبر کی اطلاع آئی۔
++ 특종 | 特種 | teukjong | noun | scoop, exclusive (news) | خاص خبر | Media & Technology | 3 |
+> 그 기자는 특종을 터뜨렸다. | That reporter broke a scoop. | اس صحافی نے خاص خبر بریک کی۔
+> 특종을 잡기 위해 밤새 기다렸다. | They waited all night to get the scoop. | خاص خبر کے لیے رات بھر انتظار کیا۔
+> 이 기사는 단독 특종이다. | This article is an exclusive scoop. | یہ ایک خصوصی خبر ہے۔
++ 보도 | 報道 | bodo | noun | report, news coverage | خبر، رپورٹنگ | Media & Technology | 3 | 보도 자료 = press release.
+> 언론 보도에 따르면 사고 원인은 과속이다. | According to media reports, the cause was speeding. | میڈیا رپورٹس کے مطابق حادثے کی وجہ تیز رفتاری تھی۔
+> 정부는 보도 자료를 배포했다. | The government distributed a press release. | حکومت نے پریس ریلیز جاری کی۔
+> 편파 보도에 대한 비판이 있다. | There is criticism of biased coverage. | جانبدار رپورٹنگ پر تنقید ہے۔
++ 논평 | 論評 | nonpyeong | noun | commentary, comment | تبصرہ | Media & Technology | 3 |
+> 정당은 공식 논평을 냈다. | The party issued an official comment. | جماعت نے سرکاری تبصرہ جاری کیا۔
+> 전문가 논평이 이어졌다. | Expert commentary followed. | ماہرین کے تبصرے آتے رہے۔
+> 논평을 거부했다. | They declined to comment. | انہوں نے تبصرے سے انکار کیا۔
++ 사설 | 社說 | saseol | noun | editorial | اداریہ | Media & Technology | 3 |
+> 오늘 신문 사설을 읽어 보세요. | Read today's newspaper editorial. | آج کے اخبار کا اداریہ پڑھیں۔
+> 사설은 신문사의 입장을 보여 준다. | Editorials show the newspaper's position. | اداریہ اخبار کا مؤقف ظاہر کرتا ہے۔
+> 그 사설은 정부를 비판했다. | That editorial criticized the government. | اس اداریے نے حکومت پر تنقید کی۔
++ 여론 몰이 | 輿論- | yeoron mori | noun | manipulating public opinion | رائے عامہ کو ہموار کرنا | Media & Technology | 3 |
+> 언론의 여론 몰이를 경계해야 한다. | We must beware of the media steering public opinion. | میڈیا کے ذریعے رائے ہموار کرنے سے ہوشیار رہنا چاہیے۔
+> 여론 몰이로 피해를 본 사람이 있다. | Some people were harmed by opinion campaigns. | رائے عامہ بنانے کی مہم سے کچھ لوگوں کو نقصان ہوا۔
+> 그것은 명백한 여론 몰이다. | That's clear manipulation of opinion. | یہ واضح طور پر رائے ہموار کرنا ہے۔
++ 가짜 뉴스 |  | gajja nyuseu | noun | fake news | جعلی خبر | Media & Technology | 3 |
+> 가짜 뉴스가 SNS로 빠르게 퍼진다. | Fake news spreads fast on social media. | جعلی خبریں سوشل میڈیا پر تیزی سے پھیلتی ہیں۔
+> 가짜 뉴스를 구별하는 능력이 필요하다. | We need the ability to spot fake news. | جعلی خبروں کو پہچاننے کی صلاحیت ضروری ہے۔
+> 그 소문은 가짜 뉴스로 밝혀졌다. | The rumor turned out to be fake news. | وہ افواہ جعلی خبر نکلی۔
++ 사실 확인 | 事實確認 | sasil hwagin | noun | fact-checking | حقائق کی جانچ | Media & Technology | 3 |
+> 기사를 쓰기 전에 사실 확인을 해야 한다. | Facts must be checked before writing an article. | خبر لکھنے سے پہلے حقائق کی جانچ ضروری ہے۔
+> 사실 확인 결과 그 주장은 틀렸다. | Fact-checking showed the claim was wrong. | جانچ سے پتا چلا کہ دعویٰ غلط تھا۔
+> 사실 확인 없이 퍼뜨리지 마세요. | Don't spread it without checking the facts. | حقائق جانچے بغیر نہ پھیلائیں۔
++ 언론사 | 言論社 | eollonsa | noun | media company, news outlet | میڈیا ادارہ | Media & Technology | 3 |
+> 여러 언론사가 그 사건을 보도했다. | Several news outlets reported the incident. | کئی میڈیا اداروں نے واقعے کی خبر دی۔
+> 그는 언론사에 입사했다. | He joined a news company. | وہ ایک میڈیا ادارے میں بھرتی ہوا۔
+> 언론사마다 관점이 다르다. | Each outlet has a different perspective. | ہر میڈیا ادارے کا نقطۂ نظر مختلف ہے۔
++ 취재하다 | 取材- | chwijaehada | verb | to cover, to gather news | خبر اکٹھی کرنا | Media & Technology | 3 |
+> 기자들이 현장을 취재했다. | Reporters covered the scene. | صحافیوں نے موقع سے خبر اکٹھی کی۔
+> 취재 요청을 거절했다. | They turned down the interview request. | انہوں نے کوریج کی درخواست مسترد کی۔
+> 해외 취재를 다녀왔다. | They went on an overseas reporting trip. | وہ بیرون ملک رپورٹنگ کر کے آئے۔
++ 발표하다 | 發表- | balpyohada | verb | to announce, to present | اعلان کرنا، پیش کرنا | Media & Technology | 3 |
+> 정부는 새로운 정책을 발표했다. | The government announced a new policy. | حکومت نے نئی پالیسی کا اعلان کیا۔
+> 연구 결과를 학회에서 발표했다. | They presented the research at a conference. | تحقیق کانفرنس میں پیش کی گئی۔
+> 합격자 명단이 발표되었다. | The list of successful candidates was announced. | کامیاب امیدواروں کی فہرست جاری ہوئی۔
++ 기자 회견 | 記者會見 | gija hoegyeon | noun | press conference | پریس کانفرنس | Media & Technology | 3 |
+> 감독이 경기 후 기자 회견을 했다. | The coach held a press conference after the game. | کوچ نے میچ کے بعد پریس کانفرنس کی۔
+> 기자 회견에서 사과했다. | They apologized at a press conference. | پریس کانفرنس میں معافی مانگی۔
+> 내일 기자 회견이 열린다. | A press conference will be held tomorrow. | کل پریس کانفرنس ہوگی۔
++ 성명 | 聲明 | seongmyeong | noun | statement (official) | بیان | Media & Technology | 3 | 성명 (姓名) also = full name.
+> 단체는 반대 성명을 발표했다. | The group issued a statement of opposition. | تنظیم نے مخالفت کا بیان جاری کیا۔
+> 공식 성명을 통해 입장을 밝혔다. | They clarified their position through an official statement. | سرکاری بیان کے ذریعے مؤقف واضح کیا۔
+> 성명서에 서명했다. | They signed the statement. | انہوں نے بیان پر دستخط کیے۔
++ 시청률 | 視聽率 | sicheongnyul | noun | (TV) viewer ratings | ناظرین کی شرح | Media & Technology | 3 |
+> 그 드라마는 시청률이 30%를 넘었다. | That drama's ratings exceeded 30%. | اس ڈرامے کی ریٹنگ تیس فیصد سے بڑھ گئی۔
+> 시청률이 낮아서 프로그램이 끝났다. | The program ended due to low ratings. | کم ریٹنگ کی وجہ سے پروگرام ختم ہو گیا۔
+> 시청률 경쟁이 치열하다. | Competition for ratings is fierce. | ریٹنگ کا مقابلہ سخت ہے۔
++ 조회 수 | 照會數 | johoe su | noun | view count | دیکھے جانے کی تعداد | Media & Technology | 3 |
+> 그 영상은 조회 수가 백만을 넘었다. | That video passed a million views. | اس ویڈیو کو دس لاکھ سے زیادہ بار دیکھا گیا۔
+> 조회 수를 늘리려고 제목을 바꿨다. | They changed the title to boost views. | ویوز بڑھانے کے لیے عنوان بدلا۔
+> 조회 수보다 내용이 중요하다. | Content matters more than view counts. | ویوز سے زیادہ مواد اہم ہے۔
++ 유포하다 | 流布- | yupohada | verb | to circulate, to spread (information) | پھیلانا | Media & Technology | 3 |
+> 허위 사실을 유포하면 처벌받는다. | Spreading falsehoods is punishable. | جھوٹی باتیں پھیلانے پر سزا ہے۔
+> 개인 정보가 인터넷에 유포되었다. | Personal information was spread online. | ذاتی معلومات انٹرنیٹ پر پھیل گئیں۔
+> 소문을 유포한 사람을 찾고 있다. | They're looking for whoever spread the rumor. | افواہ پھیلانے والے کی تلاش جاری ہے۔
++ 악성 댓글 | 惡性- | akseong daetgeul | noun | malicious comment | بدنیتی پر مبنی تبصرہ | Media & Technology | 3 | Short: 악플.
+> 악성 댓글 때문에 상처를 받았다. | I was hurt by malicious comments. | برے تبصروں سے دل دکھا۔
+> 악성 댓글을 단 사람이 처벌받았다. | The person who posted malicious comments was punished. | برے تبصرے لکھنے والے کو سزا ملی۔
+> 악성 댓글 문제가 심각하다. | The problem of malicious comments is serious. | بدنیتی والے تبصروں کا مسئلہ سنگین ہے۔
++ 사생활 | 私生活 | sasaenghwal | noun | private life, privacy | نجی زندگی | Media & Technology | 3 |
+> 연예인도 사생활을 보호받아야 한다. | Celebrities' privacy must also be protected. | فنکاروں کی نجی زندگی کا بھی تحفظ ہونا چاہیے۔
+> 남의 사생활에 간섭하지 마세요. | Don't interfere in others' private lives. | دوسروں کی نجی زندگی میں دخل نہ دیں۔
+> 사생활 침해 문제가 제기되었다. | Privacy invasion concerns were raised. | نجی زندگی میں مداخلت کا معاملہ اٹھا۔
++ 저작권 | 著作權 | jeojakgwon | noun | copyright | حقِ اشاعت | Media & Technology | 3 |
+> 저작권을 침해하면 안 된다. | Copyright must not be infringed. | کاپی رائٹ کی خلاف ورزی نہیں کرنی چاہیے۔
+> 이 음악은 저작권이 있다. | This music is copyrighted. | اس موسیقی کا کاپی رائٹ ہے۔
+> 저작권 보호 기간은 70년이다. | Copyright protection lasts 70 years. | کاپی رائٹ کی مدت ستر سال ہے۔
++ 매체 | 媒體 | maeche | noun | medium, media | ذریعہ، میڈیا | Media & Technology | 3 | 대중 매체 = mass media.
+> 대중 매체는 사회에 큰 영향을 준다. | Mass media greatly influences society. | ذرائع ابلاغ معاشرے پر گہرا اثر ڈالتے ہیں۔
+> 여러 매체를 통해 홍보했다. | They promoted it through various media. | مختلف ذرائع سے تشہیر کی۔
+> 종이 매체의 영향력이 줄었다. | The influence of print media has declined. | پرنٹ میڈیا کا اثر کم ہو گیا ہے۔
++ 홍보 | 弘報 | hongbo | noun | publicity, promotion | تشہیر | Media & Technology | 3 | 홍보하다.
+> 새 제품을 SNS로 홍보했다. | They promoted the new product on social media. | نئی پروڈکٹ کی سوشل میڈیا پر تشہیر کی۔
+> 홍보 대사로 위촉되었다. | They were appointed as a publicity ambassador. | انہیں تشہیری سفیر مقرر کیا گیا۔
+> 홍보가 부족해서 사람이 적었다. | Few came due to poor publicity. | تشہیر کم ہونے سے لوگ کم آئے۔
++ 파문 | 波紋 | pamun | noun | repercussions, stir, ripples | ہلچل | Media & Technology | 3 |
+> 그 발언이 큰 파문을 일으켰다. | That remark caused a big stir. | اس بیان نے بڑی ہلچل مچا دی۔
+> 파문이 확산되고 있다. | The repercussions are spreading. | ہلچل پھیل رہی ہے۔
+> 호수에 돌을 던지니 파문이 생겼다. | Throwing a stone made ripples in the lake. | جھیل میں پتھر پھینکنے سے لہریں اٹھیں۔
++ 의혹 | 疑惑 | uihok | noun | suspicion, allegation | شبہ، الزام | Media & Technology | 3 |
+> 비리 의혹이 제기되었다. | Corruption allegations were raised. | بدعنوانی کے الزامات لگے۔
+> 그는 모든 의혹을 부인했다. | He denied all the allegations. | اس نے تمام الزامات کی تردید کی۔
+> 의혹이 풀리지 않았다. | The suspicions were not cleared. | شبہات دور نہیں ہوئے۔
++ 부인하다 | 否認- | buinhada | verb | to deny | انکار کرنا، تردید کرنا | Media & Technology | 3 |
+> 그는 혐의를 부인했다. | He denied the charges. | اس نے الزامات سے انکار کیا۔
+> 사실을 부인할 수 없다. | The facts can't be denied. | حقیقت سے انکار نہیں کیا جا سکتا۔
+> 회사는 보도 내용을 부인했다. | The company denied the report. | کمپنی نے خبر کی تردید کی۔
++ 시인하다 | 是認- | siinhada | verb | to admit, to acknowledge | تسلیم کرنا | Media & Technology | 3 |
+> 그는 결국 잘못을 시인했다. | He finally admitted his wrongdoing. | آخرکار اس نے غلطی تسلیم کی۔
+> 책임을 시인하고 사과했다. | They acknowledged responsibility and apologized. | ذمہ داری قبول کر کے معافی مانگی۔
+> 거짓말이었다고 시인했다. | They admitted it was a lie. | انہوں نے تسلیم کیا کہ یہ جھوٹ تھا۔
++ 혐의 | 嫌疑 | hyeomui | noun | suspicion, charge (of a crime) | الزام | Society & Culture | 3 |
+> 그는 사기 혐의로 체포되었다. | He was arrested on fraud charges. | اسے دھوکہ دہی کے الزام میں گرفتار کیا گیا۔
+> 혐의가 인정되었다. | The charges were upheld. | الزامات ثابت ہوئے۔
+> 혐의를 벗었다. | They were cleared of suspicion. | وہ الزام سے بری ہو گئے۔
++ 체포 | 逮捕 | chepo | noun | arrest | گرفتاری | Society & Culture | 3 | 체포하다 / 체포되다.
+> 경찰이 범인을 체포했다. | The police arrested the culprit. | پولیس نے مجرم کو گرفتار کیا۔
+> 체포 영장이 발부되었다. | An arrest warrant was issued. | گرفتاری کا وارنٹ جاری ہوا۔
+> 용의자가 현장에서 체포되었다. | The suspect was arrested at the scene. | ملزم موقع پر گرفتار ہوا۔
++ 용의자 | 容疑者 | yonguija | noun | suspect | ملزم، مشتبہ | Society & Culture | 3 |
+> 경찰은 용의자를 추적하고 있다. | Police are tracking the suspect. | پولیس ملزم کا پیچھا کر رہی ہے۔
+> 용의자의 얼굴이 공개되었다. | The suspect's face was made public. | ملزم کا چہرہ ظاہر کیا گیا۔
+> 그는 유력한 용의자이다. | He's a prime suspect. | وہ مرکزی مشتبہ ہے۔
++ 피해자 | 被害者 | pihaeja | noun | victim | متاثرہ شخص | Society & Culture | 3 | 가해자 = perpetrator.
+> 피해자에게 보상해야 한다. | The victims must be compensated. | متاثرین کو معاوضہ دینا چاہیے۔
+> 가해자는 피해자에게 사과했다. | The perpetrator apologized to the victim. | ملزم نے متاثرہ سے معافی مانگی۔
+> 피해자들의 목소리를 들어야 한다. | We must listen to the victims. | متاثرین کی بات سننی چاہیے۔
++ 목격자 | 目擊者 | mokgyeokja | noun | witness, eyewitness | عینی شاہد | Society & Culture | 3 | 목격하다 = to witness.
+> 경찰은 목격자를 찾고 있다. | Police are looking for witnesses. | پولیس عینی شاہدوں کی تلاش میں ہے۔
+> 목격자의 진술이 중요하다. | The witness's statement is important. | عینی شاہد کا بیان اہم ہے۔
+> 사고를 목격한 사람이 신고했다. | Someone who witnessed the accident reported it. | حادثہ دیکھنے والے نے اطلاع دی۔
++ 진술 | 陳述 | jinsul | noun | statement, testimony | بیان | Society & Culture | 3 | 진술하다.
+> 그의 진술이 엇갈렸다. | His statements were inconsistent. | اس کے بیانات میں تضاد تھا۔
+> 경찰에 사실대로 진술했다. | I told the police the truth. | میں نے پولیس کو سچ بتایا۔
+> 진술을 번복했다. | They retracted their statement. | انہوں نے بیان بدل دیا۔
++ 수사 | 搜査 | susa | noun | (criminal) investigation | تفتیش | Society & Culture | 3 | 수사하다.
+> 경찰이 수사에 착수했다. | Police launched an investigation. | پولیس نے تفتیش شروع کی۔
+> 수사 결과가 발표되었다. | The investigation results were announced. | تفتیش کے نتائج جاری ہوئے۔
+> 수사가 진행 중이다. | The investigation is under way. | تفتیش جاری ہے۔
++ 기소 | 起訴 | giso | noun | indictment, prosecution | فردِ جرم | Society & Culture | 3 |
+> 검찰은 그를 기소했다. | The prosecution indicted him. | استغاثہ نے اس پر فردِ جرم عائد کی۔
+> 그는 뇌물 혐의로 기소되었다. | He was indicted on bribery charges. | اس پر رشوت کا مقدمہ قائم ہوا۔
+> 증거 부족으로 기소되지 않았다. | They weren't indicted for lack of evidence. | ثبوت نہ ہونے سے مقدمہ قائم نہ ہوا۔
++ 선고 | 宣告 | seongo | noun | sentence (court), pronouncement | سزا سنانا | Society & Culture | 3 |
+> 법원은 징역 5년을 선고했다. | The court sentenced them to five years in prison. | عدالت نے پانچ سال قید کی سزا سنائی۔
+> 판사가 무죄를 선고했다. | The judge pronounced them not guilty. | جج نے بے گناہ قرار دیا۔
+> 선고 공판이 다음 주에 열린다. | The sentencing hearing is next week. | سزا کی سماعت اگلے ہفتے ہوگی۔
++ 무죄 | 無罪 | mujoe | noun | innocence, not guilty | بے گناہی | Society & Culture | 3 | 유죄 = guilty.
+> 그는 무죄를 주장했다. | He claimed innocence. | اس نے اپنی بے گناہی کا دعویٰ کیا۔
+> 새로운 증거로 그의 무죄가 밝혀졌다. | New evidence proved his innocence. | نئے ثبوت سے اس کی بے گناہی ثابت ہوئی۔
+> 무죄 판결을 받았다. | They were acquitted. | انہیں بری کر دیا گیا۔
++ 재난 | 災難 | jaenan | noun | disaster, calamity | آفت | Society & Culture | 3 | 재난 문자 = emergency alert text.
+> 재난 문자가 왔다. | An emergency alert text came. | ہنگامی پیغام آیا۔
+> 재난에 대비한 훈련을 했다. | We did disaster preparedness training. | آفات سے بچاؤ کی مشق کی۔
+> 재난 지역에 구호품을 보냈다. | Relief goods were sent to the disaster area. | متاثرہ علاقے میں امدادی سامان بھیجا۔
++ 구조 | 救助 | gujo | noun | rescue | بچاؤ | Society & Culture | 3 | 구조 (構造) = structure.
+> 구조대가 사람들을 구조했다. | The rescue team rescued people. | امدادی ٹیم نے لوگوں کو بچایا۔
+> 구조 요청을 보냈다. | They sent a rescue request. | مدد کی درخواست بھیجی۔
+> 건물의 구조가 튼튼하다. | The building's structure is sturdy. | عمارت کا ڈھانچہ مضبوط ہے۔
++ 실종 | 失踪 | siljong | noun | disappearance, going missing | لاپتہ ہونا | Society & Culture | 3 | 실종되다; 실종자 = missing person.
+> 등산객이 산에서 실종되었다. | A hiker went missing in the mountains. | ایک کوہ پیما پہاڑوں میں لاپتہ ہو گیا۔
+> 실종자를 찾기 위해 수색했다. | They searched for the missing person. | لاپتہ شخص کی تلاش کی گئی۔
+> 실종 신고를 했다. | They reported someone missing. | گمشدگی کی رپورٹ درج کرائی۔
++ 사망 | 死亡 | samang | noun | death | موت | Society & Culture | 3 | 사망자 = the dead; 부상자 = the injured.
+> 사고로 두 명이 사망했다. | Two people died in the accident. | حادثے میں دو افراد ہلاک ہوئے۔
+> 사망자와 부상자가 많았다. | There were many dead and injured. | ہلاکتیں اور زخمی بہت تھے۔
+> 사망 원인을 조사하고 있다. | They're investigating the cause of death. | موت کی وجہ کی تحقیقات ہو رہی ہیں۔
++ 부상 | 負傷 | busang | noun | injury, wound | چوٹ، زخم | Society & Culture | 3 | 부상 (浮上) = rise, emerge.
+> 그는 경기 중 부상을 입었다. | He was injured during the game. | وہ میچ کے دوران زخمی ہوا۔
+> 부상자들이 병원으로 옮겨졌다. | The injured were taken to the hospital. | زخمیوں کو ہسپتال منتقل کیا گیا۔
+> 부상에서 회복했다. | They recovered from the injury. | وہ چوٹ سے صحت یاب ہو گئے۔
++ 경보 | 警報 | gyeongbo | noun | alarm, warning, alert | انتباہ، الارم | Society & Culture | 3 | 주의보 = advisory (lower level).
+> 태풍 경보가 발령되었다. | A typhoon warning was issued. | طوفان کا انتباہ جاری ہوا۔
+> 화재 경보가 울렸다. | The fire alarm went off. | آگ کا الارم بجا۔
+> 폭염 경보가 일주일째 이어지고 있다. | The heat wave warning has continued for a week. | شدید گرمی کا انتباہ ایک ہفتے سے جاری ہے۔
++ 대피하다 | 待避- | daepihada | verb | to evacuate, to take shelter | پناہ لینا، نکل جانا | Society & Culture | 3 |
+> 주민들이 안전한 곳으로 대피했다. | Residents evacuated to a safe place. | مکین محفوظ مقام پر منتقل ہوئے۔
+> 화재가 나면 계단으로 대피하세요. | In a fire, evacuate by the stairs. | آگ لگے تو سیڑھیوں سے نکلیں۔
+> 대피 훈련에 참여했다. | We took part in an evacuation drill. | انخلا کی مشق میں حصہ لیا۔
++ 복구하다 | 復舊- | bokguhada | verb | to restore, to recover (from damage) | بحال کرنا | Society & Culture | 3 |
+> 홍수 피해를 복구하고 있다. | They're restoring the flood damage. | سیلاب کے نقصانات کی بحالی جاری ہے۔
+> 데이터를 복구했다. | The data was recovered. | ڈیٹا بحال کر لیا گیا۔
+> 복구 작업에 자원봉사자들이 참여했다. | Volunteers joined the recovery work. | رضاکاروں نے بحالی کے کام میں حصہ لیا۔
++ 구호 | 救護 | guho | noun | relief (aid) | امداد | Society & Culture | 3 | 구호 (口號) = slogan.
+> 구호 물품을 보냈다. | We sent relief supplies. | امدادی سامان بھیجا۔
+> 국제 구호 단체가 도착했다. | International relief groups arrived. | بین الاقوامی امدادی تنظیمیں پہنچیں۔
+> 시위대가 구호를 외쳤다. | The protesters chanted slogans. | مظاہرین نے نعرے لگائے۔
++ 성금 | 誠金 | seonggeum | noun | donation (money for a cause) | عطیات کی رقم | Society & Culture | 3 |
+> 이재민을 돕기 위한 성금이 모였다. | Donations were collected to help displaced people. | بے گھر افراد کی مدد کے لیے عطیات جمع ہوئے۔
+> 성금을 기부했다. | I donated money. | میں نے عطیہ دیا۔
+> 전국에서 성금이 답지했다. | Donations poured in from across the country. | ملک بھر سے عطیات آئے۔
++ 이재민 | 罹災民 | ijaemin | noun | disaster victims, displaced people | آفت زدگان | Society & Culture | 3 |
+> 이재민들이 대피소에 머물고 있다. | Displaced people are staying in shelters. | متاثرین پناہ گاہوں میں مقیم ہیں۔
+> 이재민을 위한 지원이 필요하다. | Support for the victims is needed. | آفت زدگان کی مدد ضروری ہے۔
+> 홍수로 수천 명의 이재민이 발생했다. | The flood displaced thousands. | سیلاب سے ہزاروں افراد بے گھر ہو گئے۔
++ 집회 | 集會 | jiphoe | noun | rally, assembly | جلسہ | Society & Culture | 3 |
+> 광장에서 대규모 집회가 열렸다. | A large rally was held in the square. | چوک میں ایک بڑا جلسہ ہوا۔
+> 집회의 자유는 헌법으로 보장된다. | Freedom of assembly is constitutionally guaranteed. | جلسے کی آزادی آئین میں محفوظ ہے۔
+> 평화로운 집회였다. | It was a peaceful rally. | یہ ایک پرامن جلسہ تھا۔
++ 충돌 | 衝突 | chungdol | noun | collision, clash | ٹکراؤ، تصادم | Society & Culture | 3 | 충돌하다.
+> 두 차가 충돌했다. | Two cars collided. | دو گاڑیاں آپس میں ٹکرا گئیں۔
+> 경찰과 시위대가 충돌했다. | Police and protesters clashed. | پولیس اور مظاہرین میں تصادم ہوا۔
+> 의견 충돌이 잦다. | Clashes of opinion are frequent. | آراء کا ٹکراؤ اکثر ہوتا ہے۔
++ 진압 | 鎭壓 | jinap | noun | suppression, putting down; extinguishing | قابو پانا، دبانا | Society & Culture | 3 |
+> 화재가 두 시간 만에 진압되었다. | The fire was put out in two hours. | آگ پر دو گھنٹے میں قابو پا لیا گیا۔
+> 시위를 강제로 진압했다. | The protest was forcibly suppressed. | احتجاج کو زبردستی دبایا گیا۔
+> 진압 과정에서 부상자가 나왔다. | People were injured during the crackdown. | کارروائی کے دوران لوگ زخمی ہوئے۔
++ 일파만파 | 一波萬波 | ilpamanpa | four-character idiom | snowballing (spreading in ripples) | پھیلتا ہی جانا | Idioms & Expressions | 3 |
+> 그 사건은 일파만파로 커졌다. | The incident snowballed. | وہ واقعہ پھیلتا ہی چلا گیا۔
+> 소문이 일파만파 퍼졌다. | The rumor spread like wildfire. | افواہ تیزی سے پھیل گئی۔
+> 논란이 일파만파 확산되고 있다. | The controversy is snowballing. | تنازع بڑھتا ہی جا رہا ہے۔
++ 진상 | 眞相 | jinsang | noun | the truth, the real facts | اصل حقیقت | Society & Culture | 3 | 진상 규명 = finding out the truth.
+> 사건의 진상을 밝혀야 한다. | The truth of the case must be revealed. | واقعے کی اصل حقیقت سامنے لانی چاہیے۔
+> 유족들은 진상 규명을 요구했다. | Bereaved families demanded the truth be uncovered. | لواحقین نے حقیقت سامنے لانے کا مطالبہ کیا۔
+> 진상이 드러났다. | The truth came out. | اصل بات کھل گئی۔
