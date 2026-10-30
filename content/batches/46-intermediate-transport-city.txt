@@ -1,0 +1,185 @@
+# Intermediate: transport, roads, city life
++ 교통카드 | 交通- | gyotongkadeu | noun | transit card | ٹرانسپورٹ کارڈ | Travel & Transportation | 2 | T-money is a common brand.
+> 교통카드를 찍고 탔어요. | I tapped my transit card and got on. | کارڈ لگا کر سوار ہوا۔
+> 교통카드 잔액이 부족해요. | My transit card balance is low. | کارڈ میں رقم کم ہے۔
+> 편의점에서 교통카드를 충전했어요. | I topped up my transit card at the convenience store. | کنویننس اسٹور سے کارڈ ریچارج کیا۔
++ 노선 | 路線 | noseon | noun | route, line | روٹ، لائن | Travel & Transportation | 2 | 노선도 = route map.
+> 이 버스 노선이 바뀌었어요. | This bus route has changed. | اس بس کا روٹ بدل گیا۔
+> 지하철 노선도를 보세요. | Look at the subway map. | میٹرو کا نقشہ دیکھیں۔
+> 새 노선이 개통됐어요. | A new line opened. | نئی لائن شروع ہوئی۔
++ 호선 | 號線 | hoseon | noun | (subway) line number | میٹرو لائن نمبر | Travel & Transportation | 2 |
+> 2호선을 타고 강남에 가요. | I take Line 2 to Gangnam. | میں لائن دو سے گانگنام جاتا ہوں۔
+> 몇 호선으로 갈아타야 해요? | Which line should I transfer to? | کس لائن پر بدلنا ہے؟
+> 3호선은 주황색이에요. | Line 3 is orange. | لائن تین نارنجی رنگ کی ہے۔
++ 출구 | 出口 | chulgu | noun | exit | باہر جانے کا راستہ | Travel & Transportation | 2 | 입구 = entrance.
+> 3번 출구로 나오세요. | Come out of exit 3. | تین نمبر راستے سے باہر آئیں۔
+> 출구를 못 찾겠어요. | I can't find the exit. | باہر نکلنے کا راستہ نہیں مل رہا۔
+> 비상 출구는 저쪽에 있어요. | The emergency exit is over there. | ہنگامی راستہ اُدھر ہے۔
++ 입구 | 入口 | ipgu | noun | entrance | داخلی راستہ | Travel & Transportation | 2 |
+> 공원 입구에서 만나요. | Let's meet at the park entrance. | پارک کے داخلی دروازے پر ملتے ہیں۔
+> 입구에서 표를 보여 주세요. | Show your ticket at the entrance. | داخلی دروازے پر ٹکٹ دکھائیں۔
+> 입구가 너무 좁아요. | The entrance is too narrow. | داخلی راستہ بہت تنگ ہے۔
++ 승강장 | 乘降場 | seunggangjang | noun | platform (station) | پلیٹ فارم | Travel & Transportation | 2 |
+> 승강장에서 기다려 주세요. | Please wait on the platform. | پلیٹ فارم پر انتظار کریں۔
+> 승강장과 열차 사이가 넓으니 조심하세요. | Mind the gap between the platform and the train. | پلیٹ فارم اور ٹرین کے درمیان فاصلے کا خیال رکھیں۔
+> 승강장에 사람이 많아요. | The platform is crowded. | پلیٹ فارم پر رش ہے۔
++ 좌석 | 座席 | jwaseok | noun | seat | نشست | Travel & Transportation | 2 | 노약자석 = priority seat.
+> 창가 좌석으로 주세요. | A window seat, please. | کھڑکی والی نشست دیں۔
+> 좌석이 다 찼어요. | All the seats are taken. | تمام نشستیں بھر گئیں۔
+> 좌석 번호를 확인하고 앉으세요. | Check your seat number before sitting. | اپنی نشست کا نمبر دیکھ کر بیٹھیں۔
++ 운행 | 運行 | unhaeng | noun | (vehicle) operation, service | سروس، چلنا | Travel & Transportation | 2 | 운행하다.
+> 지하철은 밤 12시까지 운행해요. | The subway runs until midnight. | میٹرو رات بارہ بجے تک چلتی ہے۔
+> 폭설로 버스 운행이 중단됐어요. | Bus service stopped due to heavy snow. | برف باری سے بس سروس بند ہو گئی۔
+> 주말에는 운행 시간이 달라요. | Service hours differ on weekends. | ہفتے کے آخر میں اوقات مختلف ہیں۔
++ 요금 | 料金 | yogeum | noun | fare, fee, charge | کرایہ، فیس | Travel & Transportation | 2 |
+> 버스 요금이 올랐어요. | Bus fares went up. | بس کا کرایہ بڑھ گیا۔
+> 택시 요금은 카드로 내도 돼요. | You can pay the taxi fare by card. | ٹیکسی کا کرایہ کارڈ سے دے سکتے ہیں۔
+> 전기 요금이 많이 나왔어요. | The electricity bill came out high. | بجلی کا بل زیادہ آیا۔
++ 고속버스 | 高速- | gosokbeoseu | noun | express bus | ایکسپریس بس | Travel & Transportation | 2 | 터미널 = bus terminal.
+> 고속버스를 타고 부산에 갔어요. | I took an express bus to Busan. | میں ایکسپریس بس سے بوسان گیا۔
+> 고속버스 터미널이 어디예요? | Where is the express bus terminal? | ایکسپریس بس ٹرمینل کہاں ہے؟
+> 고속버스가 기차보다 싸요. | The express bus is cheaper than the train. | ایکسپریس بس ٹرین سے سستی ہے۔
++ 고속도로 | 高速道路 | gosokdoro | noun | expressway, highway | موٹروے | Travel & Transportation | 2 |
+> 고속도로가 막혀요. | The expressway is jammed. | موٹروے پر ٹریفک ہے۔
+> 고속도로 휴게소에서 쉬었어요. | We rested at an expressway rest stop. | موٹروے کے آرام گاہ پر رکے۔
+> 고속도로에서는 속도를 지키세요. | Observe the speed limit on the expressway. | موٹروے پر رفتار کی حد کا خیال رکھیں۔
++ 휴게소 | 休憩所 | hyugeso | noun | rest area | آرام گاہ | Travel & Transportation | 2 |
+> 휴게소에서 호두과자를 샀어요. | I bought walnut cakes at the rest stop. | آرام گاہ سے اخروٹ کیک خریدا۔
+> 다음 휴게소에서 쉬어 가요. | Let's take a break at the next rest area. | اگلی آرام گاہ پر رکتے ہیں۔
+> 휴게소 음식이 맛있어요. | Rest stop food is tasty. | آرام گاہ کا کھانا مزے دار ہے۔
++ 속도 | 速度 | sokdo | noun | speed | رفتار | Travel & Transportation | 2 |
+> 속도를 줄이세요. | Slow down. | رفتار کم کریں۔
+> 인터넷 속도가 빨라요. | The internet speed is fast. | انٹرنیٹ کی رفتار تیز ہے۔
+> 속도위반으로 벌금을 냈어요. | I paid a speeding fine. | تیز رفتاری کا جرمانہ دیا۔
++ 과속 | 過速 | gwasok | noun | speeding | تیز رفتاری | Travel & Transportation | 2 |
+> 과속하면 사고가 나기 쉬워요. | Speeding easily causes accidents. | تیز رفتاری سے حادثہ آسانی سے ہوتا ہے۔
+> 과속 카메라에 찍혔어요. | I was caught by a speed camera. | اسپیڈ کیمرے میں آ گیا۔
+> 학교 앞에서는 절대 과속하지 마세요. | Never speed in front of schools. | اسکول کے سامنے کبھی تیز نہ چلائیں۔
++ 음주 운전 | 飮酒運轉 | eumju unjeon | noun | drunk driving | نشے میں گاڑی چلانا | Travel & Transportation | 2 |
+> 음주 운전은 범죄예요. | Drunk driving is a crime. | نشے میں گاڑی چلانا جرم ہے۔
+> 음주 운전 단속을 하고 있어요. | They're cracking down on drunk driving. | نشے میں ڈرائیونگ کی چیکنگ ہو رہی ہے۔
+> 음주 운전 사고가 줄었어요. | Drunk-driving accidents decreased. | نشے میں ڈرائیونگ کے حادثات کم ہوئے۔
++ 교통사고 | 交通事故 | gyotongsago | noun | traffic accident | ٹریفک حادثہ | Travel & Transportation | 2 |
+> 교통사고가 나서 길이 막혀요. | There was a traffic accident, so the road is jammed. | حادثے کی وجہ سے سڑک بند ہے۔
+> 교통사고로 다리를 다쳤어요. | I hurt my leg in a traffic accident. | ٹریفک حادثے میں ٹانگ زخمی ہوئی۔
+> 교통사고를 줄이기 위한 캠페인이에요. | It's a campaign to reduce traffic accidents. | یہ ٹریفک حادثات کم کرنے کی مہم ہے۔
++ 보행자 | 步行者 | bohaengja | noun | pedestrian | پیدل چلنے والا | Travel & Transportation | 2 |
+> 운전자는 보행자를 보호해야 해요. | Drivers must protect pedestrians. | ڈرائیوروں کو پیدل چلنے والوں کا خیال رکھنا چاہیے۔
+> 보행자 신호가 켜졌어요. | The pedestrian signal turned on. | پیدل چلنے کا سگنل جل گیا۔
+> 이 길은 보행자 전용이에요. | This road is for pedestrians only. | یہ راستہ صرف پیدل چلنے والوں کے لیے ہے۔
++ 인도 | 人道 | indo | noun | sidewalk | فٹ پاتھ | Travel & Transportation | 2 | 차도 = roadway. 인도 (印度) = India.
+> 인도로 걸으세요. | Walk on the sidewalk. | فٹ پاتھ پر چلیں۔
+> 인도에 자전거가 많아요. | There are many bikes on the sidewalk. | فٹ پاتھ پر بہت سائیکلیں ہیں۔
+> 인도가 좁아서 불편해요. | The sidewalk is narrow and inconvenient. | فٹ پاتھ تنگ ہے، مشکل ہوتی ہے۔
++ 지하도 | 地下道 | jihado | noun | underpass | زیرِ زمین راستہ | Travel & Transportation | 2 | 육교 = pedestrian overpass.
+> 지하도로 길을 건너세요. | Cross the street through the underpass. | زیرِ زمین راستے سے سڑک پار کریں۔
+> 지하도에 상가가 있어요. | There are shops in the underpass. | زیرِ زمین راستے میں دکانیں ہیں۔
+> 지하도 계단이 많아서 힘들어요. | The underpass has many stairs, so it's tiring. | زیرِ زمین راستے میں بہت سیڑھیاں ہیں، تھکن ہوتی ہے۔
++ 골목 |  | golmok | noun | alley, side street | گلی | Places & Directions | 2 |
+> 이 골목에 맛집이 많아요. | This alley has many good restaurants. | اس گلی میں بہت اچھے ریستوران ہیں۔
+> 좁은 골목을 지나갔어요. | I went through a narrow alley. | میں ایک تنگ گلی سے گزرا۔
+> 밤에 어두운 골목은 위험해요. | Dark alleys are dangerous at night. | رات کو اندھیری گلیاں خطرناک ہیں۔
++ 번화가 | 繁華街 | beonhwaga | noun | busy downtown street | بارونق بازار | Places & Directions | 2 |
+> 명동은 서울의 번화가예요. | Myeongdong is a busy district in Seoul. | میونگ دونگ سیول کا بارونق علاقہ ہے۔
+> 번화가에는 밤에도 사람이 많아요. | Downtown is crowded even at night. | بارونق علاقے میں رات کو بھی رش ہوتا ہے۔
+> 번화가에서 조금 떨어진 곳에 살아요. | I live a little away from downtown. | میں بارونق علاقے سے تھوڑا دور رہتا ہوں۔
++ 시내 | 市內 | sinae | noun | downtown, city center | شہر کا مرکز | Places & Directions | 2 |
+> 주말에 시내에 나갔어요. | I went downtown on the weekend. | ہفتے کے آخر میں شہر گیا۔
+> 시내까지 버스로 20분 걸려요. | It's 20 minutes by bus to downtown. | شہر تک بس سے بیس منٹ لگتے ہیں۔
+> 시내는 주차하기 어려워요. | It's hard to park downtown. | شہر میں گاڑی کھڑی کرنا مشکل ہے۔
++ 교외 | 郊外 | gyooe | noun | suburbs, outskirts | مضافات | Places & Directions | 2 |
+> 교외로 드라이브를 갔어요. | We went for a drive to the outskirts. | ہم مضافات کی طرف گاڑی میں گئے۔
+> 교외에 집을 샀어요. | I bought a house in the suburbs. | مضافات میں گھر خریدا۔
+> 교외는 공기가 맑아요. | The air is clean in the suburbs. | مضافات میں ہوا صاف ہے۔
++ 랜드마크 |  | raendeumakeu | noun | landmark | نمایاں عمارت | Places & Directions | 2 |
+> 롯데타워는 서울의 랜드마크예요. | Lotte Tower is a Seoul landmark. | لوٹے ٹاور سیول کی نمایاں عمارت ہے۔
+> 이 다리는 도시의 랜드마크가 됐어요. | This bridge became the city's landmark. | یہ پل شہر کی پہچان بن گیا۔
+> 랜드마크 앞에서 사진을 찍었어요. | We took photos in front of the landmark. | ہم نے نمایاں عمارت کے سامنے تصویریں لیں۔
++ 길을 잃다 |  | gireul ilta | expression | to get lost | راستہ بھولنا | Travel & Transportation | 2 |
+> 처음 와서 길을 잃었어요. | It was my first time here and I got lost. | پہلی بار آیا تھا، راستہ بھول گیا۔
+> 길을 잃으면 지도 앱을 쓰세요. | If you get lost, use a map app. | راستہ بھول جائیں تو نقشے کی ایپ استعمال کریں۔
+> 아이가 시장에서 길을 잃었어요. | The child got lost at the market. | بچہ بازار میں کھو گیا۔
++ 길을 묻다 |  | gireul mutda | expression | to ask for directions | راستہ پوچھنا | Travel & Transportation | 2 |
+> 경찰에게 길을 물었어요. | I asked a police officer for directions. | پولیس والے سے راستہ پوچھا۔
+> 외국인이 저에게 길을 물었어요. | A foreigner asked me for directions. | ایک غیر ملکی نے مجھ سے راستہ پوچھا۔
+> 길을 물어볼 사람이 없었어요. | There was no one to ask for directions. | راستہ پوچھنے کے لیے کوئی نہیں تھا۔
++ 내비게이션 |  | naebigeisyeon | noun | GPS navigation | نیویگیشن | Travel & Transportation | 2 |
+> 내비게이션을 켜고 운전했어요. | I drove with the navigation on. | نیویگیشن چلا کر گاڑی چلائی۔
+> 내비게이션이 잘못 안내했어요. | The navigation gave wrong directions. | نیویگیشن نے غلط راستہ بتایا۔
+> 내비게이션 없이는 운전을 못 해요. | I can't drive without navigation. | نیویگیشن کے بغیر گاڑی نہیں چلا سکتا۔
++ 우회전 | 右回轉 | uhoejeon | noun | right turn | دائیں مڑنا | Travel & Transportation | 2 | 좌회전 = left turn; 직진 = going straight.
+> 사거리에서 우회전하세요. | Turn right at the intersection. | چوراہے سے دائیں مڑیں۔
+> 우회전할 때 보행자를 조심하세요. | Watch for pedestrians when turning right. | دائیں مڑتے وقت پیدل چلنے والوں کا خیال رکھیں۔
+> 직진하다가 우회전하면 돼요. | Go straight and then turn right. | سیدھا جا کر دائیں مڑ جائیں۔
++ 유턴 |  | yuteon | noun | U-turn | یو ٹرن | Travel & Transportation | 2 |
+> 다음 신호에서 유턴하세요. | Make a U-turn at the next light. | اگلے سگنل پر یو ٹرن لیں۔
+> 여기는 유턴 금지예요. | No U-turns here. | یہاں یو ٹرن منع ہے۔
+> 길을 잘못 들어서 유턴했어요. | I took a wrong turn and made a U-turn. | غلط راستے پر گیا تو یو ٹرن لیا۔
++ 주유소 | 注油所 | juyuso | noun | gas station | پیٹرول پمپ | Travel & Transportation | 2 |
+> 주유소에서 기름을 넣었어요. | I got gas at the gas station. | پیٹرول پمپ سے پیٹرول ڈلوایا۔
+> 근처에 주유소가 있어요? | Is there a gas station nearby? | قریب کوئی پیٹرول پمپ ہے؟
+> 주유소 기름값이 올랐어요. | Gas prices went up. | پیٹرول کی قیمت بڑھ گئی۔
++ 렌터카 |  | renteoka | noun | rental car | کرائے کی گاڑی | Travel & Transportation | 2 |
+> 제주도에서 렌터카를 빌렸어요. | I rented a car on Jeju Island. | جیجو میں کرائے کی گاڑی لی۔
+> 렌터카를 예약했어요. | I reserved a rental car. | کرائے کی گاڑی بک کی۔
+> 렌터카 보험에 가입하세요. | Get rental car insurance. | کرائے کی گاڑی کا بیمہ لیں۔
++ 대리운전 | 代理運轉 | daeriunjeon | noun | designated driver service | متبادل ڈرائیور سروس | Travel & Transportation | 2 |
+> 술을 마셔서 대리운전을 불렀어요. | I'd been drinking, so I called a designated driver. | شراب پینے کی وجہ سے ڈرائیور بلایا۔
+> 대리운전은 한국에서 흔해요. | Designated driving services are common in Korea. | کوریا میں یہ سروس عام ہے۔
+> 대리운전 기사님이 오셨어요. | The designated driver arrived. | متبادل ڈرائیور آ گیا۔
++ 첫차 | -車 | cheotcha | noun | first bus/train (of the day) | پہلی بس/ٹرین | Travel & Transportation | 2 | 막차 = last.
+> 첫차를 타려고 일찍 일어났어요. | I got up early to catch the first train. | پہلی ٹرین پکڑنے کے لیے جلدی اٹھا۔
+> 첫차는 새벽 5시 반에 있어요. | The first bus is at 5:30 a.m. | پہلی بس صبح ساڑھے پانچ بجے ہے۔
+> 막차를 놓쳐서 첫차를 기다렸어요. | I missed the last train and waited for the first. | آخری ٹرین چھوٹی تو پہلی ٹرین کا انتظار کیا۔
++ 지하철역 | 地下鐵驛 | jihacheollyeok | noun | subway station | میٹرو اسٹیشن | Travel & Transportation | 2 |
+> 가장 가까운 지하철역이 어디예요? | Where's the nearest subway station? | قریب ترین میٹرو اسٹیشن کہاں ہے؟
+> 지하철역 앞에서 만나요. | Let's meet in front of the subway station. | میٹرو اسٹیشن کے سامنے ملتے ہیں۔
+> 집에서 지하철역까지 걸어서 5분이에요. | It's a five-minute walk from home to the station. | گھر سے میٹرو اسٹیشن پانچ منٹ پیدل ہے۔
++ 출퇴근 | 出退勤 | chultoegeun | noun | commuting (to and from work) | دفتر آنا جانا | Work & Employment | 2 |
+> 출퇴근 시간에는 지하철이 붐벼요. | The subway is crowded at commuting hours. | دفتری اوقات میں میٹرو میں رش ہوتا ہے۔
+> 출퇴근에 두 시간이 걸려요. | My commute takes two hours. | آنے جانے میں دو گھنٹے لگتے ہیں۔
+> 자전거로 출퇴근해요. | I commute by bicycle. | میں سائیکل سے دفتر آتا جاتا ہوں۔
++ 공공 자전거 | 公共- | gonggong jajeongeo | noun | public bike (share) | عوامی سائیکل | Travel & Transportation | 2 | Seoul's is called 따릉이.
+> 공공 자전거를 빌려서 한강에 갔어요. | I rented a public bike and went to the Han River. | عوامی سائیکل لے کر دریائے ہان گیا۔
+> 공공 자전거는 앱으로 빌려요. | You rent public bikes with an app. | عوامی سائیکل ایپ سے کرائے پر ملتی ہے۔
+> 공공 자전거 이용자가 늘었어요. | Public bike users have increased. | عوامی سائیکل استعمال کرنے والے بڑھ گئے۔
++ 킥보드 |  | kikbodeu | noun | (electric) kick scooter | اسکوٹر | Travel & Transportation | 2 |
+> 전동 킥보드는 헬멧을 써야 해요. | You must wear a helmet on an e-scooter. | الیکٹرک اسکوٹر پر ہیلمٹ ضروری ہے۔
+> 인도에서 킥보드를 타면 위험해요. | Riding a scooter on the sidewalk is dangerous. | فٹ پاتھ پر اسکوٹر چلانا خطرناک ہے۔
+> 킥보드를 빌려서 탔어요. | I rented a scooter and rode it. | اسکوٹر کرائے پر لے کر چلایا۔
++ 헬멧 |  | helmet | noun | helmet | ہیلمٹ | Travel & Transportation | 2 |
+> 오토바이를 탈 때 헬멧을 쓰세요. | Wear a helmet on a motorcycle. | موٹر سائیکل پر ہیلمٹ پہنیں۔
+> 헬멧 덕분에 크게 다치지 않았어요. | Thanks to the helmet, I wasn't badly hurt. | ہیلمٹ کی وجہ سے زیادہ چوٹ نہیں لگی۔
+> 아이에게 헬멧을 씌웠어요. | I put a helmet on the child. | بچے کو ہیلمٹ پہنایا۔
++ 오토바이 |  | otobai | noun | motorcycle | موٹر سائیکل | Travel & Transportation | 2 |
+> 배달 오토바이가 많아요. | There are many delivery motorcycles. | ڈیلیوری والی موٹر سائیکلیں بہت ہیں۔
+> 파키스탄에서는 오토바이를 많이 타요. | Many people ride motorcycles in Pakistan. | پاکستان میں لوگ زیادہ تر موٹر سائیکل چلاتے ہیں۔
+> 오토바이 면허를 땄어요. | I got a motorcycle license. | موٹر سائیکل کا لائسنس لیا۔
++ 짐칸 |  | jimkan | noun | luggage compartment, trunk | سامان کی جگہ | Travel & Transportation | 2 | 트렁크 = car trunk.
+> 짐은 버스 짐칸에 넣으세요. | Put your luggage in the bus's luggage compartment. | سامان بس کی سامان والی جگہ میں رکھیں۔
+> 트렁크에 짐을 실었어요. | I loaded the bags into the trunk. | ڈگی میں سامان رکھا۔
+> 짐칸이 꽉 찼어요. | The luggage compartment is full. | سامان کی جگہ بھر گئی۔
++ 수하물 | 手荷物 | suhamul | noun | (checked) baggage | سامان (سفر) | Travel & Transportation | 2 |
+> 수하물을 부쳤어요. | I checked my baggage. | میں نے سامان جمع کرایا۔
+> 수하물 무게는 23킬로까지예요. | Baggage weight is up to 23 kilos. | سامان کا وزن تئیس کلو تک ہے۔
+> 수하물 찾는 곳이 어디예요? | Where is baggage claim? | سامان لینے کی جگہ کہاں ہے؟
++ 탑승권 | 搭乘券 | tapseunggwon | noun | boarding pass | بورڈنگ پاس | Travel & Transportation | 2 |
+> 탑승권과 여권을 보여 주세요. | Show your boarding pass and passport. | بورڈنگ پاس اور پاسپورٹ دکھائیں۔
+> 모바일 탑승권을 받았어요. | I got a mobile boarding pass. | موبائل بورڈنگ پاس ملا۔
+> 탑승권을 잃어버리면 안 돼요. | Don't lose your boarding pass. | بورڈنگ پاس گم نہ کریں۔
++ 이륙하다 | 離陸- | iryukhada | verb | to take off (plane) | اڑان بھرنا | Travel & Transportation | 2 | 착륙하다 = to land.
+> 비행기가 곧 이륙합니다. | The plane will take off soon. | جہاز جلد اڑان بھرے گا۔
+> 이륙할 때 귀가 아팠어요. | My ears hurt during takeoff. | اڑان کے وقت کان میں درد ہوا۔
+> 날씨 때문에 비행기가 이륙하지 못했어요. | The plane couldn't take off because of the weather. | موسم کی وجہ سے جہاز اڑان نہ بھر سکا۔
++ 시차 | 時差 | sicha | noun | time difference; jet lag | وقت کا فرق | Travel & Transportation | 2 | 시차 적응 = getting over jet lag.
+> 한국과 파키스탄은 시차가 네 시간이에요. | The time difference between Korea and Pakistan is four hours. | کوریا اور پاکستان کے وقت میں چار گھنٹے کا فرق ہے۔
+> 시차 때문에 잠을 못 잤어요. | I couldn't sleep because of jet lag. | وقت کے فرق کی وجہ سے نیند نہیں آئی۔
+> 시차 적응하는 데 사흘 걸렸어요. | It took three days to adjust to the time difference. | وقت کے فرق سے مانوس ہونے میں تین دن لگے۔
++ 왕복표 | 往復票 | wangbokpyo | noun | round-trip ticket | آنے جانے کا ٹکٹ | Travel & Transportation | 2 |
+> 왕복표가 편도표보다 싸요. | A round-trip ticket is cheaper than one-way. | آنے جانے کا ٹکٹ ایک طرف کے ٹکٹ سے سستا ہے۔
+> 부산 왕복표 두 장 주세요. | Two round-trip tickets to Busan, please. | بوسان کے دو آنے جانے کے ٹکٹ دیں۔
+> 왕복표를 미리 샀어요. | I bought a round-trip ticket in advance. | آنے جانے کا ٹکٹ پہلے سے خریدا۔
++ 매표소 | 賣票所 | maepyoso | noun | ticket office | ٹکٹ گھر | Travel & Transportation | 2 |
+> 매표소에서 표를 샀어요. | I bought a ticket at the ticket office. | ٹکٹ گھر سے ٹکٹ خریدا۔
+> 매표소 앞에 줄이 길어요. | The line at the ticket office is long. | ٹکٹ گھر کے سامنے لمبی قطار ہے۔
+> 매표소는 8시에 문을 열어요. | The ticket office opens at 8. | ٹکٹ گھر آٹھ بجے کھلتا ہے۔
