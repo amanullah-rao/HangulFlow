@@ -1,0 +1,197 @@
+# Intermediate: school and work (2)
++ 교과서 | 敎科書 | gyogwaseo | noun | textbook (school) | نصابی کتاب | Education & University | 2 |
+> 교과서를 집에 두고 왔어요. | I left my textbook at home. | میں نصابی کتاب گھر بھول آیا۔
+> 시험 문제는 교과서에서 나와요. | The exam questions come from the textbook. | امتحان کے سوال نصابی کتاب سے آتے ہیں۔
+> 새 학기 교과서를 받았어요. | I received the new semester's textbooks. | نئے سمسٹر کی نصابی کتابیں ملیں۔
++ 과목 | 科目 | gwamok | noun | subject (school) | مضمون | Education & University | 2 |
+> 제일 좋아하는 과목이 뭐예요? | What's your favorite subject? | آپ کا پسندیدہ مضمون کون سا ہے؟
+> 이번 학기에 다섯 과목을 들어요. | I'm taking five subjects this semester. | اس سمسٹر میں پانچ مضامین پڑھ رہا ہوں۔
+> 수학은 어려운 과목이에요. | Math is a difficult subject. | ریاضی مشکل مضمون ہے۔
++ 시간표 | 時間表 | siganpyo | noun | timetable, schedule | ٹائم ٹیبل | Education & University | 2 |
+> 새 시간표가 나왔어요. | The new timetable is out. | نیا ٹائم ٹیبل آ گیا۔
+> 버스 시간표를 확인했어요. | I checked the bus timetable. | میں نے بس کا ٹائم ٹیبل دیکھا۔
+> 시간표를 짜는 게 어려워요. | Making a timetable is hard. | ٹائم ٹیبل بنانا مشکل ہے۔
++ 중간고사 | 中間考査 | junggangosa | noun | midterm exam | وسط مدتی امتحان | Education & University | 2 | 기말고사 = final exam.
+> 다음 주에 중간고사가 있어요. | Midterms are next week. | اگلے ہفتے وسط مدتی امتحان ہیں۔
+> 중간고사 성적이 잘 나왔어요. | I got good midterm grades. | وسط مدتی امتحان کے نمبر اچھے آئے۔
+> 중간고사 준비로 도서관에 사람이 많아요. | The library is crowded with midterm prep. | وسط مدتی امتحان کی تیاری کی وجہ سے لائبریری میں رش ہے۔
++ 학점 | 學點 | hakjeom | noun | credit; grade point | کریڈٹ؛ گریڈ | Education & University | 2 |
+> 졸업하려면 130학점이 필요해요. | You need 130 credits to graduate. | فراغت کے لیے ایک سو تیس کریڈٹ چاہئیں۔
+> 이번 학기 학점이 좋아요. | My grades this semester are good. | اس سمسٹر کے گریڈ اچھے ہیں۔
+> 이 수업은 3학점이에요. | This class is three credits. | یہ کلاس تین کریڈٹ کی ہے۔
++ 휴강 | 休講 | hyugang | noun | class cancellation | کلاس کی چھٹی | Education & University | 2 | 보강 = make-up class.
+> 오늘 수업은 휴강이에요. | Today's class is canceled. | آج کی کلاس نہیں ہوگی۔
+> 휴강 공지를 못 봤어요. | I didn't see the cancellation notice. | کلاس منسوخی کا اعلان نہیں دیکھا۔
+> 휴강한 수업은 다음 주에 보강해요. | The canceled class will be made up next week. | منسوخ کلاس اگلے ہفتے پوری کی جائے گی۔
++ 결석 | 缺席 | gyeolseok | noun | absence | غیر حاضری | Education & University | 2 | 결석하다; 지각 = lateness.
+> 아파서 학교에 결석했어요. | I was sick and absent from school. | بیمار تھا، اس لیے اسکول نہیں گیا۔
+> 결석이 많으면 성적이 떨어져요. | Too many absences lower your grade. | زیادہ غیر حاضری سے نمبر کم ہوتے ہیں۔
+> 결석 사유를 말씀해 주세요. | Please tell me the reason for the absence. | غیر حاضری کی وجہ بتائیں۔
++ 지각 | 遲刻 | jigak | noun | being late, tardiness | دیر سے آنا | Education & University | 2 | 지각하다.
+> 늦잠을 자서 지각했어요. | I overslept and was late. | دیر تک سونے سے لیٹ ہو گیا۔
+> 지각하지 않도록 일찍 나가요. | I leave early so I'm not late. | دیر نہ ہو، اس لیے جلدی نکلتا ہوں۔
+> 세 번 지각하면 결석 한 번이에요. | Three latenesses count as one absence. | تین بار دیر ایک غیر حاضری کے برابر ہے۔
++ 필기하다 | 筆記- | pilgihada | verb | to take notes | نوٹس لینا | Education & University | 2 | 필기시험 = written exam.
+> 수업 시간에 열심히 필기했어요. | I took notes diligently in class. | کلاس میں محنت سے نوٹس لیے۔
+> 필기한 노트를 빌려줄래요? | Will you lend me your notes? | اپنے نوٹس دیں گے؟
+> 운전면허 필기시험에 합격했어요. | I passed the written driving test. | ڈرائیونگ کا تحریری امتحان پاس کیا۔
++ 예습하다 | 豫習- | yeseupada | verb | to prepare (study before class) | پہلے سے پڑھنا | Education & University | 2 | Opposite: 복습하다.
+> 수업 전에 예습하면 이해가 잘돼요. | Previewing before class helps understanding. | کلاس سے پہلے پڑھ لیں تو سمجھ اچھی آتی ہے۔
+> 내일 배울 내용을 예습했어요. | I previewed tomorrow's lesson. | کل کا سبق پہلے پڑھ لیا۔
+> 예습과 복습이 모두 중요해요. | Both preview and review are important. | پیشگی مطالعہ اور دہرائی دونوں اہم ہیں۔
++ 학생증 | 學生證 | haksaengjeung | noun | student ID card | طالب علم کا کارڈ | Education & University | 2 |
+> 학생증이 있으면 할인돼요. | You get a discount with a student ID. | اسٹوڈنٹ کارڈ پر رعایت ملتی ہے۔
+> 학생증을 잃어버렸어요. | I lost my student ID. | میرا اسٹوڈنٹ کارڈ گم ہو گیا۔
+> 도서관에 들어갈 때 학생증이 필요해요. | You need a student ID to enter the library. | لائبریری میں داخلے کے لیے کارڈ ضروری ہے۔
++ 담임 | 擔任 | damim | noun | homeroom teacher | کلاس ٹیچر | Education & University | 2 |
+> 담임 선생님이 정말 좋으세요. | My homeroom teacher is really nice. | ہماری کلاس ٹیچر بہت اچھی ہیں۔
+> 담임 선생님과 상담했어요. | I talked with my homeroom teacher. | میں نے کلاس ٹیچر سے مشورہ کیا۔
+> 올해 담임은 수학 선생님이에요. | This year's homeroom teacher teaches math. | اس سال کے کلاس ٹیچر ریاضی پڑھاتے ہیں۔
++ 진로 | 進路 | jillo | noun | career path, future course | مستقبل کا راستہ | Education & University | 2 |
+> 진로 때문에 고민이 많아요. | I'm worried about my career path. | مستقبل کے راستے کی فکر ہے۔
+> 진로 상담을 받았어요. | I got career counseling. | کیریئر کا مشورہ لیا۔
+> 진로를 결정하기 어려워요. | It's hard to decide my future path. | مستقبل کا فیصلہ مشکل ہے۔
++ 적성 | 適性 | jeokseong | noun | aptitude | رجحان، صلاحیت | Education & University | 2 |
+> 이 일은 제 적성에 맞아요. | This work suits my aptitude. | یہ کام میری صلاحیت کے مطابق ہے۔
+> 적성 검사를 받아 봤어요. | I took an aptitude test. | میں نے رجحان کا ٹیسٹ دیا۔
+> 적성을 고려해서 전공을 정하세요. | Choose a major considering your aptitude. | اپنی صلاحیت دیکھ کر مضمون چنیں۔
++ 자격증 | 資格證 | jagyeokjeung | noun | certificate, license (qualification) | سرٹیفکیٹ | Work & Employment | 2 |
+> 컴퓨터 자격증을 땄어요. | I got a computer certificate. | میں نے کمپیوٹر کا سرٹیفکیٹ حاصل کیا۔
+> 취업하려면 자격증이 필요해요. | You need certificates to get a job. | نوکری کے لیے سرٹیفکیٹ ضروری ہیں۔
+> 요리사 자격증 시험을 준비해요. | I'm preparing for the chef certification exam. | باورچی کے سرٹیفکیٹ کے امتحان کی تیاری کر رہا ہوں۔
++ 인턴 |  | inteon | noun | intern, internship | انٹرن | Work & Employment | 2 |
+> 여름 방학에 인턴을 했어요. | I did an internship over summer vacation. | گرمیوں کی چھٹیوں میں انٹرن شپ کی۔
+> 인턴 경험이 취업에 도움이 돼요. | Internship experience helps with getting hired. | انٹرن شپ کا تجربہ نوکری میں مدد دیتا ہے۔
+> 그는 인턴으로 들어와서 정직원이 됐어요. | He joined as an intern and became a full employee. | وہ انٹرن بن کر آیا اور مستقل ملازم بن گیا۔
++ 연수 | 硏修 | yeonsu | noun | training course, study program | تربیتی کورس | Work & Employment | 2 | 어학연수 = language study abroad.
+> 어학연수로 한국에 왔어요. | I came to Korea for a language program. | میں زبان سیکھنے کے پروگرام پر کوریا آیا۔
+> 신입 사원 연수가 일주일 동안 있어요. | New hire training lasts a week. | نئے ملازمین کی تربیت ایک ہفتہ ہے۔
+> 해외 연수 기회가 있어요. | There's an opportunity for overseas training. | بیرون ملک تربیت کا موقع ہے۔
++ 연차 | 年次 | yeoncha | noun | annual leave; years of service | سالانہ چھٹی | Work & Employment | 2 | 연차를 쓰다 = take annual leave.
+> 금요일에 연차를 쓸 거예요. | I'll take annual leave on Friday. | جمعہ کو سالانہ چھٹی لوں گا۔
+> 올해 연차가 열흘 남았어요. | I have ten days of annual leave left. | اس سال دس دن کی چھٹی باقی ہے۔
+> 연차를 내고 가족 여행을 갔어요. | I took annual leave and went on a family trip. | سالانہ چھٹی لے کر گھر والوں کے ساتھ سیر کو گیا۔
++ 육아 휴직 | 育兒休職 | yuga hyujik | noun | parental leave | بچوں کی دیکھ بھال کی چھٹی | Work & Employment | 2 |
+> 아내가 육아 휴직 중이에요. | My wife is on parental leave. | میری بیوی بچے کی دیکھ بھال کی چھٹی پر ہے۔
+> 아빠들도 육아 휴직을 많이 해요. | Many dads also take parental leave. | بہت سے والد بھی یہ چھٹی لیتے ہیں۔
+> 육아 휴직 후에 회사에 복귀했어요. | I returned to work after parental leave. | چھٹی کے بعد کام پر واپس آیا۔
++ 수당 | 手當 | sudang | noun | allowance, extra pay | الاؤنس | Work & Employment | 2 | 야근 수당 = overtime pay.
+> 야근하면 수당을 받아요. | You get extra pay for overtime. | زیادہ دیر کام کرنے پر الاؤنس ملتا ہے۔
+> 교통 수당이 나와요. | There's a transport allowance. | ٹرانسپورٹ الاؤنس ملتا ہے۔
+> 수당이 월급에 포함돼요. | The allowance is included in the salary. | الاؤنس تنخواہ میں شامل ہے۔
++ 보너스 |  | boneoseu | noun | bonus | بونس | Work & Employment | 2 | Also 상여금.
+> 연말에 보너스를 받았어요. | I got a bonus at year-end. | سال کے آخر میں بونس ملا۔
+> 보너스로 부모님께 선물을 드렸어요. | I gave my parents a gift with my bonus. | بونس سے والدین کو تحفہ دیا۔
+> 올해는 보너스가 없대요. | They say there's no bonus this year. | سنا ہے اس سال بونس نہیں ملے گا۔
++ 회의록 | 會議錄 | hoeuirok | noun | minutes (of a meeting) | میٹنگ کی کارروائی | Work & Employment | 2 |
+> 회의록을 작성해서 보냈어요. | I wrote and sent the meeting minutes. | میں نے میٹنگ کی کارروائی لکھ کر بھیجی۔
+> 지난 회의록을 확인하세요. | Check the minutes of the last meeting. | پچھلی میٹنگ کی کارروائی دیکھیں۔
+> 회의록 담당은 저예요. | I'm in charge of the minutes. | کارروائی لکھنا میری ذمہ داری ہے۔
++ 기획 | 企劃 | gihoek | noun | planning (project) | منصوبہ بندی | Work & Employment | 2 | 기획서 = proposal.
+> 새로운 행사를 기획하고 있어요. | I'm planning a new event. | میں ایک نئی تقریب کی منصوبہ بندی کر رہا ہوں۔
+> 기획서를 내일까지 내야 해요. | I have to submit the proposal by tomorrow. | کل تک منصوبہ جمع کرانا ہے۔
+> 그는 기획 부서에서 일해요. | He works in the planning department. | وہ منصوبہ بندی کے شعبے میں کام کرتا ہے۔
++ 제안 | 提案 | jean | noun | proposal, suggestion | تجویز | Work & Employment | 2 | 제안하다.
+> 좋은 제안이 있으면 말해 주세요. | If you have a good suggestion, tell me. | کوئی اچھی تجویز ہو تو بتائیں۔
+> 그의 제안이 받아들여졌어요. | His proposal was accepted. | اس کی تجویز قبول کر لی گئی۔
+> 다른 회사에서 일자리 제안을 받았어요. | I got a job offer from another company. | دوسری کمپنی سے نوکری کی پیشکش آئی۔
++ 결재 | 決裁 | gyeoljae | noun | approval (from a superior) | منظوری (افسر کی) | Work & Employment | 2 | Different from 결제 (payment).
+> 부장님의 결재가 필요해요. | The manager's approval is needed. | منیجر کی منظوری ضروری ہے۔
+> 서류를 결재받았어요. | I got the document approved. | دستاویز کی منظوری مل گئی۔
+> 결재가 늦어서 일이 지연됐어요. | The work was delayed because approval was slow. | منظوری میں دیر سے کام رک گیا۔
++ 보고하다 | 報告- | bogohada | verb | to report | رپورٹ دینا | Work & Employment | 2 |
+> 결과를 팀장님께 보고했어요. | I reported the results to the team leader. | نتائج ٹیم لیڈر کو بتائے۔
+> 문제가 생기면 바로 보고하세요. | Report immediately if a problem arises. | مسئلہ ہو تو فوراً اطلاع دیں۔
+> 매주 금요일에 업무를 보고해요. | We report on work every Friday. | ہر جمعہ کام کی رپورٹ دیتے ہیں۔
++ 지시하다 | 指示- | jisihada | verb | to instruct, to direct | ہدایت دینا | Work & Employment | 2 |
+> 사장님이 새 업무를 지시하셨어요. | The boss instructed us on a new task. | مالک نے نیا کام کرنے کی ہدایت دی۔
+> 지시받은 대로 했어요. | I did as instructed. | ہدایت کے مطابق کیا۔
+> 안전 수칙을 지시에 따라 지키세요. | Follow the safety rules as directed. | ہدایات کے مطابق حفاظتی اصولوں پر عمل کریں۔
++ 동기 | 同期 | donggi | noun | peer (same entry year); (動機) motive | ہم جماعت/ہم عصر؛ مقصد | Work & Employment | 2 |
+> 입사 동기들과 친하게 지내요. | I'm close with the people who joined the company with me. | ساتھ بھرتی ہونے والوں سے دوستی ہے۔
+> 대학 동기를 오랜만에 만났어요. | I met a university classmate after a long time. | بہت دنوں بعد یونیورسٹی کے ساتھی سے ملا۔
+> 범행 동기를 조사하고 있어요. | They're investigating the motive for the crime. | جرم کے مقصد کی تحقیقات ہو رہی ہیں۔
++ 부하 직원 | 部下職員 | buha jigwon | noun | subordinate | ماتحت ملازم | Work & Employment | 2 |
+> 그는 부하 직원을 잘 챙겨요. | He takes good care of his subordinates. | وہ اپنے ماتحتوں کا خیال رکھتا ہے۔
+> 부하 직원에게 일을 맡겼어요. | I delegated work to a subordinate. | ماتحت کو کام سونپا۔
+> 좋은 상사는 부하 직원의 말을 들어요. | A good boss listens to subordinates. | اچھا افسر ماتحتوں کی بات سنتا ہے۔
++ 명함 | 名銜 | myeongham | noun | business card | وزیٹنگ کارڈ | Work & Employment | 2 |
+> 명함 한 장 주시겠어요? | Could I have your business card? | کیا مجھے اپنا کارڈ دیں گے؟
+> 새 명함이 나왔어요. | My new business cards came out. | میرے نئے کارڈ آ گئے۔
+> 한국에서는 명함을 두 손으로 받아요. | In Korea, you receive business cards with both hands. | کوریا میں کارڈ دونوں ہاتھوں سے لیتے ہیں۔
++ 사내 | 社內 | sanae | noun | in-house, within the company | کمپنی کے اندر | Work & Employment | 2 |
+> 사내 식당에서 점심을 먹어요. | I eat lunch at the company cafeteria. | کمپنی کی کینٹین میں دوپہر کا کھانا کھاتا ہوں۔
+> 사내 교육 프로그램이 많아요. | There are many in-house training programs. | کمپنی کے اندر بہت سے تربیتی پروگرام ہیں۔
+> 사내 연애는 비밀이에요. | Office romance is a secret. | دفتر میں محبت راز ہے۔
++ 출근길 | 出勤- | chulgeungil | noun | the commute to work | دفتر جانے کا راستہ | Work & Employment | 2 | 퇴근길 = way home from work.
+> 출근길에 커피를 사요. | I buy coffee on my way to work. | دفتر جاتے ہوئے کافی خریدتا ہوں۔
+> 출근길 지하철이 너무 붐벼요. | The morning subway is very crowded. | صبح کی میٹرو میں بہت رش ہوتا ہے۔
+> 눈이 와서 출근길이 미끄러웠어요. | It snowed, so the way to work was slippery. | برف کی وجہ سے دفتر کا راستہ پھسلن والا تھا۔
++ 업무량 | 業務量 | eommuryang | noun | workload | کام کا بوجھ | Work & Employment | 2 |
+> 요즘 업무량이 많아요. | My workload is heavy these days. | آج کل کام کا بوجھ زیادہ ہے۔
+> 업무량을 줄여 달라고 했어요. | I asked to reduce my workload. | کام کم کرنے کی درخواست کی۔
+> 업무량에 비해 월급이 적어요. | The pay is low for the workload. | کام کے مقابلے میں تنخواہ کم ہے۔
++ 협조 | 協助 | hyeopjo | noun | cooperation, assistance | تعاون | Work & Employment | 2 | 협조하다.
+> 여러분의 협조 부탁드립니다. | We ask for your cooperation. | آپ سب کے تعاون کی گزارش ہے۔
+> 다른 부서의 협조가 필요해요. | We need the cooperation of other departments. | دوسرے شعبوں کا تعاون درکار ہے۔
+> 협조해 주셔서 감사합니다. | Thank you for your cooperation. | تعاون کا شکریہ۔
++ 회사 생활 | 會社生活 | hoesa saenghwal | noun | company life, work life | دفتری زندگی | Work & Employment | 2 |
+> 회사 생활에 잘 적응했어요. | I adapted well to working life. | دفتری زندگی سے اچھی طرح مانوس ہو گیا۔
+> 회사 생활은 인간관계가 중요해요. | Relationships matter in company life. | دفتری زندگی میں تعلقات اہم ہیں۔
+> 회사 생활 5년 동안 많이 배웠어요. | I learned a lot in five years of work life. | پانچ سال کی دفتری زندگی میں بہت سیکھا۔
++ 직급 | 職級 | jikgeup | noun | rank, position level | عہدہ | Work & Employment | 2 |
+> 직급이 높을수록 책임도 커요. | The higher the rank, the bigger the responsibility. | عہدہ جتنا بڑا، ذمہ داری اتنی زیادہ۔
+> 이 회사는 직급 대신 이름을 불러요. | At this company, people use names instead of ranks. | اس کمپنی میں عہدے کے بجائے نام سے بلاتے ہیں۔
+> 직급에 따라 월급이 달라요. | Pay differs by rank. | عہدے کے مطابق تنخواہ مختلف ہے۔
++ 노조 | 勞組 | nojo | noun | labor union | مزدور یونین | Work & Employment | 2 | Short for 노동조합.
+> 노조가 회사와 협상하고 있어요. | The union is negotiating with the company. | یونین کمپنی سے مذاکرات کر رہی ہے۔
+> 노조에 가입했어요. | I joined the union. | میں یونین میں شامل ہوا۔
+> 노조가 임금 인상을 요구했어요. | The union demanded a raise. | یونین نے تنخواہ بڑھانے کا مطالبہ کیا۔
++ 계약직 | 契約職 | gyeyakjik | noun | contract position | معاہداتی ملازمت | Work & Employment | 2 | 정규직 = permanent position.
+> 저는 1년 계약직이에요. | I'm on a one-year contract. | میری ایک سال کی معاہداتی ملازمت ہے۔
+> 계약직으로 일하다가 정규직이 됐어요. | I worked on contract and then became permanent. | معاہدے پر کام کرتے کرتے مستقل ہو گیا۔
+> 계약직은 고용이 불안해요. | Contract jobs lack job security. | معاہداتی نوکری غیر محفوظ ہوتی ہے۔
++ 지원자 | 志願者 | jiwonja | noun | applicant | امیدوار | Work & Employment | 2 |
+> 지원자가 백 명이 넘었어요. | There were over a hundred applicants. | سو سے زیادہ امیدوار تھے۔
+> 지원자 중에서 세 명을 뽑았어요. | Three were chosen from the applicants. | امیدواروں میں سے تین کو چنا گیا۔
+> 모든 지원자에게 연락드리겠습니다. | We'll contact all applicants. | ہم تمام امیدواروں سے رابطہ کریں گے۔
++ 면접관 | 面接官 | myeonjeopgwan | noun | interviewer | انٹرویو لینے والا | Work & Employment | 2 |
+> 면접관이 어려운 질문을 했어요. | The interviewer asked a hard question. | انٹرویو لینے والے نے مشکل سوال کیا۔
+> 면접관 앞에서 긴장했어요. | I was nervous in front of the interviewer. | انٹرویو لینے والوں کے سامنے گھبراہٹ ہوئی۔
+> 면접관이 세 명이었어요. | There were three interviewers. | تین افراد انٹرویو لے رہے تھے۔
++ 성적표 | 成績表 | seongjeokpyo | noun | report card, transcript | رزلٹ کارڈ | Education & University | 2 |
+> 성적표를 부모님께 보여 드렸어요. | I showed my report card to my parents. | رزلٹ کارڈ والدین کو دکھایا۔
+> 영문 성적표를 발급받았어요. | I got an English transcript issued. | انگریزی ٹرانسکرپٹ جاری کروایا۔
+> 성적표를 보고 깜짝 놀랐어요. | I was surprised when I saw my report card. | رزلٹ کارڈ دیکھ کر حیران رہ گیا۔
++ 학부모 | 學父母 | hakbumo | noun | parents of students | طالب علموں کے والدین | Education & University | 2 |
+> 학부모 회의가 있어요. | There's a parents' meeting. | والدین کی میٹنگ ہے۔
+> 학부모들이 학교 급식에 관심이 많아요. | Parents are very interested in school meals. | والدین اسکول کے کھانے میں دلچسپی رکھتے ہیں۔
+> 학부모 상담 주간이에요. | It's parent-teacher conference week. | والدین اور اساتذہ کی ملاقات کا ہفتہ ہے۔
++ 급식 | 給食 | geupsik | noun | school meal, catered meal | اسکول کا کھانا | Education & University | 2 |
+> 오늘 급식은 불고기예요. | Today's school lunch is bulgogi. | آج اسکول میں بلگوگی ہے۔
+> 학교 급식이 맛있어요. | The school meals are tasty. | اسکول کا کھانا مزے دار ہے۔
+> 할랄 급식을 요청했어요. | I requested halal school meals. | میں نے حلال کھانے کی درخواست کی۔
++ 교복 | 校服 | gyobok | noun | school uniform | اسکول یونیفارم | Education & University | 2 |
+> 한국 고등학생들은 교복을 입어요. | Korean high schoolers wear uniforms. | کوریائی ہائی اسکول کے طلبہ یونیفارم پہنتے ہیں۔
+> 교복이 작아져서 새로 샀어요. | My uniform got small, so I bought a new one. | یونیفارم چھوٹا ہو گیا تو نیا خریدا۔
+> 교복을 입으니 학생 때가 생각나요. | Wearing a uniform reminds me of school days. | یونیفارم پہن کر اسکول کے دن یاد آتے ہیں۔
++ 칠판 | 漆板 | chilpan | noun | blackboard | تختہ سیاہ | Education & University | 2 |
+> 선생님이 칠판에 썼어요. | The teacher wrote on the blackboard. | استاد نے تختے پر لکھا۔
+> 칠판을 지우는 당번이에요. | I'm on duty to erase the blackboard. | تختہ صاف کرنا میری باری ہے۔
+> 칠판 글씨가 잘 안 보여요. | I can't see the writing on the board well. | تختے کی لکھائی ٹھیک سے نظر نہیں آتی۔
++ 강의실 | 講義室 | ganguisil | noun | lecture room | لیکچر ہال | Education & University | 2 |
+> 강의실이 3층에 있어요. | The lecture room is on the 3rd floor. | لیکچر ہال تیسری منزل پر ہے۔
+> 강의실에 일찍 도착했어요. | I arrived at the lecture room early. | لیکچر ہال جلدی پہنچ گیا۔
+> 강의실이 학생들로 가득 찼어요. | The lecture hall was full of students. | لیکچر ہال طلبہ سے بھرا تھا۔
++ 학과 | 學科 | hakgwa | noun | department (university) | شعبہ | Education & University | 2 |
+> 저는 경영학과 학생이에요. | I'm a business administration student. | میں بزنس ایڈمنسٹریشن کا طالب علم ہوں۔
+> 학과 사무실에 서류를 냈어요. | I submitted documents to the department office. | شعبے کے دفتر میں دستاویزات جمع کرائیں۔
+> 학과 친구들과 MT를 갔어요. | I went on a retreat with department friends. | شعبے کے دوستوں کے ساتھ سیر پر گیا۔
++ 교환 학생 | 交換學生 | gyohwan haksaeng | noun | exchange student | ایکسچینج طالب علم | Education & University | 2 |
+> 교환 학생으로 한국에 왔어요. | I came to Korea as an exchange student. | میں ایکسچینج طالب علم کے طور پر کوریا آیا۔
+> 교환 학생 프로그램에 지원했어요. | I applied to an exchange program. | ایکسچینج پروگرام میں درخواست دی۔
+> 교환 학생 친구를 많이 사귀었어요. | I made many exchange-student friends. | بہت سے ایکسچینج طلبہ سے دوستی ہوئی۔
++ 논술 | 論述 | nonsul | noun | essay writing (argumentative) | مضمون نویسی | Education & University | 2 |
+> 대학 입시에 논술 시험이 있어요. | University entrance includes an essay exam. | یونیورسٹی کے داخلے میں مضمون نویسی کا امتحان ہے۔
+> 논술 학원에 다녀요. | I attend an essay-writing academy. | میں مضمون نویسی کے ادارے میں جاتا ہوں۔
+> 논술에서는 논리가 중요해요. | Logic matters in essay writing. | مضمون نویسی میں منطق اہم ہے۔
