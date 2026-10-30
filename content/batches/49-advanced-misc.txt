@@ -1,0 +1,225 @@
+# Advanced: assorted formal vocabulary
++ 가속화 | 加速化 | gasokhwa | noun | acceleration | تیزی | Academic & Formal | 3 | 가속화되다.
+> 고령화가 가속화되고 있다. | Population aging is accelerating. | بڑھاپے کا عمل تیز ہو رہا ہے۔
+> 기술 발전의 가속화로 일자리가 변했다. | Jobs changed as technological progress accelerated. | ٹیکنالوجی کی تیز ترقی سے روزگار بدل گئے۔
+> 도시화가 가속화되었다. | Urbanization has sped up. | شہری کاری تیز ہو گئی۔
++ 간섭 | 干涉 | ganseop | noun | interference, meddling | مداخلت | Academic & Formal | 3 | 간섭하다.
+> 부모의 지나친 간섭은 아이에게 해롭다. | Excessive parental meddling harms children. | والدین کی حد سے زیادہ مداخلت بچوں کے لیے نقصان دہ ہے۔
+> 남의 일에 간섭하지 마세요. | Don't interfere in others' affairs. | دوسروں کے معاملات میں دخل نہ دیں۔
+> 내정 간섭에 반대한다. | We oppose interference in internal affairs. | ہم اندرونی معاملات میں مداخلت کے خلاف ہیں۔
++ 개척하다 | 開拓- | gaecheokhada | verb | to pioneer, to open up | نئی راہ کھولنا | Academic & Formal | 3 |
+> 새로운 시장을 개척했다. | They opened up a new market. | انہوں نے نئی منڈی تلاش کی۔
+> 자신의 길을 스스로 개척해야 한다. | You must forge your own path. | اپنا راستہ خود بنانا ہوگا۔
+> 그는 이 분야를 개척한 사람이다. | He's a pioneer in this field. | وہ اس شعبے کا بانی ہے۔
++ 거듭하다 |  | geodeuphada | verb | to repeat (again and again) | بار بار کرنا | Academic & Formal | 3 | 거듭 = repeatedly.
+> 실패를 거듭한 끝에 성공했다. | After repeated failures, they succeeded. | بار بار ناکامی کے بعد کامیابی ملی۔
+> 회사는 성장을 거듭하고 있다. | The company keeps on growing. | کمپنی مسلسل ترقی کر رہی ہے۔
+> 거듭 사과드립니다. | I apologize again. | میں ایک بار پھر معذرت کرتا ہوں۔
++ 격려하다 | 激勵- | gyeongnyeohada | verb | to encourage | حوصلہ افزائی کرنا | Emotions & Relationships | 3 | Noun: 격려.
+> 선생님이 학생들을 격려하셨다. | The teacher encouraged the students. | استاد نے طلبہ کا حوصلہ بڑھایا۔
+> 따뜻한 격려에 힘이 났다. | The warm encouragement gave me strength. | حوصلہ افزائی سے ہمت ملی۔
+> 서로 격려하며 시험을 준비했다. | We encouraged each other while preparing for the exam. | ہم نے ایک دوسرے کا حوصلہ بڑھاتے ہوئے تیاری کی۔
++ 공헌 | 貢獻 | gongheon | noun | contribution | خدمات، حصہ | Academic & Formal | 3 | 공헌하다.
+> 그는 과학 발전에 큰 공헌을 했다. | He made a great contribution to science. | اس نے سائنس کی ترقی میں بڑی خدمات انجام دیں۔
+> 사회에 공헌하는 기업이 되고 싶다. | We want to be a company that contributes to society. | ہم معاشرے کی خدمت کرنے والی کمپنی بننا چاہتے ہیں۔
+> 그의 공헌을 기념하는 상이다. | It's an award honoring his contribution. | یہ اس کی خدمات کے اعتراف میں انعام ہے۔
++ 과시하다 | 誇示- | gwasihada | verb | to show off, to display | دکھاوا کرنا | Academic & Formal | 3 |
+> 그는 부를 과시하기를 좋아한다. | He likes to flaunt his wealth. | اسے دولت کا دکھاوا پسند ہے۔
+> 우리 팀은 압도적인 실력을 과시했다. | Our team displayed overwhelming skill. | ہماری ٹیم نے زبردست مہارت دکھائی۔
+> 과시하려는 소비는 줄여야 한다. | Show-off spending should be reduced. | دکھاوے کا خرچ کم کرنا چاہیے۔
++ 구현하다 | 具現- | guhyeonhada | verb | to realize, to embody, to implement | عملی شکل دینا | Academic & Formal | 3 |
+> 정의로운 사회를 구현해야 한다. | We must realize a just society. | ایک منصفانہ معاشرہ قائم کرنا ہوگا۔
+> 새로운 기능을 구현했다. | They implemented a new feature. | نیا فیچر بنایا گیا۔
+> 이 건물은 전통미를 잘 구현했다. | This building embodies traditional beauty well. | یہ عمارت روایتی حسن کی عمدہ عکاس ہے۔
++ 기피하다 | 忌避- | gipihada | verb | to avoid, to shun | گریز کرنا | Academic & Formal | 3 |
+> 젊은이들이 힘든 일을 기피한다. | Young people avoid hard jobs. | نوجوان مشکل کاموں سے گریز کرتے ہیں۔
+> 병역을 기피하면 처벌받는다. | Evading military service is punished. | فوجی خدمت سے بچنے پر سزا ہوتی ہے۔
+> 그 지역은 관광객들이 기피하는 곳이다. | That area is shunned by tourists. | سیاح اس علاقے سے کتراتے ہیں۔
++ 난해하다 | 難解- | nanhaehada | adjective | difficult to understand, abstruse | مشکل فہم | Academic & Formal | 3 |
+> 그 철학책은 너무 난해하다. | That philosophy book is too difficult to understand. | وہ فلسفے کی کتاب بہت مشکل ہے۔
+> 난해한 문제를 풀었다. | They solved an abstruse problem. | ایک پیچیدہ مسئلہ حل کیا۔
+> 현대 미술은 난해하다는 평이 있다. | Modern art is said to be hard to understand. | جدید فن کو مشکل سمجھا جاتا ہے۔
++ 당면하다 | 當面- | dangmyeonhada | verb | to face, to confront (a current problem) | درپیش ہونا | Academic & Formal | 3 | 당면 과제 = pressing task.
+> 우리가 당면한 문제는 인력 부족이다. | The problem we face is a lack of workers. | ہمیں درپیش مسئلہ افرادی قوت کی کمی ہے۔
+> 당면 과제부터 해결합시다. | Let's solve the pressing tasks first. | پہلے فوری مسائل حل کریں۔
+> 경제가 큰 위기에 당면해 있다. | The economy faces a big crisis. | معیشت کو بڑا بحران درپیش ہے۔
++ 도약 | 跳躍 | doyak | noun | leap, jump (forward) | چھلانگ، ترقی | Academic & Formal | 3 | 도약하다.
+> 회사는 세계적 기업으로 도약했다. | The company leapt to become a global firm. | کمپنی عالمی ادارہ بن گئی۔
+> 이번 계약은 새로운 도약의 기회다. | This contract is a chance for a new leap forward. | یہ معاہدہ ترقی کا نیا موقع ہے۔
+> 한 단계 도약하기 위해 노력한다. | We strive to take the next step up. | اگلے درجے تک پہنچنے کی کوشش کر رہے ہیں۔
++ 동요하다 | 動搖- | dongyohada | verb | to be shaken, to waver | ڈگمگانا | Emotions & Relationships | 3 |
+> 갑작스러운 소식에 직원들이 동요했다. | Employees were shaken by the sudden news. | اچانک خبر سے ملازمین پریشان ہو گئے۔
+> 어떤 말에도 동요하지 않았다. | They weren't shaken by anything said. | کسی بات سے متاثر نہیں ہوئے۔
+> 마음이 동요할 때 명상을 한다. | I meditate when my mind wavers. | دل ڈگمگائے تو مراقبہ کرتا ہوں۔
++ 만끽하다 | 滿喫- | mankkikhada | verb | to enjoy fully, to savor | بھرپور لطف اٹھانا | Hobbies & Leisure | 3 |
+> 휴가를 만끽했다. | I fully enjoyed my vacation. | چھٹیوں کا بھرپور لطف اٹھایا۔
+> 가을의 정취를 만끽했다. | We savored the autumn atmosphere. | خزاں کے حسن سے لطف اندوز ہوئے۔
+> 자유를 만끽하고 있다. | I'm enjoying my freedom to the fullest. | آزادی کا بھرپور مزہ لے رہا ہوں۔
++ 매료되다 | 魅了- | maeryodoeda | verb | to be captivated, to be fascinated | مسحور ہونا | Emotions & Relationships | 3 |
+> 한국 문화에 매료되었다. | I was captivated by Korean culture. | میں کوریائی ثقافت سے مسحور ہو گیا۔
+> 관객들은 그녀의 목소리에 매료되었다. | The audience was captivated by her voice. | ناظرین اس کی آواز کے سحر میں آ گئے۔
+> 아름다운 경치에 매료됐다. | I was fascinated by the beautiful scenery. | خوبصورت منظر نے مسحور کر دیا۔
++ 명분 | 名分 | myeongbun | noun | justification, just cause, pretext | جواز | Academic & Formal | 3 |
+> 전쟁에는 어떤 명분도 없다. | There is no justification for war. | جنگ کا کوئی جواز نہیں۔
+> 명분 없는 싸움은 하지 않는다. | I don't fight without a just cause. | بلاجواز لڑائی نہیں کرتا۔
+> 그들은 개혁이라는 명분을 내세웠다. | They used reform as the justification. | انہوں نے اصلاح کو جواز بنایا۔
++ 모순 | 矛盾 | mosun | noun | contradiction | تضاد | Academic & Formal | 3 | 모순되다.
+> 그의 말에는 모순이 있다. | There's a contradiction in what he says. | اس کی بات میں تضاد ہے۔
+> 사회의 모순을 지적했다. | They pointed out society's contradictions. | معاشرے کے تضادات کی نشاندہی کی۔
+> 두 주장은 서로 모순된다. | The two claims contradict each other. | دونوں دعوے ایک دوسرے سے متضاد ہیں۔
++ 몰두하다 | 沒頭- | molduhada | verb | to be absorbed in, to devote oneself to | مگن ہونا | Academic & Formal | 3 |
+> 그는 연구에 몰두하고 있다. | He's absorbed in his research. | وہ اپنی تحقیق میں مگن ہے۔
+> 일에 몰두하다 보니 시간 가는 줄 몰랐다. | Absorbed in work, I lost track of time. | کام میں مگن ہو کر وقت کا پتا نہ چلا۔
+> 취미에 몰두하면 스트레스가 풀린다. | Getting absorbed in a hobby relieves stress. | مشغلے میں مگن ہونے سے دباؤ دور ہوتا ہے۔
++ 무산되다 | 霧散- | musandoeda | verb | to fall through, to come to nothing | ناکام ہو جانا | Academic & Formal | 3 |
+> 계획이 예산 부족으로 무산되었다. | The plan fell through for lack of budget. | بجٹ کی کمی سے منصوبہ ختم ہو گیا۔
+> 협상이 무산될 위기에 처했다. | The negotiations are on the verge of collapse. | مذاکرات ناکامی کے دہانے پر ہیں۔
+> 여행이 태풍 때문에 무산됐다. | The trip was called off due to the typhoon. | طوفان کی وجہ سے سفر منسوخ ہو گیا۔
++ 반향 | 反響 | banhyang | noun | response, repercussion, echo | ردعمل، گونج | Academic & Formal | 3 |
+> 그 영화는 큰 반향을 일으켰다. | That movie made a big impact. | اس فلم نے بڑی ہلچل مچا دی۔
+> 그의 연설은 사회적 반향을 불러왔다. | His speech drew a social response. | اس کی تقریر کا سماجی ردعمل ہوا۔
+> 동굴 안에서 소리가 반향되었다. | The sound echoed in the cave. | غار میں آواز گونجی۔
++ 방대하다 | 厖大- | bangdaehada | adjective | vast, enormous | وسیع | Academic & Formal | 3 |
+> 방대한 양의 자료를 분석했다. | They analyzed a vast amount of data. | بے پناہ معلومات کا تجزیہ کیا۔
+> 이 도서관은 장서가 방대하다. | This library has a vast collection. | اس لائبریری میں کتابوں کا وسیع ذخیرہ ہے۔
+> 방대한 프로젝트를 맡았다. | They took on an enormous project. | ایک بہت بڑا منصوبہ سنبھالا۔
++ 번영 | 繁榮 | beonyeong | noun | prosperity | خوشحالی | Society & Culture | 3 | 번영하다.
+> 나라의 번영을 기원한다. | We wish for the nation's prosperity. | ملک کی خوشحالی کی دعا کرتے ہیں۔
+> 평화와 번영의 시대가 왔다. | An era of peace and prosperity came. | امن اور خوشحالی کا دور آیا۔
+> 무역 덕분에 도시가 번영했다. | The city prospered thanks to trade. | تجارت کی بدولت شہر خوشحال ہوا۔
++ 변모하다 | 變貌- | byeonmohada | verb | to transform, to change in appearance | بدل جانا | Academic & Formal | 3 |
+> 작은 어촌이 관광 도시로 변모했다. | A small fishing village transformed into a tourist city. | ایک چھوٹا ماہی گیر گاؤں سیاحتی شہر بن گیا۔
+> 그는 완전히 다른 사람으로 변모했다. | He transformed into a completely different person. | وہ بالکل مختلف انسان بن گیا۔
+> 도시의 모습이 크게 변모했다. | The city's appearance changed greatly. | شہر کا نقشہ بہت بدل گیا۔
++ 병행하다 | 竝行- | byeonghaenghada | verb | to do (two things) in parallel | ساتھ ساتھ کرنا | Academic & Formal | 3 |
+> 일과 공부를 병행하고 있다. | I'm doing work and study at the same time. | میں کام اور پڑھائی ساتھ ساتھ کر رہا ہوں۔
+> 운동과 식단 관리를 병행해야 한다. | Exercise and diet management must go together. | ورزش اور غذا کا خیال ساتھ رکھنا چاہیے۔
+> 두 가지 일을 병행하기 힘들다. | It's hard to do two jobs at once. | دو کام ساتھ کرنا مشکل ہے۔
++ 부합하다 | 符合- | buhaphada | verb | to correspond to, to meet (standards) | مطابقت رکھنا | Academic & Formal | 3 |
+> 이 제품은 안전 기준에 부합한다. | This product meets safety standards. | یہ پروڈکٹ حفاظتی معیار پر پوری اترتی ہے۔
+> 국민의 기대에 부합하는 정책이 필요하다. | Policies that meet public expectations are needed. | عوامی توقعات کے مطابق پالیسیاں درکار ہیں۔
+> 그의 진술은 사실에 부합한다. | His statement matches the facts. | اس کا بیان حقائق کے مطابق ہے۔
++ 분쟁 | 紛爭 | bunjaeng | noun | dispute, conflict | تنازع | Society & Culture | 3 |
+> 두 나라 사이에 영토 분쟁이 있다. | There's a territorial dispute between the two countries. | دونوں ملکوں میں سرحدی تنازع ہے۔
+> 분쟁을 평화적으로 해결해야 한다. | Disputes must be resolved peacefully. | تنازعات پرامن طریقے سے حل ہونے چاہئیں۔
+> 이웃 간의 분쟁이 법정까지 갔다. | A dispute between neighbors went to court. | پڑوسیوں کا جھگڑا عدالت تک پہنچ گیا۔
++ 비결 | 祕訣 | bigyeol | noun | secret (to success), key | راز | Common Verbs & Adjectives | 3 |
+> 건강의 비결이 뭐예요? | What's your secret to good health? | آپ کی صحت کا راز کیا ہے؟
+> 맛의 비결은 신선한 재료이다. | The secret of the flavor is fresh ingredients. | ذائقے کا راز تازہ اجزاء ہیں۔
+> 성공의 비결은 꾸준함이다. | The key to success is consistency. | کامیابی کا راز مستقل مزاجی ہے۔
++ 사소하다 | 些少- | sasohada | adjective | trivial, minor | معمولی | Academic & Formal | 3 |
+> 사소한 일로 싸우지 마세요. | Don't fight over trivial things. | معمولی باتوں پر نہ جھگڑیں۔
+> 사소한 실수가 큰 문제가 됐다. | A minor mistake became a big problem. | معمولی غلطی بڑا مسئلہ بن گئی۔
+> 사소한 것에도 감사해요. | I'm grateful even for small things. | چھوٹی چیزوں کا بھی شکر گزار ہوں۔
++ 상실 | 喪失 | sangsil | noun | loss (of something important) | کھو دینا، محرومی | Academic & Formal | 3 | 상실감 = sense of loss.
+> 가족을 잃은 상실감이 컸다. | The sense of loss from losing family was great. | خاندان کھونے کا دکھ بہت بڑا تھا۔
+> 기억 상실에 걸렸다. | They suffered memory loss. | ان کی یادداشت چلی گئی۔
+> 자신감 상실은 극복할 수 있다. | A loss of confidence can be overcome. | اعتماد کی کمی پر قابو پایا جا سکتا ہے۔
++ 성행하다 | 盛行- | seonghaenghada | verb | to be prevalent, to flourish | عام ہونا، رواج پانا | Society & Culture | 3 |
+> 요즘 온라인 사기가 성행하고 있다. | Online fraud is rampant these days. | آج کل آن لائن دھوکہ دہی عام ہے۔
+> 그 시대에는 무역이 성행했다. | Trade flourished in that era. | اس دور میں تجارت کو فروغ ملا۔
+> 중고 거래가 성행한다. | Second-hand trading is thriving. | پرانی چیزوں کی خرید و فروخت عام ہے۔
++ 소홀하다 | 疏忽- | soholhada | adjective | neglectful, negligent | لاپروا | Academic & Formal | 3 |
+> 바빠서 가족에게 소홀했다. | I was so busy I neglected my family. | مصروفیت میں خاندان کو نظر انداز کیا۔
+> 건강 관리에 소홀하지 마세요. | Don't neglect your health. | صحت کی دیکھ بھال میں لاپروائی نہ کریں۔
+> 안전 관리가 소홀했다. | Safety management was negligent. | حفاظتی انتظامات میں کوتاہی ہوئی۔
++ 쇄도하다 | 殺到- | swaedohada | verb | to flood in, to pour in | امڈ آنا | Academic & Formal | 3 |
+> 주문이 쇄도하고 있다. | Orders are flooding in. | آرڈرز کی بھرمار ہو رہی ہے۔
+> 문의 전화가 쇄도했다. | Inquiry calls poured in. | معلومات کے لیے کالز کا تانتا بندھ گیا۔
+> 축하 메시지가 쇄도했다. | Congratulatory messages poured in. | مبارکباد کے پیغامات کی بارش ہو گئی۔
++ 수긍하다 | 首肯- | sugeunghada | verb | to agree, to accept (as reasonable) | مان لینا | Academic & Formal | 3 |
+> 그의 설명에 수긍했다. | I agreed with his explanation. | میں نے اس کی وضاحت مان لی۔
+> 수긍하기 어려운 결정이다. | It's a decision hard to accept. | یہ ماننا مشکل فیصلہ ہے۔
+> 모두가 수긍할 만한 이유였다. | It was a reason everyone could accept. | یہ ایسی وجہ تھی جسے سب نے مانا۔
++ 순응하다 | 順應- | suneunghada | verb | to adapt to, to conform | مطابقت پیدا کرنا | Academic & Formal | 3 |
+> 환경에 순응하며 살아야 한다. | We must live adapting to our environment. | ماحول کے مطابق ڈھل کر جینا ہوگا۔
+> 그는 규칙에 순응하지 않았다. | He did not conform to the rules. | اس نے اصولوں کی پابندی نہیں کی۔
+> 시대 변화에 순응했다. | They adapted to changing times. | وقت کی تبدیلی کے ساتھ خود کو ڈھالا۔
++ 시달리다 |  | sidallida | verb | to suffer from, to be tormented by | پریشان ہونا | Emotions & Relationships | 3 |
+> 소음에 시달리고 있다. | I'm suffering from the noise. | شور سے پریشان ہوں۔
+> 그는 불면증에 시달렸다. | He suffered from insomnia. | وہ بے خوابی کا شکار رہا۔
+> 업무 스트레스에 시달리는 직장인이 많다. | Many workers suffer from job stress. | بہت سے ملازمین کام کے دباؤ کا شکار ہیں۔
++ 신빙성 | 信憑性 | sinbingseong | noun | credibility, reliability | معتبریت | Academic & Formal | 3 |
+> 그 정보는 신빙성이 낮다. | That information has low credibility. | وہ معلومات قابلِ اعتبار نہیں۔
+> 신빙성 있는 자료를 사용하세요. | Use reliable sources. | قابلِ اعتبار مواد استعمال کریں۔
+> 증언의 신빙성이 의심된다. | The credibility of the testimony is in doubt. | گواہی کی معتبریت مشکوک ہے۔
++ 실마리 |  | silmari | noun | clue, lead | سراغ | Academic & Formal | 3 |
+> 사건 해결의 실마리를 찾았다. | They found a clue to solving the case. | کیس حل کرنے کا سراغ ملا۔
+> 문제의 실마리가 보이기 시작했다. | A way into the problem began to appear. | مسئلے کا سرا نظر آنے لگا۔
+> 작은 실마리도 놓치지 마세요. | Don't miss even a small clue. | چھوٹا سا سراغ بھی نہ چھوڑیں۔
++ 안목 | 眼目 | anmok | noun | discerning eye, judgment | پرکھ | Academic & Formal | 3 |
+> 그녀는 그림을 보는 안목이 있다. | She has an eye for paintings. | اسے تصویروں کی پرکھ ہے۔
+> 사람을 보는 안목을 길러야 한다. | You should develop an eye for people. | لوگوں کو پرکھنے کی صلاحیت پیدا کرنی چاہیے۔
+> 안목이 높은 손님이다. | They're a discerning customer. | وہ ایک ذوق رکھنے والا گاہک ہے۔
++ 애착 | 愛着 | aechak | noun | attachment, fondness | لگاؤ | Emotions & Relationships | 3 |
+> 오래 쓴 물건에 애착이 생겼다. | I grew attached to something I'd used for a long time. | پرانی چیز سے لگاؤ ہو گیا۔
+> 고향에 대한 애착이 크다. | I have a strong attachment to my hometown. | آبائی شہر سے گہرا لگاؤ ہے۔
+> 아이는 인형에 애착을 보였다. | The child showed attachment to the doll. | بچے کو گڑیا سے لگاؤ تھا۔
++ 양상 | 樣相 | yangsang | noun | aspect, phase, pattern | صورت، رخ | Academic & Formal | 3 |
+> 갈등이 새로운 양상을 띠고 있다. | The conflict is taking on a new aspect. | تنازع نئی صورت اختیار کر رہا ہے۔
+> 소비 양상이 변하고 있다. | Consumption patterns are changing. | خرچ کرنے کے انداز بدل رہے ہیں۔
+> 경기가 다른 양상으로 흘러갔다. | The game took a different turn. | میچ نے دوسرا رخ اختیار کیا۔
++ 역량 | 力量 | yeongnyang | noun | capability, competence | استعداد | Academic & Formal | 3 |
+> 직원들의 역량을 키워야 한다. | Employees' capabilities must be developed. | ملازمین کی استعداد بڑھانی ہوگی۔
+> 그는 리더로서의 역량을 보여 줬다. | He showed his capability as a leader. | اس نے قائدانہ صلاحیت دکھائی۔
+> 우리의 역량을 모아야 한다. | We must pool our capabilities. | ہمیں اپنی صلاحیتیں یکجا کرنی ہوں گی۔
++ 역설하다 | 力說- | yeokseolhada | verb | to emphasize, to stress strongly | زور دے کر کہنا | Academic & Formal | 3 | 역설 (逆說) = paradox.
+> 그는 교육의 중요성을 역설했다. | He stressed the importance of education. | اس نے تعلیم کی اہمیت پر زور دیا۔
+> 환경 보호의 필요성을 역설했다. | They strongly stressed the need for environmental protection. | ماحولیاتی تحفظ کی ضرورت پر زور دیا۔
+> 그것은 역설적인 상황이다. | That's a paradoxical situation. | یہ ایک متضاد صورتحال ہے۔
++ 염원 | 念願 | yeomwon | noun | earnest wish, long-cherished desire | دلی آرزو | Emotions & Relationships | 3 |
+> 통일은 우리의 염원이다. | Reunification is our heartfelt wish. | اتحاد ہماری دلی آرزو ہے۔
+> 오랜 염원이 이루어졌다. | A long-cherished wish came true. | دیرینہ خواہش پوری ہو گئی۔
+> 평화를 향한 염원을 담았다. | It embodied the yearning for peace. | اس میں امن کی تمنا جھلکتی تھی۔
++ 완화하다 | 緩和- | wanhwahada | verb | to ease, to relax, to alleviate | نرم کرنا، کم کرنا | Academic & Formal | 3 |
+> 정부가 규제를 완화했다. | The government eased regulations. | حکومت نے پابندیاں نرم کیں۔
+> 이 약은 통증을 완화한다. | This medicine eases pain. | یہ دوا درد کم کرتی ہے۔
+> 긴장을 완화하기 위해 음악을 들었다. | I listened to music to ease the tension. | تناؤ کم کرنے کے لیے موسیقی سنی۔
++ 우여곡절 | 迂餘曲折 | uyeogokjeol | four-character idiom | ups and downs, twists and turns | نشیب و فراز | Idioms & Expressions | 3 |
+> 우여곡절 끝에 결혼했다. | After many twists and turns, they married. | بہت سے نشیب و فراز کے بعد شادی ہوئی۔
+> 이 프로젝트는 우여곡절이 많았다. | This project had many ups and downs. | اس منصوبے میں بہت اتار چڑھاؤ آئے۔
+> 우여곡절을 겪으며 성장했다. | They grew through many ups and downs. | نشیب و فراز سے گزر کر آگے بڑھے۔
++ 위상 | 位相 | wisang | noun | status, standing | مقام، حیثیت | Academic & Formal | 3 |
+> 한국의 국제적 위상이 높아졌다. | Korea's international standing has risen. | کوریا کا عالمی مقام بلند ہوا۔
+> 회사의 위상이 달라졌다. | The company's status has changed. | کمپنی کی حیثیت بدل گئی۔
+> 여성의 사회적 위상이 향상되었다. | Women's social status has improved. | خواتین کی سماجی حیثیت بہتر ہوئی۔
++ 유래 | 由來 | yurae | noun | origin | ماخذ، ابتدا | Academic & Formal | 3 | 유래하다.
+> 이 말의 유래를 아세요? | Do you know the origin of this expression? | کیا آپ اس محاورے کا ماخذ جانتے ہیں؟
+> 이 축제는 농경 문화에서 유래했다. | This festival originated from farming culture. | یہ میلہ زرعی ثقافت سے شروع ہوا۔
+> 지명의 유래가 재미있다. | The origin of the place name is interesting. | اس جگہ کے نام کا ماخذ دلچسپ ہے۔
++ 융합 | 融合 | yunghap | noun | fusion, convergence | امتزاج | Academic & Formal | 3 |
+> 전통과 현대의 융합이 돋보인다. | The fusion of tradition and modernity stands out. | روایت اور جدیدیت کا امتزاج نمایاں ہے۔
+> 학문 간 융합 연구가 늘고 있다. | Interdisciplinary research is increasing. | مختلف علوم کے امتزاج پر تحقیق بڑھ رہی ہے۔
+> 동서양 음악의 융합이다. | It's a fusion of Eastern and Western music. | یہ مشرقی و مغربی موسیقی کا امتزاج ہے۔
++ 이례적 | 異例的 | iryejeok | noun/determiner | unusual, exceptional | غیر معمولی | Academic & Formal | 3 |
+> 10월에 눈이 오는 것은 이례적이다. | Snow in October is unusual. | اکتوبر میں برف پڑنا غیر معمولی ہے۔
+> 이례적인 결정이 내려졌다. | An exceptional decision was made. | ایک غیر معمولی فیصلہ کیا گیا۔
+> 이례적으로 많은 사람이 참석했다. | An unusually large number of people attended. | غیر معمولی تعداد میں لوگ شریک ہوئے۔
++ 일축하다 | 一蹴- | ilchukhada | verb | to dismiss, to reject outright | یکسر رد کرنا | Academic & Formal | 3 |
+> 그는 소문을 일축했다. | He dismissed the rumor. | اس نے افواہ کو یکسر رد کر دیا۔
+> 회사는 의혹을 일축했다. | The company dismissed the allegations. | کمپنی نے الزامات مسترد کر دیے۔
+> 제안을 단번에 일축했다. | They rejected the proposal outright. | تجویز کو فوراً رد کر دیا۔
++ 입지 | 立地 | ipji | noun | position, standing; location | مقام؛ محلِ وقوع | Academic & Formal | 3 |
+> 그는 회사 내 입지를 굳혔다. | He solidified his position in the company. | اس نے کمپنی میں اپنا مقام مضبوط کیا۔
+> 이 가게는 입지가 좋다. | This shop has a good location. | اس دکان کا محلِ وقوع اچھا ہے۔
+> 시장에서의 입지가 약해졌다. | Its standing in the market weakened. | منڈی میں اس کی حیثیت کمزور ہو گئی۔
++ 자부심 | 自負心 | jabusim | noun | pride, self-esteem | فخر | Emotions & Relationships | 3 |
+> 내 일에 자부심을 느낀다. | I take pride in my work. | مجھے اپنے کام پر فخر ہے۔
+> 그는 한국인이라는 자부심이 강하다. | He has strong pride in being Korean. | اسے کوریائی ہونے پر بہت فخر ہے۔
+> 자부심을 가지고 일하세요. | Work with pride. | فخر کے ساتھ کام کریں۔
++ 전념하다 | 專念- | jeonnyeomhada | verb | to devote oneself to, to concentrate on | پوری توجہ دینا | Academic & Formal | 3 |
+> 은퇴 후 그림에 전념하고 있다. | Since retiring, I devote myself to painting. | ریٹائرمنٹ کے بعد مصوری پر پوری توجہ دے رہا ہوں۔
+> 학업에 전념하세요. | Concentrate on your studies. | پڑھائی پر پوری توجہ دیں۔
+> 치료에 전념하기 위해 휴직했다. | They took leave to focus on treatment. | علاج پر توجہ دینے کے لیے چھٹی لی۔
++ 절제하다 | 節制- | jeoljehada | verb | to exercise restraint, to moderate | ضبط کرنا، اعتدال برتنا | Academic & Formal | 3 |
+> 감정을 절제하는 것이 필요하다. | Emotional restraint is needed. | جذبات پر ضبط ضروری ہے۔
+> 음식을 절제해서 먹는다. | I eat in moderation. | میں اعتدال سے کھاتا ہوں۔
+> 절제된 연기가 인상적이었다. | The restrained acting was impressive. | ضبط والی اداکاری متاثر کن تھی۔
++ 정체되다 | 停滯- | jeongchedoeda | verb | to stagnate, to be stalled | رک جانا، جمود | Academic & Formal | 3 |
+> 경제 성장이 정체되었다. | Economic growth has stagnated. | معاشی ترقی رک گئی۔
+> 고속도로가 정체되어 있다. | The expressway is backed up. | موٹروے پر ٹریفک جام ہے۔
+> 실력이 정체된 느낌이다. | I feel my skills have plateaued. | لگتا ہے میری مہارت رک گئی ہے۔
++ 경이롭다 | 驚異- | gyeongiropda | adjective | wondrous, marvelous | حیرت انگیز | Academic & Formal | 3 | ㅂ-irregular.
+> 자연의 경이로운 모습에 감탄했다. | I marveled at nature's wonders. | فطرت کے عجائب پر حیران رہ گیا۔
+> 그의 기록은 경이롭다. | His record is astonishing. | اس کا ریکارڈ حیرت انگیز ہے۔
+> 생명의 탄생은 경이로운 일이다. | The birth of life is a marvel. | زندگی کا جنم ایک معجزہ ہے۔
