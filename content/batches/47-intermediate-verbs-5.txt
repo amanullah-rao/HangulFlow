@@ -1,0 +1,237 @@
+# Intermediate: verbs (5)
++ 가리키다 |  | garikida | verb | to point at, to indicate | اشارہ کرنا | Common Verbs & Adjectives | 2 | Different from 가르치다 (teach).
+> 그는 손가락으로 산을 가리켰어요. | He pointed at the mountain with his finger. | اس نے انگلی سے پہاڑ کی طرف اشارہ کیا۔
+> 시계가 12시를 가리키고 있어요. | The clock points to twelve. | گھڑی بارہ بجا رہی ہے۔
+> 이 표시는 출구를 가리켜요. | This sign indicates the exit. | یہ نشان باہر کا راستہ بتاتا ہے۔
++ 가리다 |  | garida | verb | to cover, to block (view); to be picky | ڈھانپنا؛ چن چن کر | Common Verbs & Adjectives | 2 | 음식을 가리다 = picky eater; 낯을 가리다 = shy.
+> 손으로 얼굴을 가렸어요. | I covered my face with my hands. | ہاتھوں سے چہرہ ڈھانپ لیا۔
+> 앞사람이 화면을 가려서 안 보여요. | The person in front blocks the screen. | سامنے والا اسکرین روک رہا ہے۔
+> 아이가 음식을 가려 먹어요. | The child is a picky eater. | بچہ کھانے میں نخرے کرتا ہے۔
++ 갚다 |  | gapda | verb | to pay back, to repay | ادا کرنا، لوٹانا | Economy & Business | 2 |
+> 빌린 돈을 다 갚았어요. | I paid back all the money I borrowed. | ادھار کی ساری رقم لوٹا دی۔
+> 은혜를 꼭 갚을게요. | I'll surely repay your kindness. | آپ کا احسان ضرور اتاروں گا۔
+> 대출을 갚는 데 10년이 걸렸어요. | It took ten years to repay the loan. | قرض اتارنے میں دس سال لگے۔
++ 감추다 |  | gamchuda | verb | to hide, to conceal | چھپانا | Common Verbs & Adjectives | 2 | Similar: 숨기다.
+> 그는 기쁨을 감추지 못했어요. | He couldn't hide his joy. | وہ اپنی خوشی چھپا نہ سکا۔
+> 선물을 옷장에 감췄어요. | I hid the gift in the wardrobe. | تحفہ الماری میں چھپا دیا۔
+> 진실을 감출 수는 없어요. | You can't conceal the truth. | سچ چھپایا نہیں جا سکتا۔
++ 구별하다 | 區別- | gubyeolhada | verb | to distinguish, to tell apart | فرق کرنا، پہچاننا | Common Verbs & Adjectives | 2 | Also 구분하다 (to classify, divide).
+> 쌍둥이를 구별하기 어려워요. | It's hard to tell the twins apart. | جڑواں بچوں میں فرق کرنا مشکل ہے۔
+> 진짜와 가짜를 구별해야 해요. | You have to tell the real from the fake. | اصلی اور نقلی میں فرق کرنا چاہیے۔
+> 쓰레기를 종류별로 구분해서 버리세요. | Sort trash by type before throwing it away. | کچرا قسم کے لحاظ سے الگ کر کے پھینکیں۔
++ 굶다 |  | gumda | verb | to skip a meal, to starve | بھوکا رہنا | Food & Cooking | 2 |
+> 바빠서 점심을 굶었어요. | I was busy and skipped lunch. | مصروفیت میں دوپہر کا کھانا نہیں کھایا۔
+> 아침을 굶으면 건강에 나빠요. | Skipping breakfast is bad for your health. | ناشتہ نہ کرنا صحت کے لیے برا ہے۔
+> 세상에는 굶는 사람이 아직 많아요. | Many people in the world still go hungry. | دنیا میں اب بھی بہت لوگ بھوکے رہتے ہیں۔
++ 그만두다 |  | geumanduda | verb | to quit, to stop | چھوڑ دینا | Work & Employment | 2 |
+> 회사를 그만두고 유학을 갔어요. | I quit my job and went to study abroad. | نوکری چھوڑ کر بیرون ملک پڑھنے گیا۔
+> 담배를 그만두기로 했어요. | I decided to quit smoking. | سگریٹ چھوڑنے کا فیصلہ کیا۔
+> 그만두지 말고 끝까지 해 봐요. | Don't quit; try to the end. | چھوڑیں نہیں، آخر تک کوشش کریں۔
++ 기울이다 |  | giurida | verb | to tilt; to pay (attention), to devote | جھکانا؛ (توجہ) دینا | Common Verbs & Adjectives | 2 | 귀를 기울이다 = to listen carefully.
+> 학생들의 의견에 귀를 기울였어요. | I listened carefully to the students' opinions. | میں نے طلبہ کی رائے غور سے سنی۔
+> 고개를 기울이고 생각했어요. | I tilted my head and thought. | سر جھکا کر سوچا۔
+> 환경 보호에 노력을 기울여야 해요. | We must devote effort to protecting the environment. | ماحول کی حفاظت پر توجہ دینی چاہیے۔
++ 긁다 |  | geukda | verb | to scratch | کھجانا | Health | 2 | Pronounced [극따].
+> 모기 물린 곳을 긁지 마세요. | Don't scratch the mosquito bite. | مچھر کے کاٹے کو نہ کھجائیں۔
+> 머리를 긁으며 웃었어요. | He laughed, scratching his head. | سر کھجاتے ہوئے ہنسا۔
+> 카드를 긁었어요. | I swiped my card. (paid by card) | میں نے کارڈ سے ادائیگی کی۔
++ 꾸다 |  | kkuda | verb | to dream (a dream); to borrow (money, informal) | خواب دیکھنا؛ ادھار لینا | Common Verbs & Adjectives | 2 | 꿈을 꾸다.
+> 무서운 꿈을 꿨어요. | I had a scary dream. | ایک ڈراؤنا خواب دیکھا۔
+> 저는 가수가 되는 꿈을 꿔요. | I dream of becoming a singer. | میں گلوکار بننے کا خواب دیکھتا ہوں۔
+> 친구에게 돈을 꿨어요. | I borrowed money from a friend. | دوست سے پیسے ادھار لیے۔
++ 나서다 |  | naseoda | verb | to step forward, to come forward; to set out | آگے آنا؛ نکلنا | Common Verbs & Adjectives | 2 |
+> 아무도 나서지 않아서 제가 했어요. | No one stepped forward, so I did it. | کوئی آگے نہیں آیا تو میں نے کیا۔
+> 아침 일찍 길을 나섰어요. | I set out early in the morning. | صبح سویرے سفر پر نکلا۔
+> 정부가 문제 해결에 나섰어요. | The government stepped in to solve the problem. | حکومت مسئلہ حل کرنے کے لیے آگے آئی۔
++ 넘치다 |  | neomchida | verb | to overflow, to be full of | چھلکنا، بھرپور ہونا | Common Verbs & Adjectives | 2 |
+> 컵에 물이 넘쳤어요. | The water overflowed the cup. | کپ سے پانی چھلک گیا۔
+> 그는 자신감이 넘쳐요. | He's brimming with confidence. | وہ اعتماد سے بھرپور ہے۔
+> 비가 많이 와서 강물이 넘쳤어요. | The river overflowed from heavy rain. | تیز بارش سے دریا میں طغیانی آ گئی۔
++ 늘어나다 |  | neureonada | verb | to increase, to grow | بڑھنا | Common Verbs & Adjectives | 2 | Opposite: 줄어들다.
+> 외국인 관광객이 늘어났어요. | Foreign tourists have increased. | غیر ملکی سیاح بڑھ گئے۔
+> 몸무게가 늘어나서 걱정이에요. | I'm worried because I've gained weight. | وزن بڑھ گیا ہے، فکر ہے۔
+> 재택근무를 하는 사람이 늘어나고 있어요. | More and more people work from home. | گھر سے کام کرنے والے بڑھ رہے ہیں۔
++ 달라지다 |  | dallajida | verb | to change, to become different | بدل جانا | Common Verbs & Adjectives | 2 |
+> 한국에 온 후 생각이 많이 달라졌어요. | My thinking changed a lot after coming to Korea. | کوریا آنے کے بعد سوچ بہت بدل گئی۔
+> 동네가 몰라보게 달라졌어요. | The neighborhood has changed beyond recognition. | محلہ پہچان سے باہر بدل گیا۔
+> 계절에 따라 풍경이 달라져요. | The scenery changes with the seasons. | موسم کے ساتھ منظر بدلتا ہے۔
++ 당하다 | 當- | danghada | verb | to suffer, to undergo (something bad) | (برا) جھیلنا | Common Verbs & Adjectives | 2 | 사기를 당하다 = be scammed.
+> 사기를 당해서 돈을 잃었어요. | I was scammed and lost money. | دھوکہ کھا کر پیسے گنوا دیے۔
+> 교통사고를 당했어요. | I was in a traffic accident. | میں ٹریفک حادثے کا شکار ہوا۔
+> 억울한 일을 당했어요. | I was treated unfairly. | میرے ساتھ ناانصافی ہوئی۔
++ 대하다 | 對- | daehada | verb | to treat, to deal with; (-에 대해) about | برتاؤ کرنا؛ کے بارے میں | Common Verbs & Adjectives | 2 |
+> 그는 모든 사람을 친절하게 대해요. | He treats everyone kindly. | وہ سب کے ساتھ اچھا برتاؤ کرتا ہے۔
+> 한국 문화에 대해 이야기해 주세요. | Please tell me about Korean culture. | کوریائی ثقافت کے بارے میں بتائیں۔
+> 손님을 대하는 태도가 중요해요. | How you treat customers matters. | گاہکوں سے برتاؤ اہم ہے۔
++ 덮다 |  | deopda | verb | to cover; to close (a book) | ڈھانپنا؛ بند کرنا | Common Verbs & Adjectives | 2 |
+> 이불을 덮고 잤어요. | I slept covered with a blanket. | لحاف اوڑھ کر سویا۔
+> 냄비 뚜껑을 덮으세요. | Put the lid on the pot. | دیگچی کا ڈھکن بند کریں۔
+> 책을 덮고 생각에 잠겼어요. | I closed the book and fell into thought. | کتاب بند کر کے سوچ میں ڈوب گیا۔
++ 도망가다 | 逃亡- | domanggada | verb | to run away, to flee | بھاگ جانا | Common Verbs & Adjectives | 2 |
+> 도둑이 도망갔어요. | The thief ran away. | چور بھاگ گیا۔
+> 고양이가 놀라서 도망갔어요. | The cat got scared and ran off. | بلی ڈر کر بھاگ گئی۔
+> 문제에서 도망가지 마세요. | Don't run away from problems. | مسائل سے نہ بھاگیں۔
++ 돕다 |  | dopda | verb | to help | مدد کرنا | Common Verbs & Adjectives | 2 | ㅂ-irregular: 도와요. Common form: 도와주다.
+> 어려운 이웃을 도와요. | We help neighbors in need. | ضرورت مند پڑوسیوں کی مدد کرتے ہیں۔
+> 서로 도우면서 살아야 해요. | We should live helping each other. | ایک دوسرے کی مدد کرتے ہوئے جینا چاہیے۔
+> 무엇을 도와드릴까요? | How may I help you? | میں آپ کی کیا مدد کروں؟
++ 따지다 |  | ttajida | verb | to argue (a point), to demand an explanation; to calculate | بحث کرنا؛ حساب لگانا | Emotions & Relationships | 2 |
+> 직원에게 잘못을 따졌어요. | I demanded an explanation from the staff. | ملازم سے غلطی پر جواب طلب کیا۔
+> 손해와 이익을 따져 봤어요. | I weighed the losses and gains. | نفع نقصان کا حساب لگایا۔
+> 작은 일로 따지지 마세요. | Don't argue over small things. | چھوٹی باتوں پر بحث نہ کریں۔
++ 떠들다 |  | tteodeulda | verb | to make noise, to chatter loudly | شور مچانا | Common Verbs & Adjectives | 2 | ㄹ-irregular.
+> 도서관에서 떠들면 안 돼요. | You must not make noise in the library. | لائبریری میں شور نہیں مچانا چاہیے۔
+> 아이들이 교실에서 떠들어요. | The children are noisy in the classroom. | بچے کلاس میں شور مچا رہے ہیں۔
+> 밤늦게 떠들어서 죄송합니다. | Sorry for being noisy late at night. | رات کو شور کرنے پر معذرت۔
++ 마주치다 |  | majuchida | verb | to run into, to come face to face | آمنا سامنا ہونا | Common Verbs & Adjectives | 2 |
+> 길에서 선생님과 마주쳤어요. | I ran into my teacher on the street. | راستے میں استاد سے آمنا سامنا ہوا۔
+> 눈이 마주치자 웃었어요. | When our eyes met, we smiled. | نظریں ملیں تو مسکرا دیے۔
+> 엘리베이터에서 이웃과 자주 마주쳐요. | I often run into neighbors in the elevator. | لفٹ میں اکثر پڑوسیوں سے ملاقات ہوتی ہے۔
++ 말리다 |  | mallida | verb | to dry; to stop (someone from doing) | سکھانا؛ روکنا | Common Verbs & Adjectives | 2 |
+> 빨래를 햇볕에 말렸어요. | I dried the laundry in the sun. | کپڑے دھوپ میں سکھائے۔
+> 머리를 드라이기로 말렸어요. | I dried my hair with a hair dryer. | بال ڈرائر سے سکھائے۔
+> 싸우는 친구들을 말렸어요. | I stopped my friends from fighting. | لڑتے دوستوں کو روکا۔
++ 맞이하다 |  | majihada | verb | to welcome, to greet; to face (an occasion) | استقبال کرنا | Common Verbs & Adjectives | 2 |
+> 새해를 가족과 함께 맞이했어요. | I welcomed the new year with my family. | گھر والوں کے ساتھ نئے سال کا استقبال کیا۔
+> 손님을 맞이할 준비를 했어요. | I got ready to receive the guests. | مہمانوں کے استقبال کی تیاری کی۔
+> 회사가 창립 10주년을 맞이했어요. | The company marked its 10th anniversary. | کمپنی نے دسویں سالگرہ منائی۔
++ 모자라다 |  | mojarada | verb | to be insufficient, to fall short | کم پڑنا | Common Verbs & Adjectives | 2 | Similar: 부족하다.
+> 돈이 조금 모자라요. | I'm a bit short of money. | پیسے تھوڑے کم پڑ رہے ہیں۔
+> 의자가 두 개 모자라요. | We're two chairs short. | دو کرسیاں کم ہیں۔
+> 시간이 모자라서 다 못 했어요. | I ran out of time and couldn't finish. | وقت کم پڑ گیا، پورا نہیں کر سکا۔
++ 몰리다 |  | mollida | verb | to crowd, to flock; to be driven (into a corner) | ٹوٹ پڑنا؛ گھر جانا | Common Verbs & Adjectives | 2 |
+> 세일이라서 사람들이 몰렸어요. | People flocked because of the sale. | سیل کی وجہ سے لوگ ٹوٹ پڑے۔
+> 주말에는 관광객이 몰려요. | Tourists crowd in on weekends. | ہفتے کے آخر میں سیاحوں کا ہجوم ہوتا ہے۔
+> 일이 한꺼번에 몰렸어요. | All the work came at once. | سارا کام ایک ساتھ آ گیا۔
++ 무너지다 |  | muneojida | verb | to collapse | گرنا، منہدم ہونا | Common Verbs & Adjectives | 2 |
+> 지진으로 건물이 무너졌어요. | The building collapsed in the earthquake. | زلزلے سے عمارت گر گئی۔
+> 그 소식을 듣고 마음이 무너졌어요. | My heart broke when I heard the news. | وہ خبر سن کر دل ٹوٹ گیا۔
+> 오래된 다리가 무너질 위험이 있어요. | The old bridge is at risk of collapse. | پرانے پل کے گرنے کا خطرہ ہے۔
++ 미끄러지다 |  | mikkeureojida | verb | to slip | پھسلنا | Common Verbs & Adjectives | 2 |
+> 빙판길에서 미끄러졌어요. | I slipped on the icy road. | برف والی سڑک پر پھسل گیا۔
+> 차가 눈길에 미끄러졌어요. | The car skidded on the snowy road. | گاڑی برف پر پھسل گئی۔
+> 계단에서 미끄러지지 않게 조심하세요. | Be careful not to slip on the stairs. | سیڑھیوں پر پھسلنے سے بچیں۔
++ 반기다 |  | bangida | verb | to welcome gladly | خوشی سے استقبال کرنا | Emotions & Relationships | 2 |
+> 강아지가 꼬리를 흔들며 저를 반겼어요. | The puppy welcomed me, wagging its tail. | کتے نے دم ہلا کر میرا استقبال کیا۔
+> 할머니가 손자를 반갑게 반기셨어요. | Grandma warmly welcomed her grandson. | دادی نے پوتے کا گرم جوشی سے استقبال کیا۔
+> 오랜만에 온 친구를 반겼어요. | I gladly welcomed a friend I hadn't seen in a while. | بہت دنوں بعد آنے والے دوست کا خوش دلی سے استقبال کیا۔
++ 받아들이다 |  | badadeurida | verb | to accept | قبول کرنا | Common Verbs & Adjectives | 2 |
+> 그의 사과를 받아들였어요. | I accepted his apology. | اس کی معافی قبول کی۔
+> 현실을 받아들이기 어려웠어요. | It was hard to accept reality. | حقیقت کو قبول کرنا مشکل تھا۔
+> 새로운 문화를 받아들이세요. | Embrace the new culture. | نئی ثقافت کو قبول کریں۔
++ 벗어나다 |  | beoseonada | verb | to escape, to get out of, to deviate from | نکلنا، چھٹکارا پانا | Common Verbs & Adjectives | 2 |
+> 도시를 벗어나 시골로 갔어요. | I got out of the city and went to the countryside. | شہر سے نکل کر گاؤں گیا۔
+> 스트레스에서 벗어나고 싶어요. | I want to escape stress. | ذہنی دباؤ سے نجات چاہتا ہوں۔
+> 주제에서 벗어난 이야기예요. | That's off the topic. | یہ موضوع سے ہٹی ہوئی بات ہے۔
++ 베다 |  | beda | verb | to cut (oneself); to rest one's head on | کاٹ لینا؛ (تکیہ) لینا | Common Verbs & Adjectives | 2 |
+> 칼에 손을 벴어요. | I cut my hand on a knife. | چھری سے ہاتھ کٹ گیا۔
+> 베개를 베고 누웠어요. | I lay down with my head on the pillow. | تکیے پر سر رکھ کر لیٹ گیا۔
+> 종이에 손가락을 벴어요. | I got a paper cut. | کاغذ سے انگلی کٹ گئی۔
++ 부딪치다 |  | buditchida | verb | to bump into, to crash into | ٹکرانا | Common Verbs & Adjectives | 2 | Also 부딪히다 (passive).
+> 문에 머리를 부딪쳤어요. | I bumped my head on the door. | دروازے سے سر ٹکرا گیا۔
+> 자전거가 사람과 부딪쳤어요. | The bicycle crashed into a person. | سائیکل ایک شخص سے ٹکرا گئی۔
+> 어려움에 부딪쳐도 포기하지 마세요. | Don't give up even when you hit difficulties. | مشکلات آئیں تب بھی ہمت نہ ہاریں۔
++ 부러지다 |  | bureojida | verb | to break (a bone, stick) | ٹوٹنا (ہڈی، لکڑی) | Health | 2 |
+> 넘어져서 다리가 부러졌어요. | I fell and broke my leg. | گر کر ٹانگ ٹوٹ گئی۔
+> 연필이 부러졌어요. | The pencil broke. | پنسل ٹوٹ گئی۔
+> 바람에 나뭇가지가 부러졌어요. | A branch broke in the wind. | ہوا سے ٹہنی ٹوٹ گئی۔
++ 불다 |  | bulda | verb | to blow (wind, a whistle); to play (wind instrument) | (ہوا) چلنا؛ پھونکنا | Common Verbs & Adjectives | 2 | ㄹ-irregular.
+> 바람이 세게 불어요. | The wind blows hard. | تیز ہوا چل رہی ہے۔
+> 생일 케이크의 초를 불었어요. | I blew out the birthday candles. | سالگرہ کی موم بتیاں بجھائیں۔
+> 그는 피리를 잘 불어요. | He plays the flute well. | وہ بانسری اچھی بجاتا ہے۔
++ 비추다 |  | bichuda | verb | to shine on, to reflect | روشن کرنا، عکس ڈالنا | Common Verbs & Adjectives | 2 |
+> 햇빛이 창문을 비췄어요. | Sunlight shone on the window. | دھوپ کھڑکی پر پڑی۔
+> 손전등으로 길을 비췄어요. | I lit the path with a flashlight. | ٹارچ سے راستہ روشن کیا۔
+> 거울에 얼굴을 비춰 봤어요. | I looked at my face in the mirror. | آئینے میں اپنا چہرہ دیکھا۔
++ 빼앗다 |  | ppaeatda | verb | to take away, to rob | چھین لینا | Common Verbs & Adjectives | 2 | Short: 뺏다.
+> 형이 동생의 장난감을 빼앗았어요. | The older brother took the toy from his little brother. | بڑے بھائی نے چھوٹے کا کھلونا چھین لیا۔
+> 스마트폰이 시간을 빼앗아요. | Smartphones steal our time. | اسمارٹ فون ہمارا وقت چھین لیتے ہیں۔
+> 도둑이 가방을 빼앗아 갔어요. | A thief snatched my bag. | چور بیگ چھین کر لے گیا۔
++ 새다 |  | saeda | verb | to leak; to dawn (night passes) | ٹپکنا؛ (رات) گزرنا | Common Verbs & Adjectives | 2 | 밤을 새우다 = to stay up all night.
+> 지붕에서 비가 새요. | Rain is leaking through the roof. | چھت سے بارش ٹپک رہی ہے۔
+> 비밀이 새 나갔어요. | The secret leaked out. | راز باہر نکل گیا۔
+> 시험 공부로 밤을 새웠어요. | I stayed up all night studying for the exam. | امتحان کی تیاری میں رات جاگا۔
++ 속다 |  | sokda | verb | to be deceived, to be fooled | دھوکہ کھانا | Common Verbs & Adjectives | 2 | Active: 속이다.
+> 광고에 속아서 샀어요. | I was fooled by the ad and bought it. | اشتہار کے دھوکے میں آ کر خرید لیا۔
+> 그의 말에 속지 마세요. | Don't be fooled by what he says. | اس کی باتوں میں نہ آئیں۔
+> 감쪽같이 속았어요. | I was completely fooled. | میں بالکل دھوکہ کھا گیا۔
++ 숨다 |  | sumda | verb | to hide (oneself) | چھپنا | Common Verbs & Adjectives | 2 | Transitive: 숨기다.
+> 아이가 커튼 뒤에 숨었어요. | The child hid behind the curtain. | بچہ پردے کے پیچھے چھپ گیا۔
+> 숨바꼭질할 때 어디에 숨을까요? | Where should I hide in hide-and-seek? | آنکھ مچولی میں کہاں چھپوں؟
+> 고양이가 침대 밑에 숨었어요. | The cat hid under the bed. | بلی پلنگ کے نیچے چھپ گئی۔
++ 쓰러지다 |  | sseureojida | verb | to fall down, to collapse (person, tree) | گر پڑنا | Health | 2 |
+> 더위에 사람이 쓰러졌어요. | Someone collapsed from the heat. | گرمی سے ایک شخص گر پڑا۔
+> 태풍에 나무가 쓰러졌어요. | Trees fell in the typhoon. | طوفان سے درخت گر گئے۔
+> 과로로 쓰러져서 입원했어요. | I collapsed from overwork and was hospitalized. | زیادہ کام سے گر پڑا اور ہسپتال داخل ہوا۔
++ 씹다 |  | ssipda | verb | to chew | چبانا | Food & Cooking | 2 |
+> 음식을 꼭꼭 씹어 드세요. | Chew your food thoroughly. | کھانا اچھی طرح چبا کر کھائیں۔
+> 껌을 씹으면서 걸었어요. | I walked while chewing gum. | چیونگم چباتے ہوئے چلا۔
+> 고기가 질겨서 씹기 힘들어요. | The meat is tough to chew. | گوشت سخت ہے، چبانا مشکل ہے۔
++ 앞두다 |  | apduda | verb | to have (an event) ahead, to be on the eve of | (موقع) سامنے ہونا | Common Verbs & Adjectives | 2 | Usually -을/를 앞두고.
+> 시험을 앞두고 긴장돼요. | I'm nervous with the exam ahead. | امتحان سامنے ہے، گھبراہٹ ہو رہی ہے۔
+> 결혼을 앞두고 바빠요. | I'm busy ahead of the wedding. | شادی سے پہلے مصروف ہوں۔
+> 명절을 앞두고 시장이 붐벼요. | The market is crowded ahead of the holiday. | تہوار سے پہلے بازار میں رش ہے۔
++ 어기다 |  | eogida | verb | to break (a promise, rule) | توڑنا (وعدہ، اصول) | Common Verbs & Adjectives | 2 | Opposite: 지키다.
+> 그는 약속을 어겼어요. | He broke his promise. | اس نے وعدہ توڑ دیا۔
+> 규칙을 어기면 벌을 받아요. | If you break the rules, you'll be punished. | اصول توڑیں تو سزا ملتی ہے۔
+> 마감을 어기지 마세요. | Don't miss the deadline. | آخری تاریخ کی خلاف ورزی نہ کریں۔
++ 엎지르다 |  | eopjireuda | verb | to spill | گرا دینا (مائع) | Common Verbs & Adjectives | 2 | 르-irregular: 엎질러요.
+> 물을 책상에 엎질렀어요. | I spilled water on the desk. | میز پر پانی گرا دیا۔
+> 엎지른 물은 다시 담을 수 없어요. | You can't put spilled water back. (What's done is done.) | گرا ہوا پانی واپس نہیں آتا۔
+> 아이가 우유를 엎질렀어요. | The child spilled milk. | بچے نے دودھ گرا دیا۔
++ 여기다 |  | yeogida | verb | to regard, to consider | سمجھنا، خیال کرنا | Common Verbs & Adjectives | 2 |
+> 저는 그를 친형처럼 여겨요. | I regard him as my own brother. | میں اسے اپنے بھائی کی طرح سمجھتا ہوں۔
+> 건강을 가장 소중하게 여겨요. | I consider health most precious. | میں صحت کو سب سے قیمتی سمجھتا ہوں۔
+> 이상하게 여기지 마세요. | Don't think it's strange. | عجیب نہ سمجھیں۔
++ 외치다 |  | oechida | verb | to shout, to cry out | چلانا، نعرہ لگانا | Common Verbs & Adjectives | 2 |
+> 사람들이 "불이야!" 하고 외쳤어요. | People shouted "Fire!" | لوگوں نے "آگ!" کی آواز لگائی۔
+> 팬들이 가수의 이름을 외쳤어요. | Fans shouted the singer's name. | مداحوں نے گلوکار کا نام پکارا۔
+> 도와 달라고 외쳤어요. | I cried out for help. | مدد کے لیے پکارا۔
++ 잇다 |  | itda | verb | to connect, to join; to continue | جوڑنا؛ جاری رکھنا | Common Verbs & Adjectives | 2 | ㅅ-irregular: 이어요.
+> 아버지의 뒤를 이어 의사가 됐어요. | I followed in my father's footsteps and became a doctor. | والد کے نقشِ قدم پر چل کر ڈاکٹر بنا۔
+> 두 줄을 이어서 길게 만들었어요. | I joined two strings to make it longer. | دو رسیاں جوڑ کر لمبی کیں۔
+> 이야기를 이어서 해 주세요. | Please continue your story. | اپنی بات جاری رکھیں۔
++ 잠기다 |  | jamgida | verb | to be locked; to be submerged; to be lost in (thought) | بند ہونا؛ ڈوبنا؛ (سوچ میں) گم ہونا | Common Verbs & Adjectives | 2 |
+> 문이 잠겨서 못 들어가요. | The door is locked, so I can't get in. | دروازہ بند ہے، اندر نہیں جا سکتا۔
+> 홍수로 마을이 물에 잠겼어요. | The village was submerged in the flood. | سیلاب سے گاؤں ڈوب گیا۔
+> 그는 깊은 생각에 잠겼어요. | He was lost in deep thought. | وہ گہری سوچ میں ڈوب گیا۔
++ 저지르다 |  | jeojireuda | verb | to commit (a mistake, crime) | (غلطی، جرم) کرنا | Common Verbs & Adjectives | 2 | 르-irregular.
+> 큰 실수를 저질렀어요. | I made a big mistake. | مجھ سے بڑی غلطی ہو گئی۔
+> 범죄를 저지른 사람은 처벌받아요. | People who commit crimes are punished. | جرم کرنے والوں کو سزا ملتی ہے۔
+> 아이가 또 사고를 저질렀어요. | The kid caused trouble again. | بچے نے پھر کوئی شرارت کر دی۔
++ 접하다 | 接- | jeophada | verb | to come into contact with, to encounter | واسطہ پڑنا، رابطہ ہونا | Common Verbs & Adjectives | 2 |
+> 인터넷으로 다양한 문화를 접해요. | We encounter diverse cultures online. | انٹرنیٹ سے مختلف ثقافتوں سے واسطہ پڑتا ہے۔
+> 그 소식을 접하고 놀랐어요. | I was surprised when I heard that news. | وہ خبر سن کر حیرت ہوئی۔
+> 어릴 때부터 음악을 접했어요. | I was exposed to music from a young age. | بچپن سے موسیقی سے واسطہ رہا۔
++ 조르다 |  | joreuda | verb | to pester, to beg; to tighten | ضد کرنا؛ کسنا | Emotions & Relationships | 2 | 르-irregular: 졸라요.
+> 아이가 장난감을 사 달라고 졸랐어요. | The child pestered me to buy a toy. | بچے نے کھلونا دلانے کی ضد کی۔
+> 엄마를 졸라서 강아지를 키우게 됐어요. | I begged Mom until we got a puppy. | امی سے ضد کر کے کتا پالنے کی اجازت ملی۔
+> 허리띠를 졸라매고 저축해요. | I tighten my belt and save. | کفایت شعاری کر کے بچت کرتا ہوں۔
++ 졸다 |  | jolda | verb | to doze | اونگھنا | Common Verbs & Adjectives | 2 | ㄹ-irregular. 졸리다 = sleepy.
+> 버스에서 졸다가 내릴 곳을 지나쳤어요. | I dozed on the bus and missed my stop. | بس میں اونگھتے ہوئے اپنا اسٹاپ گزر گیا۔
+> 수업 시간에 졸지 마세요. | Don't doze off in class. | کلاس میں اونگھیں نہیں۔
+> 운전하면서 졸면 위험해요. | Dozing while driving is dangerous. | گاڑی چلاتے ہوئے اونگھنا خطرناک ہے۔
++ 지우다 |  | jiuda | verb | to erase, to delete; to remove (makeup) | مٹانا، ڈیلیٹ کرنا | Common Verbs & Adjectives | 2 | 지우개 = eraser.
+> 틀린 답을 지우개로 지웠어요. | I erased the wrong answer. | غلط جواب ربڑ سے مٹایا۔
+> 사진을 실수로 지웠어요. | I accidentally deleted the photo. | غلطی سے تصویر ڈیلیٹ ہو گئی۔
+> 자기 전에 화장을 지워요. | I remove my makeup before bed. | سونے سے پہلے میک اپ اتارتی ہوں۔
++ 챙기다 |  | chaenggida | verb | to pack, to take care of, to look after | سنبھالنا، ساتھ رکھنا | Common Verbs & Adjectives | 2 |
+> 우산 챙겼어요? | Did you pack an umbrella? | چھتری ساتھ رکھی؟
+> 아침을 꼭 챙겨 드세요. | Be sure to eat breakfast. | ناشتہ ضرور کریں۔
+> 그는 후배들을 잘 챙겨요. | He looks after his juniors well. | وہ اپنے جونیئرز کا خیال رکھتا ہے۔
++ 치우다 |  | chiuda | verb | to clean up, to tidy away | صاف کرنا، سمیٹنا | Daily Life in Korea | 2 |
+> 밥 먹고 식탁을 치웠어요. | I cleared the table after eating. | کھانے کے بعد میز صاف کی۔
+> 방을 좀 치워라. | Clean up your room. | اپنا کمرہ ٹھیک کرو۔
+> 눈을 치우느라 힘들었어요. | Clearing the snow was hard work. | برف ہٹانے میں مشقت ہوئی۔
++ 해내다 |  | haenaeda | verb | to accomplish, to pull off | کر دکھانا | Common Verbs & Adjectives | 2 |
+> 드디어 해냈어요! | I finally did it! | آخرکار کر دکھایا!
+> 혼자서 그 일을 해냈어요. | I pulled it off by myself. | میں نے اکیلے وہ کام کر دکھایا۔
+> 당신은 해낼 수 있어요. | You can do it. | آپ کر سکتے ہیں۔
++ 헤매다 |  | hemaeda | verb | to wander, to be lost | بھٹکنا | Common Verbs & Adjectives | 2 |
+> 길을 몰라서 한 시간 동안 헤맸어요. | I didn't know the way and wandered for an hour. | راستہ نہ جاننے کی وجہ سے ایک گھنٹہ بھٹکتا رہا۔
+> 시험 문제를 풀다가 헤맸어요. | I got lost solving the exam problem. | امتحان کا سوال حل کرتے ہوئے الجھ گیا۔
+> 꿈속에서 숲을 헤맸어요. | I wandered through a forest in my dream. | خواب میں جنگل میں بھٹکتا رہا۔
++ 화내다 | 火- | hwanaeda | verb | to get angry (at someone) | غصہ کرنا | Emotions & Relationships | 2 |
+> 아버지가 저에게 화내셨어요. | My father got angry at me. | ابو مجھ پر ناراض ہوئے۔
+> 화내지 말고 이야기해요. | Don't get angry; let's talk. | غصہ نہ کریں، بات کرتے ہیں۔
+> 작은 일에 화내는 사람이 있어요. | Some people get angry over small things. | کچھ لوگ چھوٹی بات پر غصہ کرتے ہیں۔
