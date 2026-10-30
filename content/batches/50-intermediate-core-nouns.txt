@@ -1,0 +1,217 @@
+# Intermediate: core nouns (frequent in TOPIK reading)
++ 계기 | 契機 | gyegi | noun | occasion, turning point, trigger | موقع، وجہ | Academic & Formal | 2 |
+> 한국어를 배우게 된 계기가 뭐예요? | What made you start learning Korean? | کورین سیکھنے کی وجہ کیا بنی؟
+> 그 사건이 인생의 계기가 됐어요. | That incident became a turning point in my life. | وہ واقعہ زندگی کا موڑ بن گیا۔
+> 여행을 계기로 생각이 바뀌었어요. | My thinking changed because of the trip. | سفر کی وجہ سے سوچ بدل گئی۔
++ 규모 | 規模 | gyumo | noun | scale, size | پیمانہ | Academic & Formal | 2 |
+> 대규모 행사가 열렸어요. | A large-scale event was held. | ایک بڑے پیمانے کی تقریب ہوئی۔
+> 회사 규모가 커졌어요. | The company has grown in size. | کمپنی کا حجم بڑھ گیا۔
+> 피해 규모를 조사하고 있어요. | They're investigating the scale of the damage. | نقصان کے پیمانے کی جانچ ہو رہی ہے۔
++ 기간 | 期間 | gigan | noun | period, term, duration | مدت | Time & Numbers | 2 |
+> 시험 기간에는 도서관이 붐벼요. | The library is crowded during exam period. | امتحانات کے دوران لائبریری میں رش ہوتا ہے۔
+> 계약 기간은 2년이에요. | The contract period is two years. | معاہدے کی مدت دو سال ہے۔
+> 할인 기간이 끝났어요. | The discount period is over. | رعایت کی مدت ختم ہو گئی۔
++ 기능 | 機能 | gineung | noun | function, feature | خصوصیت، کام | Media & Technology | 2 |
+> 이 휴대폰은 기능이 많아요. | This phone has many features. | اس فون میں بہت سی خصوصیات ہیں۔
+> 새 기능을 사용해 보세요. | Try the new feature. | نیا فیچر استعمال کر کے دیکھیں۔
+> 심장 기능이 약해졌어요. | Heart function has weakened. | دل کی کارکردگی کمزور ہو گئی۔
++ 날짜 |  | naljja | noun | date | تاریخ | Time & Numbers | 2 |
+> 오늘 날짜가 며칠이에요? | What's today's date? | آج کیا تاریخ ہے؟
+> 결혼 날짜를 정했어요. | We set the wedding date. | شادی کی تاریخ طے کی۔
+> 유통 기한 날짜를 확인하세요. | Check the expiration date. | میعاد ختم ہونے کی تاریخ دیکھیں۔
++ 내부 | 內部 | naebu | noun | inside, interior | اندرونی حصہ | Academic & Formal | 2 | 외부 = outside.
+> 건물 내부가 아주 깨끗해요. | The building's interior is very clean. | عمارت کا اندرونی حصہ بہت صاف ہے۔
+> 내부 수리 중이라서 문을 닫았어요. | It's closed for interior repairs. | اندرونی مرمت کی وجہ سے بند ہے۔
+> 회사 내부 문제예요. | It's an internal company matter. | یہ کمپنی کا اندرونی معاملہ ہے۔
++ 단체 | 團體 | danche | noun | group, organization | گروہ، تنظیم | Society & Culture | 2 |
+> 단체 여행을 갔어요. | We went on a group tour. | ہم گروپ کے ساتھ سیر کو گئے۔
+> 환경 단체에서 일해요. | I work for an environmental organization. | میں ایک ماحولیاتی تنظیم میں کام کرتا ہوں۔
+> 단체 사진을 찍었어요. | We took a group photo. | ہم نے گروپ فوٹو لی۔
++ 대가 | 代價 | daega | noun | price, cost, consequence | قیمت، صلہ | Academic & Formal | 2 |
+> 노력의 대가를 받았어요. | I received the reward for my effort. | محنت کا صلہ ملا۔
+> 실수의 대가가 컸어요. | The mistake came at a high price. | غلطی کی بھاری قیمت چکانی پڑی۔
+> 대가 없이 도와줬어요. | They helped without expecting anything in return. | انہوں نے بغیر کسی صلے کے مدد کی۔
++ 덕분 | 德分 | deokbun | noun | thanks to, owing to | بدولت | Common Verbs & Adjectives | 2 | 덕분에 = thanks to.
+> 덕분에 잘 지내요. | I'm doing well, thanks to you. | آپ کی بدولت ٹھیک ہوں۔
+> 친구 덕분에 길을 찾았어요. | I found the way thanks to my friend. | دوست کی بدولت راستہ ملا۔
+> 날씨 덕분에 즐거운 여행이었어요. | It was a fun trip thanks to the weather. | موسم کی بدولت سفر خوشگوار رہا۔
++ 무료 | 無料 | muryo | noun | free (of charge) | مفت | Shopping & Money | 2 | 유료 = paid.
+> 입장료는 무료예요. | Admission is free. | داخلہ مفت ہے۔
+> 이 앱은 무료로 다운로드할 수 있어요. | You can download this app for free. | یہ ایپ مفت ڈاؤن لوڈ ہو سکتی ہے۔
+> 첫 달은 무료로 이용할 수 있어요. | You can use it free for the first month. | پہلا مہینہ مفت استعمال کر سکتے ہیں۔
++ 방향 | 方向 | banghyang | noun | direction | سمت | Places & Directions | 2 |
+> 역은 어느 방향이에요? | Which direction is the station? | اسٹیشن کس سمت ہے؟
+> 반대 방향으로 가는 버스를 탔어요. | I took a bus going the opposite way. | الٹی سمت کی بس لے لی۔
+> 회사가 새로운 방향을 정했어요. | The company set a new direction. | کمپنی نے نئی سمت طے کی۔
++ 변화 | 變化 | byeonhwa | noun | change | تبدیلی | Academic & Formal | 2 |
+> 큰 변화가 생겼어요. | A big change happened. | ایک بڑی تبدیلی آئی۔
+> 기후 변화가 심각해요. | Climate change is serious. | موسمیاتی تبدیلی سنگین ہے۔
+> 변화를 두려워하지 마세요. | Don't fear change. | تبدیلی سے نہ ڈریں۔
++ 분위기 | 雰圍氣 | bunwigi | noun | atmosphere, mood | ماحول | Common Verbs & Adjectives | 2 |
+> 이 카페는 분위기가 좋아요. | This café has a nice atmosphere. | اس کیفے کا ماحول اچھا ہے۔
+> 회의 분위기가 무거웠어요. | The meeting atmosphere was heavy. | میٹنگ کا ماحول سنجیدہ تھا۔
+> 분위기를 바꾸려고 농담을 했어요. | I joked to change the mood. | ماحول بدلنے کے لیے مذاق کیا۔
++ 비용 | 費用 | biyong | noun | cost, expense | خرچ | Economy & Business | 2 |
+> 여행 비용이 얼마나 들어요? | How much does the trip cost? | سفر پر کتنا خرچ آتا ہے؟
+> 수리 비용이 비싸요. | Repair costs are high. | مرمت کا خرچ زیادہ ہے۔
+> 비용을 줄여야 해요. | We need to cut costs. | خرچ کم کرنا ہوگا۔
++ 사정 | 事情 | sajeong | noun | circumstances, situation; reasons | حالات، مجبوری | Common Verbs & Adjectives | 2 |
+> 개인 사정으로 회사를 그만뒀어요. | I quit for personal reasons. | ذاتی وجوہات سے نوکری چھوڑ دی۔
+> 사정이 있어서 못 갔어요. | I couldn't go because something came up. | مجبوری کی وجہ سے نہ جا سکا۔
+> 사정을 이해해 주세요. | Please understand my situation. | میری مجبوری سمجھیں۔
++ 상대 | 相對 | sangdae | noun | the other person, opponent, partner | مخاطب، مقابل | Emotions & Relationships | 2 | 상대방 = the other party.
+> 상대방의 말을 잘 들으세요. | Listen well to the other person. | سامنے والے کی بات غور سے سنیں۔
+> 오늘 경기 상대는 강해요. | Today's opponent is strong. | آج کا مقابل مضبوط ہے۔
+> 대화 상대가 필요해요. | I need someone to talk to. | بات کرنے کے لیے کوئی چاہیے۔
++ 상태 | 狀態 | sangtae | noun | condition, state | حالت | Common Verbs & Adjectives | 2 |
+> 환자 상태가 좋아졌어요. | The patient's condition improved. | مریض کی حالت بہتر ہو گئی۔
+> 중고차인데 상태가 좋아요. | It's a used car, but in good condition. | پرانی گاڑی ہے مگر حالت اچھی ہے۔
+> 지금 정신이 없는 상태예요. | I'm in a frantic state now. | اس وقت حواس باختہ ہوں۔
++ 소문 | 所聞 | somun | noun | rumor | افواہ | Society & Culture | 2 |
+> 이상한 소문이 돌아요. | A strange rumor is going around. | ایک عجیب افواہ گردش میں ہے۔
+> 소문을 믿지 마세요. | Don't believe rumors. | افواہوں پر یقین نہ کریں۔
+> 그 식당은 맛있다고 소문났어요. | That restaurant is rumored to be delicious. | اس ریستوران کے مزے دار ہونے کی شہرت ہے۔
++ 수단 | 手段 | sudan | noun | means, method | ذریعہ | Academic & Formal | 2 | 교통수단 = means of transport.
+> 지하철은 편리한 교통수단이에요. | The subway is a convenient means of transport. | میٹرو آمد و رفت کا آسان ذریعہ ہے۔
+> 언어는 소통의 수단이에요. | Language is a means of communication. | زبان رابطے کا ذریعہ ہے۔
+> 수단과 방법을 가리지 않았어요. | They used any means necessary. | انہوں نے ہر ذریعہ استعمال کیا۔
++ 시설 | 施設 | siseol | noun | facility, facilities | سہولیات | Society & Culture | 2 |
+> 이 호텔은 시설이 좋아요. | This hotel has good facilities. | اس ہوٹل کی سہولیات اچھی ہیں۔
+> 장애인 편의 시설이 늘었어요. | Facilities for the disabled have increased. | معذوروں کے لیے سہولیات بڑھ گئی ہیں۔
+> 공공시설을 아껴 쓰세요. | Take care of public facilities. | عوامی سہولیات کا خیال رکھیں۔
++ 안정 | 安定 | anjeong | noun | stability, calm | استحکام، سکون | Academic & Formal | 2 | 안정되다.
+> 환자는 안정이 필요해요. | The patient needs rest and calm. | مریض کو سکون کی ضرورت ہے۔
+> 생활이 안정됐어요. | My life has become stable. | زندگی مستحکم ہو گئی۔
+> 물가 안정이 중요해요. | Price stability is important. | قیمتوں میں استحکام اہم ہے۔
++ 양 | 量 | yang | noun | amount, quantity | مقدار | Common Verbs & Adjectives | 2 | 양 (羊) = sheep.
+> 이 식당은 양이 많아요. | This restaurant gives large portions. | اس ریستوران میں مقدار زیادہ ہوتی ہے۔
+> 물의 양을 조절하세요. | Adjust the amount of water. | پانی کی مقدار ٹھیک کریں۔
+> 숙제 양이 너무 많아요. | There's too much homework. | ہوم ورک بہت زیادہ ہے۔
++ 요소 | 要素 | yoso | noun | element, factor | عنصر | Academic & Formal | 2 |
+> 성공의 중요한 요소는 노력이에요. | An important element of success is effort. | کامیابی کا اہم عنصر محنت ہے۔
+> 위험 요소를 줄여야 해요. | We must reduce risk factors. | خطرے کے عناصر کم کرنے ہوں گے۔
+> 이 영화에는 재미있는 요소가 많아요. | This film has many fun elements. | اس فلم میں بہت سی دلچسپ باتیں ہیں۔
++ 요인 | 要因 | yoin | noun | factor, cause | سبب، عامل | Academic & Formal | 2 |
+> 스트레스는 질병의 요인이 돼요. | Stress becomes a factor in disease. | ذہنی دباؤ بیماری کا سبب بنتا ہے۔
+> 성공 요인을 분석했어요. | We analyzed the success factors. | کامیابی کے اسباب کا تجزیہ کیا۔
+> 여러 요인이 복합적으로 작용했어요. | Several factors worked together. | کئی عوامل نے مل کر اثر کیا۔
++ 위치 | 位置 | wichi | noun | location, position | مقام | Places & Directions | 2 |
+> 호텔 위치가 아주 좋아요. | The hotel's location is great. | ہوٹل کا مقام بہت اچھا ہے۔
+> 지도에서 위치를 확인하세요. | Check the location on the map. | نقشے پر مقام دیکھیں۔
+> 휴대폰 위치 서비스를 켰어요. | I turned on my phone's location service. | فون کی لوکیشن سروس آن کی۔
++ 의도 | 意圖 | uido | noun | intention | ارادہ، نیت | Emotions & Relationships | 2 |
+> 나쁜 의도는 없었어요. | I had no bad intentions. | میری نیت بری نہیں تھی۔
+> 그의 의도를 모르겠어요. | I don't know what he intends. | اس کا ارادہ سمجھ نہیں آیا۔
+> 의도적으로 한 일이 아니에요. | It wasn't done on purpose. | یہ جان بوجھ کر نہیں کیا۔
++ 인상 | 印象 | insang | noun | impression; (引上) increase (price) | تاثر؛ اضافہ | Emotions & Relationships | 2 | 첫인상 = first impression.
+> 첫인상이 좋았어요. | My first impression was good. | پہلا تاثر اچھا تھا۔
+> 그 영화는 깊은 인상을 남겼어요. | That film left a deep impression. | اس فلم نے گہرا تاثر چھوڑا۔
+> 버스 요금 인상이 발표됐어요. | A bus fare increase was announced. | بس کرائے میں اضافے کا اعلان ہوا۔
++ 일부 | 一部 | ilbu | noun | part, some | کچھ حصہ | Common Verbs & Adjectives | 2 |
+> 월급의 일부를 저축해요. | I save part of my salary. | تنخواہ کا کچھ حصہ بچاتا ہوں۔
+> 일부 사람들은 반대했어요. | Some people opposed it. | کچھ لوگوں نے مخالفت کی۔
+> 운동은 제 생활의 일부예요. | Exercise is part of my life. | ورزش میری زندگی کا حصہ ہے۔
++ 자격 | 資格 | jagyeok | noun | qualification, eligibility | اہلیت | Work & Employment | 2 |
+> 지원 자격을 확인하세요. | Check the eligibility requirements. | اہلیت کی شرائط دیکھیں۔
+> 그는 선생님이 될 자격이 있어요. | He's qualified to be a teacher. | وہ استاد بننے کا اہل ہے۔
+> 저는 그런 말을 할 자격이 없어요. | I have no right to say that. | مجھے یہ کہنے کا حق نہیں۔
++ 자세 | 姿勢 | jase | noun | posture; attitude | انداز، رویہ | Health | 2 |
+> 바른 자세로 앉으세요. | Sit with good posture. | سیدھے انداز میں بیٹھیں۔
+> 배우려는 자세가 중요해요. | A willingness to learn is important. | سیکھنے کا رویہ اہم ہے۔
+> 자세가 나빠서 허리가 아파요. | My back hurts from bad posture. | غلط انداز سے کمر دکھتی ہے۔
++ 절차 | 節次 | jeolcha | noun | procedure, process | طریقۂ کار | Academic & Formal | 2 |
+> 비자 신청 절차가 복잡해요. | The visa application procedure is complicated. | ویزا کی درخواست کا طریقۂ کار پیچیدہ ہے۔
+> 절차에 따라 진행하겠습니다. | We'll proceed according to procedure. | طریقۂ کار کے مطابق آگے بڑھیں گے۔
+> 입국 절차를 마쳤어요. | I completed the entry procedures. | داخلے کی کارروائی مکمل کی۔
++ 조직 | 組織 | jojik | noun | organization; tissue | تنظیم؛ (جسم کا) ٹشو | Work & Employment | 2 |
+> 큰 조직에서 일하고 싶어요. | I want to work in a large organization. | کسی بڑی تنظیم میں کام کرنا چاہتا ہوں۔
+> 조직 문화가 중요해요. | Organizational culture matters. | ادارے کی ثقافت اہم ہے۔
+> 피부 조직이 손상됐어요. | The skin tissue was damaged. | جلد کے ٹشو متاثر ہوئے۔
++ 주제 | 主題 | juje | noun | topic, theme | موضوع | Education & University | 2 |
+> 발표 주제를 정했어요. | I chose my presentation topic. | پریزنٹیشن کا موضوع چنا۔
+> 이 소설의 주제는 사랑이에요. | The theme of this novel is love. | اس ناول کا موضوع محبت ہے۔
+> 주제에서 벗어나지 마세요. | Don't stray from the topic. | موضوع سے نہ ہٹیں۔
++ 중심 | 中心 | jungsim | noun | center, core | مرکز | Places & Directions | 2 |
+> 서울 중심에 궁이 있어요. | There's a palace in the center of Seoul. | سیول کے مرکز میں ایک محل ہے۔
+> 그는 팀의 중심이에요. | He's the core of the team. | وہ ٹیم کا مرکز ہے۔
+> 자기중심적인 사람은 싫어요. | I dislike self-centered people. | خود غرض لوگ پسند نہیں۔
++ 증거 | 證據 | jeunggeo | noun | evidence, proof | ثبوت | Society & Culture | 2 |
+> 증거가 없어서 처벌할 수 없어요. | They can't be punished without evidence. | ثبوت کے بغیر سزا نہیں دی جا سکتی۔
+> 이것이 바로 증거예요. | This is the proof. | یہی ثبوت ہے۔
+> 사랑의 증거로 반지를 줬어요. | He gave a ring as proof of love. | محبت کے ثبوت کے طور پر انگوٹھی دی۔
++ 체계 | 體系 | chegye | noun | system, structure | نظام | Academic & Formal | 2 | 체계적 = systematic.
+> 체계적으로 공부하세요. | Study systematically. | منظم طریقے سے پڑھیں۔
+> 교육 체계가 바뀌었어요. | The education system has changed. | تعلیمی نظام بدل گیا۔
+> 관리 체계를 개선해야 해요. | We must improve the management system. | انتظامی نظام بہتر کرنا ہوگا۔
++ 출처 | 出處 | chulcheo | noun | source (of information) | ماخذ | Academic & Formal | 2 |
+> 자료의 출처를 밝히세요. | State the source of the material. | مواد کا ماخذ بتائیں۔
+> 출처를 알 수 없는 소문이에요. | It's a rumor of unknown origin. | اس افواہ کا ماخذ معلوم نہیں۔
+> 출처가 확실한 정보만 믿어요. | I only trust information from reliable sources. | صرف معتبر ماخذ کی معلومات پر یقین کرتا ہوں۔
++ 특성 | 特性 | teukseong | noun | characteristic, trait | خاصیت | Academic & Formal | 2 |
+> 지역마다 특성이 달라요. | Each region has different characteristics. | ہر علاقے کی خاصیت الگ ہے۔
+> 아이의 특성을 이해해야 해요. | You must understand a child's traits. | بچے کی خصوصیات سمجھنی چاہئیں۔
+> 이 재료의 특성을 살렸어요. | We brought out this ingredient's qualities. | اس جز کی خوبی کو نمایاں کیا۔
++ 표면 | 表面 | pyomyeon | noun | surface | سطح | Academic & Formal | 2 |
+> 탁자 표면이 매끄러워요. | The table surface is smooth. | میز کی سطح ہموار ہے۔
+> 달 표면에는 물이 없어요. | There's no water on the moon's surface. | چاند کی سطح پر پانی نہیں ہے۔
+> 문제가 표면으로 드러났어요. | The problem came to the surface. | مسئلہ سامنے آ گیا۔
++ 한도 | 限度 | hando | noun | limit (amount) | حد | Economy & Business | 2 |
+> 카드 한도를 넘었어요. | I exceeded my card limit. | کارڈ کی حد پار ہو گئی۔
+> 하루 이체 한도가 있어요. | There's a daily transfer limit. | روزانہ منتقلی کی حد ہے۔
+> 참는 데도 한도가 있어요. | There's a limit to my patience. | صبر کی بھی حد ہوتی ہے۔
++ 항목 | 項目 | hangmok | noun | item, category (on a list) | مد، شق | Academic & Formal | 2 |
+> 설문 항목이 너무 많아요. | There are too many survey items. | سروے میں بہت زیادہ سوالات ہیں۔
+> 해당 항목에 체크하세요. | Check the relevant item. | متعلقہ خانے پر نشان لگائیں۔
+> 지출 항목별로 정리했어요. | I organized it by expense category. | خرچ کو مد کے حساب سے ترتیب دیا۔
++ 해결책 | 解決策 | haegyeolchaek | noun | solution | حل | Academic & Formal | 2 |
+> 좋은 해결책을 찾았어요. | We found a good solution. | ایک اچھا حل مل گیا۔
+> 해결책을 제시해 주세요. | Please suggest a solution. | کوئی حل پیش کریں۔
+> 근본적인 해결책이 필요해요. | A fundamental solution is needed. | بنیادی حل کی ضرورت ہے۔
++ 현장 | 現場 | hyeonjang | noun | the scene, the site | موقع، جائے وقوعہ | Society & Culture | 2 |
+> 경찰이 사고 현장에 도착했어요. | Police arrived at the accident scene. | پولیس جائے حادثہ پر پہنچی۔
+> 공사 현장은 위험해요. | Construction sites are dangerous. | تعمیراتی جگہ خطرناک ہوتی ہے۔
+> 현장 체험 학습을 갔어요. | We went on a field trip. | ہم تعلیمی دورے پر گئے۔
++ 형태 | 形態 | hyeongtae | noun | form, shape, type | شکل، صورت | Academic & Formal | 2 |
+> 다양한 형태의 가족이 있어요. | There are many forms of family. | خاندان کی مختلف صورتیں ہیں۔
+> 물은 여러 형태로 존재해요. | Water exists in several forms. | پانی کئی شکلوں میں پایا جاتا ہے۔
+> 근무 형태가 바뀌었어요. | The way of working has changed. | کام کرنے کا انداز بدل گیا۔
++ 혜택 | 惠澤 | hyetaek | noun | benefit, privilege | فائدہ، سہولت | Shopping & Money | 2 |
+> 회원에게 할인 혜택을 드려요. | We offer discount benefits to members. | اراکین کو رعایت کی سہولت دیتے ہیں۔
+> 정부 지원 혜택을 받았어요. | I received government support benefits. | حکومتی امداد کا فائدہ ملا۔
+> 학생 혜택이 많아요. | There are many student benefits. | طلبہ کے لیے بہت سہولتیں ہیں۔
++ 활동 | 活動 | hwaldong | noun | activity | سرگرمی | Hobbies & Leisure | 2 | 활동하다.
+> 봉사 활동을 해요. | I do volunteer work. | میں رضاکارانہ کام کرتا ہوں۔
+> 야외 활동을 좋아해요. | I like outdoor activities. | مجھے باہر کی سرگرمیاں پسند ہیں۔
+> 그 가수는 해외에서 활동해요. | That singer is active overseas. | وہ گلوکار بیرون ملک سرگرم ہے۔
++ 효율 | 效率 | hyoyul | noun | efficiency | کارکردگی | Work & Employment | 2 |
+> 일의 효율을 높여야 해요. | We need to raise work efficiency. | کام کی کارکردگی بڑھانی ہوگی۔
+> 에너지 효율이 좋은 냉장고예요. | It's an energy-efficient fridge. | یہ توانائی بچانے والا فریج ہے۔
+> 쉬면서 하면 효율이 올라가요. | Taking breaks increases efficiency. | وقفے لے کر کام کریں تو کارکردگی بڑھتی ہے۔
++ 경계 | 境界 | gyeonggye | noun | boundary, border; (警戒) caution | حد؛ چوکسی | Academic & Formal | 2 |
+> 두 마을의 경계에 강이 있어요. | There's a river on the border of the two villages. | دونوں گاؤں کی حد پر ایک دریا ہے۔
+> 일과 생활의 경계가 없어졌어요. | The line between work and life has disappeared. | کام اور زندگی کی حد ختم ہو گئی۔
+> 낯선 사람을 경계하세요. | Be wary of strangers. | اجنبیوں سے ہوشیار رہیں۔
++ 공공 | 公共 | gonggong | noun | public | عوامی | Society & Culture | 2 |
+> 공공 도서관을 이용해요. | I use the public library. | میں عوامی لائبریری استعمال کرتا ہوں۔
+> 공공 예절을 지켜야 해요. | We must observe public etiquette. | عوامی آداب کا خیال رکھنا چاہیے۔
+> 공공 와이파이가 무료예요. | Public Wi-Fi is free. | عوامی وائی فائی مفت ہے۔
++ 면적 | 面積 | myeonjeok | noun | area (size) | رقبہ | Time & Numbers | 2 |
+> 이 집의 면적은 85제곱미터예요. | This house is 85 square meters. | اس گھر کا رقبہ پچاسی مربع میٹر ہے۔
+> 한국의 면적은 크지 않아요. | Korea's land area isn't large. | کوریا کا رقبہ زیادہ نہیں۔
+> 숲의 면적이 줄었어요. | The forest area has decreased. | جنگل کا رقبہ کم ہو گیا۔
++ 신분증 | 身分證 | sinbunjeung | noun | ID card | شناختی کارڈ | Daily Life in Korea | 2 |
+> 신분증을 보여 주세요. | Please show your ID. | شناختی کارڈ دکھائیں۔
+> 신분증 없이는 들어갈 수 없어요. | You can't enter without ID. | شناختی کارڈ کے بغیر داخلہ نہیں۔
+> 신분증을 잃어버려서 재발급받았어요. | I lost my ID and got it reissued. | شناختی کارڈ گم ہو گیا، نیا بنوایا۔
++ 성별 | 性別 | seongbyeol | noun | gender, sex | جنس | Society & Culture | 2 |
+> 성별에 관계없이 지원할 수 있어요. | Anyone can apply regardless of gender. | جنس سے قطع نظر درخواست دے سکتے ہیں۔
+> 서류에 성별을 적으세요. | Write your gender on the form. | فارم پر اپنی جنس لکھیں۔
+> 성별에 따른 차별은 안 돼요. | Discrimination by gender is not allowed. | جنس کی بنیاد پر امتیاز جائز نہیں۔
++ 영역 | 領域 | yeongyeok | noun | area, domain, territory | دائرہ، علاقہ | Academic & Formal | 2 |
+> 이 문제는 제 영역 밖이에요. | This issue is outside my area. | یہ مسئلہ میرے دائرے سے باہر ہے۔
+> 고양이는 자기 영역을 지켜요. | Cats guard their territory. | بلی اپنا علاقہ محفوظ رکھتی ہے۔
+> 새로운 영역에 도전했어요. | I took on a new field. | میں نے ایک نئے شعبے میں قدم رکھا۔
++ 통로 | 通路 | tongno | noun | passage, aisle | راہداری | Places & Directions | 2 |
+> 통로 쪽 자리로 주세요. | An aisle seat, please. | راہداری والی نشست دیں۔
+> 통로에 짐을 두지 마세요. | Don't leave bags in the aisle. | راستے میں سامان نہ رکھیں۔
+> 비상 통로를 확인하세요. | Check the emergency passage. | ہنگامی راستہ دیکھ لیں۔
