@@ -1,0 +1,213 @@
+# Honorific vocabulary and social expressions
++ 성함 | 姓銜 | seongham | noun | name (honorific) | اسمِ گرامی | Basics & Greetings | 2 | Honorific of 이름.
+> 성함이 어떻게 되세요? | May I ask your name? | آپ کا اسمِ گرامی؟
+> 여기에 성함을 써 주세요. | Please write your name here. | یہاں اپنا نام لکھیں۔
+> 선생님 성함을 잊어버렸어요. | I forgot the teacher's name. | میں استاد کا نام بھول گیا۔
++ 연세 | 年歲 | yeonse | noun | age (honorific) | عمر (ادب سے) | Basics & Greetings | 2 | Honorific of 나이.
+> 할아버지 연세가 어떻게 되세요? | How old is your grandfather? | دادا جان کی عمر کیا ہے؟
+> 연세가 많으신데도 건강하세요. | Despite their age, they're healthy. | عمر زیادہ ہونے کے باوجود صحت مند ہیں۔
+> 어머니 연세는 예순이세요. | My mother is sixty. | امی ساٹھ سال کی ہیں۔
++ 생신 | 生辰 | saengsin | noun | birthday (honorific) | سالگرہ (ادب سے) | Basics & Greetings | 2 | Honorific of 생일.
+> 다음 주가 아버지 생신이에요. | Next week is my father's birthday. | اگلے ہفتے ابو کی سالگرہ ہے۔
+> 할머니 생신 선물을 샀어요. | I bought a birthday present for Grandma. | دادی کی سالگرہ کا تحفہ خریدا۔
+> 생신 축하드립니다. | Happy birthday (to you, sir/ma'am). | سالگرہ مبارک ہو۔
++ 댁 | 宅 | daek | noun | home (honorific); Mrs./family of | دولت خانہ | Basics & Greetings | 2 | Honorific of 집.
+> 선생님 댁에 초대받았어요. | I was invited to the teacher's home. | استاد کے گھر مدعو ہوا۔
+> 댁이 어디세요? | Where do you live? | آپ کا گھر کہاں ہے؟
+> 할머니 댁은 부산이에요. | Grandma's house is in Busan. | دادی کا گھر بوسان میں ہے۔
++ 진지 |  | jinji | noun | meal (honorific, to elders) | کھانا (بزرگوں کے لیے) | Basics & Greetings | 2 | 진지 잡수세요 = please have your meal.
+> 할아버지, 진지 드세요. | Grandpa, please have your meal. | دادا جان، کھانا تناول فرمائیں۔
+> 진지 잡수셨어요? | Have you eaten? (to an elder) | کیا آپ نے کھانا کھا لیا؟
+> 진지를 차려 드렸어요. | I set out the meal for them. | میں نے ان کے لیے کھانا لگایا۔
++ 말씀 |  | malsseum | noun | words, speech (honorific / humble) | بات، فرمان | Basics & Greetings | 2 | 말씀하시다 = to speak (hon.); 말씀드리다 = to tell (humble).
+> 선생님 말씀을 잘 들으세요. | Listen well to what the teacher says. | استاد کی بات غور سے سنیں۔
+> 말씀 좀 여쭤봐도 될까요? | May I ask you something? | کیا میں کچھ پوچھ سکتا ہوں؟
+> 제가 말씀드릴게요. | I'll tell you. | میں آپ کو بتاتا ہوں۔
++ 드시다 |  | deusida | verb | to eat, to drink (honorific) | تناول کرنا | Basics & Greetings | 2 | Honorific of 먹다 / 마시다.
+> 맛있게 드세요. | Enjoy your meal. | مزے سے کھائیں۔
+> 커피 드시겠어요? | Would you like some coffee? | کافی پئیں گے؟
+> 아버지는 아침을 일찍 드세요. | My father eats breakfast early. | ابو صبح جلدی ناشتہ کرتے ہیں۔
++ 주무시다 |  | jumusida | verb | to sleep (honorific) | آرام فرمانا، سونا | Basics & Greetings | 2 | Honorific of 자다.
+> 안녕히 주무세요. | Good night (to an elder). | شب بخیر۔
+> 할머니는 지금 주무세요. | Grandma is sleeping now. | دادی ابھی سو رہی ہیں۔
+> 어젯밤에 잘 주무셨어요? | Did you sleep well last night? | کل رات اچھی نیند آئی؟
++ 계시다 |  | gyesida | verb | to be, to stay (honorific) | موجود ہونا (ادب سے) | Basics & Greetings | 2 | Honorific of 있다 (be somewhere).
+> 사장님 계세요? | Is the boss in? | کیا مالک صاحب موجود ہیں؟
+> 부모님은 고향에 계세요. | My parents are in my hometown. | والدین آبائی شہر میں ہیں۔
+> 안녕히 계세요. | Goodbye (said by the one leaving). | خدا حافظ (جانے والا کہتا ہے)۔
++ 뵙다 |  | boepda | verb | to see, to meet (humble) | ملاقات کرنا (عاجزی سے) | Basics & Greetings | 2 | Humble of 보다/만나다. Also 뵈다.
+> 처음 뵙겠습니다. | Nice to meet you (first time). | آپ سے مل کر خوشی ہوئی۔
+> 내일 다시 뵙겠습니다. | I'll see you again tomorrow. | کل دوبارہ ملاقات ہوگی۔
+> 사장님을 뵙고 싶습니다. | I would like to see the president. | میں صدر صاحب سے ملنا چاہتا ہوں۔
++ 여쭈다 |  | yeojjuda | verb | to ask (humble) | عرض کرنا، پوچھنا | Basics & Greetings | 2 | Humble of 묻다. Also 여쭙다.
+> 한 가지 여쭤보고 싶어요. | I'd like to ask you one thing. | ایک بات پوچھنا چاہتا ہوں۔
+> 할아버지께 옛날 이야기를 여쭤봤어요. | I asked Grandpa about the old days. | میں نے دادا جان سے پرانے دنوں کا پوچھا۔
+> 교수님께 여쭤볼게요. | I'll ask the professor. | میں پروفیسر صاحب سے پوچھ لوں گا۔
++ 편찮으시다 |  | pyeonchaneusida | adjective | to be ill (honorific) | طبیعت ناساز ہونا | Basics & Greetings | 2 | Honorific of 아프다.
+> 할머니가 편찮으세요. | Grandma is unwell. | دادی کی طبیعت ناساز ہے۔
+> 어디가 편찮으세요? | Where does it hurt? (to an elder) | آپ کو کہاں تکلیف ہے؟
+> 아버지가 편찮으셔서 병원에 가셨어요. | My father was ill and went to the hospital. | ابو بیمار ہو کر ہسپتال گئے۔
++ 돌아가시다 |  | doragasida | verb | to pass away (honorific) | وفات پانا | Family & People | 2 | Honorific of 죽다.
+> 할아버지는 작년에 돌아가셨어요. | My grandfather passed away last year. | دادا جان پچھلے سال وفات پا گئے۔
+> 돌아가신 분을 기억합니다. | We remember those who have passed away. | ہم مرحومین کو یاد کرتے ہیں۔
+> 할머니가 돌아가시고 많이 울었어요. | I cried a lot after Grandma passed away. | دادی کی وفات کے بعد میں بہت رویا۔
++ 실례하다 | 失禮- | sillyehada | verb | to be rude; excuse me | گستاخی معاف، معاف کیجیے | Basics & Greetings | 2 | 실례합니다 = Excuse me.
+> 실례합니다. 길 좀 물어볼게요. | Excuse me, may I ask for directions? | معاف کیجیے، راستہ پوچھنا ہے۔
+> 실례지만 몇 살이세요? | Excuse me, but how old are you? | معاف کیجیے، آپ کی عمر کیا ہے؟
+> 늦게 연락해서 실례가 많았습니다. | I'm sorry for the late contact. | دیر سے رابطہ کرنے پر معذرت۔
++ 천만에요 | 千萬- | cheonmaneyo | expression | you're welcome, not at all | کوئی بات نہیں | Basics & Greetings | 2 |
+> 감사합니다. — 천만에요. | Thank you. — You're welcome. | شکریہ۔ — کوئی بات نہیں۔
+> 천만에요, 언제든지 도와드릴게요. | Not at all, I'll help anytime. | کوئی بات نہیں، کبھی بھی مدد کروں گا۔
+> 천만에요. 별거 아니에요. | You're welcome. It was nothing. | کوئی بات نہیں، معمولی بات تھی۔
++ 잘 먹겠습니다 |  | jal meokgetseumnida | expression | thank you for the food (before eating) | کھانا شروع کرنے سے پہلے شکریہ | Basics & Greetings | 1 | After eating: 잘 먹었습니다.
+> 잘 먹겠습니다! | Thank you for the meal (let's eat)! | کھانے کا شکریہ، شروع کرتے ہیں!
+> 어머니, 잘 먹었습니다. | Mom, thank you for the meal. | امی، کھانے کا شکریہ۔
+> 맛있게 잘 먹겠습니다. | I'll enjoy it, thank you. | مزے سے کھاؤں گا، شکریہ۔
++ 다녀오겠습니다 |  | danyeoogetseumnida | expression | I'm leaving (and will be back) | میں جا رہا ہوں (واپس آؤں گا) | Basics & Greetings | 1 | Reply on return: 다녀왔습니다; others say 다녀오세요.
+> 학교 다녀오겠습니다! | I'm off to school! | اسکول جا رہا ہوں!
+> 다녀왔습니다. | I'm home. | میں واپس آ گیا۔
+> 조심히 다녀오세요. | Take care and come back safely. | خیریت سے جائیں اور آئیں۔
++ 오랜만 |  | oraenman | noun | after a long time | بہت دنوں بعد | Basics & Greetings | 1 | 오랜만이에요 = long time no see.
+> 오랜만이에요! 잘 지냈어요? | Long time no see! How have you been? | بہت دنوں بعد ملے! کیسے ہیں؟
+> 오랜만에 고향에 갔어요. | I went home for the first time in a long while. | بہت عرصے بعد گھر گیا۔
+> 오랜만에 비가 왔어요. | It rained for the first time in a while. | بہت دنوں بعد بارش ہوئی۔
++ 안부 | 安否 | anbu | noun | regards, well-being | خیریت | Basics & Greetings | 2 | 안부를 전하다 = send regards.
+> 부모님께 안부 전해 주세요. | Give my regards to your parents. | والدین کو میرا سلام کہیے گا۔
+> 친구에게 안부 전화를 했어요. | I called a friend to check in. | دوست کو خیریت پوچھنے کے لیے فون کیا۔
+> 안부를 묻는 문자가 왔어요. | A text came asking how I was. | خیریت پوچھنے کا پیغام آیا۔
++ 인사말 | 人事- | insamal | noun | greeting (words), address | سلام، خطاب | Basics & Greetings | 2 |
+> 행사 시작 전에 인사말을 했어요. | I gave a greeting before the event started. | تقریب سے پہلے خطاب کیا۔
+> 한국어 인사말을 배웠어요. | I learned Korean greetings. | کورین کے سلام سیکھے۔
+> 사장님의 인사말이 있겠습니다. | The president will give an address. | صدر صاحب خطاب کریں گے۔
++ 고백하다 | 告白- | gobaekhada | verb | to confess (love, truth) | اعتراف کرنا، اظہارِ محبت | Emotions & Relationships | 2 |
+> 그녀에게 사랑을 고백했어요. | I confessed my love to her. | اسے اپنی محبت کا اظہار کیا۔
+> 진실을 고백했어요. | I confessed the truth. | سچ کا اعتراف کیا۔
+> 고백할 용기가 없어요. | I don't have the courage to confess. | اظہار کی ہمت نہیں ہے۔
++ 짝사랑 |  | jjaksarang | noun | one-sided love, crush | یکطرفہ محبت | Emotions & Relationships | 2 |
+> 학교 때 선배를 짝사랑했어요. | I had a crush on a senior in school. | اسکول میں ایک سینئر سے یکطرفہ محبت تھی۔
+> 짝사랑은 마음이 아파요. | One-sided love hurts. | یکطرفہ محبت دکھ دیتی ہے۔
+> 짝사랑을 끝내고 고백했어요. | I ended my secret crush by confessing. | خاموش محبت ختم کر کے اظہار کر دیا۔
++ 데이트 |  | deiteu | noun | date (romantic) | ملاقات (رومانوی) | Emotions & Relationships | 2 |
+> 주말에 데이트가 있어요. | I have a date this weekend. | ہفتے کے آخر میں ملاقات ہے۔
+> 첫 데이트에서 영화를 봤어요. | We watched a movie on our first date. | پہلی ملاقات میں فلم دیکھی۔
+> 데이트 장소를 추천해 주세요. | Recommend a place for a date. | ملاقات کے لیے کوئی جگہ بتائیں۔
++ 첫눈 |  | cheonnun | noun | first snow; first sight | پہلی برف؛ پہلی نظر | Nature & Weather | 2 | 첫눈에 반하다 = love at first sight.
+> 오늘 첫눈이 왔어요. | The first snow fell today. | آج پہلی برف پڑی۔
+> 첫눈에 반했어요. | It was love at first sight. | پہلی نظر میں دل دے بیٹھا۔
+> 첫눈 오는 날 만나기로 했어요. | We promised to meet on the day of first snow. | پہلی برف کے دن ملنے کا وعدہ کیا۔
++ 반하다 |  | banhada | verb | to fall for, to be smitten | دل آ جانا | Emotions & Relationships | 2 | -에게 반하다.
+> 그의 미소에 반했어요. | I fell for his smile. | اس کی مسکراہٹ پر دل آ گیا۔
+> 한국 음식 맛에 반했어요. | I fell in love with the taste of Korean food. | کوریائی کھانے کے ذائقے پر فدا ہو گیا۔
+> 첫눈에 반한 사람과 결혼했어요. | I married the person I fell for at first sight. | پہلی نظر کی محبت سے شادی کی۔
++ 청혼하다 | 請婚- | cheonghonhada | verb | to propose (marriage) | شادی کی پیشکش کرنا | Family & People | 2 | Also 프러포즈하다.
+> 그는 반지를 주며 청혼했어요. | He proposed with a ring. | اس نے انگوٹھی دے کر شادی کی پیشکش کی۔
+> 청혼을 받아들였어요. | She accepted the proposal. | اس نے رشتہ قبول کر لیا۔
+> 바닷가에서 청혼했어요. | He proposed at the beach. | ساحل پر شادی کی پیشکش کی۔
++ 사위 |  | sawi | noun | son-in-law | داماد | Family & People | 2 | 며느리 = daughter-in-law.
+> 사위가 장인어른께 인사드렸어요. | The son-in-law greeted his father-in-law. | داماد نے سسر کو سلام کیا۔
+> 우리 사위는 정말 착해요. | Our son-in-law is really kind. | ہمارا داماد بہت اچھا ہے۔
+> 며느리가 시어머니와 사이가 좋아요. | The daughter-in-law gets along with her mother-in-law. | بہو کے ساس سے اچھے تعلقات ہیں۔
++ 시부모 | 媤父母 | sibumo | noun | parents-in-law (husband's parents) | ساس سسر | Family & People | 2 | 장인/장모 = wife's father/mother.
+> 명절에 시부모님 댁에 가요. | We visit my husband's parents on holidays. | تہوار پر ساس سسر کے گھر جاتے ہیں۔
+> 시부모님이 저를 딸처럼 대해 주세요. | My in-laws treat me like a daughter. | ساس سسر مجھے بیٹی کی طرح رکھتے ہیں۔
+> 시부모님께 매주 전화를 드려요. | I call my in-laws every week. | میں ہر ہفتے ساس سسر کو فون کرتی ہوں۔
++ 조카 |  | joka | noun | nephew, niece | بھتیجا، بھانجا | Family & People | 2 |
+> 조카가 초등학교에 들어갔어요. | My nephew started elementary school. | بھتیجا پرائمری اسکول میں داخل ہوا۔
+> 조카에게 용돈을 줬어요. | I gave my niece pocket money. | بھانجی کو جیب خرچ دیا۔
+> 조카와 놀이공원에 갔어요. | I went to an amusement park with my nephew. | بھتیجے کے ساتھ تفریحی پارک گیا۔
++ 친척 | 親戚 | chincheok | noun | relative | رشتہ دار | Family & People | 2 |
+> 명절에 친척들이 모였어요. | Relatives gathered for the holiday. | تہوار پر رشتہ دار جمع ہوئے۔
+> 먼 친척이 한국에 살아요. | A distant relative lives in Korea. | ایک دور کا رشتہ دار کوریا میں رہتا ہے۔
+> 친척 결혼식에 갔어요. | I went to a relative's wedding. | ایک رشتہ دار کی شادی میں گیا۔
++ 집안 |  | jiban | noun | family, household; inside the house | خاندان؛ گھر کے اندر | Family & People | 2 |
+> 그는 좋은 집안 출신이에요. | He comes from a good family. | وہ اچھے خاندان سے ہے۔
+> 집안 분위기가 화목해요. | The family atmosphere is harmonious. | گھر کا ماحول پیار بھرا ہے۔
+> 집안이 조용해요. | It's quiet in the house. | گھر میں خاموشی ہے۔
++ 가정 | 家庭 | gajeong | noun | home, household, family | گھرانا | Family & People | 2 | 가정 (假定) = assumption.
+> 행복한 가정을 꾸리고 싶어요. | I want to build a happy home. | میں ایک خوشحال گھرانا بسانا چاہتا ہوں۔
+> 가정마다 문화가 달라요. | Every household has its own culture. | ہر گھر کی اپنی روایت ہوتی ہے۔
+> 가정 형편이 어려웠어요. | The family's circumstances were hard. | گھر کے حالات مشکل تھے۔
++ 맞벌이 |  | matbeori | noun | dual-income (couple) | میاں بیوی دونوں کمانے والے | Family & People | 2 |
+> 우리는 맞벌이 부부예요. | We're a dual-income couple. | ہم دونوں کماتے ہیں۔
+> 맞벌이 가정이 늘고 있어요. | Dual-income households are increasing. | دونوں کمانے والے گھرانے بڑھ رہے ہیں۔
+> 맞벌이라서 아이를 어린이집에 맡겨요. | We both work, so our child goes to daycare. | دونوں کام کرتے ہیں، بچہ ڈے کیئر میں رہتا ہے۔
++ 어린이집 |  | eorinijip | noun | daycare center | ڈے کیئر | Family & People | 2 | 유치원 = kindergarten.
+> 아이를 어린이집에 데려다줬어요. | I dropped the child off at daycare. | بچے کو ڈے کیئر چھوڑا۔
+> 어린이집 선생님이 친절해요. | The daycare teachers are kind. | ڈے کیئر کی استانیاں مہربان ہیں۔
+> 어린이집에서 아이를 데려왔어요. | I picked up the child from daycare. | بچے کو ڈے کیئر سے لے آیا۔
++ 육아 | 育兒 | yuga | noun | childcare, parenting | بچوں کی پرورش | Family & People | 2 |
+> 육아는 정말 힘들어요. | Parenting is really hard. | بچوں کی پرورش واقعی مشکل ہے۔
+> 남편도 육아에 참여해요. | My husband takes part in childcare too. | شوہر بھی بچوں کی پرورش میں ہاتھ بٹاتے ہیں۔
+> 육아 정보를 공유해요. | We share parenting information. | ہم پرورش کی معلومات بانٹتے ہیں۔
++ 돌잔치 |  | doljanchi | noun | first-birthday party | پہلی سالگرہ کی دعوت | Family & People | 2 |
+> 조카 돌잔치에 초대받았어요. | I was invited to my nephew's first-birthday party. | بھتیجے کی پہلی سالگرہ میں مدعو ہوا۔
+> 돌잔치에서 아기가 돈을 잡았어요. | At the first-birthday party, the baby grabbed money. | سالگرہ پر بچے نے پیسے اٹھائے۔
+> 돌잔치는 한국의 전통이에요. | The first-birthday party is a Korean tradition. | پہلی سالگرہ کی دعوت کوریائی روایت ہے۔
++ 환갑 | 還甲 | hwangap | noun | 60th birthday | ساٹھویں سالگرہ | Family & People | 2 |
+> 아버지 환갑 잔치를 했어요. | We held my father's 60th birthday party. | ابو کی ساٹھویں سالگرہ منائی۔
+> 요즘은 환갑을 크게 하지 않아요. | These days the 60th isn't celebrated in a big way. | آج کل ساٹھویں سالگرہ دھوم سے نہیں مناتے۔
+> 환갑 선물로 여행을 보내 드렸어요. | We sent them on a trip as a 60th birthday gift. | ساٹھویں سالگرہ پر سیر کا تحفہ دیا۔
++ 축의금 | 祝儀金 | chuguigeum | noun | congratulatory money (at weddings) | شادی پر دی جانے والی رقم | Society & Culture | 2 | 부의금 = condolence money.
+> 결혼식에 축의금을 냈어요. | I gave congratulatory money at the wedding. | شادی میں سلامی دی۔
+> 축의금은 봉투에 넣어서 드려요. | Wedding money is given in an envelope. | سلامی لفافے میں دی جاتی ہے۔
+> 축의금으로 얼마를 내야 할까요? | How much should I give at the wedding? | سلامی میں کتنی رقم دوں؟
++ 조문 | 弔問 | jomun | noun | condolence visit | تعزیت | Society & Culture | 2 | 조문하다.
+> 장례식장에 조문을 갔어요. | I went to the funeral hall to offer condolences. | تعزیت کے لیے گیا۔
+> 조문객이 많이 왔어요. | Many mourners came. | بہت سے لوگ تعزیت کو آئے۔
+> 조문할 때는 검은 옷을 입어요. | You wear black when paying condolences. | تعزیت پر کالے کپڑے پہنتے ہیں۔
++ 위로 | 慰勞 | wiro | noun | comfort, consolation | تسلی | Emotions & Relationships | 2 | 위로하다.
+> 친구의 위로가 큰 힘이 됐어요. | My friend's comfort was a great strength. | دوست کی تسلی سے بڑی ہمت ملی۔
+> 위로의 말을 전했어요. | I offered words of comfort. | تسلی کے الفاظ کہے۔
+> 음악에서 위로를 받아요. | I find comfort in music. | موسیقی سے سکون ملتا ہے۔
++ 축하 | 祝賀 | chukha | noun | congratulations | مبارکباد | Basics & Greetings | 2 |
+> 축하 파티를 열었어요. | We threw a celebration party. | مبارکباد کی پارٹی رکھی۔
+> 많은 사람들의 축하를 받았어요. | I received congratulations from many people. | بہت لوگوں سے مبارکباد ملی۔
+> 축하 메시지를 보냈어요. | I sent a congratulatory message. | مبارکباد کا پیغام بھیجا۔
++ 덕담 | 德談 | deokdam | noun | words of blessing, good wishes | نیک تمنائیں | Society & Culture | 2 | Often given at New Year.
+> 설날에 어른들께 덕담을 들었어요. | Elders gave us good wishes on New Year's. | نئے سال پر بزرگوں سے دعائیں ملیں۔
+> 새해 덕담을 나눴어요. | We exchanged New Year's wishes. | نئے سال کی نیک تمنائیں دیں۔
+> 할아버지의 덕담이 마음에 남아요. | Grandpa's words of blessing stay with me. | دادا جان کی دعائیں دل میں ہیں۔
++ 세배 | 歲拜 | sebae | noun | New Year's bow (to elders) | نئے سال پر جھک کر سلام | Society & Culture | 2 | 세뱃돈 = New Year money.
+> 설날에 할머니께 세배를 했어요. | On New Year's I bowed to my grandmother. | نئے سال پر دادی کو جھک کر سلام کیا۔
+> 세배하고 세뱃돈을 받았어요. | I bowed and received New Year money. | سلام کیا اور عیدی ملی۔
+> 아이들이 세배를 기다려요. | Children look forward to the New Year's bow. | بچے نئے سال کے سلام کا انتظار کرتے ہیں۔
++ 존칭 | 尊稱 | jonching | noun | honorific title, respectful form of address | احترام کا لقب | Society & Culture | 2 | e.g. -님, -씨.
+> 이름 뒤에 '님'을 붙이면 존칭이 돼요. | Adding '-nim' after a name makes it honorific. | نام کے بعد 'نِم' لگانے سے احترام ظاہر ہوتا ہے۔
+> 한국어는 존칭이 발달했어요. | Korean has a well-developed honorific system. | کورین میں احترام کا نظام بہت ترقی یافتہ ہے۔
+> 존칭을 잘못 쓰면 실례예요. | Misusing honorifics is rude. | احترام کے الفاظ غلط استعمال کرنا بدتمیزی ہے۔
++ 호칭 | 呼稱 | hoching | noun | form of address, title | خطاب، لقب | Society & Culture | 2 |
+> 회사에서는 직급으로 호칭해요. | At work, people are addressed by rank. | دفتر میں عہدے سے پکارا جاتا ہے۔
+> 처음 만난 사람의 호칭이 어려워요. | It's hard to know how to address someone new. | نئے شخص کو کیسے پکاریں، یہ مشکل ہے۔
+> 가족 호칭이 복잡해요. | Family terms of address are complicated. | خاندانی القاب پیچیدہ ہیں۔
++ 씨 | 氏 | ssi | noun | Mr./Ms. (after a name) | صاحب/صاحبہ | Basics & Greetings | 1 | Not used for elders or bosses; use -님.
+> 김민수 씨, 들어오세요. | Mr. Kim Minsu, please come in. | کم من سو صاحب، اندر آئیں۔
+> 아만 씨는 어디에서 왔어요? | Where are you from, Aman? | امان صاحب، آپ کہاں سے آئے ہیں؟
+> 지수 씨에게 전화했어요. | I called Jisu. | میں نے جی سو کو فون کیا۔
++ 님 |  | nim | noun | honorific suffix (sir/ma'am) | جناب (عزت والا لاحقہ) | Basics & Greetings | 1 | 선생님, 사장님, 고객님.
+> 고객님, 무엇을 도와드릴까요? | Dear customer, how can I help you? | محترم گاہک، کیا خدمت کروں؟
+> 부장님께 보고했어요. | I reported to the manager. | میں نے منیجر صاحب کو رپورٹ دی۔
+> 하느님께 기도해요. | I pray to God. | میں خدا سے دعا کرتا ہوں۔
++ 저희 |  | jeohui | pronoun | we, our (humble) | ہم (عاجزی سے) | Basics & Greetings | 1 | Humble of 우리. Not used for one's country with outsiders in some contexts.
+> 저희 가게에 와 주셔서 감사합니다. | Thank you for coming to our shop. | ہماری دکان پر آنے کا شکریہ۔
+> 저희 회사를 소개하겠습니다. | Let me introduce our company. | ہم اپنی کمپنی کا تعارف کراتے ہیں۔
+> 저희 부모님은 시골에 사세요. | Our parents live in the countryside. | ہمارے والدین گاؤں میں رہتے ہیں۔
++ 여러분 |  | yeoreobun | pronoun | everyone (addressing a group) | آپ سب، حاضرین | Basics & Greetings | 1 |
+> 여러분, 안녕하세요! | Hello, everyone! | سب کو سلام!
+> 여러분의 의견을 들려주세요. | Please share your opinions, everyone. | آپ سب اپنی رائے دیں۔
+> 여러분 덕분에 성공했어요. | I succeeded thanks to all of you. | آپ سب کی بدولت کامیاب ہوا۔
++ 수고 많으셨습니다 |  | sugo maneusyeotseumnida | expression | thank you for all your hard work | آپ کی محنت کا شکریہ | Basics & Greetings | 2 |
+> 오늘 하루도 수고 많으셨습니다. | Thank you for your hard work today too. | آج کی محنت کا بھی شکریہ۔
+> 프로젝트 끝내느라 수고 많으셨습니다. | Thank you for your hard work finishing the project. | منصوبہ مکمل کرنے کی محنت کا شکریہ۔
+> 먼 길 오시느라 수고 많으셨습니다. | Thank you for making the long trip. | اتنی دور سے آنے کی زحمت کا شکریہ۔
++ 별말씀을요 | 別- | byeolmalsseumeullyo | expression | don't mention it, not at all | ایسی کوئی بات نہیں | Basics & Greetings | 2 | Polite reply to thanks or compliments.
+> 정말 감사해요. — 별말씀을요. | Thank you so much. — Don't mention it. | بہت شکریہ۔ — ایسی کوئی بات نہیں۔
+> 한국어를 잘하시네요. — 별말씀을요. | You speak Korean well. — Oh, not at all. | آپ اچھی کورین بولتے ہیں۔ — نہیں جناب۔
+> 별말씀을요. 제가 더 감사하죠. | Not at all. I should be thanking you. | ایسا نہ کہیں، شکریہ تو مجھے ادا کرنا چاہیے۔
++ 잘 부탁드립니다 | -付託- | jal butakdeurimnida | expression | I look forward to working with you; please take care of me | آپ کے تعاون کا منتظر ہوں | Basics & Greetings | 2 |
+> 새로 온 김민수입니다. 잘 부탁드립니다. | I'm Kim Minsu, the new hire. I look forward to working with you. | میں نیا ملازم کم من سو ہوں، آپ کے تعاون کا منتظر ہوں۔
+> 앞으로 잘 부탁드립니다. | I look forward to our future together. | آئندہ کے لیے تعاون کی امید ہے۔
+> 우리 아이를 잘 부탁드립니다. | Please take good care of our child. | ہمارے بچے کا خیال رکھیے گا۔
++ 덕분에 |  | deokbune | expression | thanks to you; (reply to "how are you") fine, thanks | آپ کی دعا سے | Basics & Greetings | 2 | 잘 지내셨어요? — 네, 덕분에 잘 지냈어요.
+> 잘 지내셨어요? — 네, 덕분에요. | Have you been well? — Yes, thanks to you. | خیریت سے ہیں؟ — جی، آپ کی دعا سے۔
+> 덕분에 무사히 도착했어요. | Thanks to you, I arrived safely. | آپ کی بدولت خیریت سے پہنچ گیا۔
+> 덕분에 많이 배웠어요. | I learned a lot thanks to you. | آپ کی بدولت بہت کچھ سیکھا۔
