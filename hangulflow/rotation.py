@@ -48,12 +48,19 @@ def choose_next(
     now = now or datetime.now(timezone.utc)
     last = recent_ids[0] if recent_ids else None
 
-    # 1. Due reviews win, even if shown recently - just never twice in a row.
-    due = [c for c in candidates if c.due_at is not None and c.due_at <= now and c.vocab_id != last]
-    if due:
+    recent = set(recent_ids)
+
+    # 1. Due reviews win. Prefer ones outside the recent window first, so a
+    #    backlog of overdue words rotates through instead of just bouncing
+    #    between the one or two most-overdue words forever when the learner
+    #    clicks Next without rating (nothing then changes due_at).
+    due_all = [c for c in candidates if c.due_at is not None and c.due_at <= now]
+    if due_all:
+        due = [c for c in due_all if c.vocab_id not in recent]
+        if not due:
+            due = [c for c in due_all if c.vocab_id != last] or due_all
         return min(due, key=lambda c: c.due_at).vocab_id
 
-    recent = set(recent_ids)
     pool = [c for c in candidates if c.vocab_id not in recent]
     if not pool:
         pool = [c for c in candidates if c.vocab_id != last] or list(candidates)

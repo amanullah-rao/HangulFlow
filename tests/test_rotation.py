@@ -57,8 +57,25 @@ def test_due_words_come_first_even_if_recent():
         Candidate(3, 3, "review", NOW - timedelta(days=2)),              # more overdue
         Candidate(4, 3, "review", NOW + timedelta(days=3)),              # not due
     ]
-    assert choose_next(cands, [9, 3], random.Random(1), NOW) == 3
-    assert choose_next(cands, [3], random.Random(1), NOW) == 2   # never the same word twice in a row
+    assert choose_next(cands, [9], random.Random(1), NOW) == 3   # most overdue wins, beats the new word
+    assert choose_next(cands, [3], random.Random(1), NOW) == 2   # 3 just shown: next-most-overdue, not back to 3
+
+
+def test_overdue_backlog_rotates_past_the_two_most_overdue():
+    """Regression: clicking Next repeatedly without rating must not loop
+    between just the one or two most-overdue words forever - the due_at of
+    an unrated word never changes, so the old code got stuck bouncing
+    between the top two. The whole backlog (up to the recent window) should
+    get a turn before anything repeats."""
+    cands = [Candidate(i, 3, "review", NOW - timedelta(days=i)) for i in range(1, 7)]  # 6 overdue words
+    recent: list[int] = []
+    shown = []
+    for _ in range(12):
+        picked = choose_next(cands, recent, random.Random(1), NOW)
+        shown.append(picked)
+        recent.insert(0, picked)
+        recent = recent[: recent_window(len(cands))]
+    assert len(set(shown)) > 2
 
 
 def test_new_words_before_early_practice():
