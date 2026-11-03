@@ -40,6 +40,7 @@ from . import desktop_layer, theme
 from .word_dialog import WordDialog
 from .speech import INSTALL_HINT, KoreanSpeaker
 from .stats_dialog import StatsDialog
+from .about_dialog import AboutDialog
 
 RATING_BUTTONS = (  # (rating, label, key)
     (srs.UNKNOWN, "Unknown", "1"),
@@ -413,6 +414,7 @@ class VocabWidget(QWidget):
         menu.addAction("Open data folder (backups, logs)", self.open_data_folder)
 
         menu.addSeparator()
+        menu.addAction("About HangulFlow…", self.show_about)
         menu.addAction("Hide to tray", self.hide_to_tray)
         menu.addAction("Quit HangulFlow", self.quit_requested.emit)
         return menu
@@ -714,6 +716,11 @@ class VocabWidget(QWidget):
 
     def show_statistics(self) -> None:
         dialog = StatsDialog(self._repo.stats(), self._settings.daily_goal, theme.palette(self._settings.theme), self._fonts)
+        dialog.setWindowIcon(self.windowIcon())
+        dialog.exec()
+
+    def show_about(self) -> None:
+        dialog = AboutDialog(self._repo.count())
         dialog.setWindowIcon(self.windowIcon())
         dialog.exec()
 

@@ -211,6 +211,13 @@ whether it is available in your country), or SignPath Foundation, which signs
 open-source projects for free. Sign with `signtool sign` after PyInstaller and
 again after Inno Setup.
 
+## Author
+
+HangulFlow is designed and developed by **Amanullah**, Kunsan National University
+([@amanullah-rao](https://github.com/amanullah-rao)).
+Bug reports and suggestions are welcome on the
+[issues page](https://github.com/amanullah-rao/HangulFlow/issues).
+
 ## License
 
 HangulFlow's code and curated vocabulary are released under the [MIT License](LICENSE).

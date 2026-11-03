@@ -26,6 +26,7 @@ class TrayIcon(QSystemTrayIcon):
         menu.addAction("Add my own word…", widget.add_word)
         menu.addAction("Statistics…", widget.show_statistics)
         menu.addSeparator()
+        menu.addAction("About HangulFlow…", widget.show_about)
         menu.addAction("Quit HangulFlow", widget.quit_requested.emit)
         menu.aboutToShow.connect(self._refresh_menu)
         self._menu = menu  # keep a reference; the tray does not own its menu

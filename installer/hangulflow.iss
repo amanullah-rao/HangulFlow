@@ -7,13 +7,13 @@
 ; only (no administrator rights needed), so it works on any Windows 10/11 PC.
 ; Words and progress live in %LOCALAPPDATA%\HangulFlow and are kept on uninstall.
 
-#define AppVersion "0.3.1"
+#define AppVersion "0.3.2"
 
 [Setup]
 AppId={{6F1C2A4E-8B37-4D5A-9E2F-4A7C1B3D5E60}
 AppName=HangulFlow
 AppVersion={#AppVersion}
-AppPublisher=Rao Aman
+AppPublisher=Amanullah
 AppPublisherURL=https://github.com/amanullah-rao/HangulFlow
 DefaultDirName={localappdata}\Programs\HangulFlow
 DefaultGroupName=HangulFlow
