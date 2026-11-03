@@ -78,6 +78,34 @@ def test_overdue_backlog_rotates_past_the_two_most_overdue():
     assert len(set(shown)) > 2
 
 
+def test_overdue_words_all_recently_shown_make_room_for_new_words():
+    """Regression: 18 overdue words that were all just shown (the recent window
+    holds 20) used to fall back to the two most-overdue words, swapping forever."""
+    cands = [Candidate(i, 3, "learning", NOW - timedelta(days=30 - i)) for i in range(1, 19)]
+    cands += [Candidate(100 + i, 0) for i in range(200)]            # plenty of new words
+    recent = list(range(18, 0, -1)) + [100, 101]                    # newest first, all overdue ones inside
+    shown = []
+    for _ in range(40):
+        picked = choose_next(cands, recent, random.Random(len(shown)), NOW)
+        shown.append(picked)
+        recent = ([picked] + [r for r in recent if r != picked])[:20]
+    assert len(set(shown)) > 20             # variety: overdue words and new ones, not two words
+    assert any(s >= 100 for s in shown)     # new words get through
+    assert all(a != b for a, b in zip(shown, shown[1:]))   # never the same word twice in a row
+
+
+def test_tiny_deck_of_overdue_words_still_rotates():
+    cands = [Candidate(i, 3, "learning", NOW - timedelta(days=10 - i)) for i in range(1, 5)]
+    recent: list[int] = []
+    shown = []
+    for _ in range(12):
+        picked = choose_next(cands, recent, random.Random(1), NOW)
+        shown.append(picked)
+        recent = ([picked] + [r for r in recent if r != picked])[: recent_window(len(cands))]
+    assert len(set(shown)) >= 3
+    assert all(a != b for a, b in zip(shown, shown[1:]))
+
+
 def test_new_words_before_early_practice():
     cands = [Candidate(1, 5, "review", NOW + timedelta(days=1)), Candidate(2, 0)]
     assert choose_next(cands, [], random.Random(1), NOW) == 2

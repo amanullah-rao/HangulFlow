@@ -55,14 +55,19 @@ def choose_next(
     #    between the one or two most-overdue words forever when the learner
     #    clicks Next without rating (nothing then changes due_at).
     due_all = [c for c in candidates if c.due_at is not None and c.due_at <= now]
-    if due_all:
-        due = [c for c in due_all if c.vocab_id not in recent]
-        if not due:
-            due = [c for c in due_all if c.vocab_id != last] or due_all
-        return min(due, key=lambda c: c.due_at).vocab_id
+    fresh = [c for c in due_all if c.vocab_id not in recent]
+    if fresh:
+        return min(fresh, key=lambda c: c.due_at).vocab_id
 
     pool = [c for c in candidates if c.vocab_id not in recent]
     if not pool:
+        # The window covers the whole deck. Overdue words go round-robin, the one
+        # shown longest ago first; picking the most overdue again would just swap
+        # the same two words forever.
+        age = {vid: i for i, vid in enumerate(recent_ids)}  # newest first, so bigger = older
+        others = [c for c in due_all if c.vocab_id != last]
+        if others:
+            return max(others, key=lambda c: age.get(c.vocab_id, len(age))).vocab_id
         pool = [c for c in candidates if c.vocab_id != last] or list(candidates)
 
     # 2. New words, weighted towards the least seen.

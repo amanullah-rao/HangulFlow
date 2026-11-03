@@ -142,3 +142,13 @@ def test_word_list_examples_merge(repo):
     assert repo.apply_word_list({"version": 99, "entries": [entry]}) == 1
     vocab = repo.get(repo.find("새말", "new word"))
     assert [e[0] for e in vocab.examples] == ["첫 문장", "둘째"]
+
+
+def test_recent_views_follow_click_order_even_within_one_second(repo):
+    """Regression: timestamps have 1-second precision, so fast Next clicks used to
+    tie and the 'last shown' word was arbitrary - the same words kept coming back."""
+    ids = [c.vocab_id for c in repo.candidates()[:5]]
+    stamp = datetime(2026, 11, 3, 12, 0, 0, tzinfo=timezone.utc)
+    for vid in ids:
+        repo.record_view(vid, stamp)  # all in the same second
+    assert repo.recent_view_ids(5) == list(reversed(ids))

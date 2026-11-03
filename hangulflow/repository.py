@@ -412,7 +412,9 @@ class VocabRepository:
     def recent_view_ids(self, limit: int) -> list[int]:
         """Most recently shown word ids, newest first, without duplicates."""
         rows = self.conn.execute(
-            "SELECT vocab_id, MAX(viewed_at) AS last FROM view_log"
+            # By row id, not time: timestamps have 1-second precision, so quick
+            # clicks tie and the "last shown" word would be picked arbitrarily.
+            "SELECT vocab_id, MAX(id) AS last FROM view_log"
             " GROUP BY vocab_id ORDER BY last DESC LIMIT ?",
             (limit,),
         ).fetchall()
