@@ -80,7 +80,9 @@ file, raise `version` by one and push.
 ## Install and run
 
 ### Option A: the installer (recommended, no Python needed)
-1. Run `HangulFlow-Setup-<version>.exe` (see *Build the installer* below).
+1. Download `HangulFlow-Setup-<version>.exe` from the
+   [latest release](https://github.com/amanullah-rao/HangulFlow/releases/latest) and run it
+   (or build it yourself, see *Build the installer* below).
    It installs for your Windows account only, so no administrator rights are needed.
 2. Choose whether to add a desktop shortcut and start HangulFlow at sign-in.
 3. Start it from the Start menu. Uninstall from **Settings → Apps**; your words and
