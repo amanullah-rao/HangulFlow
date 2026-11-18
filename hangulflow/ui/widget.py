@@ -16,6 +16,7 @@ from PySide6.QtWidgets import (
     QHBoxLayout,
     QLabel,
     QMenu,
+    QMessageBox,
     QProgressBar,
     QPushButton,
     QToolButton,
@@ -23,7 +24,7 @@ from PySide6.QtWidgets import (
     QWidget,
 )
 
-from .. import paths, presence, srs, startup
+from .. import __version__, app_update, paths, presence, srs, startup
 from ..repository import Vocab, VocabRepository, split_words
 from ..rotation import WordSession
 from ..settings import (
@@ -121,6 +122,8 @@ class VocabWidget(QWidget):
         self._build_ui()
         self._updater = None  # WordUpdater, attached by the app via set_updater()
         self._manual_word_check = False
+        self._app_updater = None  # AppUpdater, attached via set_app_updater()
+        self._manual_app_check = False
         self._menu = self._build_menu()
         self._more_button.setMenu(self._menu)
 
@@ -411,8 +414,9 @@ class VocabWidget(QWidget):
             menu, "Pause when away, locked or fullscreen", self._settings.auto_pause, self.set_auto_pause
         )
         self._act_startup = self._check_action(menu, "Start with Windows", startup.is_enabled(), self.set_start_with_windows)
-        self._check_action(menu, "Get new words online (daily)", self._settings.auto_update, self.set_auto_update)
+        self._check_action(menu, "Check online daily (new words, app updates)", self._settings.auto_update, self.set_auto_update)
         menu.addAction("Check for new words now", self.check_for_words)
+        menu.addAction(self.app_update_label(), self.app_update_clicked)
         menu.addAction("Open data folder (backups, logs)", self.open_data_folder)
 
         menu.addSeparator()
@@ -839,6 +843,80 @@ class VocabWidget(QWidget):
             self._flash_status(f"{added} new words downloaded", seconds=5)
         elif manual:
             self._flash_status(error or "Your word list is up to date", seconds=5)
+
+    # --- app updates ---------------------------------------------------------
+
+    def set_app_updater(self, updater) -> None:
+        self._app_updater = updater
+        updater.checked.connect(self._on_app_checked)
+        updater.ready.connect(self._on_installer_ready)
+
+    def app_update_label(self) -> str:
+        release = self._app_updater.available if self._app_updater is not None else None
+        return f"Update to HangulFlow {release.version}…" if release else "Check for app updates"
+
+    def app_update_clicked(self) -> None:
+        if self._app_updater is None:
+            return
+        if self._app_updater.busy:
+            self._flash_status("Update already in progress…", seconds=3)
+        elif self._app_updater.available is not None:
+            self.offer_app_update()
+        else:
+            self._manual_app_check = True
+            self._app_updater.check(force=True)
+            self._flash_status("Checking for app updates…", seconds=5)
+
+    def _on_app_checked(self, release, error: str) -> None:
+        manual, self._manual_app_check = self._manual_app_check, False
+        self.rebuild_menu()  # the menu item now offers the update (or not)
+        if release is not None:
+            self._flash_status(f"HangulFlow {release.version} is available", seconds=6)
+            if manual:
+                self.offer_app_update()
+        elif manual:
+            self._flash_status(error or f"HangulFlow {__version__} is up to date", seconds=5)
+
+    def offer_app_update(self) -> None:
+        release = self._app_updater.available if self._app_updater is not None else None
+        if release is None:
+            return
+        box = QMessageBox()
+        box.setWindowIcon(self.windowIcon())
+        box.setWindowTitle("HangulFlow update")
+        box.setTextFormat(Qt.TextFormat.RichText)
+        box.setText(
+            f"<b>HangulFlow {release.version}</b> is available (you have {__version__}).<br><br>"
+            f"<a href='{release.page_url}'>See what's new</a>"
+        )
+        installable = app_update.can_self_install() and bool(release.sha256)
+        box.setInformativeText(
+            "It downloads the installer, checks it, closes HangulFlow and reopens it updated. "
+            "Your words and progress are kept."
+            if installable else "Open the download page?"
+        )
+        update = box.addButton("Update now" if installable else "Open download page", QMessageBox.ButtonRole.AcceptRole)
+        box.addButton("Later", QMessageBox.ButtonRole.RejectRole)
+        box.exec()
+        if box.clickedButton() is not update:
+            return
+        if installable:
+            self._app_updater.download()
+            self._flash_status("Downloading the update…", seconds=60)
+        else:
+            QDesktopServices.openUrl(QUrl(release.page_url))
+
+    def _on_installer_ready(self, path: str, error: str) -> None:
+        if not path:
+            self._flash_status(f"Update failed: {error}", seconds=8)
+            return
+        self.save_now()
+        try:
+            self._app_updater.launch_installer(path)
+        except OSError as exc:
+            self._flash_status(f"Could not start the installer: {exc}", seconds=8)
+            return
+        self.quit_requested.emit()
 
     def open_data_folder(self) -> None:
         QDesktopServices.openUrl(QUrl.fromLocalFile(str(paths.data_dir())))

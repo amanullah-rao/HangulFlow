@@ -20,6 +20,7 @@ from .ui import theme
 from .ui.main_window import MainWindow
 from .ui.tray import TrayIcon
 from .ui.widget import VocabWidget
+from .app_update import AppUpdater
 from .updater import WordUpdater
 
 log = logging.getLogger("hangulflow")
@@ -119,11 +120,28 @@ def main() -> int:
             lambda added, _error: added
             and tray.showMessage("HangulFlow", f"{added} new words were added to your list.", icon, 6000)
         )
-    update_timer = QTimer(app)  # hourly tick; the updater itself limits real checks to once a day
+    app_updater = AppUpdater(repo)
+    widget.set_app_updater(app_updater)
+    if tray is not None:
+        app_updater.checked.connect(
+            lambda release, _error: release is not None
+            and tray.showMessage(
+                "HangulFlow update available",
+                f"Version {release.version} is ready. Right-click the widget or this icon → Update.",
+                icon, 8000,
+            )
+        )
+
+    def daily_checks() -> None:
+        if settings.auto_update:
+            updater.check()
+            app_updater.check()
+
+    update_timer = QTimer(app)  # hourly tick; the updaters themselves limit real checks to once a day
     update_timer.setInterval(60 * 60 * 1000)
-    update_timer.timeout.connect(lambda: settings.auto_update and updater.check())
+    update_timer.timeout.connect(daily_checks)
     update_timer.start()
-    QTimer.singleShot(60_000, lambda: settings.auto_update and updater.check())  # let start-up settle first
+    QTimer.singleShot(60_000, daily_checks)  # let start-up settle first
 
     def shutdown() -> None:
         widget.save_now()

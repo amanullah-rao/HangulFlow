@@ -77,8 +77,15 @@ even when the built-in list is updated.
 `version` number is higher than the one you have, new words are added and
 unedited words get any corrections. Nothing about you is sent, and without
 internet the app simply keeps working offline. Turn it off with right-click →
-**Get new words online (daily)**. To publish new words, add entries to that
+**Check online daily (new words, app updates)**. To publish new words, add entries to that
 file, raise `version` by one and push.
+
+**App updates.** The same daily check looks at this repository's latest
+release. When a newer HangulFlow is out, you get a notification and the menu
+shows **Update to HangulFlow x.y.z…**. One click downloads the installer,
+checks it against the SHA-256 that GitHub publishes for it, closes the app,
+installs the update and reopens HangulFlow. Your words and progress are kept.
+You can also check by hand: right-click → **Check for app updates**.
 
 ## Install and run
 

@@ -7,7 +7,7 @@
 ; only (no administrator rights needed), so it works on any Windows 10/11 PC.
 ; Words and progress live in %LOCALAPPDATA%\HangulFlow and are kept on uninstall.
 
-#define AppVersion "0.4.0"
+#define AppVersion "0.4.1"
 
 [Setup]
 AppId={{6F1C2A4E-8B37-4D5A-9E2F-4A7C1B3D5E60}
@@ -60,6 +60,8 @@ Root: HKCU; Subkey: "Software\Microsoft\Windows\CurrentVersion\Run"; ValueName: 
 
 [Run]
 Filename: "{app}\HangulFlow.exe"; Description: "Start HangulFlow now"; Flags: nowait postinstall skipifsilent
+; An update started from inside the app runs silently: reopen the app when it is done.
+Filename: "{app}\HangulFlow.exe"; Flags: nowait skipifnotsilent
 
 [UninstallRun]
 Filename: "{sys}\taskkill.exe"; Parameters: "/IM HangulFlow.exe /F"; Flags: runhidden; RunOnceId: "StopHangulFlow"

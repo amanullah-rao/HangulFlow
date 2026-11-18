@@ -26,6 +26,7 @@ class TrayIcon(QSystemTrayIcon):
         menu.addAction("Add my own word…", widget.add_word)
         menu.addAction("Statistics…", widget.show_statistics)
         menu.addSeparator()
+        self._update_action = menu.addAction("Check for app updates", widget.app_update_clicked)
         menu.addAction("About HangulFlow…", widget.show_about)
         menu.addAction("Quit HangulFlow", widget.quit_requested.emit)
         menu.aboutToShow.connect(self._refresh_menu)
@@ -38,6 +39,7 @@ class TrayIcon(QSystemTrayIcon):
     def _refresh_menu(self) -> None:
         self._toggle_action.setText("Hide widget" if self._widget.isVisible() else "Show widget")
         self._pause_action.setText("Resume rotation" if self._widget.is_paused else "Pause rotation")
+        self._update_action.setText(self._widget.app_update_label())
 
     def _on_activated(self, reason: QSystemTrayIcon.ActivationReason) -> None:
         if reason == QSystemTrayIcon.ActivationReason.Trigger:
