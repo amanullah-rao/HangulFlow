@@ -1,0 +1,193 @@
+# Core TOPIK grammar (TOPIK I and early TOPIK II patterns)
++ -고 싶다 |  | -go sipda | grammar | want to | چاہنا | Grammar Patterns | 1 | Third person: -고 싶어하다.
+> 한국에 여행 가고 싶어요. | I want to travel to Korea. | میں کوریا گھومنے جانا چاہتا ہوں۔
+> 시원한 물을 마시고 싶어요. | I want to drink cold water. | ٹھنڈا پانی پینا چاہتا ہوں۔
+> 동생은 가수가 되고 싶어해요. | My younger sibling wants to become a singer. | چھوٹا بھائی گلوکار بننا چاہتا ہے۔
++ -(으)ㄹ 수 있다/없다 |  | -(eu)l su itda/eopda | grammar | can / cannot | سکنا / نہ سکنا | Grammar Patterns | 1 | Ability or possibility.
+> 저는 한국어로 이메일을 쓸 수 있어요. | I can write emails in Korean. | میں کورین میں ای میل لکھ سکتا ہوں۔
+> 오늘은 바빠서 만날 수 없어요. | I'm busy today, so I can't meet. | آج مصروف ہوں، مل نہیں سکتا۔
+> 여기에서 사진을 찍을 수 있어요? | Can I take photos here? | کیا یہاں تصویر لے سکتے ہیں؟
++ -고 있다 |  | -go itda | grammar | be ...ing (ongoing action) | رہا ہونا (جاری عمل) | Grammar Patterns | 1 | Honorific: -고 계시다.
+> 지금 밥을 먹고 있어요. | I'm eating right now. | ابھی کھانا کھا رہا ہوں۔
+> 요즘 태권도를 배우고 있어요. | I'm learning taekwondo these days. | آج کل تائیکوانڈو سیکھ رہا ہوں۔
+> 아버지는 신문을 읽고 계세요. | My father is reading the newspaper. | ابو اخبار پڑھ رہے ہیں۔
++ -아/어 주다 |  | -a/eo juda | grammar | do something for someone | کسی کے لیے کچھ کرنا | Grammar Patterns | 1 | Polite request: -아/어 주세요; humble: -아/어 드리다.
+> 창문 좀 열어 주세요. | Please open the window. | کھڑکی کھول دیں۔
+> 친구가 숙제를 도와줬어요. | My friend helped me with my homework. | دوست نے ہوم ورک میں مدد کی۔
+> 할머니께 편지를 읽어 드렸어요. | I read the letter to my grandmother. | دادی کو خط پڑھ کر سنایا۔
++ -아/어 보다 |  | -a/eo boda | grammar | try doing; have done (experience) | کر کے دیکھنا | Grammar Patterns | 1 | Past -아/어 봤다 = have tried.
+> 이 옷을 입어 봐도 돼요? | May I try on these clothes? | کیا یہ کپڑے پہن کر دیکھ سکتا ہوں؟
+> 김치를 먹어 봤어요? | Have you tried kimchi? | کیا آپ نے کمچی کھا کر دیکھی ہے؟
+> 한번 해 보세요. | Give it a try. | ایک بار کر کے دیکھیں۔
++ -(으)ㄴ 후에 |  | -(eu)n hue | grammar | after doing | کرنے کے بعد | Grammar Patterns | 1 | Also -(으)ㄴ 다음에. Noun + 후에.
+> 수업이 끝난 후에 도서관에 가요. | I go to the library after class ends. | کلاس ختم ہونے کے بعد لائبریری جاتا ہوں۔
+> 밥을 먹은 후에 약을 드세요. | Take the medicine after eating. | کھانے کے بعد دوا لیں۔
+> 졸업 후에 뭐 할 거예요? | What will you do after graduation? | گریجویشن کے بعد کیا کریں گے؟
++ -기 전에 |  | -gi jeone | grammar | before doing | کرنے سے پہلے | Grammar Patterns | 1 | Noun + 전에.
+> 자기 전에 이를 닦아요. | I brush my teeth before sleeping. | سونے سے پہلے دانت صاف کرتا ہوں۔
+> 들어오기 전에 노크하세요. | Knock before you come in. | اندر آنے سے پہلے دستک دیں۔
+> 회의 전에 자료를 읽었어요. | I read the materials before the meeting. | میٹنگ سے پہلے مواد پڑھا۔
++ -(으)면서 |  | -(eu)myeonseo | grammar | while (doing two things at once) | کرتے ہوئے | Grammar Patterns | 1 | Same subject for both actions.
+> 음악을 들으면서 공부해요. | I study while listening to music. | موسیقی سنتے ہوئے پڑھتا ہوں۔
+> 운전하면서 전화하면 위험해요. | Talking on the phone while driving is dangerous. | گاڑی چلاتے ہوئے فون کرنا خطرناک ہے۔
+> 커피를 마시면서 이야기했어요. | We talked over coffee. | کافی پیتے ہوئے باتیں کیں۔
++ -지만 |  | -jiman | grammar | but, although | لیکن، اگرچہ | Grammar Patterns | 1 |
+> 한국어는 어렵지만 재미있어요. | Korean is difficult but fun. | کورین مشکل ہے لیکن مزے دار ہے۔
+> 비싸지만 품질이 좋아요. | It's expensive, but the quality is good. | مہنگا ہے مگر معیار اچھا ہے۔
+> 피곤하지만 끝까지 할게요. | I'm tired, but I'll finish it. | تھکا ہوں لیکن آخر تک کروں گا۔
++ -(으)ㄴ/는데 |  | -(eu)n/neunde | grammar | and/but (background, contrast) | اور، مگر (پس منظر) | Grammar Patterns | 2 | Sets the scene for what follows; also softens questions.
+> 비가 오는데 우산이 없어요. | It's raining, but I have no umbrella. | بارش ہو رہی ہے اور میرے پاس چھتری نہیں۔
+> 배가 고픈데 같이 밥 먹을래요? | I'm hungry; want to eat together? | بھوک لگی ہے، ساتھ کھانا کھائیں؟
+> 어제 영화를 봤는데 정말 재미있었어요. | I watched a movie yesterday, and it was really fun. | کل فلم دیکھی، بہت مزے کی تھی۔
++ -(으)러 가다 |  | -(eu)reo gada | grammar | go (somewhere) to do | کرنے جانا | Grammar Patterns | 1 | Only with 가다, 오다, 다니다.
+> 친구를 만나러 카페에 가요. | I'm going to a café to meet a friend. | دوست سے ملنے کیفے جا رہا ہوں۔
+> 책을 빌리러 도서관에 왔어요. | I came to the library to borrow books. | کتابیں لینے لائبریری آیا ہوں۔
+> 점심 먹으러 갈까요? | Shall we go eat lunch? | دوپہر کا کھانا کھانے چلیں؟
++ -(으)ㄹ게요 |  | -(eu)lgeyo | grammar | I will (promise, intention toward listener) | میں کروں گا (وعدہ) | Grammar Patterns | 1 | First person only.
+> 내일 다시 연락할게요. | I'll contact you again tomorrow. | کل دوبارہ رابطہ کروں گا۔
+> 제가 도와줄게요. | I'll help you. | میں مدد کروں گا۔
+> 늦지 않게 갈게요. | I'll get there on time. | دیر نہیں کروں گا۔
++ -(으)ㄹ래요 |  | -(eu)llaeyo | grammar | want to, will you? (casual choice) | چاہوں گا؛ کیا آپ...؟ | Grammar Patterns | 1 | Casual; asks or states a preference.
+> 저는 커피 마실래요. | I'll have coffee. | میں کافی پیوں گا۔
+> 같이 영화 볼래요? | Want to watch a movie together? | ساتھ فلم دیکھیں گے؟
+> 오늘은 집에서 쉴래요. | I'd rather rest at home today. | آج گھر پر آرام کروں گا۔
++ -지 마세요 |  | -ji maseyo | grammar | please don't | مت کریں | Grammar Patterns | 1 | Casual: -지 마.
+> 여기에서 담배를 피우지 마세요. | Please don't smoke here. | یہاں سگریٹ نہ پئیں۔
+> 걱정하지 마세요. | Don't worry. | فکر نہ کریں۔
+> 수업 시간에 떠들지 마세요. | Don't chat during class. | کلاس میں شور نہ کریں۔
++ -(으)ㄴ/는 것 같다 |  | -(eu)n/neun geot gatda | grammar | it seems (that) | لگتا ہے | Grammar Patterns | 2 | Past -(으)ㄴ 것 같다, present -는 것 같다, future -(으)ㄹ 것 같다.
+> 밖에 비가 오는 것 같아요. | It seems to be raining outside. | لگتا ہے باہر بارش ہو رہی ہے۔
+> 민수 씨가 벌써 간 것 같아요. | It looks like Minsu has already left. | لگتا ہے من سو جا چکے ہیں۔
+> 이 옷이 저한테 작은 것 같아요. | I think these clothes are small on me. | لگتا ہے یہ کپڑے مجھے چھوٹے ہیں۔
++ -아/어 있다 |  | -a/eo itda | grammar | be in a state (result of an action) | (حالت میں) ہونا | Grammar Patterns | 2 | With intransitive verbs: 앉아 있다, 열려 있다.
+> 문이 열려 있어요. | The door is open. | دروازہ کھلا ہے۔
+> 의자에 앉아 있는 사람이 제 동생이에요. | The person sitting on the chair is my sibling. | کرسی پر بیٹھا ہوا میرا بھائی ہے۔
+> 벽에 그림이 걸려 있어요. | A picture is hanging on the wall. | دیوار پر تصویر لٹکی ہے۔
++ -게 하다 |  | -ge hada | grammar | make/let someone do | کروانا، کرنے دینا | Grammar Patterns | 2 |
+> 엄마가 저를 일찍 자게 했어요. | Mom made me go to bed early. | امی نے مجھے جلدی سلا دیا۔
+> 선생님이 학생들에게 책을 읽게 했어요. | The teacher had the students read the book. | استاد نے طلبہ سے کتاب پڑھوائی۔
+> 그 노래는 사람들을 행복하게 해요. | That song makes people happy. | وہ گانا لوگوں کو خوش کرتا ہے۔
++ -는 게 좋겠다 |  | -neun ge joketda | grammar | it would be better to | بہتر ہوگا کہ | Grammar Patterns | 2 | Soft advice.
+> 오늘은 집에서 쉬는 게 좋겠어요. | You'd better rest at home today. | بہتر ہوگا آج گھر پر آرام کریں۔
+> 미리 예약하는 게 좋겠어요. | It would be better to book in advance. | پہلے سے بکنگ کرنا بہتر ہوگا۔
+> 병원에 가 보는 게 좋겠어요. | You should probably see a doctor. | ڈاکٹر کو دکھانا بہتر ہوگا۔
++ -(으)ㄹ까요? |  | -(eu)lkkayo | grammar | shall we? / do you think...? | کیا ہم...؟ کیا خیال ہے؟ | Grammar Patterns | 1 | Suggestion or wondering aloud.
+> 같이 점심 먹을까요? | Shall we have lunch together? | ساتھ دوپہر کا کھانا کھائیں؟
+> 내일 비가 올까요? | Do you think it'll rain tomorrow? | کیا کل بارش ہوگی؟
+> 창문을 닫을까요? | Shall I close the window? | کیا کھڑکی بند کر دوں؟
++ -지요 |  | -jiyo | grammar | ..., right? (seeking agreement) | ہے نا؟ | Grammar Patterns | 1 | Contracted: -죠.
+> 오늘 날씨가 정말 좋지요? | The weather is really nice today, isn't it? | آج موسم بہت اچھا ہے نا؟
+> 내일 시험이 있지요? | There's an exam tomorrow, right? | کل امتحان ہے نا؟
+> 그럼요, 물론이지요. | Of course, certainly. | جی ہاں، بالکل۔
++ -네요 |  | -neyo | grammar | (I notice) ...! (surprise, discovery) | ارے...! (حیرت) | Grammar Patterns | 1 |
+> 한국어를 정말 잘하시네요! | You speak Korean really well! | آپ تو بہت اچھی کورین بولتے ہیں!
+> 밖에 눈이 오네요. | Oh, it's snowing outside. | ارے، باہر برف پڑ رہی ہے۔
+> 이 음식 정말 맛있네요. | This food is really delicious. | یہ کھانا واقعی مزے دار ہے۔
++ -군요 |  | -gunyo | grammar | I see that... (new realization) | اچھا تو یہ بات ہے | Grammar Patterns | 2 | Present verbs: -는군요.
+> 아, 그래서 늦었군요. | Ah, so that's why you were late. | اچھا، اسی لیے دیر ہوئی۔
+> 정말 열심히 공부하는군요. | You really study hard, I see. | آپ واقعی محنت سے پڑھتے ہیں۔
+> 여기가 그 유명한 식당이군요. | So this is that famous restaurant. | تو یہ ہے وہ مشہور ریستوران۔
++ -(으)면 좋겠다 |  | -(eu)myeon joketda | grammar | I wish, it would be nice if | کاش، اچھا ہو اگر | Grammar Patterns | 2 | Also -았/었으면 좋겠다.
+> 내일 날씨가 좋으면 좋겠어요. | I hope the weather is nice tomorrow. | کاش کل موسم اچھا ہو۔
+> 시험에 합격했으면 좋겠어요. | I wish I'd pass the exam. | کاش امتحان میں پاس ہو جاؤں۔
+> 주말에 같이 갔으면 좋겠어요. | It would be nice to go together this weekend. | اچھا ہو اگر ہفتے کے آخر ساتھ چلیں۔
++ -는 중이다 |  | -neun jungida | grammar | be in the middle of | کرنے کے دوران | Grammar Patterns | 1 | Noun + 중: 회의 중, 통화 중.
+> 지금 회의하는 중이에요. | I'm in the middle of a meeting. | ابھی میٹنگ میں ہوں۔
+> 숙제를 하는 중이었어요. | I was in the middle of doing homework. | ہوم ورک کر رہا تھا۔
+> 사장님은 지금 통화 중이세요. | The boss is on the phone now. | مالک صاحب ابھی فون پر ہیں۔
++ -기 쉽다 |  | -gi swipda | grammar | easy to; tend to | کرنا آسان؛ ہونے کا امکان | Grammar Patterns | 2 | Opposite: -기 어렵다.
+> 이 책은 읽기 쉬워요. | This book is easy to read. | یہ کتاب پڑھنا آسان ہے۔
+> 겨울에는 감기에 걸리기 쉬워요. | It's easy to catch a cold in winter. | سردیوں میں زکام لگنا آسان ہے۔
+> 이 길은 미끄러워서 넘어지기 쉬워요. | This road is slippery, so it's easy to fall. | یہ سڑک پھسلن والی ہے، گرنا آسان ہے۔
++ -기 어렵다 |  | -gi eoryeopda | grammar | hard to | کرنا مشکل | Grammar Patterns | 2 |
+> 한국어 발음은 따라 하기 어려워요. | Korean pronunciation is hard to imitate. | کورین تلفظ کی نقل کرنا مشکل ہے۔
+> 그 사람 마음은 알기 어려워요. | It's hard to know what that person is thinking. | اس کے دل کی بات جاننا مشکل ہے۔
+> 아침에 일찍 일어나기 어려워요. | It's hard to get up early in the morning. | صبح جلدی اٹھنا مشکل ہے۔
++ -잖아요 |  | -janayo | grammar | you know, as you know | آپ کو پتا ہے نا | Grammar Patterns | 2 | Reminds the listener of something they already know.
+> 제가 어제 말했잖아요. | I told you yesterday, remember? | میں نے کل بتایا تھا نا۔
+> 오늘은 일요일이잖아요. | Today's Sunday, you know. | آج تو اتوار ہے نا۔
+> 비가 오잖아요. 우산 가져가세요. | It's raining, you know. Take an umbrella. | بارش ہو رہی ہے نا، چھتری لے جائیں۔
++ -(ㄴ/는)대요 |  | -(n/neun)daeyo | grammar | they say (reported speech, short form) | کہتے ہیں کہ | Grammar Patterns | 2 | Short for -다고 해요. Nouns: -(이)래요.
+> 내일 비가 온대요. | They say it will rain tomorrow. | کہتے ہیں کل بارش ہوگی۔
+> 민수 씨는 오늘 바쁘대요. | Minsu says he's busy today. | من سو کہتے ہیں آج مصروف ہیں۔
+> 그 식당이 정말 맛있대요. | They say that restaurant is really good. | سنا ہے وہ ریستوران بہت اچھا ہے۔
++ -(으)라고 하다 |  | -(eu)rago hada | grammar | tell someone to (reported command) | کرنے کو کہنا | Grammar Patterns | 2 | 주다 becomes -아/어 달라고 하다 when asking for yourself.
+> 선생님이 숙제를 내라고 하셨어요. | The teacher told us to hand in the homework. | استاد نے ہوم ورک جمع کرانے کو کہا۔
+> 엄마가 일찍 들어오라고 했어요. | Mom told me to come home early. | امی نے جلدی گھر آنے کو کہا۔
+> 의사가 푹 쉬라고 했어요. | The doctor told me to get plenty of rest. | ڈاکٹر نے اچھی طرح آرام کرنے کو کہا۔
++ -자고 하다 |  | -jago hada | grammar | suggest (reported "let's") | تجویز دینا کہ چلو | Grammar Patterns | 2 |
+> 친구가 같이 여행 가자고 했어요. | My friend suggested we travel together. | دوست نے ساتھ سفر کرنے کی تجویز دی۔
+> 동생이 영화를 보자고 해요. | My sibling wants us to watch a movie. | بھائی فلم دیکھنے کا کہہ رہا ہے۔
+> 팀장님이 회의를 내일 하자고 하셨어요. | The team leader suggested having the meeting tomorrow. | ٹیم لیڈر نے میٹنگ کل کرنے کا کہا۔
++ -냐고 하다 |  | -nyago hada | grammar | ask whether (reported question) | پوچھنا کہ | Grammar Patterns | 2 | Also -(느)냐고 묻다.
+> 친구가 어디 가냐고 물었어요. | My friend asked where I was going. | دوست نے پوچھا کہاں جا رہے ہو۔
+> 선생님이 숙제를 했냐고 하셨어요. | The teacher asked if I had done my homework. | استاد نے پوچھا ہوم ورک کیا یا نہیں۔
+> 손님이 이게 얼마냐고 물었어요. | The customer asked how much this was. | گاہک نے پوچھا یہ کتنے کا ہے۔
++ -아/어 버리다 |  | -a/eo beorida | grammar | end up doing; do completely (with regret or relief) | کر ڈالنا | Grammar Patterns | 2 |
+> 케이크를 혼자 다 먹어 버렸어요. | I ended up eating the whole cake by myself. | پورا کیک اکیلے کھا ڈالا۔
+> 버스가 벌써 떠나 버렸어요. | The bus has already left. | بس جا چکی ہے۔
+> 숙제를 빨리 끝내 버릴게요. | I'll get my homework done quickly. | ہوم ورک جلدی نمٹا دوں گا۔
++ -곤 하다 |  | -gon hada | grammar | used to, would often | اکثر کیا کرنا | Grammar Patterns | 2 | Repeated habit.
+> 어렸을 때 이 공원에서 놀곤 했어요. | I used to play in this park as a child. | بچپن میں اس پارک میں کھیلا کرتا تھا۔
+> 주말에는 등산을 가곤 해요. | I often go hiking on weekends. | ہفتے کے آخر اکثر پہاڑ پر چڑھنے جاتا ہوں۔
+> 힘들 때 이 노래를 듣곤 해요. | I often listen to this song when things are hard. | مشکل وقت میں یہ گانا سنا کرتا ہوں۔
++ -(으)ㄹ걸요 |  | -(eu)lgeollyo | grammar | probably, I think (guess) | شاید، میرا خیال ہے | Grammar Patterns | 2 | A soft guess, often correcting the listener.
+> 지금 가면 문을 닫았을걸요. | It's probably closed if you go now. | ابھی جائیں تو شاید بند ہو چکا ہوگا۔
+> 그 사람은 아마 모를걸요. | That person probably doesn't know. | وہ شاید نہیں جانتا ہوگا۔
+> 내일은 더 추울걸요. | It'll probably be colder tomorrow. | کل شاید اور ٹھنڈ ہوگی۔
++ -(으)ㄹ 걸 그랬다 |  | -(eu)l geol geuraetda | grammar | should have (regret) | کاش کر لیتا | Grammar Patterns | 2 | Negative: -지 말 걸 그랬다.
+> 우산을 가져올 걸 그랬어요. | I should have brought an umbrella. | کاش چھتری لے آتا۔
+> 더 일찍 출발할 걸 그랬어요. | I should have left earlier. | کاش اور جلدی نکلتا۔
+> 그 말을 하지 말 걸 그랬어요. | I shouldn't have said that. | کاش وہ بات نہ کہتا۔
++ -는 길에 |  | -neun gire | grammar | on the way to | جاتے ہوئے راستے میں | Grammar Patterns | 2 | With 가다, 오다 and their compounds.
+> 집에 가는 길에 빵을 샀어요. | I bought bread on my way home. | گھر جاتے ہوئے روٹی خریدی۔
+> 학교에 오는 길에 친구를 만났어요. | I met a friend on my way to school. | اسکول آتے ہوئے دوست سے ملا۔
+> 퇴근하는 길에 들를게요. | I'll drop by on my way home from work. | دفتر سے واپسی پر آ جاؤں گا۔
++ -(으)ㄴ 채로 |  | -(eu)n chaero | grammar | while still in a state, as is | اسی حالت میں | Grammar Patterns | 3 |
+> 불을 켠 채로 잠이 들었어요. | I fell asleep with the light on. | بتی جلی چھوڑ کر سو گیا۔
+> 신발을 신은 채로 들어오지 마세요. | Don't come in with your shoes on. | جوتے پہن کر اندر نہ آئیں۔
+> 창문을 연 채로 나갔어요. | I went out with the window open. | کھڑکی کھلی چھوڑ کر باہر گیا۔
++ -(으)ㄴ/는 모양이다 |  | -(eu)n/neun moyangida | grammar | it looks like (guess from evidence) | ایسا لگتا ہے | Grammar Patterns | 2 | Not used about yourself.
+> 밖이 시끄러운 걸 보니 무슨 일이 있는 모양이에요. | From the noise outside, something must be happening. | باہر کے شور سے لگتا ہے کچھ ہو رہا ہے۔
+> 민수 씨가 피곤한 모양이에요. | Minsu seems tired. | من سو تھکے ہوئے لگتے ہیں۔
+> 비가 많이 온 모양이에요. | It looks like it rained a lot. | لگتا ہے بہت بارش ہوئی۔
++ -(으)ㄹ 만큼 |  | -(eu)l mankeum | grammar | enough to, to the extent that | اتنا کہ | Grammar Patterns | 2 | Past: -(으)ㄴ 만큼.
+> 먹을 만큼만 담으세요. | Only take as much as you'll eat. | صرف اتنا ڈالیں جتنا کھا سکیں۔
+> 눈물이 날 만큼 감동했어요. | I was moved to the point of tears. | اتنا متاثر ہوا کہ آنسو آ گئے۔
+> 노력한 만큼 결과가 나와요. | You get results in proportion to your effort. | جتنی محنت اتنا نتیجہ۔
++ -아/어야겠다 |  | -a/eoyagetda | grammar | I'd better, I should (decision) | مجھے کرنا چاہیے | Grammar Patterns | 2 |
+> 오늘은 일찍 자야겠어요. | I'd better go to bed early tonight. | آج جلدی سونا چاہیے۔
+> 운동을 시작해야겠어요. | I should start exercising. | ورزش شروع کرنی چاہیے۔
+> 우산을 하나 사야겠어요. | I'd better buy an umbrella. | ایک چھتری خرید لینی چاہیے۔
++ -에 대해(서) |  | -e daehae(seo) | grammar | about, regarding | کے بارے میں | Grammar Patterns | 2 | Before a noun: -에 대한.
+> 한국 문화에 대해서 발표했어요. | I gave a presentation about Korean culture. | کوریائی ثقافت کے بارے میں پریزنٹیشن دی۔
+> 이 문제에 대해 어떻게 생각해요? | What do you think about this issue? | اس مسئلے کے بارے میں کیا خیال ہے؟
+> 환경에 대한 책을 읽었어요. | I read a book about the environment. | ماحول کے بارے میں کتاب پڑھی۔
++ -에 비해(서) |  | -e bihae(seo) | grammar | compared to | کے مقابلے میں | Grammar Patterns | 2 |
+> 작년에 비해 물가가 많이 올랐어요. | Prices have risen a lot compared to last year. | پچھلے سال کے مقابلے میں قیمتیں بہت بڑھ گئیں۔
+> 서울에 비해서 이곳은 조용해요. | This place is quiet compared to Seoul. | سیول کے مقابلے میں یہ جگہ پرسکون ہے۔
+> 가격에 비해 맛이 좋아요. | It tastes good for the price. | قیمت کے لحاظ سے ذائقہ اچھا ہے۔
++ -(으)로 인해(서) |  | -(eu)ro inhae(seo) | grammar | due to, because of (formal) | کی وجہ سے | Grammar Patterns | 3 | Common in news and writing.
+> 폭우로 인해 도로가 통제되었습니다. | The road was closed due to heavy rain. | شدید بارش کی وجہ سے سڑک بند کر دی گئی۔
+> 사고로 인해서 기차가 늦어졌어요. | The train was delayed because of an accident. | حادثے کی وجہ سے ٹرین لیٹ ہو گئی۔
+> 스트레스로 인한 질병이 늘고 있다. | Stress-related illnesses are increasing. | ذہنی دباؤ سے ہونے والی بیماریاں بڑھ رہی ہیں۔
++ -에 의하면 |  | -e uihamyeon | grammar | according to | کے مطابق | Grammar Patterns | 3 | Often ends with -다고 하다.
+> 일기 예보에 의하면 내일 눈이 온대요. | According to the forecast, it'll snow tomorrow. | موسم کی پیشگوئی کے مطابق کل برف پڑے گی۔
+> 조사에 의하면 독서량이 줄었다고 한다. | According to a survey, reading has declined. | ایک سروے کے مطابق مطالعہ کم ہو گیا ہے۔
+> 뉴스에 의하면 사고가 났대요. | According to the news, there was an accident. | خبروں کے مطابق حادثہ ہوا ہے۔
++ -조차 |  | -jocha | grammar | even (with negative, surprising) | تک، بھی (منفی) | Grammar Patterns | 3 | Similar: -마저, -도.
+> 너무 바빠서 밥조차 못 먹었어요. | I was so busy I couldn't even eat. | اتنا مصروف تھا کہ کھانا تک نہیں کھا سکا۔
+> 그 사람 이름조차 기억이 안 나요. | I can't even remember that person's name. | اس کا نام تک یاد نہیں۔
+> 물조차 마실 시간이 없었어요. | I didn't even have time to drink water. | پانی پینے کا وقت بھی نہیں ملا۔
++ -밖에 |  | -bakke | grammar | only (with a negative verb) | صرف (منفی کے ساتھ) | Grammar Patterns | 1 | Always followed by a negative: 없다, 안, 못, 모르다.
+> 지갑에 천 원밖에 없어요. | I only have 1,000 won in my wallet. | بٹوے میں صرف ایک ہزار وون ہیں۔
+> 한국어를 조금밖에 몰라요. | I only know a little Korean. | میں تھوڑی سی کورین جانتا ہوں۔
+> 어제 세 시간밖에 못 잤어요. | I only slept three hours last night. | کل رات صرف تین گھنٹے سویا۔
++ -(이)라도 |  | -(i)rado | grammar | at least, even if it's just | کم از کم، چاہے | Grammar Patterns | 2 | Settling for second best.
+> 바쁘면 전화라도 하세요. | If you're busy, at least give me a call. | مصروف ہیں تو کم از کم فون کر لیں۔
+> 커피가 없으면 차라도 주세요. | If there's no coffee, tea is fine. | کافی نہیں تو چائے ہی دے دیں۔
+> 주말에라도 좀 쉬세요. | At least rest on the weekend. | کم از کم ہفتے کے آخر آرام کریں۔
++ -만큼 |  | -mankeum | grammar | as ... as (comparison with a noun) | جتنا | Grammar Patterns | 2 |
+> 동생도 형만큼 키가 커요. | The younger brother is as tall as the older one. | چھوٹا بھائی بھی بڑے جتنا لمبا ہے۔
+> 서울만큼 복잡한 도시는 없어요. | There's no city as hectic as Seoul. | سیول جتنا مصروف شہر کوئی نہیں۔
+> 저도 당신만큼 한국을 좋아해요. | I like Korea as much as you do. | میں بھی آپ جتنا کوریا پسند کرتا ہوں۔

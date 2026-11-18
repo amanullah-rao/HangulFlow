@@ -152,3 +152,22 @@ def test_recent_views_follow_click_order_even_within_one_second(repo):
     for vid in ids:
         repo.record_view(vid, stamp)  # all in the same second
     assert repo.recent_view_ids(5) == list(reversed(ids))
+
+
+def test_similar_words_and_opposites_are_saved_and_glossed(repo):
+    word = repo.add_word("부지런하다", "diligent", synonyms="성실하다 , 성실하다", antonyms="게으르다، 나태하다")
+    v = repo.get(word)
+    assert v.synonyms == "성실하다"                    # trimmed, no repeats
+    assert v.antonyms == "게으르다, 나태하다"           # an Urdu comma works too
+    glossed = dict(repo.glosses(["게으르다", "없는말"]))
+    assert glossed["게으르다"] and glossed["없는말"] == ""   # unknown words just show the Korean
+    repo.update_word(word, antonyms="")
+    assert repo.get(word).antonyms == ""
+
+
+def test_word_list_brings_related_words(repo):
+    version = repo.word_list_version() + 1
+    entry = {"korean": "크다", "meaning_en": "big", "category": "x", "antonyms": "작다", "synonyms": "거대하다"}
+    repo.apply_word_list({"version": version, "entries": [entry]})
+    v = repo.get(repo.find("크다", "big"))
+    assert (v.synonyms, v.antonyms) == ("거대하다", "작다")

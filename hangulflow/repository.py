@@ -17,6 +17,7 @@ log = logging.getLogger(__name__)
 _FIELDS = (
     "korean", "hanja", "romanization", "part_of_speech", "meaning_en", "meaning_ur",
     "example_ko", "example_en", "example_ur", "notes", "category", "difficulty",
+    "synonyms", "antonyms",
 )
 WORD_FIELDS = _FIELDS  # public name, used by import/export
 # Fields the bundled list may refresh on words the learner has never edited.
@@ -40,6 +41,8 @@ class Vocab:
     difficulty: int
     source: str
     starred: bool = False
+    synonyms: str = ""  # comma-separated Korean words with a similar meaning
+    antonyms: str = ""  # comma-separated Korean opposites
     # Every example sentence as (ko, en, ur): the main one first, then the extras.
     examples: tuple[tuple[str, str, str], ...] = ()
     example_turn: int = 0  # how often the word was shown; picks the sentence to display
@@ -79,7 +82,14 @@ def _clean_fields(raw: dict) -> dict:
     except (TypeError, ValueError):
         raise ValueError(f"level must be a number 1-3, got {raw.get('difficulty')!r}") from None
     values["difficulty"] = min(3, max(1, difficulty))
+    for f in ("synonyms", "antonyms"):
+        values[f] = ", ".join(split_words(values[f]))
     return values
+
+
+def split_words(text: str) -> list[str]:
+    """A comma-separated list of related words (English or Urdu commas), without repeats."""
+    return list(dict.fromkeys(w.strip() for w in text.replace("،", ",").split(",") if w.strip()))
 
 
 @dataclass(frozen=True)
@@ -127,7 +137,7 @@ class VocabRepository:
     def get(self, vocab_id: int) -> Vocab | None:
         row = self.conn.execute(
             "SELECT id, korean, hanja, romanization, part_of_speech, meaning_en, meaning_ur, example_ko,"
-            " example_en, example_ur, notes, category, difficulty, source, starred, example_turn"
+            " example_en, example_ur, notes, category, difficulty, source, starred, example_turn, synonyms, antonyms"
             " FROM vocabulary WHERE id = ?",
             (vocab_id,),
         ).fetchone()
@@ -139,6 +149,16 @@ class VocabRepository:
         main = (data["example_ko"], data["example_en"], data["example_ur"])
         data["examples"] = tuple(([main] if main[0] else []) + [tuple(r) for r in extras if r[0] != main[0]])
         return Vocab(**data)
+
+    def glosses(self, words: list[str]) -> list[tuple[str, str]]:
+        """Each related word with the English meaning of its first entry ("" if not in the list)."""
+        out = []
+        for word in words:
+            row = self.conn.execute(
+                "SELECT meaning_en FROM vocabulary WHERE korean = ? ORDER BY id LIMIT 1", (word,)
+            ).fetchone()
+            out.append((word, row[0].split(",")[0].strip() if row else ""))
+        return out
 
     def example_count(self) -> int:
         """All example sentences: the main one of each word plus the extras."""
@@ -159,6 +179,8 @@ class VocabRepository:
         category: str = "My Words",
         hanja: str = "",
         difficulty: int = 2,
+        synonyms: str = "",
+        antonyms: str = "",
         source: str = "user",
         starred: bool = True,
     ) -> int:
@@ -167,6 +189,7 @@ class VocabRepository:
             "korean": korean, "hanja": hanja, "romanization": romanization, "part_of_speech": part_of_speech,
             "meaning_en": meaning_en, "meaning_ur": meaning_ur, "example_ko": example_ko, "example_en": example_en,
             "example_ur": example_ur, "notes": notes, "category": category, "difficulty": difficulty,
+            "synonyms": synonyms, "antonyms": antonyms,
         })
         now = to_iso(utc_now())
         with self.conn:

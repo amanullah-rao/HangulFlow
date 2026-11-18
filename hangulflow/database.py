@@ -14,7 +14,7 @@ from pathlib import Path
 
 log = logging.getLogger(__name__)
 
-SCHEMA_VERSION = 5
+SCHEMA_VERSION = 6
 
 SCHEMA_V1 = """
 CREATE TABLE IF NOT EXISTS vocabulary (
@@ -135,6 +135,14 @@ def migrate(conn: sqlite3.Connection) -> None:
             "PRAGMA user_version = 5;"
         )
         log.info("Database migrated to v5 (extra example sentences).")
+    if version < 6:
+        # Related words shown on the card: similar words and opposites (comma-separated Korean).
+        conn.executescript(
+            "ALTER TABLE vocabulary ADD COLUMN synonyms TEXT NOT NULL DEFAULT '';\n"
+            "ALTER TABLE vocabulary ADD COLUMN antonyms TEXT NOT NULL DEFAULT '';\n"
+            "PRAGMA user_version = 6;"
+        )
+        log.info("Database migrated to v6 (synonyms and antonyms).")
 
 
 def open_database(path: Path) -> sqlite3.Connection:

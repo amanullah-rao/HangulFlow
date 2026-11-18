@@ -24,7 +24,7 @@ from PySide6.QtWidgets import (
 )
 
 from .. import paths, presence, srs, startup
-from ..repository import Vocab, VocabRepository
+from ..repository import Vocab, VocabRepository, split_words
 from ..rotation import WordSession
 from ..settings import (
     DAILY_GOAL_CHOICES,
@@ -184,6 +184,7 @@ class VocabWidget(QWidget):
         self._example_ko = self._label("exampleKo")
         self._example_en = self._label("exampleEn")
         self._example_ur = self._label("exampleUr", rtl=True)
+        self._related = self._label("related")
         self._notes = self._label("notes")
 
         word_row = QHBoxLayout()
@@ -209,6 +210,7 @@ class VocabWidget(QWidget):
         content.addLayout(example_row)
         content.addWidget(self._example_en)
         content.addWidget(self._example_ur)
+        content.addWidget(self._related)
         content.addWidget(self._notes)
 
         self._reveal_button = QPushButton("Reveal meaning", objectName="revealButton")
@@ -460,6 +462,7 @@ class VocabWidget(QWidget):
             self._example_ko.setText(example_ko)
             self._example_en.setText(example_en)
             self._example_ur.setText(example_ur)
+            self._related.setText(self._related_text(v))
             self._notes.setText(v.notes)
 
         direction = self._settings.card_direction
@@ -481,7 +484,7 @@ class VocabWidget(QWidget):
             self._fade_anim.start()
 
     def _answer_labels(self) -> list[QLabel]:
-        return [self._meaning_en, self._meaning_ur, self._example_ko, self._example_en, self._example_ur, self._notes]
+        return [self._meaning_en, self._meaning_ur, self._example_ko, self._example_en, self._example_ur, self._related, self._notes]
 
     def _update_visibility(self) -> None:
         compact = self._settings.compact
@@ -494,7 +497,7 @@ class VocabWidget(QWidget):
         show_meaning = (show or hide_korean)
         self._meaning_en.setVisible(show_meaning and bool(self._meaning_en.text()))
         self._meaning_ur.setVisible(show_meaning and bool(self._meaning_ur.text()))
-        details = [self._example_ko, self._example_en, self._example_ur, self._notes]
+        details = [self._example_ko, self._example_en, self._example_ur, self._related, self._notes]
         for label in details:
             label.setVisible(show and not compact and bool(label.text()))
         self._divider.setVisible(any(not label.isHidden() for label in details))
@@ -576,6 +579,17 @@ class VocabWidget(QWidget):
         if self._vocab:
             self._copy(self._vocab.korean, "word")
 
+    def _related_text(self, v: Vocab) -> str:
+        """'≈ similar words' and '↔ opposites', each with its English meaning when the word is in the list."""
+        lines = []
+        for mark, text in (("≈ Similar:", v.synonyms), ("↔ Opposite:", v.antonyms)):
+            words = split_words(text)
+            if words:
+                lines.append(f"{mark}  " + ",  ".join(
+                    f"{ko} ({en})" if en else ko for ko, en in self._repo.glosses(words)
+                ))
+        return "\n".join(lines)
+
     def copy_card(self) -> None:
         """Everything on the card as plain text, e.g. for notes or a chat."""
         v = self._vocab
@@ -590,6 +604,8 @@ class VocabWidget(QWidget):
             "",
             *v.example_for_display(),
             "",
+            f"Similar: {v.synonyms}" if v.synonyms else "",
+            f"Opposite: {v.antonyms}" if v.antonyms else "",
             f"Notes: {v.notes}" if v.notes else "",
         ]
         text = "\n".join(lines).strip()

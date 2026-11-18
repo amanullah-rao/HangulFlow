@@ -1,0 +1,289 @@
+# TOPIK daily-life vocabulary (also completes many opposite pairs)
++ 가능하다 | 可能- | ganeunghada | adjective | to be possible | ممکن ہونا | Common Verbs & Adjectives | 2 | 가능성 = possibility.
+> 오늘 배달이 가능해요? | Is delivery possible today? | کیا آج ڈیلیوری ممکن ہے؟
+> 카드 결제도 가능합니다. | Card payment is also possible. | کارڈ سے ادائیگی بھی ممکن ہے۔
+> 가능하면 일찍 와 주세요. | Please come early if possible. | اگر ممکن ہو تو جلدی آئیں۔
++ 불가능하다 | 不可能- | bulganeunghada | adjective | to be impossible | ناممکن ہونا | Common Verbs & Adjectives | 2 |
+> 하루 만에 끝내는 것은 불가능해요. | Finishing it in one day is impossible. | ایک دن میں ختم کرنا ناممکن ہے۔
+> 지금은 예약이 불가능합니다. | Reservations are not possible right now. | ابھی بکنگ ممکن نہیں ہے۔
+> 불가능한 일은 없어요. | Nothing is impossible. | کوئی کام ناممکن نہیں۔
++ 성공 | 成功 | seonggong | noun | success | کامیابی | Work & Employment | 2 | 성공하다 = to succeed.
+> 성공의 비결이 뭐예요? | What's the secret of success? | کامیابی کا راز کیا ہے؟
+> 실패는 성공의 어머니예요. | Failure is the mother of success. | ناکامی کامیابی کی ماں ہے۔
+> 행사가 큰 성공을 거뒀어요. | The event was a great success. | تقریب بہت کامیاب رہی۔
++ 실패 | 失敗 | silpae | noun | failure | ناکامی | Work & Employment | 2 | 실패하다 = to fail.
+> 실패를 두려워하지 마세요. | Don't be afraid of failure. | ناکامی سے مت ڈریں۔
+> 첫 번째 시도는 실패로 끝났어요. | The first attempt ended in failure. | پہلی کوشش ناکام رہی۔
+> 실패에서 많은 것을 배웠어요. | I learned a lot from failure. | ناکامی سے بہت کچھ سیکھا۔
++ 결혼하다 | 結婚- | gyeolhonhada | verb | to get married | شادی کرنا | Family & People | 1 | -와/과 결혼하다.
+> 언니가 다음 달에 결혼해요. | My older sister is getting married next month. | بڑی بہن اگلے مہینے شادی کر رہی ہیں۔
+> 결혼한 지 5년이 됐어요. | It's been five years since I got married. | شادی کو پانچ سال ہو گئے۔
+> 언제 결혼할 거예요? | When are you getting married? | آپ کب شادی کریں گے؟
++ 이혼하다 | 離婚- | ihonhada | verb | to divorce | طلاق ہونا | Family & People | 2 |
+> 그 부부는 작년에 이혼했어요. | That couple divorced last year. | اس جوڑے کی پچھلے سال طلاق ہو گئی۔
+> 이혼하는 부부가 늘고 있어요. | More couples are divorcing. | طلاق لینے والے جوڑے بڑھ رہے ہیں۔
+> 부모님이 이혼하셔서 할머니와 살아요. | My parents divorced, so I live with my grandmother. | والدین کی طلاق کے بعد دادی کے ساتھ رہتا ہوں۔
++ 잘하다 |  | jalhada | verb | to be good at, to do well | اچھا کرنا، ماہر ہونا | Common Verbs & Adjectives | 1 | -을/를 잘하다.
+> 동생은 수영을 잘해요. | My younger sibling is good at swimming. | چھوٹا بھائی اچھا تیرتا ہے۔
+> 한국어를 정말 잘하시네요! | You speak Korean really well! | آپ بہت اچھی کورین بولتے ہیں!
+> 시험을 잘했으면 좋겠어요. | I hope I did well on the exam. | امید ہے امتحان اچھا گیا ہو۔
++ 못하다 |  | motada | verb | to be bad at, can't do | نہ کر پانا، کمزور ہونا | Common Verbs & Adjectives | 1 | -지 못하다 = cannot.
+> 저는 노래를 못해요. | I'm bad at singing. | میں اچھا نہیں گاتا۔
+> 술을 못해서 주스를 마셨어요. | I can't drink alcohol, so I had juice. | میں شراب نہیں پیتا، اس لیے جوس پیا۔
+> 어제는 숙제를 다 못했어요. | I couldn't finish all my homework yesterday. | کل سارا ہوم ورک نہیں کر سکا۔
++ 걱정하다 |  | geokjeonghada | verb | to worry | فکر کرنا | Emotions & Relationships | 1 | 걱정하지 마세요 = don't worry.
+> 걱정하지 마세요. 괜찮을 거예요. | Don't worry. It'll be fine. | فکر نہ کریں، سب ٹھیک ہو جائے گا۔
+> 어머니가 제 건강을 걱정하세요. | My mother worries about my health. | امی میری صحت کی فکر کرتی ہیں۔
+> 시험 결과를 걱정하고 있어요. | I'm worried about the exam results. | امتحان کے نتیجے کی فکر ہے۔
++ 틀리다 |  | teullida | verb | to be wrong, to make a mistake | غلط ہونا | Common Verbs & Adjectives | 1 | Opposite: 맞다. Not the same as 다르다 (different).
+> 이 문제의 답이 틀렸어요. | The answer to this question is wrong. | اس سوال کا جواب غلط ہے۔
+> 틀린 글자를 고쳐 주세요. | Please correct the wrong letters. | غلط حروف ٹھیک کر دیں۔
+> 틀려도 괜찮으니까 말해 보세요. | It's okay to be wrong, so try saying it. | غلطی ہو تو بھی کوئی بات نہیں، بول کر دیکھیں۔
++ 분명히 | 分明- | bunmyeonghi | adverb | clearly, definitely | واضح طور پر، یقیناً | Common Verbs & Adjectives | 2 |
+> 분명히 여기에 두었는데 없어요. | I definitely left it here, but it's gone. | یقیناً یہیں رکھا تھا، مگر نہیں ہے۔
+> 그는 분명히 올 거예요. | He'll definitely come. | وہ ضرور آئے گا۔
+> 의견을 분명히 말해 주세요. | Please state your opinion clearly. | اپنی رائے واضح بتائیں۔
++ 틀림없이 |  | teullimeopsi | adverb | without fail, surely | بلاشبہ، ضرور | Common Verbs & Adjectives | 2 |
+> 내일은 틀림없이 비가 올 거예요. | It will surely rain tomorrow. | کل ضرور بارش ہوگی۔
+> 틀림없이 합격할 거예요. | You'll pass for sure. | آپ ضرور پاس ہوں گے۔
+> 이건 틀림없이 제 가방이에요. | This is definitely my bag. | یہ یقیناً میرا بیگ ہے۔
++ 게다가 |  | gedaga | adverb | besides, moreover | اس کے علاوہ، مزید یہ کہ | Common Verbs & Adjectives | 2 |
+> 이 집은 넓고 게다가 싸요. | This house is spacious, and it's cheap too. | یہ گھر کشادہ ہے اور سستا بھی۔
+> 비가 오고 게다가 바람도 불어요. | It's raining, and on top of that it's windy. | بارش ہو رہی ہے، اوپر سے ہوا بھی چل رہی ہے۔
+> 늦었어요. 게다가 길도 막혀요. | I'm late. And the roads are jammed too. | دیر ہو گئی، اوپر سے ٹریفک بھی ہے۔
++ 교통 | 交通 | gyotong | noun | traffic, transportation | ٹریفک، آمد و رفت | Travel & Transportation | 1 | 교통이 편리하다 = transport is convenient.
+> 이 동네는 교통이 편리해요. | Transportation is convenient in this neighborhood. | اس محلے میں آمد و رفت آسان ہے۔
+> 교통 체증 때문에 늦었어요. | I was late because of the traffic jam. | ٹریفک جام کی وجہ سے دیر ہو گئی۔
+> 교통 법규를 지켜야 해요. | You must obey traffic laws. | ٹریفک قوانین کی پابندی کرنی چاہیے۔
++ 굵다 |  | gukda | adjective | to be thick (of lines, threads, limbs) | موٹا ہونا | Common Verbs & Adjectives | 2 | For flat things like books use 두껍다.
+> 굵은 소금을 넣으세요. | Add coarse salt. | موٹا نمک ڈالیں۔
+> 그는 목소리가 굵어요. | He has a deep voice. | اس کی آواز بھاری ہے۔
+> 굵은 글씨로 써 주세요. | Please write in bold letters. | موٹے حروف میں لکھیں۔
++ 가늘다 |  | ganeulda | adjective | to be thin, slender | پتلا، باریک | Common Verbs & Adjectives | 2 |
+> 가는 국수를 좋아해요. | I like thin noodles. | مجھے باریک نوڈلز پسند ہیں۔
+> 그녀는 손가락이 가늘어요. | She has slender fingers. | اس کی انگلیاں پتلی ہیں۔
+> 바늘처럼 가는 선을 그렸어요. | I drew a line as thin as a needle. | سوئی جیسی باریک لکیر کھینچی۔
++ 객관적 | 客觀的 | gaekgwanjeok | noun | objective | معروضی | Academic & Formal | 3 | Used as 객관적인 / 객관적으로.
+> 객관적인 자료가 필요해요. | We need objective data. | معروضی ڈیٹا کی ضرورت ہے۔
+> 상황을 객관적으로 보세요. | Look at the situation objectively. | صورتحال کو غیر جانبداری سے دیکھیں۔
+> 객관적 평가가 중요합니다. | An objective evaluation is important. | معروضی جانچ اہم ہے۔
++ 주관적 | 主觀的 | jugwanjeok | noun | subjective | موضوعی، ذاتی | Academic & Formal | 3 |
+> 이건 제 주관적인 생각이에요. | This is my subjective opinion. | یہ میری ذاتی رائے ہے۔
+> 맛은 주관적이에요. | Taste is subjective. | ذائقہ ذاتی پسند کی بات ہے۔
+> 너무 주관적으로 판단하지 마세요. | Don't judge too subjectively. | بہت زیادہ ذاتی بنیاد پر فیصلہ نہ کریں۔
++ 구체적 | 具體的 | guchejeok | noun | concrete, specific | ٹھوس، واضح | Academic & Formal | 2 |
+> 구체적인 예를 들어 주세요. | Please give a concrete example. | کوئی ٹھوس مثال دیں۔
+> 계획을 구체적으로 세웠어요. | I made a detailed plan. | تفصیلی منصوبہ بنایا۔
+> 구체적 내용은 메일로 보낼게요. | I'll send the specific details by email. | تفصیلات ای میل سے بھیجوں گا۔
++ 추상적 | 抽象的 | chusangjeok | noun | abstract | تجریدی، مبہم | Academic & Formal | 3 |
+> 설명이 너무 추상적이에요. | The explanation is too abstract. | وضاحت بہت مبہم ہے۔
+> 추상적인 그림은 이해하기 어려워요. | Abstract paintings are hard to understand. | تجریدی تصاویر سمجھنا مشکل ہے۔
+> 사랑은 추상적 개념이에요. | Love is an abstract concept. | محبت ایک تجریدی تصور ہے۔
++ 낙관적 | 樂觀的 | nakgwanjeok | noun | optimistic | پر امید | Emotions & Relationships | 3 |
+> 그는 항상 낙관적이에요. | He is always optimistic. | وہ ہمیشہ پر امید رہتا ہے۔
+> 낙관적인 태도가 도움이 돼요. | An optimistic attitude helps. | پر امید رویہ مددگار ہے۔
+> 결과를 낙관적으로 봐요. | I see the outcome optimistically. | نتیجے کے بارے میں پر امید ہوں۔
++ 비관적 | 悲觀的 | bigwanjeok | noun | pessimistic | مایوس کن، قنوطی | Emotions & Relationships | 3 |
+> 너무 비관적으로 생각하지 마세요. | Don't think so pessimistically. | اتنا مایوس نہ ہوں۔
+> 전문가들은 경제를 비관적으로 봐요. | Experts are pessimistic about the economy. | ماہرین معیشت کے بارے میں مایوس ہیں۔
+> 비관적인 소식만 들려요. | We only hear gloomy news. | صرف مایوس کن خبریں سنائی دیتی ہیں۔
++ 정상 | 正常 | jeongsang | noun | normal (state) | معمول، نارمل | Health | 2 | 정상 (頂上) = summit, a different word.
+> 검사 결과는 모두 정상이에요. | All the test results are normal. | تمام ٹیسٹ نارمل ہیں۔
+> 기차가 정상적으로 운행합니다. | The trains are running normally. | ٹرینیں معمول کے مطابق چل رہی ہیں۔
+> 혈압이 정상보다 높아요. | My blood pressure is higher than normal. | بلڈ پریشر نارمل سے زیادہ ہے۔
++ 유리하다 | 有利- | yurihada | adjective | to be advantageous, favorable | فائدہ مند ہونا | Academic & Formal | 3 | 유리 (琉璃) = glass, a different word.
+> 경험이 많으면 취업에 유리해요. | More experience is an advantage in job hunting. | زیادہ تجربہ نوکری میں فائدہ دیتا ہے۔
+> 우리 팀에 유리한 상황이에요. | The situation favors our team. | صورتحال ہماری ٹیم کے حق میں ہے۔
+> 외국어를 하면 유리합니다. | Speaking a foreign language gives you an edge. | غیر ملکی زبان جاننا فائدہ مند ہے۔
++ 불리하다 | 不利- | bullihada | adjective | to be disadvantageous | نقصان دہ، خلاف ہونا | Academic & Formal | 3 |
+> 상황이 우리에게 불리해요. | The situation is against us. | حالات ہمارے خلاف ہیں۔
+> 늦게 지원하면 불리할 수 있어요. | Applying late can be a disadvantage. | دیر سے درخواست دینا نقصان دہ ہو سکتا ہے۔
+> 불리한 조건에서도 이겼어요. | We won even under unfavorable conditions. | ناموافق حالات میں بھی جیت گئے۔
++ 넉넉하다 |  | neongneokada | adjective | to be enough, ample | کافی، فراخ | Common Verbs & Adjectives | 2 |
+> 시간이 넉넉해서 천천히 가요. | We have plenty of time, so let's go slowly. | کافی وقت ہے، آرام سے چلتے ہیں۔
+> 음식을 넉넉하게 준비했어요. | I prepared plenty of food. | کافی کھانا تیار کیا۔
+> 형편이 넉넉하지 않아요. | We're not well off. | حالات زیادہ اچھے نہیں ہیں۔
++ 입학하다 | 入學- | ipakada | verb | to enter a school | داخلہ لینا | Education & University | 1 | 입학식 = entrance ceremony.
+> 동생이 초등학교에 입학했어요. | My younger sibling started elementary school. | چھوٹے بھائی نے پرائمری اسکول میں داخلہ لیا۔
+> 대학교에 입학하려면 시험을 봐야 해요. | You must take an exam to enter university. | یونیورسٹی میں داخلے کے لیے امتحان دینا پڑتا ہے۔
+> 입학한 지 벌써 1년이 됐어요. | It's already been a year since I entered school. | داخلے کو ایک سال ہو گیا۔
++ 졸업하다 | 卒業- | joreopada | verb | to graduate | فارغ التحصیل ہونا | Education & University | 1 | 졸업식 = graduation ceremony.
+> 내년 2월에 졸업해요. | I graduate next February. | اگلے فروری میں فارغ التحصیل ہوں گا۔
+> 졸업한 후에 취직했어요. | I got a job after graduating. | گریجویشن کے بعد نوکری مل گئی۔
+> 졸업하기 전에 논문을 써야 해요. | I have to write a thesis before graduating. | گریجویشن سے پہلے مقالہ لکھنا ہے۔
++ 수출하다 | 輸出- | suchulhada | verb | to export | برآمد کرنا | Economy & Business | 2 |
+> 한국은 자동차를 많이 수출해요. | Korea exports a lot of cars. | کوریا بہت گاڑیاں برآمد کرتا ہے۔
+> 이 회사는 제품을 해외에 수출합니다. | This company exports products overseas. | یہ کمپنی مصنوعات بیرون ملک بھیجتی ہے۔
+> 수출하는 양이 늘었어요. | The volume of exports has grown. | برآمدات کی مقدار بڑھ گئی۔
++ 수입하다 | 輸入- | suipada | verb | to import | درآمد کرنا | Economy & Business | 2 | 수입 (收入) = income, a different word.
+> 석유를 외국에서 수입해요. | We import oil from abroad. | تیل باہر سے درآمد کرتے ہیں۔
+> 수입한 과일은 비싸요. | Imported fruit is expensive. | درآمد شدہ پھل مہنگے ہیں۔
+> 그 나라는 쌀을 수입합니다. | That country imports rice. | وہ ملک چاول درآمد کرتا ہے۔
++ 찬성 | 贊成 | chanseong | noun | agreement, approval (in favor) | حمایت، موافقت | Society & Culture | 2 | 찬성하다 = to agree with.
+> 저는 그 의견에 찬성이에요. | I'm in favor of that opinion. | میں اس رائے کے حق میں ہوں۔
+> 찬성이 반대보다 많았어요. | There were more votes for than against. | حمایت مخالفت سے زیادہ تھی۔
+> 찬성하는 사람은 손을 드세요. | Those in favor, raise your hands. | حق میں ہیں تو ہاتھ اٹھائیں۔
++ 반대 | 反對 | bandae | noun | opposition; the opposite | مخالفت؛ الٹا | Society & Culture | 2 | 반대말 = opposite word.
+> 부모님의 반대로 유학을 포기했어요. | I gave up studying abroad because my parents opposed it. | والدین کی مخالفت سے بیرون ملک تعلیم چھوڑ دی۔
+> '크다'의 반대말은 '작다'예요. | The opposite of 'big' is 'small'. | 'بڑا' کا الٹ 'چھوٹا' ہے۔
+> 반대 방향으로 가세요. | Go in the opposite direction. | الٹی سمت میں جائیں۔
++ 승리 | 勝利 | seungni | noun | victory | فتح | Hobbies & Leisure | 2 |
+> 우리 팀이 승리했어요. | Our team won. | ہماری ٹیم جیت گئی۔
+> 승리를 축하합니다! | Congratulations on the victory! | فتح مبارک ہو!
+> 마지막 골로 승리가 결정됐어요. | The last goal decided the victory. | آخری گول سے جیت کا فیصلہ ہوا۔
++ 패배 | 敗北 | paebae | noun | defeat | شکست | Hobbies & Leisure | 3 |
+> 패배를 인정했어요. | We admitted defeat. | ہم نے شکست تسلیم کی۔
+> 어제 경기는 아쉬운 패배였어요. | Yesterday's game was a disappointing loss. | کل کا میچ افسوسناک شکست تھی۔
+> 패배에서 배우는 것도 많아요. | You learn a lot from defeat too. | شکست سے بھی بہت کچھ سیکھا جاتا ہے۔
++ 장보다 | 場- | jangboda | verb | to go grocery shopping | سودا سلف خریدنا | Daily Life in Korea | 1 | 장을 보다.
+> 주말마다 마트에서 장을 봐요. | I do grocery shopping at the mart every weekend. | ہر ہفتے کے آخر مارٹ سے سودا لاتا ہوں۔
+> 퇴근길에 장보고 갈게요. | I'll pick up groceries on my way home from work. | دفتر سے واپسی پر سودا لے آؤں گا۔
+> 장보러 시장에 갔어요. | I went to the market to shop for groceries. | سودا لینے بازار گیا۔
++ 설거지하다 |  | seolgeojihada | verb | to wash the dishes | برتن دھونا | Daily Life in Korea | 1 |
+> 밥을 먹고 설거지했어요. | I washed the dishes after eating. | کھانے کے بعد برتن دھوئے۔
+> 오늘은 제가 설거지할게요. | I'll do the dishes today. | آج برتن میں دھوؤں گا۔
+> 설거지하는 것이 귀찮아요. | Washing dishes is a hassle. | برتن دھونا جھنجھٹ ہے۔
++ 빨래하다 |  | ppallaehada | verb | to do the laundry | کپڑے دھونا | Daily Life in Korea | 1 |
+> 주말에 빨래해야 해요. | I have to do laundry this weekend. | ہفتے کے آخر کپڑے دھونے ہیں۔
+> 날씨가 좋아서 빨래했어요. | The weather was nice, so I did laundry. | موسم اچھا تھا تو کپڑے دھوئے۔
+> 빨래한 옷을 밖에 널었어요. | I hung the washed clothes outside. | دھلے کپڑے باہر سکھائے۔
++ 환불하다 | 還拂- | hwanbulhada | verb | to refund, get a refund | رقم واپس کرنا/لینا | Shopping & Money | 2 | 환불을 받다 = to get a refund.
+> 이 신발을 환불하고 싶어요. | I'd like to return these shoes for a refund. | یہ جوتے واپس کر کے پیسے لینا چاہتا ہوں۔
+> 영수증이 있어야 환불할 수 있어요. | You need the receipt to get a refund. | رسید ہو تو ہی رقم واپس ملتی ہے۔
+> 일주일 안에 환불해 드립니다. | We refund within a week. | ہم ایک ہفتے کے اندر رقم واپس کرتے ہیں۔
++ 적립 | 積立 | jeongnip | noun | saving up (points), accumulation | پوائنٹس جمع کرنا | Shopping & Money | 2 | 포인트 적립 = earning points.
+> 포인트 적립해 드릴까요? | Shall I add points to your card? | کیا آپ کے پوائنٹس جمع کر دوں؟
+> 적립한 포인트로 커피를 샀어요. | I bought coffee with the points I saved. | جمع شدہ پوائنٹس سے کافی خریدی۔
+> 구매 금액의 5%가 적립돼요. | 5% of the purchase is saved as points. | خریداری کا پانچ فیصد پوائنٹس میں جمع ہوتا ہے۔
++ 잔돈 |  | jandon | noun | small change | ریزگاری، کھلے پیسے | Shopping & Money | 1 |
+> 잔돈이 없어서 카드로 냈어요. | I had no change, so I paid by card. | کھلے پیسے نہیں تھے، کارڈ سے ادائیگی کی۔
+> 잔돈으로 바꿔 주실 수 있어요? | Could you break this into small change? | کیا آپ کھلے پیسے دے سکتے ہیں؟
+> 버스 탈 때 잔돈이 필요해요. | You need change for the bus. | بس کے لیے کھلے پیسے چاہئیں۔
++ 거스름돈 |  | geoseureumdon | noun | change (money given back) | بقایا رقم | Shopping & Money | 2 |
+> 거스름돈 여기 있습니다. | Here's your change. | یہ رہا آپ کا بقایا۔
+> 거스름돈을 덜 받았어요. | I got less change than I should have. | بقایا کم ملا۔
+> 거스름돈은 괜찮아요. | Keep the change. | بقایا رکھ لیں۔
++ 늦잠 |  | neutjam | noun | oversleeping, sleeping in | دیر تک سونا | Daily Life in Korea | 1 | 늦잠을 자다 = to oversleep.
+> 늦잠을 자서 지각했어요. | I overslept and was late. | دیر تک سویا اور لیٹ ہو گیا۔
+> 주말에는 늦잠을 자요. | I sleep in on weekends. | ہفتے کے آخر دیر تک سوتا ہوں۔
+> 늦잠 때문에 비행기를 놓쳤어요. | I missed the flight because I overslept. | دیر تک سونے سے فلائٹ چھوٹ گئی۔
++ 지각하다 | 遲刻- | jigakada | verb | to be late (for school/work) | دیر سے پہنچنا | Daily Life in Korea | 1 |
+> 오늘 또 지각했어요. | I was late again today. | آج پھر دیر سے پہنچا۔
+> 지각하면 벌금을 내야 해요. | If you're late you pay a fine. | دیر سے آئیں تو جرمانہ ہے۔
+> 지각하지 않도록 일찍 나가요. | I leave early so I won't be late. | جلدی نکلتا ہوں تاکہ دیر نہ ہو۔
++ 결석하다 | 缺席- | gyeolseokada | verb | to be absent (from class) | غیر حاضر ہونا | Education & University | 2 | 출석하다 = to attend.
+> 감기 때문에 수업에 결석했어요. | I missed class because of a cold. | زکام کی وجہ سے کلاس میں غیر حاضر رہا۔
+> 세 번 이상 결석하면 안 돼요. | You can't miss more than three times. | تین سے زیادہ غیر حاضریاں نہیں چلیں گی۔
+> 결석한 이유를 말해 주세요. | Please tell me why you were absent. | غیر حاضری کی وجہ بتائیں۔
++ 조퇴하다 | 早退- | jotoehada | verb | to leave early (school/work) | جلدی چھٹی لینا | Work & Employment | 2 |
+> 몸이 아파서 조퇴했어요. | I felt sick and left early. | طبیعت خراب تھی، جلدی چلا گیا۔
+> 오늘 조퇴해도 될까요? | May I leave early today? | کیا آج جلدی جا سکتا ہوں؟
+> 병원에 가려고 조퇴했어요. | I left early to go to the hospital. | ہسپتال جانے کے لیے جلدی چھٹی لی۔
++ 연휴 | 連休 | yeonhyu | noun | long weekend, consecutive holidays | لگاتار چھٹیاں | Time & Numbers | 2 |
+> 이번 연휴에 고향에 가요. | I'm going home this long weekend. | ان چھٹیوں میں گھر جا رہا ہوں۔
+> 연휴라서 길이 많이 막혀요. | The roads are jammed because it's a holiday weekend. | چھٹیوں کی وجہ سے ٹریفک بہت ہے۔
+> 추석 연휴는 5일이에요. | The Chuseok holiday is five days long. | چوسوک کی چھٹیاں پانچ دن کی ہیں۔
++ 세입자 | 貰入者 | seipja | noun | tenant | کرایہ دار | Daily Life in Korea | 2 | 집주인 = landlord.
+> 세입자가 다음 달에 이사 가요. | The tenant is moving out next month. | کرایہ دار اگلے مہینے جا رہا ہے۔
+> 집주인과 세입자가 계약을 했어요. | The landlord and tenant signed a contract. | مالک مکان اور کرایہ دار نے معاہدہ کیا۔
+> 세입자를 구하고 있어요. | We're looking for a tenant. | کرایہ دار ڈھونڈ رہے ہیں۔
++ 층간소음 | 層間騷音 | cheunggansoeum | noun | noise between floors | منزلوں کے درمیان شور | Daily Life in Korea | 2 | A common apartment problem in Korea.
+> 층간소음 때문에 잠을 못 자요. | I can't sleep because of noise from upstairs. | اوپر کی منزل کے شور سے سو نہیں سکتا۔
+> 층간소음으로 이웃과 다퉜어요. | I argued with a neighbor over floor noise. | شور پر پڑوسی سے جھگڑا ہوا۔
+> 아이들이 뛰면 층간소음이 생겨요. | Kids running causes noise for the floor below. | بچوں کے دوڑنے سے نیچے شور جاتا ہے۔
++ 세탁소 | 洗濯所 | setakso | noun | dry cleaner's, laundry shop | لانڈری | Places & Directions | 1 |
+> 정장을 세탁소에 맡겼어요. | I left my suit at the dry cleaner's. | سوٹ لانڈری میں دیا۔
+> 세탁소에서 옷을 찾아왔어요. | I picked up my clothes from the laundry. | لانڈری سے کپڑے لے آیا۔
+> 집 앞에 세탁소가 있어요. | There's a dry cleaner in front of my house. | گھر کے سامنے لانڈری ہے۔
++ 보건소 | 保健所 | bogeonso | noun | public health center | سرکاری مرکز صحت | Health | 2 |
+> 보건소에서 예방 주사를 맞았어요. | I got a vaccination at the health center. | مرکز صحت میں ویکسین لگوائی۔
+> 보건소는 진료비가 싸요. | Treatment at the public health center is cheap. | سرکاری مرکز صحت میں علاج سستا ہے۔
+> 보건소에서 건강 검사를 받았어요. | I had a checkup at the health center. | مرکز صحت میں معائنہ کروایا۔
++ 체류 | 滯留 | cheryu | noun | stay, residence (in a country) | قیام | Daily Life in Korea | 2 | 체류 기간 = period of stay.
+> 체류 기간이 언제까지예요? | Until when is your period of stay? | آپ کا قیام کب تک ہے؟
+> 비자 체류 기간을 연장했어요. | I extended my visa stay. | ویزا کی مدت بڑھوائی۔
+> 한국에 체류하는 외국인이 늘었어요. | The number of foreigners staying in Korea has grown. | کوریا میں مقیم غیر ملکی بڑھ گئے ہیں۔
++ 자기소개서 | 自己紹介書 | jagisogaeseo | noun | personal statement, cover letter | تعارف نامہ | Work & Employment | 2 |
+> 자기소개서를 쓰고 있어요. | I'm writing a personal statement. | تعارف نامہ لکھ رہا ہوں۔
+> 이력서와 자기소개서를 제출하세요. | Submit your résumé and cover letter. | سی وی اور تعارف نامہ جمع کرائیں۔
+> 자기소개서에 경험을 자세히 썼어요. | I described my experience in detail in my cover letter. | تعارف نامے میں تجربہ تفصیل سے لکھا۔
++ 신입 | 新入 | sinip | noun | newcomer, new employee | نیا آنے والا | Work & Employment | 2 | 신입 사원 = new employee.
+> 신입 사원 교육이 있어요. | There's training for new employees. | نئے ملازمین کی تربیت ہے۔
+> 저는 올해 들어온 신입이에요. | I'm a newcomer who joined this year. | میں اس سال آیا نیا ملازم ہوں۔
+> 신입이라서 모르는 게 많아요. | I'm new, so there's a lot I don't know. | نیا ہوں، بہت کچھ نہیں جانتا۔
++ 퇴직 | 退職 | toejik | noun | retirement, leaving a job | ملازمت چھوڑنا، ریٹائرمنٹ | Work & Employment | 2 | 퇴직금 = severance pay.
+> 아버지는 내년에 퇴직하세요. | My father retires next year. | ابو اگلے سال ریٹائر ہوں گے۔
+> 퇴직 후에 시골에서 살고 싶어요. | I want to live in the countryside after retirement. | ریٹائرمنٹ کے بعد گاؤں میں رہنا چاہتا ہوں۔
+> 퇴직금을 받았어요. | I received severance pay. | ملازمت ختم ہونے کی رقم ملی۔
++ 근무 | 勤務 | geunmu | noun | work, duty, being on the job | ڈیوٹی، کام | Work & Employment | 2 | 근무하다 = to work (at a place).
+> 근무 시간은 9시부터 6시까지예요. | Working hours are from 9 to 6. | کام کے اوقات نو سے چھ بجے تک ہیں۔
+> 저는 은행에서 근무해요. | I work at a bank. | میں بینک میں کام کرتا ہوں۔
+> 오늘은 야간 근무예요. | I'm on the night shift today. | آج رات کی ڈیوٹی ہے۔
++ 평일 | 平日 | pyeongil | noun | weekday | عام دن، ہفتے کا دن | Time & Numbers | 1 |
+> 평일에는 회사에 가요. | I go to work on weekdays. | ہفتے کے دنوں میں دفتر جاتا ہوں۔
+> 평일이라서 사람이 적어요. | It's a weekday, so there are few people. | عام دن ہے، لوگ کم ہیں۔
+> 평일 오후에 시간 있어요? | Are you free on a weekday afternoon? | کسی عام دن دوپہر کو فارغ ہیں؟
++ 공휴일 | 公休日 | gonghyuil | noun | public holiday | سرکاری چھٹی | Time & Numbers | 2 |
+> 내일은 공휴일이라서 쉬어요. | Tomorrow is a public holiday, so I'm off. | کل سرکاری چھٹی ہے، آرام کروں گا۔
+> 공휴일에도 문을 여는 병원이 있어요. | Some hospitals are open on public holidays. | کچھ ہسپتال چھٹی کے دن بھی کھلے ہیں۔
+> 한국의 공휴일을 알아요? | Do you know Korea's public holidays? | کوریا کی سرکاری چھٹیاں جانتے ہیں؟
++ 몸살 |  | momsal | noun | body aches (from fatigue or flu) | بدن درد | Health | 2 | 몸살이 나다 = to come down with aches.
+> 몸살이 나서 하루 종일 누워 있었어요. | I had body aches and lay down all day. | بدن درد کی وجہ سے سارا دن لیٹا رہا۔
+> 무리하면 몸살이 나요. | Overdoing it gives you body aches. | زیادہ محنت سے بدن درد ہو جاتا ہے۔
+> 몸살 감기에 걸렸어요. | I caught a flu with body aches. | بدن درد والا زکام ہو گیا۔
++ 기침 |  | gichim | noun | cough | کھانسی | Health | 1 | 기침을 하다 = to cough.
+> 기침이 계속 나요. | I keep coughing. | کھانسی رک نہیں رہی۔
+> 기침할 때는 입을 가리세요. | Cover your mouth when you cough. | کھانستے وقت منہ ڈھانپیں۔
+> 기침약을 샀어요. | I bought cough medicine. | کھانسی کی دوا خریدی۔
++ 콧물 |  | konmul | noun | runny nose | ناک بہنا | Health | 1 | 콧물이 나다.
+> 감기에 걸려서 콧물이 나요. | I have a cold, so my nose is running. | زکام کی وجہ سے ناک بہہ رہی ہے۔
+> 휴지로 콧물을 닦았어요. | I wiped my runny nose with a tissue. | ٹشو سے ناک صاف کی۔
+> 콧물이 멈추지 않아요. | My runny nose won't stop. | ناک بہنا بند نہیں ہو رہا۔
++ 건강검진 | 健康檢診 | geonganggeomjin | noun | health checkup | طبی معائنہ | Health | 2 |
+> 일 년에 한 번 건강검진을 받아요. | I get a health checkup once a year. | سال میں ایک بار طبی معائنہ کرواتا ہوں۔
+> 회사에서 건강검진을 해 줘요. | The company provides health checkups. | کمپنی طبی معائنہ کرواتی ہے۔
+> 건강검진 결과가 나왔어요. | My checkup results are out. | معائنے کے نتائج آ گئے۔
++ 산책하다 | 散策- | sanchaekada | verb | to take a walk | چہل قدمی کرنا | Hobbies & Leisure | 1 |
+> 저녁마다 공원에서 산책해요. | I take a walk in the park every evening. | ہر شام پارک میں چہل قدمی کرتا ہوں۔
+> 강아지와 산책하러 나갔어요. | I went out to walk the dog. | کتے کو سیر کرانے گیا۔
+> 밥을 먹고 산책하면 좋아요. | It's good to take a walk after eating. | کھانے کے بعد چہل قدمی اچھی ہے۔
++ 뚱뚱하다 |  | ttungttunghada | adjective | to be fat, chubby | موٹا ہونا | Common Verbs & Adjectives | 1 | Can be rude about people; 통통하다 is softer.
+> 고양이가 너무 뚱뚱해졌어요. | The cat has gotten too fat. | بلی بہت موٹی ہو گئی ہے۔
+> 뚱뚱한 사람도 건강할 수 있어요. | Heavy people can be healthy too. | موٹے لوگ بھی صحت مند ہو سکتے ہیں۔
+> 겨울에 많이 먹어서 뚱뚱해졌어요. | I got fat from eating a lot in winter. | سردیوں میں زیادہ کھا کر موٹا ہو گیا۔
++ 이르다 |  | ireuda | adjective | to be early | جلدی، قبل از وقت | Time & Numbers | 2 | Other verbs 이르다 mean "to reach" and "to tell".
+> 포기하기에는 아직 이르다고 생각해요. | I think it's still too early to give up. | میرے خیال میں ہار ماننا ابھی قبل از وقت ہے۔
+> 이른 아침에 출발했어요. | We set off early in the morning. | صبح سویرے روانہ ہوئے۔
+> 결론을 내리기에는 이르다. | It is too early to draw a conclusion. | نتیجہ نکالنا ابھی جلد بازی ہے۔
++ 출근 | 出勤 | chulgeun | noun | going to work | دفتر جانا | Work & Employment | 1 | 출근하다 = to go to work.
+> 출근 시간에는 지하철이 붐벼요. | The subway is crowded at rush hour. | دفتر کے وقت میٹرو بھری ہوتی ہے۔
+> 내일 출근은 몇 시예요? | What time do you go to work tomorrow? | کل دفتر کتنے بجے جانا ہے؟
+> 첫 출근 날이라서 긴장돼요. | It's my first day at work, so I'm nervous. | دفتر کا پہلا دن ہے، گھبراہٹ ہے۔
++ 퇴근 | 退勤 | toegeun | noun | leaving work | دفتر سے واپسی | Work & Employment | 1 | 퇴근하다 = to get off work.
+> 퇴근 후에 운동을 해요. | I exercise after work. | دفتر کے بعد ورزش کرتا ہوں۔
+> 오늘은 퇴근이 늦어요. | I'm leaving work late today. | آج دفتر سے دیر سے نکلوں گا۔
+> 퇴근 시간이 기다려져요. | I can't wait for the end of the workday. | چھٹی کا انتظار ہے۔
++ 줄을 서다 |  | jureul seoda | expression | to stand in line | قطار میں کھڑا ہونا | Daily Life in Korea | 1 |
+> 맛집 앞에서 한 시간 줄을 섰어요. | I stood in line for an hour at a famous restaurant. | مشہور ریستوران کے باہر ایک گھنٹہ قطار میں کھڑا رہا۔
+> 여기에 줄을 서 주세요. | Please line up here. | یہاں قطار بنائیں۔
+> 줄을 서서 기다렸어요. | I waited in line. | قطار میں انتظار کیا۔
++ 번호표 | 番號票 | beonhopyo | noun | queue number ticket | نمبر کی پرچی | Daily Life in Korea | 2 | Used at banks and offices.
+> 은행에서 번호표를 뽑았어요. | I took a number ticket at the bank. | بینک میں نمبر کی پرچی لی۔
+> 번호표를 들고 기다려 주세요. | Please wait with your number ticket. | پرچی لے کر انتظار کریں۔
+> 제 번호표는 35번이에요. | My number is 35. | میرا نمبر پینتیس ہے۔
++ 송금하다 | 送金- | songgeumhada | verb | to send money, remit | رقم بھیجنا | Shopping & Money | 2 | 해외 송금 = overseas transfer.
+> 매달 고향에 송금해요. | I send money home every month. | ہر مہینے گھر پیسے بھیجتا ہوں۔
+> 앱으로 쉽게 송금할 수 있어요. | You can easily send money with the app. | ایپ سے آسانی سے رقم بھیجی جا سکتی ہے۔
+> 송금한 돈이 아직 안 들어왔어요. | The money I sent hasn't arrived yet. | بھیجی گئی رقم ابھی نہیں پہنچی۔
++ 수수료 | 手數料 | susuryo | noun | fee, commission | فیس، کمیشن | Shopping & Money | 2 |
+> 해외 송금 수수료가 비싸요. | Overseas transfer fees are expensive. | بیرون ملک رقم بھیجنے کی فیس مہنگی ہے۔
+> 수수료 없이 돈을 찾을 수 있어요. | You can withdraw money without a fee. | بغیر فیس کے پیسے نکال سکتے ہیں۔
+> 수수료가 얼마예요? | How much is the fee? | فیس کتنی ہے؟
++ 적금 | 積金 | jeokgeum | noun | installment savings | ماہانہ بچت کھاتہ | Shopping & Money | 2 | You pay in every month for a fixed term.
+> 매달 적금을 넣고 있어요. | I put money into a savings plan every month. | ہر مہینے بچت کھاتے میں رقم ڈالتا ہوں۔
+> 적금이 다음 달에 끝나요. | My savings plan matures next month. | میری بچت اگلے مہینے مکمل ہوگی۔
+> 적금으로 여행 경비를 모았어요. | I saved travel money through a savings plan. | بچت کھاتے سے سفر کے پیسے جمع کیے۔
++ 예금 | 預金 | yegeum | noun | bank deposit, savings | بینک ڈپازٹ | Shopping & Money | 2 |
+> 은행에 예금을 했어요. | I made a deposit at the bank. | بینک میں رقم جمع کرائی۔
+> 예금 이자가 낮아요. | Interest on deposits is low. | ڈپازٹ پر سود کم ہے۔
+> 예금 통장을 만들었어요. | I opened a savings account. | بچت کھاتہ کھولا۔

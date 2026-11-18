@@ -164,6 +164,7 @@ def stylesheet(fonts: Fonts, p: Palette) -> str:
     QLabel#exampleKo {{ font-family: "{fonts.korean}"; font-size: 11pt; color: {p.text}; }}
     QLabel#exampleEn {{ color: {p.muted}; font-size: 9.5pt; font-style: italic; }}
     QLabel#exampleUr {{ font-family: "{fonts.urdu}"; color: {p.muted}; font-size: 11pt; }}
+    QLabel#related {{ font-family: "{fonts.korean}"; color: {p.muted}; font-size: 9.5pt; }}
     QLabel#notes {{ color: {p.faint}; font-size: 8.5pt; }}
     QLabel#status {{ color: {p.faint}; font-size: 8pt; }}
 

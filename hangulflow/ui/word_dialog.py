@@ -51,6 +51,8 @@ class WordDialog(QDialog):
         self.example_en = QLineEdit(placeholderText="optional English translation")
         self.example_ur = self._urdu(QLineEdit(placeholderText="اختیاری اردو ترجمہ"), urdu_font)
         self.notes = QLineEdit(placeholderText="optional notes, collocations…")
+        self.synonyms = QLineEdit(placeholderText="optional, comma-separated, e.g. 애쓰다")
+        self.antonyms = QLineEdit(placeholderText="optional, comma-separated, e.g. 게으르다")
         self.category = QComboBox()
         self.category.setEditable(True)
         self.category.addItems(sorted(set(categories or []) | {"My Words"}))
@@ -70,6 +72,8 @@ class WordDialog(QDialog):
         form.addRow("Example (English)", self.example_en)
         form.addRow("Example (Urdu)", self.example_ur)
         form.addRow("Notes", self.notes)
+        form.addRow("Similar words", self.synonyms)
+        form.addRow("Opposites", self.antonyms)
         form.addRow("Category", self.category)
         form.addRow("Level (1-3)", self.difficulty)
         layout.addLayout(form)
@@ -89,7 +93,7 @@ class WordDialog(QDialog):
 
     def _fill(self, v: Vocab) -> None:
         for name in ("korean", "hanja", "meaning_en", "meaning_ur", "romanization", "example_ko",
-                     "example_en", "example_ur", "notes"):
+                     "example_en", "example_ur", "notes", "synonyms", "antonyms"):
             getattr(self, name).setText(getattr(v, name))
         self.part_of_speech.setCurrentText(v.part_of_speech)
         self.category.setCurrentText(v.category)
@@ -122,6 +126,8 @@ class WordDialog(QDialog):
             "example_en": self.example_en.text(),
             "example_ur": self.example_ur.text(),
             "notes": self.notes.text(),
+            "synonyms": self.synonyms.text(),
+            "antonyms": self.antonyms.text(),
             "category": self.category.currentText(),
             "difficulty": self.difficulty.value(),
         }

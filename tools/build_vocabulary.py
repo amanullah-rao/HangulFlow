@@ -8,7 +8,15 @@ Batch format (one item per line, fields separated by "|"):
     > Korean sentence | English | Urdu          (3 or more per word; the first is the main example)
     = korean | level | English meaning (only needed if the Korean word has several entries)
     > ...                                        (extra sentences for that existing word)
+    ~ similar word, another                      (synonyms of the word above, Korean, comma-separated)
+    ! opposite word                              (antonyms of the word above)
     # comment
+
+content/relations.txt links words both ways (so each pair is written once):
+
+    크다 ! 작다              (opposites: 크다 gets 작다 and 작다 gets 크다)
+    노력 ~ 애씀, 수고        (similar words)
+    배=ship ~ 선박           (=English meaning picks one of several entries with the same Korean)
 
 Level: 1 beginner, 2 intermediate, 3 advanced (curated estimates, not official TOPIK levels).
 The output is rebuilt from scratch every run, so the tool can be re-run safely. Its
@@ -27,6 +35,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SEED = ROOT / "hangulflow" / "resources" / "seed_vocabulary.json"
 BASE = ROOT / "content" / "base_vocabulary.json"
 BATCHES = ROOT / "content" / "batches"
+RELATIONS = ROOT / "content" / "relations.txt"
 MIN_SENTENCES = 3
 
 
@@ -38,6 +47,48 @@ def split(line: str, required: int, total: int, where: str) -> list[str]:
     if not required <= len(parts) <= total:
         raise SystemExit(f"{where}: expected {required}-{total} fields, got {len(parts)}: {line!r}")
     return parts + [""] * (total - len(parts))
+
+
+def apply_relations(entries: list[dict], warnings: list[str]) -> None:
+    """Add the word pairs from content/relations.txt to both words of each pair."""
+    if not RELATIONS.exists():
+        return
+    by_korean: dict[str, list[dict]] = {}
+    for e in entries:
+        by_korean.setdefault(e["korean"], []).append(e)
+
+    def lookup(word: str, where: str) -> dict | None:
+        ko, _, en = word.partition("=")
+        found = [e for e in by_korean.get(ko.strip(), []) if not en or e["meaning_en"].startswith(en.strip())]
+        if len(found) > 1:
+            raise SystemExit(f"{where}: {ko} has {len(found)} entries; write it as {ko}=English meaning")
+        return found[0] if found else None
+
+    def link(entry: dict, field: str, word: str) -> None:
+        words = [w for w in entry.get(field, "").split(", ") if w]
+        if word not in words and word != entry["korean"]:
+            entry[field] = ", ".join(words + [word])
+
+    for number, raw in enumerate(RELATIONS.read_text(encoding="utf-8").splitlines(), 1):
+        line = raw.split("#")[0].strip()
+        if not line:
+            continue
+        where = f"{RELATIONS.name}:{number}"
+        mark = "!" if " ! " in line else "~" if " ~ " in line else None
+        if mark is None:
+            raise SystemExit(f"{where}: expected 'word ! opposites' or 'word ~ similar words': {raw!r}")
+        left, right = (s.strip() for s in line.split(f" {mark} ", 1))
+        field = "antonyms" if mark == "!" else "synonyms"
+        head = lookup(left, where)
+        if head is None:
+            raise SystemExit(f"{where}: {left} is not in the word list")
+        for word in (w.strip() for w in right.split(",") if w.strip()):
+            other = lookup(word, where)
+            link(head, field, word.partition("=")[0])
+            if other is not None:
+                link(other, field, head["korean"])
+            elif mark == "!":
+                warnings.append(f"{where}: opposite {word} of {left} is not in the word list (shown without meaning)")
 
 
 def main(check: bool = False) -> int:
@@ -113,6 +164,16 @@ def main(check: bool = False) -> int:
                 current = matches[0]
                 if level:
                     current["difficulty"] = int(level)
+            elif line[0] in "~!":
+                if current is None:
+                    raise SystemExit(f"{where}: related words before any word")
+                field = "synonyms" if line[0] == "~" else "antonyms"
+                words = [w.strip() for w in line[1:].split(",") if w.strip()]
+                if not words or any("|" in w or not any("가" <= ch <= "힣" for ch in w) for w in words):
+                    raise SystemExit(f"{where}: {field} must be Korean words separated by commas: {line!r}")
+                if current["korean"] in words:
+                    raise SystemExit(f"{where}: {current['korean']} lists itself in its {field}")
+                current[field] = ", ".join(dict.fromkeys(words))
             elif line[0] == ">":
                 if current is None:
                     raise SystemExit(f"{where}: sentence before any word")
@@ -125,6 +186,8 @@ def main(check: bool = False) -> int:
             if current is not None and current.get("difficulty") not in (1, 2, 3):
                 raise SystemExit(f"{where}: level must be 1, 2 or 3")
         flush()
+
+    apply_relations(entries, warnings)
 
     changed = json.dumps(entries, ensure_ascii=False, sort_keys=True) != before
     if changed and not check:

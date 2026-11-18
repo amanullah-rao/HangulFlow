@@ -33,10 +33,13 @@ to download new words once a day.
 - Select and copy any text, or copy the whole card
 
 **Content**
-- 324 curated cards across 11 categories: education, daily life in Korea, work, society, environment,
-  health, travel, emotions, academic language, common verbs and adjectives, and **20 TOPIK 3–4 grammar patterns**
-- Every card: Hangul, romanization, part of speech, English and Urdu meanings, a Korean example with
-  English and Urdu translations, Hanja for Sino-Korean words, and notes on usage and easily confused words
+- 3,122 curated cards from beginner to advanced (749 / 1,639 / 734), covering daily life in Korea,
+  education, work, society, health, travel, emotions, academic language, idioms, honorifics and
+  **146 TOPIK grammar patterns**
+- Every card: Hangul, romanization, part of speech, English and Urdu meanings, Hanja for Sino-Korean
+  words, and notes on usage and easily confused words
+- Three example sentences per word (Korean, English and Urdu), a different one each time the word comes back
+- **Similar words and opposites** on about 500 cards (for example 잘하다 ↔ 못하다), each with its meaning
 - Proper Urdu typography (Noto Nastaliq Urdu, right-to-left) and modern Korean typography (Pretendard), bundled
 
 **Library window**
