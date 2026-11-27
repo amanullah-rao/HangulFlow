@@ -1,0 +1,193 @@
+# Funding, budgets, law and policy (from the learner's own word list)
++ 예산안 | 豫算案 | yesanan | noun | budget proposal | بجٹ تجویز | Economy & Business | 3 | 예산 = budget.
+> 내년 예산안을 작성했어요. | We drafted next year's budget proposal. | اگلے سال کی بجٹ تجویز تیار کی۔
+> 국회가 예산안을 통과시켰어요. | The National Assembly passed the budget bill. | پارلیمنٹ نے بجٹ منظور کیا۔
+> 예산안에 운영비를 포함했어요. | We included operating costs in the budget proposal. | بجٹ تجویز میں چلانے کے اخراجات شامل کیے۔
++ 자금 | 資金 | jageum | noun | funds, capital | سرمایہ، فنڈ | Economy & Business | 3 |
+> 창업 자금이 부족해요. | We lack start-up funds. | کاروبار شروع کرنے کا سرمایہ کم ہے۔
+> 자금을 모으고 있어요. | We're raising funds. | فنڈ جمع کر رہے ہیں۔
+> 정부 자금을 지원받았어요. | We received government funding. | حکومتی فنڈ ملا۔
++ 조달 | 調達 | jodal | noun | procurement, raising (funds) | حصول، فراہمی | Economy & Business | 3 | 자금 조달 = fundraising.
+> 자금 조달 방법을 설명하세요. | Explain how you'll raise funds. | فنڈ جمع کرنے کا طریقہ بتائیں۔
+> 부품 조달이 어려워요. | Procuring parts is difficult. | پرزوں کی فراہمی مشکل ہے۔
+> 공공 조달 시장에 진출했어요. | We entered the public procurement market. | سرکاری خریداری کی منڈی میں داخل ہوئے۔
++ 재원 | 財源 | jaewon | noun | source of funds, financial resources | مالی وسائل | Economy & Business | 3 |
+> 재원을 어떻게 마련해요? | How will you secure the funds? | مالی وسائل کیسے حاصل کریں گے؟
+> 안정적인 재원이 필요해요. | A stable source of funding is needed. | مستحکم مالی وسائل درکار ہیں۔
+> 재원은 국비와 지방비예요. | The funding comes from national and local budgets. | وسائل قومی اور مقامی بجٹ سے ہیں۔
++ 국비 | 國費 | gukbi | noun | national (government) funds | قومی فنڈ | Economy & Business | 3 | 국비 장학생 = government scholarship student.
+> 사업비의 절반은 국비예요. | Half of the project cost is national funding. | منصوبے کا آدھا خرچ قومی فنڈ سے ہے۔
+> 국비 장학금으로 유학 왔어요. | I came to study on a government scholarship. | حکومتی وظیفے پر پڑھنے آیا۔
+> 국비 지원을 신청했어요. | We applied for national funding. | قومی فنڈ کی درخواست دی۔
++ 지방비 | 地方費 | jibangbi | noun | local government funds | مقامی فنڈ | Economy & Business | 3 |
+> 지방비로 일부를 부담해요. | Local funds cover part of it. | کچھ حصہ مقامی فنڈ سے ادا ہوتا ہے۔
+> 국비와 지방비를 함께 써요. | National and local funds are used together. | قومی اور مقامی فنڈ ساتھ استعمال ہوتے ہیں۔
+> 지방비 확보가 어려웠어요. | Securing local funds was hard. | مقامی فنڈ حاصل کرنا مشکل تھا۔
++ 펀드 |  | peondeu | noun | fund (investment) | فنڈ | Economy & Business | 2 |
+> 펀드에 투자했어요. | I invested in a fund. | فنڈ میں سرمایہ لگایا۔
+> 환경 펀드를 만들었어요. | They created an environmental fund. | ماحولیاتی فنڈ بنایا۔
+> 펀드 수익률이 좋아요. | The fund's returns are good. | فنڈ کا منافع اچھا ہے۔
++ 사업비 | 事業費 | saeopbi | noun | project cost, project budget | منصوبے کا خرچ | Economy & Business | 3 |
+> 총 사업비는 10억 원이에요. | The total project cost is one billion won. | منصوبے کا کل خرچ ایک ارب وون ہے۔
+> 사업비를 투명하게 사용해요. | We use the project budget transparently. | منصوبے کا بجٹ شفافیت سے استعمال کرتے ہیں۔
+> 사업비 정산을 했어요. | We settled the project accounts. | منصوبے کے اخراجات کا حساب کیا۔
++ 운영비 | 運營費 | unyeongbi | noun | operating costs | چلانے کے اخراجات | Economy & Business | 3 |
+> 운영비가 많이 들어요. | Operating costs are high. | چلانے کے اخراجات زیادہ ہیں۔
+> 운영비를 줄이는 방법을 찾았어요. | We found a way to cut operating costs. | اخراجات کم کرنے کا طریقہ ڈھونڈا۔
+> 매달 운영비를 계산해요. | We calculate operating costs monthly. | ہر مہینے اخراجات کا حساب لگاتے ہیں۔
++ 인건비 | 人件費 | ingeonbi | noun | labor costs | مزدوری کے اخراجات | Economy & Business | 3 |
+> 인건비가 계속 올라요. | Labor costs keep rising. | مزدوری کے اخراجات بڑھتے جا رہے ہیں۔
+> 인건비가 예산의 절반이에요. | Labor costs are half the budget. | مزدوری بجٹ کا آدھا ہے۔
+> 자동화로 인건비를 줄였어요. | Automation cut labor costs. | خود کاری سے مزدوری کا خرچ کم ہوا۔
++ 출장비 | 出張費 | chuljangbi | noun | travel expenses (business trip) | سفری اخراجات | Work & Employment | 3 | 출장 = business trip.
+> 출장비를 청구했어요. | I claimed my travel expenses. | سفری اخراجات کا دعویٰ کیا۔
+> 출장비는 회사에서 내요. | The company pays travel expenses. | سفری خرچ کمپنی دیتی ہے۔
+> 측정 기관 출장비가 비싸요. | The measuring agency's travel fees are high. | پیمائشی ادارے کا سفری خرچ زیادہ ہے۔
++ 개발비 | 開發費 | gaebalbi | noun | development costs | تیاری کے اخراجات | Economy & Business | 3 |
+> 앱 개발비가 얼마예요? | How much does app development cost? | ایپ بنانے کا خرچ کتنا ہے؟
+> 개발비를 지원받았어요. | We received funding for development. | تیاری کے اخراجات کی امداد ملی۔
+> 개발비가 예상보다 많이 들었어요. | Development cost more than expected. | تیاری کا خرچ توقع سے زیادہ ہوا۔
++ 단가 | 單價 | danga | noun | unit price | فی یونٹ قیمت | Economy & Business | 3 |
+> 단가를 낮췄어요. | We lowered the unit price. | فی یونٹ قیمت کم کی۔
+> 측정 한 건당 단가는 50만 원이에요. | The unit price per measurement is 500,000 won. | فی پیمائش قیمت پانچ لاکھ وون ہے۔
+> 원자재 단가가 올랐어요. | Raw material prices went up. | خام مال کی فی یونٹ قیمت بڑھی۔
++ 부담금 | 負擔金 | budamgeum | noun | levy, required contribution | لازمی حصہ، محصول | Economy & Business | 3 |
+> 기업이 부담금을 내요. | Companies pay a levy. | کمپنیاں محصول ادا کرتی ہیں۔
+> 환경 개선 부담금이 있어요. | There's an environmental improvement charge. | ماحول کی بہتری کا محصول ہے۔
+> 부담금을 줄여 주세요. | Please reduce the contribution. | حصہ کم کر دیں۔
++ 보조금 | 補助金 | bojogeum | noun | subsidy | سبسڈی | Economy & Business | 3 |
+> 전기차 보조금을 받았어요. | I got an electric car subsidy. | الیکٹرک گاڑی کی سبسڈی ملی۔
+> 정부 보조금으로 장비를 샀어요. | We bought equipment with a government subsidy. | حکومتی سبسڈی سے آلات خریدے۔
+> 보조금 신청 기간이에요. | It's the subsidy application period. | سبسڈی کی درخواست کا وقت ہے۔
++ 지원금 | 支援金 | jiwongeum | noun | support funds, grant | امدادی رقم | Economy & Business | 2 |
+> 창업 지원금을 받았어요. | We got a start-up grant. | کاروبار کی امدادی رقم ملی۔
+> 지원금 신청서를 냈어요. | I submitted a grant application. | امداد کی درخواست جمع کرائی۔
+> 지원금은 다음 달에 들어와요. | The grant comes in next month. | امدادی رقم اگلے مہینے آئے گی۔
++ 장려금 | 奬勵金 | jangnyeogeum | noun | incentive payment, encouragement grant | حوصلہ افزائی کی رقم | Economy & Business | 3 |
+> 참여 기업에 장려금을 줘요. | Participating companies get an incentive payment. | شریک کمپنیوں کو حوصلہ افزائی کی رقم ملتی ہے۔
+> 출산 장려금이 있어요. | There's a childbirth incentive payment. | بچے کی پیدائش پر امدادی رقم ہے۔
+> 장려금을 받으려면 신청해야 해요. | You must apply to receive the incentive. | رقم لینے کے لیے درخواست دینی ہوگی۔
++ 포상금 | 褒賞金 | posanggeum | noun | prize money, reward | انعامی رقم | Economy & Business | 3 |
+> 1등 팀에게 포상금을 줘요. | The first-place team gets prize money. | پہلی ٹیم کو انعامی رقم ملتی ہے۔
+> 신고하면 포상금을 받아요. | You get a reward for reporting. | اطلاع دینے پر انعام ملتا ہے۔
+> 포상금으로 팀 회식을 했어요. | We had a team dinner with the prize money. | انعامی رقم سے ٹیم کا کھانا کیا۔
++ 보상하다 | 補償- | bosanghada | verb | to compensate, reward | معاوضہ دینا | Economy & Business | 3 | 보상 = compensation; 보상금 = compensation money.
+> 피해를 보상해 드리겠습니다. | We will compensate you for the damage. | نقصان کا معاوضہ دیں گے۔
+> 노력을 보상받았어요. | My efforts were rewarded. | محنت کا صلہ ملا۔
+> 감축한 만큼 보상해요. | You are rewarded in proportion to your reduction. | جتنی کمی اتنا معاوضہ۔
++ 인센티브 |  | insentibeu | noun | incentive | ترغیب | Economy & Business | 3 |
+> 참여 기업에 인센티브를 줘요. | Participating firms get incentives. | شریک کمپنیوں کو ترغیبات دی جاتی ہیں۔
+> 인센티브가 있으면 참여율이 올라가요. | Incentives raise participation. | ترغیب ہو تو شرکت بڑھتی ہے۔
+> 성과 인센티브를 받았어요. | I got a performance bonus. | کارکردگی کا بونس ملا۔
++ 유인책 | 誘因策 | yuinchaek | noun | inducement, incentive measure | ترغیبی تدبیر | Economy & Business | 3 |
+> 참여를 늘릴 유인책이 필요해요. | We need inducements to increase participation. | شرکت بڑھانے کی ترغیب درکار ہے۔
+> 세금 감면이 좋은 유인책이에요. | Tax breaks are a good incentive. | ٹیکس چھوٹ اچھی ترغیب ہے۔
+> 다양한 유인책을 마련했어요. | We prepared various incentives. | مختلف ترغیبات تیار کیں۔
++ 장벽 | 障壁 | jangbyeok | noun | barrier, wall | رکاوٹ | Academic & Formal | 3 | 진입 장벽 = barrier to entry.
+> 언어 장벽이 있었어요. | There was a language barrier. | زبان کی رکاوٹ تھی۔
+> 진입 장벽이 높아요. | The barrier to entry is high. | داخلے کی رکاوٹ زیادہ ہے۔
+> 비용이 가장 큰 장벽이에요. | Cost is the biggest barrier. | خرچ سب سے بڑی رکاوٹ ہے۔
++ 진입 | 進入 | jinip | noun | entry | داخلہ | Economy & Business | 3 | 진입하다 = to enter.
+> 해외 시장 진입을 준비해요. | We're preparing to enter overseas markets. | بیرونی منڈی میں داخلے کی تیاری ہے۔
+> 차량 진입 금지 구역이에요. | Vehicles are prohibited from entering. | گاڑیوں کا داخلہ ممنوع ہے۔
+> 고속도로에 진입했어요. | We got onto the highway. | ہائی وے پر داخل ہوئے۔
++ 무상 | 無償 | musang | noun | free of charge | مفت | Shopping & Money | 3 | 무상 교육 = free education.
+> 장비를 무상으로 빌려줘요. | We lend equipment free of charge. | آلات مفت دیتے ہیں۔
+> 무상 수리 기간이 끝났어요. | The free repair period has ended. | مفت مرمت کی مدت ختم ہو گئی۔
+> 무상 교육을 받았어요. | I received free education. | مفت تعلیم حاصل کی۔
++ 유료 | 有料 | yuryo | noun | paid, for a fee | ادائیگی والا | Shopping & Money | 2 | Opposite: 무료.
+> 이 서비스는 유료예요. | This service costs money. | یہ سروس ادائیگی والی ہے۔
+> 주차장은 유료입니다. | The parking lot is paid. | پارکنگ کی فیس ہے۔
+> 유료 회원으로 바꿨어요. | I switched to a paid membership. | ادائیگی والی رکنیت لی۔
++ 이용료 | 利用料 | iyongnyo | noun | usage fee | استعمال کی فیس | Shopping & Money | 2 |
+> 월 이용료가 만 원이에요. | The monthly fee is 10,000 won. | ماہانہ فیس دس ہزار وون ہے۔
+> 이용료를 내고 들어갔어요. | I paid the fee and went in. | فیس دے کر اندر گیا۔
+> 학생은 이용료가 할인돼요. | Students get a discount on the fee. | طلبہ کو فیس میں رعایت ملتی ہے۔
++ 확보하다 | 確保- | hwakbohada | verb | to secure, obtain | حاصل کرنا | Academic & Formal | 3 | 확보 = securing.
+> 예산을 확보했어요. | We secured the budget. | بجٹ حاصل کیا۔
+> 정확한 데이터를 확보해야 해요. | We must secure accurate data. | درست ڈیٹا حاصل کرنا ہوگا۔
+> 좌석을 미리 확보하세요. | Secure your seats in advance. | نشستیں پہلے سے حاصل کریں۔
++ 편성 | 編成 | pyeonseong | noun | organizing, drawing up (budget, schedule) | ترتیب، تشکیل | Academic & Formal | 3 | 예산 편성 = budget allocation.
+> 예산 편성이 끝났어요. | Budget allocation is complete. | بجٹ کی تقسیم مکمل ہوئی۔
+> 방송 편성표를 봤어요. | I looked at the broadcast schedule. | نشریات کا شیڈول دیکھا۔
+> 팀 편성을 다시 했어요. | We reorganized the teams. | ٹیمیں دوبارہ ترتیب دیں۔
++ 추정 | 推定 | chujeong | noun | estimate, presumption | اندازہ | Academic & Formal | 3 | 추정하다 = to estimate.
+> 피해액은 약 1억 원으로 추정돼요. | Damage is estimated at about 100 million won. | نقصان کا اندازہ تقریباً دس کروڑ وون ہے۔
+> 추정 비용을 계산했어요. | We calculated the estimated cost. | اندازاً لاگت کا حساب لگایا۔
+> 원인은 아직 추정일 뿐이에요. | The cause is only a guess so far. | وجہ ابھی صرف اندازہ ہے۔
++ 자발적 | 自發的 | jabaljeok | noun | voluntary | رضاکارانہ | Society & Culture | 3 |
+> 자발적으로 참여했어요. | I took part voluntarily. | رضاکارانہ طور پر حصہ لیا۔
+> 자발적인 참여가 중요해요. | Voluntary participation is important. | رضاکارانہ شرکت اہم ہے۔
+> 기업의 자발적 감축을 유도해요. | We encourage voluntary reductions by companies. | کمپنیوں کو رضاکارانہ کمی کی ترغیب دیتے ہیں۔
++ 의무적 | 義務的 | uimujeok | noun | compulsory, mandatory | لازمی | Society & Culture | 3 |
+> 안전 교육은 의무적이에요. | Safety training is mandatory. | حفاظتی تربیت لازمی ہے۔
+> 의무적으로 보고해야 해요. | Reporting is required. | رپورٹ کرنا لازمی ہے۔
+> 의무적 참여 대상이에요. | They are subject to mandatory participation. | ان کی شرکت لازمی ہے۔
++ 의무화 | 義務化 | uimuhwa | noun | making mandatory | لازمی قرار دینا | Society & Culture | 3 | 의무화하다 = to make compulsory.
+> 탄소 보고가 의무화됐어요. | Carbon reporting became mandatory. | کاربن رپورٹنگ لازمی ہو گئی۔
+> 헬멧 착용을 의무화했어요. | Wearing helmets was made compulsory. | ہیلمٹ پہننا لازمی قرار دیا گیا۔
+> 의무화에 반대하는 의견도 있어요. | Some oppose making it mandatory. | لازمی بنانے کی مخالفت بھی ہے۔
++ 제도화 | 制度化 | jedohwa | noun | institutionalization | ادارہ جاتی شکل دینا | Society & Culture | 3 |
+> 지원 방안을 제도화했어요. | The support measures were institutionalized. | امدادی اقدامات کو باقاعدہ نظام بنایا۔
+> 제도화가 필요한 시점이에요. | It's time to institutionalize it. | اسے باقاعدہ نظام بنانے کا وقت ہے۔
+> 제도화되면 꾸준히 운영돼요. | Once institutionalized, it runs steadily. | نظام بننے کے بعد مسلسل چلتا ہے۔
++ 법제화 | 法制化 | beopjehwa | noun | legislation, enacting into law | قانون بنانا | Society & Culture | 3 |
+> 법제화를 추진하고 있어요. | They're pushing to make it law. | اسے قانون بنانے کی کوشش ہو رہی ہے۔
+> 법제화되면 모두 지켜야 해요. | Once it's law, everyone must follow it. | قانون بننے پر سب کو ماننا ہوگا۔
+> 법제화까지 시간이 걸려요. | Legislation takes time. | قانون بننے میں وقت لگتا ہے۔
++ 제도 | 制度 | jedo | noun | system, institution (rules) | نظام، ضابطہ | Society & Culture | 2 |
+> 새 제도가 시행됐어요. | A new system was put into effect. | نیا نظام نافذ ہوا۔
+> 교육 제도를 바꿔야 해요. | The education system needs to change. | تعلیمی نظام بدلنا ہوگا۔
+> 이 제도를 잘 활용하세요. | Make good use of this program. | اس نظام سے فائدہ اٹھائیں۔
++ 제도적 | 制度的 | jedojeok | noun | institutional, systemic | ادارہ جاتی | Society & Culture | 3 |
+> 제도적인 뒷받침이 필요해요. | Institutional backing is needed. | ادارہ جاتی حمایت درکار ہے۔
+> 제도적으로 보완해야 해요. | It needs systemic improvement. | نظام میں بہتری لانی ہوگی۔
+> 제도적 한계가 있어요. | There are institutional limits. | ادارہ جاتی حدود ہیں۔
++ 법적 | 法的 | beopjeok | noun | legal | قانونی | Society & Culture | 3 |
+> 법적인 문제가 있어요. | There's a legal problem. | قانونی مسئلہ ہے۔
+> 법적 책임을 져야 해요. | They must take legal responsibility. | قانونی ذمہ داری لینی ہوگی۔
+> 법적으로 문제가 없어요. | It's legally fine. | قانونی طور پر کوئی مسئلہ نہیں۔
++ 법령 | 法令 | beomnyeong | noun | laws and regulations | قوانین و ضوابط | Society & Culture | 3 |
+> 관련 법령을 확인했어요. | We checked the relevant laws. | متعلقہ قوانین دیکھے۔
+> 법령이 개정됐어요. | The regulations were amended. | قوانین میں ترمیم ہوئی۔
+> 법령에 따라 처리해요. | It's handled according to law. | قانون کے مطابق نمٹایا جاتا ہے۔
++ 법률 | 法律 | beomnyul | noun | law | قانون | Society & Culture | 2 |
+> 법률 상담을 받았어요. | I got legal advice. | قانونی مشورہ لیا۔
+> 새 법률이 만들어졌어요. | A new law was enacted. | نیا قانون بنا۔
+> 법률을 지켜야 해요. | You must obey the law. | قانون کی پابندی کرنی ہے۔
++ 준수하다 | 遵守- | junsuhada | verb | to comply with, observe | پابندی کرنا | Academic & Formal | 3 | 준수 = compliance.
+> 발표 시간을 준수해 주세요. | Please keep to the presentation time. | پریزنٹیشن کے وقت کی پابندی کریں۔
+> 안전 수칙을 준수하세요. | Follow the safety rules. | حفاظتی اصولوں کی پابندی کریں۔
+> 법을 준수하는 기업이에요. | It's a law-abiding company. | قانون کی پابند کمپنی ہے۔
++ 지침 | 指針 | jichim | noun | guideline | رہنما اصول | Academic & Formal | 3 |
+> 정부 지침에 따라 측정해요. | We measure according to government guidelines. | حکومتی رہنما اصولوں کے مطابق پیمائش کرتے ہیں۔
+> 새 지침이 나왔어요. | New guidelines came out. | نئے رہنما اصول آئے۔
+> 지침을 꼼꼼히 읽어 보세요. | Read the guidelines carefully. | رہنما اصول غور سے پڑھیں۔
++ 권고 | 勸告 | gwongo | noun | recommendation, advice (official) | سفارش | Academic & Formal | 3 | 권고안 = recommendations.
+> 전문가의 권고를 따랐어요. | We followed the experts' recommendation. | ماہرین کی سفارش پر عمل کیا۔
+> 정부가 외출 자제를 권고했어요. | The government advised people to stay in. | حکومت نے باہر نہ نکلنے کی سفارش کی۔
+> 권고안을 제출했어요. | We submitted recommendations. | سفارشات جمع کرائیں۔
++ 통보 | 通報 | tongbo | noun | notification (official) | سرکاری اطلاع | Academic & Formal | 3 | 통보하다 = to notify.
+> 결과를 개별 통보합니다. | Results will be notified individually. | نتائج انفرادی طور پر بتائے جائیں گے۔
+> 일방적으로 통보했어요. | They notified us unilaterally. | یک طرفہ طور پر اطلاع دی۔
+> 합격 통보를 받았어요. | I was notified that I passed. | کامیابی کی اطلاع ملی۔
++ 공시하다 | 公示- | gongsihada | verb | to disclose publicly (official) | سرکاری طور پر ظاہر کرنا | Economy & Business | 3 | 공시 = public disclosure.
+> 기업은 배출량을 공시해야 해요. | Companies must disclose their emissions. | کمپنیوں کو اپنا اخراج ظاہر کرنا ہوگا۔
+> 실적을 공시했어요. | They disclosed their results. | کارکردگی ظاہر کی۔
+> ESG 공시가 의무화돼요. | ESG disclosure is becoming mandatory. | ای ایس جی انکشاف لازمی ہو رہا ہے۔
++ 공개하다 | 公開- | gonggaehada | verb | to make public, reveal | عام کرنا | Society & Culture | 2 | 공개 = disclosure.
+> 결과를 공개했어요. | They made the results public. | نتائج عام کیے۔
+> 신제품을 공개했어요. | They unveiled a new product. | نئی پروڈکٹ متعارف کرائی۔
+> 개인정보는 공개하지 않아요. | Personal information is not disclosed. | ذاتی معلومات ظاہر نہیں کی جاتیں۔
++ 실사 | 實査 | silsa | noun | on-site inspection, due diligence | موقع پر جانچ | Economy & Business | 3 |
+> 현장 실사를 나갔어요. | We went for an on-site inspection. | موقع پر جانچ کے لیے گئے۔
+> 공급망 실사가 의무화됐어요. | Supply chain due diligence became mandatory. | سپلائی چین کی جانچ لازمی ہوئی۔
+> 실사 결과를 보고했어요. | We reported the inspection results. | جانچ کے نتائج رپورٹ کیے۔
++ 경영 | 經營 | gyeongyeong | noun | management, running a business | انتظام کاروبار | Economy & Business | 2 | ESG 경영 = ESG management.
+> 경영학을 전공했어요. | I majored in business administration. | بزنس مینجمنٹ میں تعلیم حاصل کی۔
+> 회사 경영이 어려워요. | Running the company is hard. | کمپنی چلانا مشکل ہے۔
+> 친환경 경영을 하고 있어요. | We practice eco-friendly management. | ماحول دوست انتظام کرتے ہیں۔
++ 회계 | 會計 | hoegye | noun | accounting | حساب کتاب | Economy & Business | 3 | 탄소 회계 = carbon accounting.
+> 회계 담당자에게 물어보세요. | Ask the accountant. | اکاؤنٹنٹ سے پوچھیں۔
+> 탄소 회계 방법을 배웠어요. | I learned carbon accounting methods. | کاربن حساب کتاب کا طریقہ سیکھا۔
+> 회계 연도가 끝났어요. | The fiscal year has ended. | مالی سال ختم ہو گیا۔

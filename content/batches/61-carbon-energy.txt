@@ -1,0 +1,229 @@
+# Carbon, emissions and energy (from the learner's own word list)
++ 탄소중립 | 炭素中立 | tansojungnip | noun | carbon neutrality | کاربن نیوٹرلٹی | Environment | 3 | 중립 = neutrality.
+> 2050년까지 탄소중립을 목표로 해요. | We aim for carbon neutrality by 2050. | دو ہزار پچاس تک کاربن نیوٹرلٹی کا ہدف ہے۔
+> 탄소중립에 기여하고 싶어요. | I want to contribute to carbon neutrality. | کاربن نیوٹرلٹی میں حصہ ڈالنا چاہتا ہوں۔
+> 탄소중립 도시를 만들어요. | We're building a carbon-neutral city. | کاربن نیوٹرل شہر بنا رہے ہیں۔
++ 중립 | 中立 | jungnip | noun | neutrality | غیر جانبداری | Society & Culture | 3 |
+> 중립을 지키겠습니다. | I will remain neutral. | میں غیر جانبدار رہوں گا۔
+> 그 나라는 중립국이에요. | That country is neutral. | وہ ملک غیر جانبدار ہے۔
+> 중립적인 입장에서 말해요. | I'm speaking from a neutral position. | غیر جانبدار موقف سے بات کر رہا ہوں۔
++ 배출량 | 排出量 | baechullyang | noun | amount of emissions | اخراج کی مقدار | Environment | 3 | 배출 = emission, discharge.
+> 탄소 배출량을 줄여야 해요. | We must cut carbon emissions. | کاربن کا اخراج کم کرنا ہوگا۔
+> 배출량을 정확하게 측정했어요. | We measured emissions accurately. | اخراج کی درست پیمائش کی۔
+> 공장별 배출량을 비교했어요. | We compared emissions by factory. | فیکٹری وار اخراج کا موازنہ کیا۔
++ 배출권 | 排出權 | baechulgwon | noun | emission allowance, permit | اخراج کا اجازت نامہ | Environment | 3 | 배출권 거래제 = emissions trading scheme.
+> 남은 배출권을 팔 수 있어요. | You can sell leftover allowances. | بچے اجازت نامے بیچ سکتے ہیں۔
+> 배출권 가격이 올랐어요. | The price of emission permits rose. | اخراج اجازت نامے کی قیمت بڑھی۔
+> 기업에 배출권을 할당해요. | Allowances are allocated to companies. | کمپنیوں کو اجازت نامے دیے جاتے ہیں۔
++ 거래제 | 去來制 | georaeje | noun | trading system (scheme) | تجارتی نظام | Environment | 3 |
+> 한국은 배출권 거래제를 운영해요. | Korea runs an emissions trading scheme. | کوریا اخراج کی تجارت کا نظام چلاتا ہے۔
+> 거래제 대상 기업이 늘었어요. | More companies fall under the trading scheme. | تجارتی نظام میں آنے والی کمپنیاں بڑھیں۔
+> 거래제를 통해 감축을 유도해요. | The trading system encourages reductions. | تجارتی نظام سے کمی کی ترغیب ملتی ہے۔
++ 탄소세 | 炭素稅 | tansose | noun | carbon tax | کاربن ٹیکس | Environment | 3 |
+> 탄소세를 도입하는 나라가 많아요. | Many countries are introducing carbon taxes. | بہت سے ممالک کاربن ٹیکس لگا رہے ہیں۔
+> 탄소세는 배출량에 따라 내요. | Carbon tax is paid according to emissions. | کاربن ٹیکس اخراج کے مطابق دیا جاتا ہے۔
+> 탄소세 때문에 비용이 늘었어요. | Costs rose because of the carbon tax. | کاربن ٹیکس سے لاگت بڑھی۔
++ 탄소국경조정제도 | 炭素國境調整制度 | tansogukgyeongjojeongjedo | noun | Carbon Border Adjustment Mechanism (CBAM) | کاربن سرحدی ایڈجسٹمنٹ نظام | Environment | 3 | The EU system known as CBAM.
+> 유럽이 탄소국경조정제도를 시행해요. | Europe is implementing CBAM. | یورپ کاربن سرحدی نظام نافذ کر رہا ہے۔
+> 탄소국경조정제도에 대비해야 해요. | We must prepare for CBAM. | کاربن سرحدی نظام کی تیاری کرنی ہوگی۔
+> 탄소국경조정제도 때문에 수출 기업이 걱정해요. | Exporters are worried because of CBAM. | اس نظام کی وجہ سے برآمد کنندگان پریشان ہیں۔
++ 배출원 | 排出源 | baechurwon | noun | emission source | اخراج کا ذریعہ | Environment | 3 |
+> 주요 배출원을 찾았어요. | We found the main emission sources. | اخراج کے اہم ذرائع ڈھونڈے۔
+> 배출원별로 데이터를 모아요. | We collect data by emission source. | ذریعہ وار ڈیٹا جمع کرتے ہیں۔
+> 보일러가 가장 큰 배출원이에요. | The boiler is the biggest emission source. | بوائلر اخراج کا سب سے بڑا ذریعہ ہے۔
++ 배출가스 | 排出- | baechulgaseu | noun | exhaust gas, emissions | خارج ہونے والی گیس | Environment | 3 |
+> 자동차 배출가스를 검사해요. | They test vehicle exhaust gas. | گاڑیوں کی خارج گیس کی جانچ ہوتی ہے۔
+> 배출가스 기준이 강화됐어요. | Emission standards were tightened. | اخراج کے معیار سخت کیے گئے۔
+> 굴뚝에서 배출가스가 나와요. | Exhaust comes out of the chimney. | چمنی سے گیس نکلتی ہے۔
++ 오염원 | 汚染源 | oyeomwon | noun | pollution source | آلودگی کا ذریعہ | Environment | 3 | 오염 = pollution.
+> 오염원을 관리해야 해요. | Pollution sources must be managed. | آلودگی کے ذرائع کو قابو کرنا ہوگا۔
+> 공장이 주요 오염원이에요. | Factories are the main pollution source. | فیکٹریاں آلودگی کا بڑا ذریعہ ہیں۔
+> 오염원을 조사했어요. | We investigated the pollution sources. | آلودگی کے ذرائع کی تحقیق کی۔
++ 감축하다 | 減縮- | gamchukada | verb | to reduce, cut (emissions, budget) | کم کرنا | Environment | 3 | 감축 = reduction.
+> 탄소 배출을 30% 감축했어요. | We cut carbon emissions by 30%. | کاربن کا اخراج تیس فیصد کم کیا۔
+> 예산을 감축해야 해요. | The budget has to be cut. | بجٹ کم کرنا ہوگا۔
+> 감축 목표를 세웠어요. | We set a reduction target. | کمی کا ہدف بنایا۔
++ 감축량 | 減縮量 | gamchungnyang | noun | amount reduced | کمی کی مقدار | Environment | 3 |
+> 감축량을 계산했어요. | We calculated the amount reduced. | کمی کی مقدار کا حساب لگایا۔
+> 올해 감축량이 목표를 넘었어요. | This year's reduction exceeded the target. | اس سال کی کمی ہدف سے زیادہ رہی۔
+> 감축량에 따라 보상해요. | Rewards depend on the amount reduced. | کمی کی مقدار کے مطابق معاوضہ ملتا ہے۔
++ 저감하다 | 低減- | jeogamhada | verb | to reduce, lower (pollution) | کم کرنا | Environment | 3 | 저감 = reduction.
+> 미세먼지를 저감하는 기술이에요. | It's a technology to reduce fine dust. | باریک گرد کم کرنے کی ٹیکنالوجی ہے۔
+> 소음을 저감했어요. | We reduced the noise. | شور کم کیا۔
+> 배출 저감 장치를 설치했어요. | We installed an emission reduction device. | اخراج کم کرنے کا آلہ لگایا۔
++ 발자국 |  | baljaguk | noun | footprint | قدموں کا نشان | Environment | 2 | 탄소 발자국 = carbon footprint.
+> 눈 위에 발자국이 있어요. | There are footprints in the snow. | برف پر قدموں کے نشان ہیں۔
+> 제품의 탄소 발자국을 계산했어요. | We calculated the product's carbon footprint. | پروڈکٹ کے کاربن فٹ پرنٹ کا حساب لگایا۔
+> 탄소 발자국을 줄이는 생활을 해요. | I live in a way that reduces my carbon footprint. | کاربن فٹ پرنٹ کم کرنے والی زندگی گزارتا ہوں۔
++ 가치사슬 | 價値- | gachisaseul | noun | value chain | ویلیو چین | Economy & Business | 3 | 사슬 = chain.
+> 가치사슬 전체를 분석했어요. | We analyzed the whole value chain. | پوری ویلیو چین کا تجزیہ کیا۔
+> 가치사슬에서 탄소가 발생해요. | Carbon is emitted along the value chain. | ویلیو چین میں کاربن پیدا ہوتا ہے۔
+> 가치사슬의 협력이 필요해요. | Cooperation across the value chain is needed. | ویلیو چین میں تعاون درکار ہے۔
++ 라이프사이클 |  | raipeusaikeul | noun | life cycle | لائف سائیکل | Environment | 3 | Korean term: 전과정.
+> 제품의 라이프사이클을 고려해요. | We consider the product's life cycle. | پروڈکٹ کا لائف سائیکل دیکھتے ہیں۔
+> 라이프사이클 평가를 했어요. | We did a life cycle assessment. | لائف سائیکل کا جائزہ لیا۔
+> 라이프사이클 전체의 배출량이에요. | It's the emissions over the whole life cycle. | پورے لائف سائیکل کا اخراج ہے۔
++ 전과정 | 全過程 | jeongwajeong | noun | whole process; life cycle (LCA) | پورا عمل | Environment | 3 | 전과정평가 = life cycle assessment (LCA).
+> 전과정평가로 탄소를 계산해요. | We calculate carbon with an LCA. | پورے عمل کے جائزے سے کاربن کا حساب لگاتے ہیں۔
+> 생산부터 폐기까지 전과정을 봐요. | We look at the whole process from production to disposal. | پیداوار سے تلفی تک پورا عمل دیکھتے ہیں۔
+> 전과정 데이터를 모았어요. | We gathered data for the whole process. | پورے عمل کا ڈیٹا جمع کیا۔
++ 스코프 |  | seukopeu | noun | scope (emissions Scope 1, 2, 3) | اسکوپ (اخراج کی قسم) | Environment | 3 | 스코프 1 = direct; 스코프 2 = electricity/heat; 스코프 3 = value chain.
+> 스코프 1은 직접 배출이에요. | Scope 1 is direct emissions. | اسکوپ ایک براہ راست اخراج ہے۔
+> 스코프 2는 전력 사용에서 나와요. | Scope 2 comes from electricity use. | اسکوپ دو بجلی کے استعمال سے ہے۔
+> 스코프 3까지 측정하기는 어려워요. | Measuring up to Scope 3 is difficult. | اسکوپ تین تک پیمائش مشکل ہے۔
++ 간접 | 間接 | ganjeop | noun | indirect | بالواسطہ | Academic & Formal | 3 | Opposite: 직접.
+> 간접 배출도 포함해야 해요. | Indirect emissions must be included too. | بالواسطہ اخراج بھی شامل کرنا ہوگا۔
+> 간접적으로 영향을 줘요. | It has an indirect effect. | بالواسطہ اثر ڈالتا ہے۔
+> 간접 경험도 중요해요. | Indirect experience matters too. | بالواسطہ تجربہ بھی اہم ہے۔
++ 연소 | 燃燒 | yeonso | noun | combustion, burning | جلنا، احتراق | Science & Technology | 3 |
+> 연료 연소로 탄소가 나와요. | Burning fuel releases carbon. | ایندھن جلنے سے کاربن نکلتا ہے۔
+> 완전 연소가 중요해요. | Complete combustion is important. | مکمل احتراق اہم ہے۔
+> 연소 과정에서 열이 생겨요. | Heat is produced during combustion. | جلنے کے عمل میں حرارت پیدا ہوتی ہے۔
++ 연료 | 燃料 | yeollyo | noun | fuel | ایندھن | Science & Technology | 2 |
+> 연료가 거의 떨어졌어요. | We're almost out of fuel. | ایندھن تقریباً ختم ہو گیا۔
+> 친환경 연료로 바꿨어요. | We switched to eco-friendly fuel. | ماحول دوست ایندھن پر منتقل ہوئے۔
+> 연료 사용량을 기록해요. | We record fuel use. | ایندھن کا استعمال درج کرتے ہیں۔
++ 전력 | 電力 | jeollyeok | noun | electric power | بجلی | Science & Technology | 3 | 전력 (全力) = all one's strength.
+> 여름에 전력 사용이 늘어요. | Electricity use rises in summer. | گرمیوں میں بجلی کا استعمال بڑھتا ہے۔
+> 공장은 전력을 많이 써요. | Factories use a lot of power. | فیکٹریاں بہت بجلی استعمال کرتی ہیں۔
+> 전력 공급이 끊겼어요. | The power supply was cut. | بجلی کی فراہمی بند ہو گئی۔
++ 전력량 | 電力量 | jeollyeongnyang | noun | amount of electricity (kWh) | بجلی کی مقدار | Science & Technology | 3 | 전력량계 = electricity meter.
+> 매달 전력량을 확인해요. | We check electricity consumption monthly. | ہر مہینے بجلی کی مقدار دیکھتے ہیں۔
+> 전력량이 작년보다 줄었어요. | Electricity use fell from last year. | بجلی کا استعمال پچھلے سال سے کم ہوا۔
+> 설비별 전력량을 측정했어요. | We measured electricity by equipment. | آلات وار بجلی کی پیمائش کی۔
++ 사용량 | 使用量 | sayongnyang | noun | amount used, consumption | استعمال کی مقدار | Science & Technology | 2 |
+> 물 사용량이 많아요. | Water usage is high. | پانی کا استعمال زیادہ ہے۔
+> 데이터 사용량을 확인하세요. | Check your data usage. | ڈیٹا کا استعمال دیکھیں۔
+> 에너지 사용량을 줄였어요. | We cut energy use. | توانائی کا استعمال کم کیا۔
++ 소비량 | 消費量 | sobiryang | noun | consumption (amount) | کھپت | Economy & Business | 3 |
+> 커피 소비량이 늘었어요. | Coffee consumption increased. | کافی کی کھپت بڑھی۔
+> 연료 소비량을 기록하세요. | Record fuel consumption. | ایندھن کی کھپت درج کریں۔
+> 한국은 에너지 소비량이 많아요. | Korea consumes a lot of energy. | کوریا میں توانائی کی کھپت زیادہ ہے۔
++ 생산량 | 生産量 | saengsannyang | noun | production volume, output | پیداوار | Economy & Business | 3 |
+> 올해 생산량이 늘었어요. | Production rose this year. | اس سال پیداوار بڑھی۔
+> 생산량당 배출량을 계산해요. | We calculate emissions per unit of output. | فی پیداوار اخراج کا حساب لگاتے ہیں۔
+> 쌀 생산량이 줄었어요. | Rice production declined. | چاول کی پیداوار کم ہوئی۔
++ 원료 | 原料 | wollyo | noun | raw material, ingredient | خام مال | Economy & Business | 3 |
+> 원료를 수입해요. | We import raw materials. | خام مال درآمد کرتے ہیں۔
+> 천연 원료로 만들었어요. | It's made from natural ingredients. | قدرتی اجزاء سے بنا ہے۔
+> 원료 가격이 올랐어요. | Raw material prices went up. | خام مال کی قیمت بڑھی۔
++ 원자재 | 原資材 | wonjajae | noun | raw materials (industrial) | صنعتی خام مال | Economy & Business | 3 |
+> 원자재 가격이 불안정해요. | Raw material prices are unstable. | خام مال کی قیمتیں غیر مستحکم ہیں۔
+> 원자재를 아껴 써야 해요. | We have to use raw materials sparingly. | خام مال کفایت سے استعمال کرنا ہے۔
+> 원자재 수급이 어려워요. | Sourcing raw materials is hard. | خام مال کی فراہمی مشکل ہے۔
++ 물질 | 物質 | muljil | noun | substance, material | مادہ | Science & Technology | 3 | 물질적 = material (not spiritual).
+> 유해 물질이 검출됐어요. | A harmful substance was detected. | مضر مادہ پایا گیا۔
+> 화학 물질을 조심하세요. | Be careful with chemicals. | کیمیکلز سے احتیاط کریں۔
+> 물질보다 마음이 중요해요. | The heart matters more than material things. | مادی چیزوں سے دل اہم ہے۔
++ 폐기물 | 廢棄物 | pyegimul | noun | waste | فضلہ | Environment | 3 |
+> 산업 폐기물을 처리해요. | We treat industrial waste. | صنعتی فضلہ ٹھکانے لگاتے ہیں۔
+> 폐기물을 줄여야 해요. | We have to reduce waste. | فضلہ کم کرنا ہوگا۔
+> 폐기물 처리 비용이 비싸요. | Waste disposal is expensive. | فضلہ ٹھکانے لگانا مہنگا ہے۔
++ 폐기 | 廢棄 | pyegi | noun | disposal, scrapping | ضائع کرنا | Environment | 3 | 폐기하다 = to discard.
+> 유통기한이 지난 식품은 폐기해요. | Expired food is thrown away. | میعاد ختم خوراک ضائع کی جاتی ہے۔
+> 제품 폐기 단계의 배출도 계산해요. | We count emissions at the disposal stage too. | تلفی کے مرحلے کا اخراج بھی گنتے ہیں۔
+> 문서를 안전하게 폐기했어요. | The documents were disposed of safely. | دستاویزات محفوظ طریقے سے تلف کیں۔
++ 폐열 | 廢熱 | pyeyeol | noun | waste heat | فاضل حرارت | Environment | 3 |
+> 공장 폐열을 재활용해요. | We recycle factory waste heat. | فیکٹری کی فاضل حرارت دوبارہ استعمال کرتے ہیں۔
+> 폐열로 물을 데워요. | We heat water with waste heat. | فاضل حرارت سے پانی گرم کرتے ہیں۔
+> 폐열 회수 장치를 설치했어요. | We installed a waste-heat recovery unit. | فاضل حرارت بحالی کا آلہ لگایا۔
++ 회수 | 回收 | hoesu | noun | recovery, collection, retrieval | واپسی، بحالی | Environment | 3 | 회수 (回數) = number of times.
+> 빈 병을 회수해요. | We collect empty bottles. | خالی بوتلیں جمع کرتے ہیں۔
+> 투자금을 회수했어요. | We recovered our investment. | سرمایہ واپس حاصل کیا۔
+> 불량 제품을 회수했어요. | Defective products were recalled. | ناقص مصنوعات واپس منگوائیں۔
++ 재생에너지 | 再生- | jaesaengeneoji | noun | renewable energy | قابل تجدید توانائی | Environment | 3 |
+> 재생에너지 사용을 늘렸어요. | We increased use of renewable energy. | قابل تجدید توانائی کا استعمال بڑھایا۔
+> 태양광은 재생에너지예요. | Solar power is renewable energy. | شمسی توانائی قابل تجدید ہے۔
+> 재생에너지로 공장을 운영해요. | The factory runs on renewables. | فیکٹری قابل تجدید توانائی سے چلتی ہے۔
++ 전기화 | 電氣化 | jeongihwa | noun | electrification | برقیانا | Environment | 3 |
+> 난방을 전기화했어요. | We electrified the heating. | حرارتی نظام بجلی پر منتقل کیا۔
+> 운송의 전기화가 진행 중이에요. | Transport electrification is under way. | ٹرانسپورٹ کو بجلی پر لانے کا عمل جاری ہے۔
+> 전기화로 배출을 줄여요. | Electrification cuts emissions. | بجلی پر منتقلی سے اخراج کم ہوتا ہے۔
++ 효율화 | 效率化 | hyoyulhwa | noun | making more efficient | موثر بنانا | Academic & Formal | 3 |
+> 공정 효율화로 비용을 줄였어요. | We cut costs by streamlining the process. | عمل کو موثر بنا کر خرچ کم کیا۔
+> 에너지 효율화 사업을 해요. | We run an energy-efficiency project. | توانائی کی بچت کا منصوبہ چلاتے ہیں۔
+> 업무 효율화가 필요해요. | Work needs to be made more efficient. | کام کو موثر بنانا ضروری ہے۔
++ 최적화 | 最適化 | choejeokhwa | noun | optimization | بہترین بنانا | Science & Technology | 3 |
+> 설비 운전을 최적화했어요. | We optimized equipment operation. | آلات کا استعمال بہترین بنایا۔
+> 모바일에 최적화된 화면이에요. | The screen is optimized for mobile. | اسکرین موبائل کے لیے بہترین بنائی گئی ہے۔
+> 최적화 작업이 끝났어요. | The optimization work is done. | بہتری کا کام مکمل ہوا۔
++ 유휴 | 遊休 | yuhyu | noun | idle, unused | بے کار پڑا | Economy & Business | 3 | 유휴 설비 = idle equipment.
+> 유휴 설비를 끄면 에너지를 아껴요. | Turning off idle equipment saves energy. | بے کار آلات بند کرنے سے توانائی بچتی ہے۔
+> 유휴 공간을 활용했어요. | We made use of unused space. | خالی جگہ استعمال کی۔
+> 유휴 인력이 생겼어요. | Some staff became idle. | کچھ عملہ فارغ ہو گیا۔
++ 가동 | 稼動 | gadong | noun | operation, running (of machines) | چلنا (مشین) | Economy & Business | 3 | 가동하다 = to operate; 가동률 = operating rate.
+> 공장이 24시간 가동돼요. | The factory runs 24 hours a day. | فیکٹری چوبیس گھنٹے چلتی ہے۔
+> 설비 가동을 멈췄어요. | We stopped the equipment. | آلات بند کر دیے۔
+> 가동 시간을 기록해요. | We record operating hours. | چلنے کا وقت درج کرتے ہیں۔
++ 가동률 | 稼動率 | gadongnyul | noun | operating rate, capacity utilization | استعمال کی شرح | Economy & Business | 3 |
+> 공장 가동률이 80%예요. | The plant's utilization rate is 80%. | فیکٹری کی استعمال کی شرح اسی فیصد ہے۔
+> 가동률이 떨어졌어요. | The operating rate dropped. | استعمال کی شرح کم ہو گئی۔
+> 가동률을 높이는 방법을 찾았어요. | We found a way to raise utilization. | شرح بڑھانے کا طریقہ ڈھونڈا۔
++ 순환 | 循環 | sunhwan | noun | circulation, cycle | گردش | Environment | 3 | 순환 경제 = circular economy.
+> 순환 경제를 만들어요. | We're building a circular economy. | گردشی معیشت بنا رہے ہیں۔
+> 혈액 순환이 잘 안 돼요. | My blood circulation is poor. | خون کی گردش ٹھیک نہیں۔
+> 자원 순환이 중요해요. | Resource recycling is important. | وسائل کی گردش اہم ہے۔
++ 투입 | 投入 | tuip | noun | input, putting in (resources) | لگانا، داخل کرنا | Economy & Business | 3 | 투입하다 = to put in.
+> 인력을 더 투입했어요. | We put in more staff. | مزید عملہ لگایا۔
+> 투입 원료의 양을 기록해요. | We record the amount of input materials. | ڈالے گئے خام مال کی مقدار درج کرتے ہیں۔
+> 많은 예산이 투입됐어요. | A large budget was invested. | بڑا بجٹ لگایا گیا۔
++ 운송 | 運送 | unsong | noun | transport, shipping | نقل و حمل | Travel & Transportation | 3 |
+> 운송 과정에서 탄소가 나와요. | Carbon is emitted during transport. | نقل و حمل میں کاربن نکلتا ہے۔
+> 운송 비용이 올랐어요. | Shipping costs went up. | ترسیل کا خرچ بڑھا۔
+> 화물을 배로 운송해요. | Cargo is shipped by sea. | سامان بحری جہاز سے بھیجا جاتا ہے۔
++ 물류 | 物流 | mullyu | noun | logistics | لاجسٹکس | Economy & Business | 3 |
+> 물류 센터에서 일해요. | I work at a logistics center. | لاجسٹکس سینٹر میں کام کرتا ہوں۔
+> 물류 비용을 줄였어요. | We cut logistics costs. | لاجسٹکس کا خرچ کم کیا۔
+> 물류가 늦어져서 배송이 지연됐어요. | Delivery was delayed by logistics problems. | لاجسٹکس کی تاخیر سے ڈیلیوری رکی۔
++ 구매 | 購買 | gumae | noun | purchase | خریداری | Shopping & Money | 2 | 구매하다 = to purchase.
+> 온라인으로 구매했어요. | I purchased it online. | آن لائن خریدا۔
+> 구매 내역을 확인하세요. | Check your purchase history. | خریداری کی تفصیل دیکھیں۔
+> 구매한 전력의 배출도 계산해요. | We count emissions from purchased electricity too. | خریدی گئی بجلی کا اخراج بھی گنتے ہیں۔
++ 계수 | 係數 | gyesu | noun | coefficient, factor | عدد ضرب | Science & Technology | 3 | 배출계수 = emission factor.
+> 배출계수를 곱해서 계산해요. | We calculate by multiplying by the emission factor. | اخراج کے عدد ضرب سے حساب لگاتے ہیں۔
+> 국가 고유 계수를 사용했어요. | We used country-specific factors. | ملک کے مخصوص عدد ضرب استعمال کیے۔
+> 계수가 바뀌면 결과도 바뀌어요. | If the factor changes, so does the result. | عدد ضرب بدلے تو نتیجہ بھی بدلتا ہے۔
++ 집약도 | 集約度 | jibyakdo | noun | intensity (per unit) | شدت (فی اکائی) | Environment | 3 | 탄소 집약도 = carbon intensity.
+> 탄소 집약도가 낮아졌어요. | Carbon intensity has fallen. | کاربن کی شدت کم ہو گئی۔
+> 매출 대비 집약도를 계산해요. | We calculate intensity relative to sales. | فروخت کے لحاظ سے شدت کا حساب لگاتے ہیں۔
+> 에너지 집약도가 높은 산업이에요. | It's an energy-intensive industry. | زیادہ توانائی والی صنعت ہے۔
++ 원단위 | 原單位 | wondanwi | noun | basic unit (consumption/emission per unit of output) | فی اکائی شرح | Environment | 3 |
+> 원단위로 배출량을 비교해요. | We compare emissions per unit of output. | فی اکائی اخراج کا موازنہ کرتے ہیں۔
+> 에너지 원단위가 개선됐어요. | Energy use per unit improved. | فی اکائی توانائی کا استعمال بہتر ہوا۔
+> 원단위 목표를 세웠어요. | We set a per-unit target. | فی اکائی ہدف بنایا۔
++ 기준선 | 基準線 | gijunseon | noun | baseline | بنیادی سطح | Academic & Formal | 3 | Also 베이스라인.
+> 기준선과 비교해서 줄었어요. | It decreased compared with the baseline. | بنیادی سطح کے مقابلے میں کم ہوا۔
+> 2020년을 기준선으로 정했어요. | We set 2020 as the baseline. | دو ہزار بیس کو بنیادی سال طے کیا۔
+> 기준선 데이터가 필요해요. | Baseline data is needed. | بنیادی ڈیٹا درکار ہے۔
++ 베이스라인 |  | beiseurain | noun | baseline | بیس لائن | Academic & Formal | 3 |
+> 베이스라인을 먼저 측정해요. | We measure the baseline first. | پہلے بیس لائن ناپتے ہیں۔
+> 베이스라인보다 20% 줄었어요. | It's 20% lower than the baseline. | بیس لائن سے بیس فیصد کم ہے۔
+> 베이스라인 설정이 중요해요. | Setting the baseline is important. | بیس لائن طے کرنا اہم ہے۔
++ 산정하다 | 算定- | sanjeonghada | verb | to calculate, assess (an amount) | حساب لگانا | Academic & Formal | 3 | 산정 = calculation.
+> 배출량을 산정했어요. | We calculated the emissions. | اخراج کا حساب لگایا۔
+> 예상 비용을 산정해 주세요. | Please estimate the expected cost. | متوقع لاگت کا حساب لگائیں۔
+> 산정 방법을 설명했어요. | We explained the calculation method. | حساب کا طریقہ بتایا۔
++ 산출하다 | 算出- | sanchulhada | verb | to calculate, compute; to produce | نکالنا، حساب کرنا | Academic & Formal | 3 | 산출 = calculation; output.
+> 결과를 산출했어요. | We computed the results. | نتائج نکالے۔
+> 평균값을 산출하세요. | Compute the average. | اوسط نکالیں۔
+> 산출 근거를 제시하세요. | Show the basis for the calculation. | حساب کی بنیاد بتائیں۔
++ 환경부 | 環境部 | hwangyeongbu | noun | Ministry of Environment | وزارت ماحولیات | Environment | 3 |
+> 환경부가 새 기준을 발표했어요. | The Ministry of Environment announced new standards. | وزارت ماحولیات نے نئے معیار کا اعلان کیا۔
+> 환경부 주도로 사업을 해요. | The project is led by the Ministry of Environment. | منصوبہ وزارت ماحولیات کی سربراہی میں ہے۔
+> 환경부에 보고서를 냈어요. | We submitted a report to the ministry. | وزارت کو رپورٹ جمع کرائی۔
++ 환경성 | 環境性 | hwangyeongseong | noun | environmental performance | ماحولیاتی کارکردگی | Environment | 3 |
+> 제품의 환경성을 평가해요. | We assess the product's environmental performance. | پروڈکٹ کی ماحولیاتی کارکردگی جانچتے ہیں۔
+> 환경성 인증을 받았어요. | It received an environmental certification. | ماحولیاتی سند ملی۔
+> 경제성과 환경성을 모두 고려해요. | We consider both cost and environmental impact. | معاشی اور ماحولیاتی دونوں پہلو دیکھتے ہیں۔
++ 고배출 | 高排出 | gobaechul | noun | high emissions | زیادہ اخراج | Environment | 3 |
+> 고배출 업종을 먼저 지원해요. | High-emission industries are supported first. | زیادہ اخراج والی صنعتوں کی پہلے مدد ہوتی ہے۔
+> 고배출 공정을 찾아냈어요. | We identified high-emission processes. | زیادہ اخراج والے عمل ڈھونڈے۔
+> 고배출 차량은 진입이 제한돼요. | High-emission vehicles have restricted entry. | زیادہ اخراج والی گاڑیوں کا داخلہ محدود ہے۔
++ 가스 |  | gaseu | noun | gas | گیس | Science & Technology | 1 | 온실가스 = greenhouse gas.
+> 가스 냄새가 나요. | I smell gas. | گیس کی بو آ رہی ہے۔
+> 온실가스를 줄여야 해요. | We must cut greenhouse gases. | گرین ہاؤس گیسیں کم کرنی ہوں گی۔
+> 가스 요금이 올랐어요. | The gas bill went up. | گیس کا بل بڑھ گیا۔
++ 적외선 | 赤外線 | jeogoeseon | noun | infrared | انفراریڈ | Science & Technology | 3 |
+> 적외선 센서로 가스를 측정해요. | We measure gas with an infrared sensor. | انفراریڈ سینسر سے گیس ناپتے ہیں۔
+> 적외선 카메라로 열을 봐요. | You see heat with an infrared camera. | انفراریڈ کیمرے سے حرارت دیکھتے ہیں۔
+> 적외선 체온계를 썼어요. | I used an infrared thermometer. | انفراریڈ تھرمامیٹر استعمال کیا۔

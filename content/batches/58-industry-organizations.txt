@@ -1,0 +1,205 @@
+# Industry, companies and organizations (from the learner's own word list)
++ 중소기업 | 中小企業 | jungsogieop | noun | small and medium-sized business (SME) | چھوٹے اور درمیانے کاروبار | Economy & Business | 2 | 중소 = small and medium.
+> 중소기업에서 일하고 있어요. | I work at a small business. | ایک چھوٹی کمپنی میں کام کرتا ہوں۔
+> 정부가 중소기업을 지원해요. | The government supports SMEs. | حکومت چھوٹے کاروباروں کی مدد کرتی ہے۔
+> 중소기업의 부담을 줄여야 해요. | We need to reduce the burden on SMEs. | چھوٹے کاروباروں کا بوجھ کم کرنا ہے۔
++ 중견기업 | 中堅企業 | junggyeongieop | noun | mid-sized company | درمیانے درجے کی کمپنی | Economy & Business | 3 | Between 중소기업 and 대기업.
+> 중견기업으로 성장했어요. | It grew into a mid-sized company. | درمیانے درجے کی کمپنی بن گئی۔
+> 중견기업도 지원 대상이에요. | Mid-sized firms are also eligible for support. | درمیانی کمپنیاں بھی امداد کی حقدار ہیں۔
+> 중견기업에 취직했어요. | I got a job at a mid-sized company. | درمیانے درجے کی کمپنی میں نوکری ملی۔
++ 제조업 | 製造業 | jejoeop | noun | manufacturing industry | صنعت سازی | Economy & Business | 2 | 제조 = manufacturing.
+> 한국은 제조업이 강해요. | Korea is strong in manufacturing. | کوریا صنعت سازی میں مضبوط ہے۔
+> 제조업에서 탄소가 많이 나와요. | Manufacturing produces a lot of carbon. | صنعت سازی سے بہت کاربن نکلتا ہے۔
+> 제조업 일자리가 줄었어요. | Manufacturing jobs have decreased. | صنعتی نوکریاں کم ہو گئیں۔
++ 제조사 | 製造社 | jejosa | noun | manufacturer (company) | بنانے والی کمپنی | Economy & Business | 2 |
+> 제조사에 문의했어요. | I contacted the manufacturer. | بنانے والی کمپنی سے رابطہ کیا۔
+> 자동차 제조사가 신차를 발표했어요. | The carmaker announced a new car. | گاڑی ساز کمپنی نے نئی گاڑی متعارف کرائی۔
+> 제조사마다 품질이 달라요. | Quality differs by manufacturer. | ہر کمپنی کا معیار مختلف ہے۔
++ 제조업체 | 製造業體 | jejoeopche | noun | manufacturing company | صنعتی ادارہ | Economy & Business | 3 | Also 제조기업.
+> 지역 제조업체와 협력해요. | We cooperate with local manufacturers. | مقامی صنعتی اداروں سے تعاون کرتے ہیں۔
+> 많은 제조업체가 공장을 옮겼어요. | Many manufacturers relocated their factories. | بہت سے اداروں نے فیکٹریاں منتقل کیں۔
+> 작은 제조업체는 측정 장비가 없어요. | Small manufacturers have no measuring equipment. | چھوٹے اداروں کے پاس پیمائشی آلات نہیں۔
++ 완성차 | 完成車 | wanseongcha | noun | finished vehicle; automaker | مکمل گاڑی؛ گاڑی ساز | Economy & Business | 3 | 완성차 업체 = carmaker.
+> 완성차 업체에 부품을 납품해요. | We supply parts to automakers. | گاڑی ساز کمپنیوں کو پرزے فراہم کرتے ہیں۔
+> 완성차 수출이 늘었어요. | Exports of finished vehicles rose. | مکمل گاڑیوں کی برآمد بڑھی۔
+> 완성차 공장이 이 도시에 있어요. | The car assembly plant is in this city. | گاڑیوں کی فیکٹری اس شہر میں ہے۔
++ 조선업 | 造船業 | joseoneop | noun | shipbuilding industry | جہاز سازی | Economy & Business | 3 | 조선 = shipbuilding; also the Joseon dynasty.
+> 울산은 조선업으로 유명해요. | Ulsan is famous for shipbuilding. | اولسان جہاز سازی کے لیے مشہور ہے۔
+> 조선업 경기가 좋아졌어요. | The shipbuilding industry has picked up. | جہاز سازی کی صنعت بہتر ہوئی۔
+> 조선업에서 일하는 외국인이 많아요. | Many foreigners work in shipbuilding. | جہاز سازی میں بہت غیر ملکی کام کرتے ہیں۔
++ 부품 | 部品 | bupum | noun | part, component | پرزہ | Economy & Business | 2 |
+> 자동차 부품을 만들어요. | We make car parts. | گاڑی کے پرزے بناتے ہیں۔
+> 부품이 고장 나서 교체했어요. | A part broke, so we replaced it. | پرزہ خراب ہوا تو بدل دیا۔
+> 부품을 수입하고 있어요. | We import components. | پرزے درآمد کرتے ہیں۔
++ 소재 | 素材 | sojae | noun | material; subject matter | مواد؛ موضوع | Science & Technology | 3 | 소재 (所在) = whereabouts.
+> 새로운 소재를 개발했어요. | We developed a new material. | نیا مواد تیار کیا۔
+> 친환경 소재로 만들었어요. | It's made of eco-friendly material. | ماحول دوست مواد سے بنا ہے۔
+> 이 소설은 가족을 소재로 해요. | This novel is about family. | یہ ناول خاندان کے موضوع پر ہے۔
++ 소부장 | 素部裝 | sobujang | noun | materials, parts and equipment (industry) | مواد، پرزے اور آلات | Economy & Business | 3 | Short for 소재·부품·장비.
+> 정부가 소부장 산업을 지원해요. | The government supports the materials, parts and equipment industry. | حکومت مواد، پرزوں اور آلات کی صنعت کی مدد کرتی ہے۔
+> 소부장 기업이 많이 성장했어요. | Materials and parts companies have grown a lot. | مواد اور پرزہ کمپنیاں بہت بڑھیں۔
+> 소부장 자립이 중요해요. | Self-reliance in materials and parts is important. | مواد اور پرزوں میں خود انحصاری اہم ہے۔
++ 장비 | 裝備 | jangbi | noun | equipment | آلات | Science & Technology | 2 |
+> 측정 장비가 비싸요. | Measuring equipment is expensive. | پیمائش کے آلات مہنگے ہیں۔
+> 등산 장비를 챙겼어요. | I packed my hiking gear. | پہاڑ پر چڑھنے کا سامان لیا۔
+> 새 장비를 들여왔어요. | We brought in new equipment. | نئے آلات منگوائے۔
++ 설비 | 設備 | seolbi | noun | facilities, equipment (installed) | تنصیبات | Science & Technology | 3 |
+> 공장 설비를 점검했어요. | We inspected the factory equipment. | فیکٹری کی تنصیبات کی جانچ کی۔
+> 낡은 설비를 교체했어요. | We replaced the old equipment. | پرانی مشینری بدلی۔
+> 설비 투자를 늘렸어요. | We increased investment in facilities. | تنصیبات میں سرمایہ کاری بڑھائی۔
++ 공급망 | 供給網 | gonggeummang | noun | supply chain | سپلائی چین | Economy & Business | 3 |
+> 공급망 전체의 탄소를 줄여야 해요. | We must cut carbon across the whole supply chain. | پوری سپلائی چین میں کاربن کم کرنا ہے۔
+> 공급망 문제로 생산이 늦어졌어요. | Production was delayed by supply chain problems. | سپلائی چین کے مسائل سے پیداوار رکی۔
+> 안정적인 공급망이 필요해요. | A stable supply chain is needed. | مستحکم سپلائی چین درکار ہے۔
++ 공급업체 | 供給業體 | gonggeubeopche | noun | supplier | سپلائر | Economy & Business | 3 |
+> 공급업체를 바꿨어요. | We changed suppliers. | سپلائر بدل دیا۔
+> 공급업체와 계약을 맺었어요. | We signed a contract with the supplier. | سپلائر سے معاہدہ کیا۔
+> 공급업체에 데이터를 요청했어요. | We asked the supplier for data. | سپلائر سے ڈیٹا مانگا۔
++ 협력사 | 協力社 | hyeomnyeoksa | noun | partner company, subcontractor | شراکت دار کمپنی | Economy & Business | 3 | Also 협력업체.
+> 협력사와 함께 개발했어요. | We developed it with a partner company. | شراکت دار کمپنی کے ساتھ تیار کیا۔
+> 대기업이 협력사를 지원해요. | Large firms support their partner companies. | بڑی کمپنیاں شراکت داروں کی مدد کرتی ہیں۔
+> 협력사가 100곳이 넘어요. | There are over 100 partner companies. | سو سے زیادہ شراکت دار کمپنیاں ہیں۔
++ 협력업체 | 協力業體 | hyeomnyeogeopche | noun | partner firm, subcontractor | شراکت دار ادارہ | Economy & Business | 3 | 납품업체 = supplier.
+> 협력업체에 부품을 주문했어요. | We ordered parts from a partner firm. | شراکت دار ادارے سے پرزے منگوائے۔
+> 협력업체 직원들과 회의했어요. | I had a meeting with the partner firm's staff. | شراکت دار ادارے کے عملے سے میٹنگ کی۔
+> 협력업체의 배출량도 포함해요. | Partner firms' emissions are included too. | شراکت داروں کا اخراج بھی شامل ہے۔
++ 납품하다 | 納品- | nappumhada | verb | to supply, deliver goods (to a client) | سامان فراہم کرنا | Economy & Business | 3 | 납품 = delivery of goods.
+> 대기업에 부품을 납품해요. | We supply parts to a big company. | بڑی کمپنی کو پرزے فراہم کرتے ہیں۔
+> 기한 안에 납품했어요. | We delivered on time. | مقررہ وقت میں سامان پہنچایا۔
+> 납품 날짜가 바뀌었어요. | The delivery date changed. | فراہمی کی تاریخ بدل گئی۔
++ 원청 | 元請 | woncheong | noun | prime contractor | اصل ٹھیکیدار | Economy & Business | 3 | 하청 = subcontractor.
+> 원청이 협력사에 요구했어요. | The prime contractor made demands on the subcontractors. | اصل ٹھیکیدار نے ذیلی کمپنیوں سے مطالبہ کیا۔
+> 원청과 하청의 관계가 중요해요. | The relationship between contractor and subcontractor matters. | اصل اور ذیلی ٹھیکیدار کا تعلق اہم ہے۔
+> 원청 기업이 탄소 데이터를 요청해요. | The prime contractor asks for carbon data. | اصل کمپنی کاربن ڈیٹا مانگتی ہے۔
++ 발주처 | 發注處 | baljucheo | noun | ordering party, client | آرڈر دینے والا ادارہ | Economy & Business | 3 |
+> 발주처의 요구에 맞췄어요. | We met the client's requirements. | آرڈر دینے والے کی ضرورت پوری کی۔
+> 발주처는 시청이에요. | The client is city hall. | آرڈر دینے والا سٹی ہال ہے۔
+> 발주처와 일정을 협의했어요. | We discussed the schedule with the client. | آرڈر دینے والے سے شیڈول طے کیا۔
++ 발주 | 發注 | balju | noun | placing an order (for work/goods) | آرڈر دینا | Economy & Business | 3 | 발주하다 = to place an order.
+> 장비를 발주했어요. | We ordered the equipment. | آلات کا آرڈر دیا۔
+> 공사 발주가 늦어졌어요. | The construction order was delayed. | تعمیر کا آرڈر تاخیر کا شکار ہوا۔
+> 발주 금액이 커요. | The order amount is large. | آرڈر کی رقم بڑی ہے۔
++ 용역 | 用役 | yongyeok | noun | service contract, outsourced work | خدمات کا ٹھیکہ | Economy & Business | 3 |
+> 연구 용역을 맡았어요. | We took on a research contract. | تحقیقی ٹھیکہ لیا۔
+> 용역 업체가 청소를 해요. | A contractor does the cleaning. | ٹھیکیدار کمپنی صفائی کرتی ہے۔
+> 용역 결과를 보고했어요. | We reported the results of the contracted work. | ٹھیکے کے نتائج رپورٹ کیے۔
++ 위탁하다 | 委託- | witakada | verb | to entrust, outsource | سپرد کرنا | Economy & Business | 3 | 위탁 = consignment, outsourcing.
+> 측정을 전문 기관에 위탁했어요. | We outsourced the measurement to a specialist agency. | پیمائش ماہر ادارے کے سپرد کی۔
+> 운영을 민간에 위탁해요. | Operation is entrusted to the private sector. | انتظام نجی شعبے کے سپرد ہے۔
+> 아이를 할머니께 위탁했어요. | We left the child in Grandma's care. | بچہ دادی کے سپرد کیا۔
++ 수탁 | 受託 | sutak | noun | accepting a commission, trusteeship | ذمہ داری قبول کرنا | Economy & Business | 3 | Opposite: 위탁.
+> 수탁 기관으로 선정됐어요. | We were selected as the contracted agency. | ہمیں ذمہ دار ادارہ چنا گیا۔
+> 수탁 업무를 수행해요. | We carry out commissioned work. | سونپا گیا کام انجام دیتے ہیں۔
+> 수탁 기간은 2년이에요. | The commission period is two years. | ذمہ داری کی مدت دو سال ہے۔
++ 산학협력 | 産學協力 | sanhakyeomnyeok | noun | industry-academia cooperation | صنعت اور جامعہ کا تعاون | Education & University | 3 | 산학 = industry and academia.
+> 산학협력 프로젝트에 참여했어요. | I joined an industry-university project. | صنعت اور یونیورسٹی کے منصوبے میں شامل ہوا۔
+> 산학협력으로 기술을 개발했어요. | We developed technology through industry-academia cooperation. | صنعت اور جامعہ کے تعاون سے ٹیکنالوجی بنائی۔
+> 산학협력이 활발해요. | Industry-academia cooperation is active. | صنعت اور جامعہ کا تعاون فعال ہے۔
++ 산학협력단 | 産學協力團 | sanhakyeomnyeokdan | noun | university industry-cooperation foundation | یونیورسٹی کا صنعتی تعاون دفتر | Education & University | 3 |
+> 산학협력단에서 연구비를 관리해요. | The industry-cooperation foundation manages research funds. | یونیورسٹی کا تعاون دفتر تحقیقی فنڈ سنبھالتا ہے۔
+> 산학협력단에 계약서를 냈어요. | I submitted the contract to the foundation. | معاہدہ تعاون دفتر میں جمع کرایا۔
+> 산학협력단에 문의하세요. | Ask the industry-cooperation office. | صنعتی تعاون دفتر سے پوچھیں۔
++ 연구기관 | 硏究機關 | yeongugigwan | noun | research institution | تحقیقی ادارہ | Education & University | 3 |
+> 국가 연구기관에서 일해요. | I work at a national research institute. | قومی تحقیقی ادارے میں کام کرتا ہوں۔
+> 연구기관과 협력하고 있어요. | We're cooperating with research institutions. | تحقیقی اداروں سے تعاون کر رہے ہیں۔
+> 연구기관이 결과를 발표했어요. | The research institute released its findings. | تحقیقی ادارے نے نتائج جاری کیے۔
++ 연구소 | 硏究所 | yeonguso | noun | research institute, laboratory | تحقیقی مرکز | Education & University | 2 |
+> 기업 연구소에서 일해요. | I work at a corporate research lab. | کمپنی کے تحقیقی مرکز میں کام کرتا ہوں۔
+> 연구소를 견학했어요. | We toured the research institute. | تحقیقی مرکز کا دورہ کیا۔
+> 연구소에 장비가 많아요. | The institute has lots of equipment. | مرکز میں بہت آلات ہیں۔
++ 연구자 | 硏究者 | yeonguja | noun | researcher | محقق | Education & University | 2 |
+> 연구자들이 데이터를 공유해요. | Researchers share data. | محققین ڈیٹا شیئر کرتے ہیں۔
+> 젊은 연구자를 지원해요. | We support young researchers. | نوجوان محققین کی مدد کرتے ہیں۔
+> 그는 환경 분야 연구자예요. | He's a researcher in the environmental field. | وہ ماحولیات کے محقق ہیں۔
++ 연구원 | 硏究員 | yeonguwon | noun | researcher (job title); research institute | محقق؛ تحقیقی ادارہ | Education & University | 2 | 硏究員 = researcher; 硏究院 = institute.
+> 저는 연구원으로 일하고 있어요. | I work as a researcher. | میں محقق کے طور پر کام کرتا ہوں۔
+> 연구원들이 실험을 했어요. | The researchers ran an experiment. | محققین نے تجربہ کیا۔
+> 한국전자통신연구원에 다녀요. | I work at ETRI. | میں ای ٹی آر آئی میں کام کرتا ہوں۔
++ 대학 | 大學 | daehak | noun | university, college | یونیورسٹی | Education & University | 1 | 대학교 is more common for a specific school.
+> 대학에서 공학을 공부해요. | I study engineering at university. | یونیورسٹی میں انجینئرنگ پڑھتا ہوں۔
+> 지역 대학과 협력해요. | We cooperate with local universities. | مقامی یونیورسٹیوں سے تعاون کرتے ہیں۔
+> 대학 생활이 즐거워요. | University life is fun. | یونیورسٹی کی زندگی مزے کی ہے۔
++ 공공기관 | 公共機關 | gonggonggigwan | noun | public institution | سرکاری ادارہ | Society & Culture | 3 |
+> 공공기관에서 일하고 싶어요. | I want to work at a public institution. | سرکاری ادارے میں کام کرنا چاہتا ہوں۔
+> 공공기관이 지방으로 이전했어요. | Public institutions relocated to the regions. | سرکاری ادارے صوبوں میں منتقل ہوئے۔
+> 공공기관에 서류를 제출했어요. | I submitted documents to a public office. | سرکاری دفتر میں کاغذات جمع کرائے۔
++ 지자체 | 地自體 | jijache | noun | local government | مقامی حکومت | Society & Culture | 3 | Short for 지방자치단체.
+> 지자체가 사업비를 지원해요. | The local government funds the project. | مقامی حکومت منصوبے کو فنڈ دیتی ہے۔
+> 지자체마다 정책이 달라요. | Each local government has different policies. | ہر مقامی حکومت کی پالیسی مختلف ہے۔
+> 지자체와 협약을 맺었어요. | We signed an agreement with the local government. | مقامی حکومت سے معاہدہ کیا۔
++ 민관 | 民官 | mingwan | noun | public and private (sectors) | سرکاری اور نجی | Society & Culture | 3 | 민관 협력 = public-private partnership.
+> 민관 협력으로 문제를 해결했어요. | The problem was solved through public-private cooperation. | سرکاری اور نجی تعاون سے مسئلہ حل ہوا۔
+> 민관 합동 회의가 열렸어요. | A joint public-private meeting was held. | سرکاری اور نجی شعبے کی مشترکہ میٹنگ ہوئی۔
+> 민관이 함께 투자해요. | The public and private sectors invest together. | سرکاری اور نجی شعبہ مل کر سرمایہ لگاتے ہیں۔
++ 민간 | 民間 | mingan | noun | private (sector), civilian | نجی | Society & Culture | 3 |
+> 민간 기업이 참여했어요. | Private companies took part. | نجی کمپنیوں نے حصہ لیا۔
+> 민간 투자가 늘었어요. | Private investment increased. | نجی سرمایہ کاری بڑھی۔
+> 민간 요법으로 감기를 치료했어요. | I treated my cold with a folk remedy. | دیسی علاج سے زکام ٹھیک کیا۔
++ 광역 | 廣域 | gwangyeok | noun | wide-area, metropolitan | وسیع علاقہ | Society & Culture | 3 | 광역시 = metropolitan city.
+> 대구는 광역시예요. | Daegu is a metropolitan city. | دیگو ایک میٹروپولیٹن شہر ہے۔
+> 광역 버스를 타고 서울에 가요. | I take the intercity bus to Seoul. | بین الشہری بس سے سیول جاتا ہوں۔
+> 광역 단위로 협력해요. | We cooperate at a regional level. | علاقائی سطح پر تعاون کرتے ہیں۔
++ 초광역 | 超廣域 | chogwangyeok | noun | mega-regional (beyond one province) | وسیع تر علاقائی | Society & Culture | 3 | 초광역권 = mega-region.
+> 초광역 협력이 필요해요. | Mega-regional cooperation is needed. | وسیع تر علاقائی تعاون درکار ہے۔
+> 초광역권 발전 계획을 세웠어요. | A mega-region development plan was drawn up. | بڑے علاقائی خطے کی ترقی کا منصوبہ بنا۔
+> 초광역 교통망을 만들어요. | They're building a mega-regional transport network. | وسیع تر علاقائی ٹرانسپورٹ نیٹ ورک بنا رہے ہیں۔
++ 권역 | 圈域 | gwonyeok | noun | region, zone | خطہ، علاقہ | Society & Culture | 3 | 대경권 = Daegu-Gyeongbuk region; 동남권 = southeastern region.
+> 권역별로 거점을 만들었어요. | We set up hubs in each region. | ہر خطے میں مراکز بنائے۔
+> 동남권 기업이 참여해요. | Companies from the southeastern region take part. | جنوب مشرقی خطے کی کمپنیاں شریک ہیں۔
+> 대경권 대학과 협력했어요. | We cooperated with universities in the Daegu-Gyeongbuk region. | دیگو گیونگبک خطے کی یونیورسٹیوں سے تعاون کیا۔
++ 거점 | 據點 | geojeom | noun | base, hub, stronghold | مرکز، اڈہ | Academic & Formal | 3 |
+> 지역 거점 센터를 세웠어요. | We set up a regional hub center. | علاقائی مرکز قائم کیا۔
+> 부산은 물류 거점이에요. | Busan is a logistics hub. | بوسان لاجسٹکس کا مرکز ہے۔
+> 거점 대학을 중심으로 운영해요. | It's run around a core university. | مرکزی یونیورسٹی کے گرد چلایا جاتا ہے۔
++ 산업단지 | 産業團地 | saneopdanji | noun | industrial complex | صنعتی زون | Economy & Business | 3 |
+> 산업단지에 공장이 많아요. | There are many factories in the industrial complex. | صنعتی زون میں بہت فیکٹریاں ہیں۔
+> 새 산업단지가 생겼어요. | A new industrial complex was built. | نیا صنعتی زون بنا۔
+> 산업단지 기업의 배출량을 조사했어요. | We surveyed emissions of companies in the complex. | صنعتی زون کی کمپنیوں کے اخراج کا جائزہ لیا۔
++ 클러스터 |  | keulleoseuteo | noun | cluster (of industries) | کلسٹر، مرکز | Economy & Business | 3 |
+> 반도체 클러스터가 조성돼요. | A semiconductor cluster is being built. | سیمی کنڈکٹر کلسٹر بن رہا ہے۔
+> 바이오 클러스터에 기업이 모였어요. | Companies gathered in the bio cluster. | بائیو کلسٹر میں کمپنیاں جمع ہوئیں۔
+> 클러스터 안에서 협력해요. | They cooperate within the cluster. | کلسٹر کے اندر تعاون کرتے ہیں۔
++ 사업장 | 事業場 | saeopjang | noun | workplace, business site | کاروباری مقام | Work & Employment | 3 |
+> 사업장마다 배출량이 달라요. | Emissions differ by site. | ہر مقام کا اخراج مختلف ہے۔
+> 사업장 안전 점검을 했어요. | We did a workplace safety check. | کام کی جگہ کی حفاظتی جانچ کی۔
+> 이 회사는 사업장이 세 곳이에요. | This company has three sites. | اس کمپنی کے تین مقامات ہیں۔
++ 주체 | 主體 | juche | noun | main agent, subject (who carries out) | ذمہ دار فریق | Academic & Formal | 3 |
+> 사업의 주체는 지자체예요. | The local government leads the project. | منصوبے کی ذمہ دار مقامی حکومت ہے۔
+> 시민이 변화의 주체예요. | Citizens are the drivers of change. | شہری تبدیلی کے اصل محرک ہیں۔
+> 운영 주체를 정해야 해요. | We need to decide who will operate it. | چلانے والا فریق طے کرنا ہوگا۔
++ 실무자 | 實務者 | silmuja | noun | person in charge of actual work, practitioner | عملی ذمہ دار | Work & Employment | 3 |
+> 실무자 회의를 열었어요. | We held a working-level meeting. | عملی سطح کی میٹنگ کی۔
+> 실무자의 의견을 들었어요. | We listened to the practitioners' views. | عملی کام کرنے والوں کی رائے سنی۔
+> 이 일은 실무자가 잘 알아요. | The person handling it knows this best. | یہ کام کرنے والا بہتر جانتا ہے۔
++ 대표이사 | 代表理事 | daepyoisa | noun | CEO, managing director | چیف ایگزیکٹو | Work & Employment | 3 |
+> 대표이사가 인사말을 했어요. | The CEO gave a welcome speech. | سی ای او نے خطاب کیا۔
+> 새 대표이사가 취임했어요. | A new CEO took office. | نئے سی ای او نے عہدہ سنبھالا۔
+> 대표이사의 승인이 필요해요. | The CEO's approval is needed. | سی ای او کی منظوری درکار ہے۔
++ 의사결정자 | 意思決定者 | uisagyeoljeongja | noun | decision-maker | فیصلہ ساز | Work & Employment | 3 | 의사결정 = decision-making.
+> 의사결정자를 설득해야 해요. | We have to persuade the decision-maker. | فیصلہ ساز کو قائل کرنا ہوگا۔
+> 의사결정자에게 데이터를 제공해요. | We provide data to decision-makers. | فیصلہ سازوں کو ڈیٹا دیتے ہیں۔
+> 빠른 의사결정이 중요해요. | Quick decision-making is important. | جلد فیصلہ سازی اہم ہے۔
++ 인력 | 人力 | illyeok | noun | manpower, workforce | افرادی قوت | Work & Employment | 3 |
+> 전문 인력이 부족해요. | There's a shortage of skilled personnel. | ماہر افراد کی کمی ہے۔
+> 인력을 더 뽑을 예정이에요. | We plan to hire more staff. | مزید عملہ بھرتی کرنے کا ارادہ ہے۔
+> 인력 양성 프로그램을 운영해요. | We run a workforce training program. | افرادی قوت کی تربیت کا پروگرام چلاتے ہیں۔
++ 협업 | 協業 | hyeobeop | noun | collaboration | باہمی تعاون | Work & Employment | 2 | 협업하다 = to collaborate.
+> 다른 팀과 협업했어요. | We collaborated with another team. | دوسری ٹیم کے ساتھ مل کر کام کیا۔
+> 협업 도구를 사용해요. | We use collaboration tools. | مشترکہ کام کے ٹولز استعمال کرتے ہیں۔
+> 협업이 잘 돼서 결과가 좋았어요. | Good collaboration led to good results. | اچھے تعاون سے نتیجہ اچھا رہا۔
++ 연계 | 連繫 | yeongye | noun | link, connection, coordination | ربط، رابطہ | Academic & Formal | 3 | 연계하다 = to link.
+> 학교와 기업을 연계했어요. | We linked schools and companies. | اسکولوں اور کمپنیوں کو جوڑا۔
+> 지역 연계 프로그램이에요. | It's a regionally linked program. | یہ علاقائی ربط والا پروگرام ہے۔
+> 여러 기관과 연계해서 운영해요. | It's run in coordination with several agencies. | کئی اداروں سے رابطے میں چلایا جاتا ہے۔
++ 공동 | 共同 | gongdong | noun | joint, common, shared | مشترکہ | Academic & Formal | 2 |
+> 공동 연구를 진행해요. | We're conducting joint research. | مشترکہ تحقیق کر رہے ہیں۔
+> 공동 1위를 했어요. | We tied for first place. | مشترکہ طور پر پہلی پوزیشن آئی۔
+> 측정 장비를 공동으로 사용해요. | We share the measuring equipment. | پیمائشی آلات مشترکہ استعمال کرتے ہیں۔
++ 그룹 |  | geurup | noun | group | گروپ | Society & Culture | 1 |
+> 그룹으로 나눠서 토론했어요. | We split into groups for discussion. | گروپوں میں بٹ کر بحث کی۔
+> 스터디 그룹에 가입했어요. | I joined a study group. | اسٹڈی گروپ میں شامل ہوا۔
+> 그 회사는 큰 그룹에 속해요. | That company belongs to a large group. | وہ کمپنی ایک بڑے گروپ کا حصہ ہے۔
++ 프로젝트 |  | peurojekteu | noun | project | منصوبہ | Work & Employment | 1 |
+> 새 프로젝트를 시작했어요. | We started a new project. | نیا منصوبہ شروع کیا۔
+> 프로젝트 마감이 다가와요. | The project deadline is approaching. | منصوبے کی آخری تاریخ قریب ہے۔
+> 이번 프로젝트의 목표는 탄소 감축이에요. | This project's goal is carbon reduction. | اس منصوبے کا ہدف کاربن میں کمی ہے۔

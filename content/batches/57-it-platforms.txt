@@ -1,0 +1,329 @@
+# IT, apps and digital platforms (from the learner's own word list)
++ 플랫폼 |  | peullaetpom | noun | platform (digital); station platform | پلیٹ فارم | Media & Technology | 2 |
+> 온라인 플랫폼에서 물건을 팔아요. | I sell things on an online platform. | آن لائن پلیٹ فارم پر چیزیں بیچتا ہوں۔
+> 기업과 대학을 연결하는 플랫폼이에요. | It's a platform connecting companies and universities. | یہ کمپنیوں اور یونیورسٹیوں کو جوڑنے والا پلیٹ فارم ہے۔
+> 열차가 3번 플랫폼에 들어와요. | The train arrives at platform 3. | ٹرین پلیٹ فارم تین پر آتی ہے۔
++ 시스템 |  | siseutem | noun | system | نظام | Media & Technology | 1 |
+> 새 시스템을 도입했어요. | We introduced a new system. | نیا نظام متعارف کرایا۔
+> 시스템이 잠시 멈췄어요. | The system stopped for a moment. | نظام کچھ دیر رک گیا۔
+> 교육 시스템이 달라요. | The education system is different. | تعلیمی نظام مختلف ہے۔
++ 인터페이스 |  | inteopeiseu | noun | interface | انٹرفیس | Media & Technology | 3 | 사용자 인터페이스 = user interface (UI).
+> 사용자 인터페이스가 편리해요. | The user interface is convenient. | یوزر انٹرفیس آسان ہے۔
+> 인터페이스를 간단하게 바꿨어요. | We simplified the interface. | انٹرفیس سادہ کر دیا۔
+> 두 시스템의 인터페이스가 달라요. | The two systems have different interfaces. | دونوں نظاموں کا انٹرفیس مختلف ہے۔
++ 사용자 | 使用者 | sayongja | noun | user | صارف | Media & Technology | 2 |
+> 사용자 수가 늘었어요. | The number of users has grown. | صارفین کی تعداد بڑھ گئی۔
+> 사용자 의견을 반영했어요. | We reflected user feedback. | صارفین کی رائے شامل کی۔
+> 사용자 이름을 입력하세요. | Enter your username. | صارف نام درج کریں۔
++ 관리자 | 管理者 | gwallija | noun | manager, administrator | منتظم | Media & Technology | 2 |
+> 관리자에게 문의하세요. | Contact the administrator. | منتظم سے رابطہ کریں۔
+> 관리자 권한이 필요해요. | Administrator rights are required. | منتظم کے اختیارات درکار ہیں۔
+> 건물 관리자가 문을 열어 줬어요. | The building manager opened the door. | عمارت کے منتظم نے دروازہ کھولا۔
++ 대시보드 |  | daesibodeu | noun | dashboard | ڈیش بورڈ | Media & Technology | 3 |
+> 대시보드에서 결과를 확인하세요. | Check the results on the dashboard. | نتائج ڈیش بورڈ پر دیکھیں۔
+> 배출량이 대시보드에 표시돼요. | Emissions are shown on the dashboard. | اخراج ڈیش بورڈ پر دکھایا جاتا ہے۔
+> 관리자용 대시보드를 만들었어요. | We built an admin dashboard. | منتظم کے لیے ڈیش بورڈ بنایا۔
++ 데이터 |  | deiteo | noun | data | ڈیٹا | Science & Technology | 2 |
+> 데이터를 분석했어요. | We analyzed the data. | ڈیٹا کا تجزیہ کیا۔
+> 정확한 데이터가 필요해요. | Accurate data is needed. | درست ڈیٹا درکار ہے۔
+> 휴대폰 데이터가 다 떨어졌어요. | I've used up my phone data. | فون کا ڈیٹا ختم ہو گیا۔
++ 데이터베이스 |  | deiteobeiseu | noun | database | ڈیٹا بیس | Science & Technology | 3 | Short: DB.
+> 데이터베이스에 저장했어요. | I saved it to the database. | ڈیٹا بیس میں محفوظ کیا۔
+> 고객 데이터베이스를 만들었어요. | We built a customer database. | گاہکوں کا ڈیٹا بیس بنایا۔
+> 데이터베이스 연결에 실패했어요. | The database connection failed. | ڈیٹا بیس سے رابطہ نہیں ہو سکا۔
++ 서버 |  | seobeo | noun | server | سرور | Science & Technology | 2 |
+> 서버가 다운됐어요. | The server went down. | سرور بند ہو گیا۔
+> 데이터는 서버에 보관돼요. | The data is stored on the server. | ڈیٹا سرور پر محفوظ ہوتا ہے۔
+> 서버를 점검하고 있어요. | The server is under maintenance. | سرور کی جانچ ہو رہی ہے۔
++ 클라우드 |  | keullaudeu | noun | cloud (computing) | کلاؤڈ | Science & Technology | 2 |
+> 사진을 클라우드에 저장해요. | I save photos to the cloud. | تصویریں کلاؤڈ میں رکھتا ہوں۔
+> 클라우드 서비스를 이용해요. | We use a cloud service. | کلاؤڈ سروس استعمال کرتے ہیں۔
+> 클라우드 덕분에 어디서나 일해요. | Thanks to the cloud, I can work anywhere. | کلاؤڈ کی بدولت کہیں سے بھی کام کرتا ہوں۔
++ 로그 |  | rogeu | noun | log (record) | لاگ | Science & Technology | 3 |
+> 오류 로그를 확인했어요. | I checked the error log. | خرابی کا لاگ دیکھا۔
+> 접속 로그가 남아 있어요. | There's a record of access in the log. | رسائی کا لاگ موجود ہے۔
+> 로그 파일을 보내 주세요. | Please send the log file. | لاگ فائل بھیجیں۔
++ 백업 |  | baegeop | noun | backup | بیک اپ | Media & Technology | 2 | 백업하다 = to back up.
+> 파일을 백업했어요. | I backed up the files. | فائلوں کا بیک اپ لیا۔
+> 매일 자동으로 백업돼요. | It's backed up automatically every day. | روزانہ خود بخود بیک اپ ہوتا ہے۔
+> 백업이 없어서 자료를 잃었어요. | I lost the data because there was no backup. | بیک اپ نہ ہونے سے مواد ضائع ہو گیا۔
++ 유지보수 | 維持補修 | yujibosu | noun | maintenance | دیکھ بھال، مرمت | Science & Technology | 3 |
+> 시스템 유지보수 비용이 들어요. | System maintenance costs money. | نظام کی دیکھ بھال پر خرچ آتا ہے۔
+> 유지보수 계약을 맺었어요. | We signed a maintenance contract. | دیکھ بھال کا معاہدہ کیا۔
+> 정기적인 유지보수가 필요해요. | Regular maintenance is needed. | باقاعدہ دیکھ بھال ضروری ہے۔
++ 네트워크 |  | neteuwokeu | noun | network | نیٹ ورک | Media & Technology | 2 |
+> 네트워크 연결이 불안정해요. | The network connection is unstable. | نیٹ ورک کنکشن غیر مستحکم ہے۔
+> 기업 간 네트워크를 만들었어요. | We built a network between companies. | کمپنیوں کے درمیان نیٹ ورک بنایا۔
+> 인적 네트워크가 중요해요. | Personal networks matter. | تعلقات کا نیٹ ورک اہم ہے۔
++ 디지털 |  | dijiteol | noun | digital | ڈیجیٹل | Media & Technology | 2 |
+> 디지털 기술이 발전했어요. | Digital technology has advanced. | ڈیجیٹل ٹیکنالوجی ترقی کر گئی۔
+> 자료를 디지털로 바꿨어요. | We digitized the materials. | مواد کو ڈیجیٹل شکل دی۔
+> 디지털 전환이 필요해요. | A digital transformation is needed. | ڈیجیٹل تبدیلی کی ضرورت ہے۔
++ 모바일 |  | mobail | noun | mobile | موبائل | Media & Technology | 1 |
+> 모바일로 결제할 수 있어요. | You can pay by mobile. | موبائل سے ادائیگی کر سکتے ہیں۔
+> 모바일 화면에 맞게 만드세요. | Make it fit mobile screens. | موبائل اسکرین کے مطابق بنائیں۔
+> 모바일 앱을 개발했어요. | We developed a mobile app. | موبائل ایپ تیار کی۔
++ 휴대전화 | 携帶電話 | hyudaejeonhwa | noun | mobile phone | موبائل فون | Media & Technology | 1 | Casual: 핸드폰, 휴대폰.
+> 휴대전화를 꺼 주세요. | Please turn off your phones. | موبائل فون بند کریں۔
+> 휴대전화 번호를 알려 주세요. | Please tell me your phone number. | فون نمبر بتائیں۔
+> 휴대전화를 잃어버렸어요. | I lost my mobile phone. | موبائل فون گم ہو گیا۔
++ 애플리케이션 |  | aepeullikeisyeon | noun | application (app) | ایپلیکیشن | Media & Technology | 2 | Short: 앱, 어플.
+> 애플리케이션을 설치하세요. | Install the application. | ایپلیکیشن انسٹال کریں۔
+> 이 애플리케이션은 무료예요. | This app is free. | یہ ایپ مفت ہے۔
+> 애플리케이션이 자꾸 꺼져요. | The app keeps closing. | ایپ بار بار بند ہو جاتی ہے۔
++ 웹사이트 |  | wepsaiteu | noun | website | ویب سائٹ | Media & Technology | 1 | Also 사이트, 홈페이지.
+> 웹사이트에서 신청하세요. | Apply on the website. | ویب سائٹ پر درخواست دیں۔
+> 회사 웹사이트를 만들었어요. | We made a company website. | کمپنی کی ویب سائٹ بنائی۔
+> 웹사이트 주소가 뭐예요? | What's the website address? | ویب سائٹ کا پتہ کیا ہے؟
++ 웹페이지 |  | weppeiji | noun | web page | ویب صفحہ | Media & Technology | 2 |
+> 웹페이지가 열리지 않아요. | The web page won't open. | ویب صفحہ نہیں کھل رہا۔
+> 웹페이지를 북마크했어요. | I bookmarked the web page. | ویب صفحہ محفوظ کیا۔
+> 웹페이지 디자인을 바꿨어요. | We changed the web page design. | ویب صفحے کا ڈیزائن بدلا۔
++ 접속하다 | 接續- | jeopsokada | verb | to connect, log on, access (online) | جڑنا، رسائی | Media & Technology | 2 | 접속 = connection, access.
+> 와이파이에 접속했어요. | I connected to the Wi-Fi. | وائی فائی سے جڑ گیا۔
+> 사이트에 접속이 안 돼요. | I can't access the site. | سائٹ تک رسائی نہیں ہو رہی۔
+> 동시에 많은 사람이 접속했어요. | Many people logged on at once. | ایک ساتھ بہت لوگ آن لائن آئے۔
++ 로그인하다 |  | rogeuinhada | verb | to log in | لاگ ان کرنا | Media & Technology | 1 | 로그인 = login; 로그아웃 = logout.
+> 아이디로 로그인하세요. | Log in with your ID. | آئی ڈی سے لاگ ان کریں۔
+> 로그인이 안 돼요. | I can't log in. | لاگ ان نہیں ہو رہا۔
+> 로그인한 후에 이용할 수 있어요. | You can use it after logging in. | لاگ ان کے بعد استعمال کر سکتے ہیں۔
++ 회원가입 | 會員加入 | hoewongaip | noun | sign-up, registration (as a member) | رکنیت لینا | Media & Technology | 1 | 회원 = member.
+> 회원가입을 하면 할인을 받아요. | You get a discount if you sign up. | رکن بنیں تو رعایت ملتی ہے۔
+> 회원가입은 무료예요. | Signing up is free. | رکنیت مفت ہے۔
+> 이메일로 회원가입했어요. | I signed up with my email. | ای میل سے رکنیت لی۔
++ 아이디 |  | aidi | noun | user ID, username | آئی ڈی | Media & Technology | 1 |
+> 아이디와 비밀번호를 입력하세요. | Enter your ID and password. | آئی ڈی اور پاس ورڈ درج کریں۔
+> 아이디를 잊어버렸어요. | I forgot my ID. | آئی ڈی بھول گیا۔
+> 이 아이디는 이미 사용 중이에요. | This ID is already taken. | یہ آئی ڈی پہلے سے استعمال میں ہے۔
++ 프로필 |  | peuropil | noun | profile | پروفائل | Media & Technology | 1 |
+> 프로필 사진을 바꿨어요. | I changed my profile picture. | پروفائل تصویر بدلی۔
+> 프로필을 수정하세요. | Edit your profile. | پروفائل میں ترمیم کریں۔
+> 회사 프로필을 보내 드릴게요. | I'll send you our company profile. | کمپنی کا تعارف بھیجوں گا۔
++ 업로드하다 |  | eoprodeuhada | verb | to upload | اپ لوڈ کرنا | Media & Technology | 1 | 업로드 = upload.
+> 사진을 업로드했어요. | I uploaded the photos. | تصویریں اپ لوڈ کیں۔
+> 파일을 여기에 업로드하세요. | Upload the file here. | فائل یہاں اپ لوڈ کریں۔
+> 업로드가 안 돼요. | The upload isn't working. | اپ لوڈ نہیں ہو رہا۔
++ 첨부하다 | 添附- | cheombuhada | verb | to attach (a file) | منسلک کرنا | Media & Technology | 2 | 첨부 파일 = attachment.
+> 이력서를 첨부했어요. | I attached my résumé. | سی وی منسلک کی۔
+> 첨부 파일을 확인해 주세요. | Please check the attachment. | منسلک فائل دیکھیں۔
+> 사진을 첨부해서 보내 주세요. | Please send it with a photo attached. | تصویر منسلک کر کے بھیجیں۔
++ 입력하다 | 入力- | imnyeokada | verb | to input, enter (data) | درج کرنا | Media & Technology | 2 | 입력 = input.
+> 이름을 입력하세요. | Enter your name. | نام درج کریں۔
+> 데이터를 잘못 입력했어요. | I entered the data wrongly. | ڈیٹا غلط درج کیا۔
+> 측정값을 직접 입력해요. | You enter the measured values yourself. | پیمائش کی قدریں خود درج کرتے ہیں۔
++ 출력하다 | 出力- | chullyeokada | verb | to print out; to output | پرنٹ نکالنا | Media & Technology | 2 | 출력 = printout; output.
+> 발표 자료를 출력했어요. | I printed out the presentation materials. | پریزنٹیشن کا مواد پرنٹ کیا۔
+> 컬러로 출력해 주세요. | Please print in color. | رنگین پرنٹ نکالیں۔
+> 결과가 화면에 출력돼요. | The results are output on the screen. | نتائج اسکرین پر ظاہر ہوتے ہیں۔
++ 등록하다 | 登錄- | deungnokada | verb | to register, enroll | رجسٹر کرنا | Daily Life in Korea | 2 | 등록 = registration.
+> 수업에 등록했어요. | I registered for the class. | کلاس میں رجسٹریشن کرائی۔
+> 외국인 등록을 해야 해요. | You must register as a foreigner. | غیر ملکی رجسٹریشن ضروری ہے۔
+> 회사 정보를 등록하세요. | Register your company information. | کمپنی کی معلومات درج کریں۔
++ 조회하다 | 照會- | johoehada | verb | to look up, check (records) | چیک کرنا، دیکھنا | Media & Technology | 2 | 조회 = inquiry; 조회수 = view count.
+> 잔액을 조회했어요. | I checked my balance. | بیلنس چیک کیا۔
+> 배송 상태를 조회할 수 있어요. | You can track the delivery status. | ڈیلیوری کی صورتحال دیکھ سکتے ہیں۔
+> 이 영상은 조회수가 많아요. | This video has many views. | اس ویڈیو کے بہت ویوز ہیں۔
++ 발급하다 | 發給- | balgeupada | verb | to issue (a card, document) | جاری کرنا | Daily Life in Korea | 2 | 발급 = issuance.
+> 은행에서 카드를 발급했어요. | The bank issued a card. | بینک نے کارڈ جاری کیا۔
+> 증명서를 발급받았어요. | I got a certificate issued. | سرٹیفکیٹ جاری کروایا۔
+> 재발급하려면 신분증이 필요해요. | You need ID to have it reissued. | دوبارہ جاری کروانے کے لیے شناختی کارڈ چاہیے۔
++ 알림 |  | allim | noun | notification, alert | اطلاع | Media & Technology | 1 |
+> 휴대폰에 알림이 왔어요. | A notification came on my phone. | فون پر اطلاع آئی۔
+> 알림을 꺼 두었어요. | I turned off notifications. | اطلاعات بند کر دیں۔
+> 마감 전에 알림을 보내 드려요. | We'll send a reminder before the deadline. | آخری تاریخ سے پہلے یاد دہانی بھیجیں گے۔
++ 푸시 |  | pusi | noun | push (notification) | پش نوٹیفکیشن | Media & Technology | 2 | 푸시 알림 = push notification.
+> 푸시 알림을 허용하세요. | Allow push notifications. | پش اطلاعات کی اجازت دیں۔
+> 푸시 메시지로 결과를 알려 줘요. | It sends the results as a push message. | نتائج پش پیغام سے بتاتا ہے۔
+> 푸시가 너무 자주 와요. | The push alerts come too often. | پش اطلاعات بہت آتی ہیں۔
++ 메일 |  | meil | noun | email | ای میل | Media & Technology | 1 | Also 이메일.
+> 메일을 보냈어요. | I sent an email. | ای میل بھیجی۔
+> 메일 주소를 알려 주세요. | Please tell me your email address. | ای میل پتہ بتائیں۔
+> 메일함을 확인하세요. | Check your inbox. | ان باکس دیکھیں۔
++ 게시판 | 揭示板 | gesipan | noun | bulletin board, message board | نوٹس بورڈ | Media & Technology | 2 |
+> 게시판에 공지를 올렸어요. | I posted a notice on the board. | نوٹس بورڈ پر اعلان لگایا۔
+> 질문은 게시판에 남겨 주세요. | Leave your questions on the message board. | سوال بورڈ پر لکھیں۔
+> 학교 게시판을 확인하세요. | Check the school bulletin board. | اسکول کا نوٹس بورڈ دیکھیں۔
++ 도움말 |  | doummal | noun | help (guide), tips | مدد، رہنمائی | Media & Technology | 2 |
+> 도움말을 참고하세요. | Refer to the help section. | مدد کا حصہ دیکھیں۔
+> 도움말 버튼을 누르세요. | Press the help button. | مدد کا بٹن دبائیں۔
+> 사용법은 도움말에 있어요. | Instructions are in the help guide. | طریقہ استعمال رہنمائی میں ہے۔
++ 문의하다 | 問議- | munuihada | verb | to inquire, ask | پوچھ گچھ کرنا | Daily Life in Korea | 2 | 문의 = inquiry.
+> 자세한 내용은 사무실에 문의하세요. | Ask the office for details. | تفصیلات دفتر سے پوچھیں۔
+> 가격을 문의했어요. | I asked about the price. | قیمت پوچھی۔
+> 문의 사항이 있으면 연락 주세요. | Contact us if you have questions. | سوال ہو تو رابطہ کریں۔
++ 센터 |  | senteo | noun | center | مرکز | Places & Directions | 1 |
+> 고객 센터에 전화했어요. | I called the customer center. | کسٹمر سینٹر فون کیا۔
+> 주민 센터에서 서류를 받았어요. | I got documents at the community center. | کمیونٹی سینٹر سے کاغذات لیے۔
+> 연구 센터를 세웠어요. | A research center was set up. | تحقیقی مرکز قائم کیا۔
++ 링크 |  | ringkeu | noun | link | لنک | Media & Technology | 1 |
+> 링크를 보내 드릴게요. | I'll send you the link. | لنک بھیجتا ہوں۔
+> 링크를 클릭하세요. | Click the link. | لنک پر کلک کریں۔
+> 링크가 열리지 않아요. | The link won't open. | لنک نہیں کھل رہا۔
++ 코드 |  | kodeu | noun | code; (electric) cord | کوڈ | Media & Technology | 2 |
+> 코드를 입력하세요. | Enter the code. | کوڈ درج کریں۔
+> 프로그램 코드를 수정했어요. | I edited the program code. | پروگرام کا کوڈ درست کیا۔
+> 드레스 코드는 정장이에요. | The dress code is formal. | لباس کا ضابطہ رسمی ہے۔
++ 큐알 코드 |  | kyual kodeu | noun | QR code | کیو آر کوڈ | Media & Technology | 1 |
+> 큐알 코드를 찍으세요. | Scan the QR code. | کیو آر کوڈ اسکین کریں۔
+> 포스터에 큐알 코드를 넣었어요. | We put a QR code on the poster. | پوسٹر پر کیو آر کوڈ لگایا۔
+> 큐알 코드로 출석을 확인해요. | Attendance is checked with a QR code. | کیو آر کوڈ سے حاضری لگتی ہے۔
++ 연동하다 | 連動- | yeondonghada | verb | to link, sync (systems) | جوڑنا، منسلک کرنا | Science & Technology | 3 | 연동 = linkage, integration.
+> 앱과 센서를 연동했어요. | We linked the app with the sensors. | ایپ کو سینسرز سے جوڑا۔
+> 카카오톡 계정과 연동할 수 있어요. | You can link it to your KakaoTalk account. | کاکاؤ ٹاک اکاؤنٹ سے جوڑ سکتے ہیں۔
+> 데이터가 자동으로 연동돼요. | The data syncs automatically. | ڈیٹا خود بخود ہم آہنگ ہوتا ہے۔
++ 통합하다 | 統合- | tonghapada | verb | to integrate, merge | یکجا کرنا | Academic & Formal | 3 | 통합 = integration.
+> 두 시스템을 하나로 통합했어요. | We merged the two systems into one. | دونوں نظام ایک کر دیے۔
+> 자료를 통합해서 관리해요. | We manage the data in one place. | ڈیٹا یکجا کر کے سنبھالتے ہیں۔
+> 통합 플랫폼을 만들었어요. | We built an integrated platform. | مربوط پلیٹ فارم بنایا۔
++ 공유하다 | 共有- | gongyuhada | verb | to share | شیئر کرنا | Media & Technology | 2 | 공유 = sharing.
+> 화면을 공유해 주세요. | Please share your screen. | اسکرین شیئر کریں۔
+> 정보를 팀원들과 공유했어요. | I shared the information with the team. | معلومات ٹیم سے شیئر کیں۔
+> 공유 자전거를 탔어요. | I rode a shared bike. | شیئرنگ سائیکل چلائی۔
++ 호환성 | 互換性 | hohwanseong | noun | compatibility | مطابقت | Science & Technology | 3 |
+> 다른 프로그램과 호환성이 좋아요. | It's highly compatible with other programs. | دوسرے پروگراموں سے اچھی مطابقت ہے۔
+> 호환성 문제로 파일이 안 열려요. | The file won't open due to compatibility issues. | مطابقت کے مسئلے سے فائل نہیں کھلتی۔
+> 기기 호환성을 확인하세요. | Check device compatibility. | آلے کی مطابقت دیکھیں۔
++ 접근성 | 接近性 | jeopgeunseong | noun | accessibility | رسائی میں آسانی | Academic & Formal | 3 |
+> 이 앱은 접근성이 좋아요. | This app is very accessible. | اس ایپ تک رسائی آسان ہے۔
+> 지하철역과 가까워서 접근성이 좋아요. | It's close to the subway, so easy to reach. | میٹرو کے قریب ہونے سے پہنچنا آسان ہے۔
+> 장애인의 접근성을 높였어요. | We improved accessibility for disabled people. | معذور افراد کے لیے رسائی بہتر بنائی۔
++ 접근하다 | 接近- | jeopgeunhada | verb | to approach, access | قریب جانا، رسائی | Academic & Formal | 2 | 접근 = approach, access.
+> 문제에 새롭게 접근했어요. | We approached the problem in a new way. | مسئلے کو نئے انداز سے دیکھا۔
+> 누구나 쉽게 접근할 수 있어요. | Anyone can access it easily. | ہر کوئی آسانی سے رسائی حاصل کر سکتا ہے۔
+> 위험 지역에 접근하지 마세요. | Do not approach the danger zone. | خطرناک علاقے کے قریب نہ جائیں۔
++ 편의성 | 便宜性 | pyeonuiseong | noun | convenience, ease of use | سہولت | Academic & Formal | 3 | 편의 = convenience.
+> 사용자 편의성을 높였어요. | We improved ease of use. | صارف کی سہولت بڑھائی۔
+> 편의성과 보안이 모두 중요해요. | Both convenience and security matter. | سہولت اور حفاظت دونوں اہم ہیں۔
+> 편의 시설이 잘 되어 있어요. | The amenities are good. | سہولیات اچھی ہیں۔
++ 프로토타입 |  | peurototaip | noun | prototype | پروٹوٹائپ | Science & Technology | 3 | Korean: 시제품.
+> 프로토타입을 만들어 시연했어요. | We built a prototype and demonstrated it. | پروٹوٹائپ بنا کر دکھایا۔
+> 프로토타입으로 사용자 반응을 봤어요. | We tested user reactions with a prototype. | پروٹوٹائپ سے صارفین کا ردعمل دیکھا۔
+> 다음 주까지 프로토타입을 완성해요. | We'll finish the prototype by next week. | اگلے ہفتے تک پروٹوٹائپ مکمل کریں گے۔
++ 시제품 | 試製品 | sijepum | noun | prototype, trial product | آزمائشی مصنوعات | Science & Technology | 3 |
+> 시제품을 고객에게 보여 줬어요. | We showed the prototype to customers. | آزمائشی پروڈکٹ گاہکوں کو دکھائی۔
+> 시제품 테스트를 했어요. | We tested the prototype. | آزمائشی پروڈکٹ کی جانچ کی۔
+> 시제품 제작 비용이 들어요. | Making a prototype costs money. | آزمائشی پروڈکٹ بنانے پر خرچ آتا ہے۔
++ 목업 |  | mogeop | noun | mock-up | نمونہ (ماڈل) | Media & Technology | 3 |
+> 앱 화면을 목업으로 만들었어요. | I made a mock-up of the app screens. | ایپ اسکرینوں کا نمونہ بنایا۔
+> 목업을 보고 의견을 주세요. | Look at the mock-up and give feedback. | نمونہ دیکھ کر رائے دیں۔
+> 목업 이미지를 슬라이드에 넣었어요. | I put mock-up images on the slide. | سلائیڈ پر نمونے کی تصاویر لگائیں۔
++ 시뮬레이션 |  | simyulleisyeon | noun | simulation | سمیولیشن | Science & Technology | 3 |
+> 컴퓨터로 시뮬레이션을 했어요. | We ran a simulation on a computer. | کمپیوٹر پر سمیولیشن کی۔
+> 시뮬레이션 결과가 좋았어요. | The simulation results were good. | سمیولیشن کے نتائج اچھے تھے۔
+> 비행 시뮬레이션으로 연습해요. | Pilots practice with flight simulations. | پرواز کی سمیولیشن سے مشق کرتے ہیں۔
++ 테스트 |  | teseuteu | noun | test | ٹیسٹ | Science & Technology | 1 |
+> 앱을 테스트했어요. | We tested the app. | ایپ کو ٹیسٹ کیا۔
+> 테스트 결과가 나왔어요. | The test results are out. | ٹیسٹ کے نتائج آ گئے۔
+> 레벨 테스트를 봤어요. | I took a level test. | لیول ٹیسٹ دیا۔
++ 파일럿 |  | pailleot | noun | pilot (trial); pilot (aviation) | آزمائشی؛ پائلٹ | Science & Technology | 3 | 파일럿 프로그램 = pilot program.
+> 파일럿 프로그램을 운영했어요. | We ran a pilot program. | آزمائشی پروگرام چلایا۔
+> 세 개 기업과 파일럿을 진행해요. | We're piloting it with three companies. | تین کمپنیوں کے ساتھ آزمائش کر رہے ہیں۔
+> 그는 비행기 파일럿이에요. | He's an airline pilot. | وہ ہوائی جہاز کا پائلٹ ہے۔
++ 시범 | 示範 | sibeom | noun | trial; demonstration | آزمائشی؛ مظاہرہ | Academic & Formal | 3 | 시범 사업 = pilot project.
+> 시범 사업을 시작했어요. | We started a pilot project. | آزمائشی منصوبہ شروع کیا۔
+> 선생님이 시범을 보여 주셨어요. | The teacher gave a demonstration. | استاد نے مظاہرہ کر کے دکھایا۔
+> 이 서비스는 시범 운영 중이에요. | This service is in trial operation. | یہ سروس آزمائشی طور پر چل رہی ہے۔
++ 작동하다 | 作動- | jakdonghada | verb | to work, operate (machines) | چلنا، کام کرنا | Science & Technology | 2 | 작동 = operation.
+> 기계가 작동하지 않아요. | The machine isn't working. | مشین کام نہیں کر رہی۔
+> 센서가 잘 작동해요. | The sensor works well. | سینسر اچھا کام کرتا ہے۔
+> 작동 방법을 알려 주세요. | Please tell me how to operate it. | چلانے کا طریقہ بتائیں۔
++ 실행하다 | 實行- | silhaenghada | verb | to carry out; to run (a program) | عمل کرنا؛ چلانا | Academic & Formal | 2 | 실행 = execution.
+> 계획을 실행했어요. | We carried out the plan. | منصوبے پر عمل کیا۔
+> 프로그램을 실행하세요. | Run the program. | پروگرام چلائیں۔
+> 말보다 실행이 중요해요. | Action matters more than words. | باتوں سے زیادہ عمل اہم ہے۔
++ 설계하다 | 設計- | seolgyehada | verb | to design, plan (structure) | ڈیزائن کرنا، خاکہ بنانا | Science & Technology | 3 | 설계 = design, blueprint.
+> 시스템을 처음부터 설계했어요. | We designed the system from scratch. | نظام شروع سے ڈیزائن کیا۔
+> 건물 설계를 맡았어요. | I was in charge of designing the building. | عمارت کا نقشہ میرے ذمے تھا۔
+> 서비스 구조를 다시 설계해야 해요. | We need to redesign the service structure. | سروس کا ڈھانچہ دوبارہ بنانا ہوگا۔
++ 요구사항 | 要求事項 | yogusahang | noun | requirements | ضروریات | Science & Technology | 3 |
+> 고객의 요구사항을 정리했어요. | We summarized the client's requirements. | گاہک کی ضروریات کی فہرست بنائی۔
+> 요구사항이 자주 바뀌어요. | The requirements change often. | ضروریات بار بار بدلتی ہیں۔
+> 요구사항에 맞게 개발했어요. | We developed it to meet the requirements. | ضروریات کے مطابق تیار کیا۔
++ 시나리오 |  | sinario | noun | scenario; screenplay | منظرنامہ؛ اسکرپٹ | Media & Technology | 2 |
+> 사용 시나리오를 만들었어요. | We wrote a usage scenario. | استعمال کا منظرنامہ بنایا۔
+> 최악의 시나리오도 준비해야 해요. | We must prepare for the worst-case scenario. | بدترین صورتحال کی تیاری بھی کرنی ہے۔
+> 영화 시나리오를 썼어요. | I wrote a movie script. | فلم کا اسکرپٹ لکھا۔
++ 목록 | 目錄 | mongnok | noun | list | فہرست | Academic & Formal | 2 |
+> 준비물 목록을 만들었어요. | I made a list of things to bring. | ضروری چیزوں کی فہرست بنائی۔
+> 참가자 목록을 확인하세요. | Check the participant list. | شرکا کی فہرست دیکھیں۔
+> 목록에서 하나를 고르세요. | Choose one from the list. | فہرست سے ایک چنیں۔
++ 형식 | 形式 | hyeongsik | noun | format, form | فارمیٹ، شکل | Academic & Formal | 2 |
+> 정해진 형식에 맞춰 쓰세요. | Write in the set format. | مقررہ فارمیٹ میں لکھیں۔
+> 파일 형식이 맞지 않아요. | The file format doesn't match. | فائل کا فارمیٹ درست نہیں۔
+> 형식보다 내용이 중요해요. | Content matters more than form. | شکل سے زیادہ مواد اہم ہے۔
++ 제어하다 | 制御- | jeeohada | verb | to control (machines, systems) | کنٹرول کرنا | Science & Technology | 3 | 제어 = control.
+> 스마트폰으로 에어컨을 제어해요. | I control the air conditioner with my phone. | فون سے اے سی کنٹرول کرتا ہوں۔
+> 온도를 자동으로 제어해요. | It controls the temperature automatically. | درجہ حرارت خود کنٹرول کرتا ہے۔
+> 감정을 제어하기 어려웠어요. | It was hard to control my emotions. | جذبات قابو کرنا مشکل تھا۔
++ 생성하다 | 生成- | saengseonghada | verb | to create, generate | بنانا، پیدا کرنا | Science & Technology | 3 | 생성 = creation, generation.
+> 새 계정을 생성했어요. | I created a new account. | نیا اکاؤنٹ بنایا۔
+> 보고서가 자동으로 생성돼요. | Reports are generated automatically. | رپورٹس خود بخود بنتی ہیں۔
+> 인공지능이 이미지를 생성했어요. | AI generated an image. | مصنوعی ذہانت نے تصویر بنائی۔
++ 이력 | 履歷 | iryeok | noun | history, record (of past activity) | ریکارڈ، تاریخچہ | Work & Employment | 3 | 이력서 = résumé.
+> 측정 이력을 확인할 수 있어요. | You can check the measurement history. | پیمائش کا ریکارڈ دیکھ سکتے ہیں۔
+> 구매 이력이 남아 있어요. | Your purchase history is saved. | خریداری کا ریکارڈ محفوظ ہے۔
+> 그 사람의 이력이 화려해요. | That person has an impressive track record. | اس کا ریکارڈ شاندار ہے۔
++ 개인정보 | 個人情報 | gaeinjeongbo | noun | personal information | ذاتی معلومات | Media & Technology | 2 |
+> 개인정보를 보호해야 해요. | Personal information must be protected. | ذاتی معلومات کی حفاظت ضروری ہے۔
+> 개인정보 수집에 동의하세요. | Please consent to the collection of personal data. | ذاتی معلومات جمع کرنے پر رضامندی دیں۔
+> 개인정보가 유출됐어요. | Personal information was leaked. | ذاتی معلومات افشا ہو گئیں۔
++ 권한 | 權限 | gwonhan | noun | authority, permission, rights | اختیار، اجازت | Media & Technology | 3 |
+> 접근 권한이 없어요. | You don't have access rights. | رسائی کا اختیار نہیں ہے۔
+> 관리자에게 권한을 요청하세요. | Ask the administrator for permission. | منتظم سے اجازت مانگیں۔
+> 그 결정은 제 권한 밖이에요. | That decision is beyond my authority. | وہ فیصلہ میرے اختیار سے باہر ہے۔
++ 비밀 | 祕密 | bimil | noun | secret | راز | Emotions & Relationships | 1 | 비밀번호 = password.
+> 이건 우리만의 비밀이에요. | This is our secret. | یہ ہمارا راز ہے۔
+> 비밀을 지켜 주세요. | Please keep it secret. | راز رکھیں۔
+> 고객 정보는 비밀로 관리해요. | Customer information is kept confidential. | گاہکوں کی معلومات خفیہ رکھی جاتی ہیں۔
++ 익명화 | 匿名化 | ingmyeonghwa | noun | anonymization | گمنام بنانا | Science & Technology | 3 | 익명 = anonymity.
+> 데이터를 익명화해서 사용해요. | We anonymize the data before use. | ڈیٹا گمنام کر کے استعمال کرتے ہیں۔
+> 익명화된 정보만 공개해요. | Only anonymized information is released. | صرف گمنام معلومات جاری ہوتی ہیں۔
+> 익명화 처리가 필요해요. | Anonymization is needed. | گمنام بنانا ضروری ہے۔
++ 비식별화 | 非識別化 | bisikbyeolhwa | noun | de-identification (of data) | شناخت ہٹانا | Science & Technology | 3 |
+> 개인정보는 비식별화해서 보관해요. | Personal data is stored de-identified. | ذاتی معلومات شناخت ہٹا کر رکھی جاتی ہیں۔
+> 비식별화 기술을 적용했어요. | We applied de-identification technology. | شناخت ہٹانے کی ٹیکنالوجی لگائی۔
+> 비식별화된 데이터로 연구해요. | We do research with de-identified data. | شناخت ہٹے ڈیٹا سے تحقیق کرتے ہیں۔
++ 카카오톡 |  | kakaotok | noun | KakaoTalk (Korean messenger app) | کاکاؤ ٹاک | Media & Technology | 1 | Casual: 카톡.
+> 카카오톡으로 연락 주세요. | Contact me on KakaoTalk. | کاکاؤ ٹاک پر رابطہ کریں۔
+> 카톡을 보냈는데 답이 없어요. | I sent a KakaoTalk but got no reply. | کاکاؤ ٹاک بھیجا مگر جواب نہیں آیا۔
+> 카카오톡 단체방에 공지했어요. | I posted a notice in the KakaoTalk group. | کاکاؤ ٹاک گروپ میں اعلان کیا۔
++ 채팅방 | -房 | chaetingbang | noun | chat room, group chat | چیٹ روم | Media & Technology | 1 | 단톡방 = group chat.
+> 팀 채팅방을 만들었어요. | I made a team chat room. | ٹیم کا چیٹ روم بنایا۔
+> 채팅방에서 나갔어요. | I left the chat room. | چیٹ روم چھوڑ دیا۔
+> 채팅방에 자료를 올렸어요. | I posted the materials in the chat. | چیٹ میں مواد ڈالا۔
++ 센서 |  | senseo | noun | sensor | سینسر | Science & Technology | 2 |
+> 센서가 온도를 측정해요. | The sensor measures the temperature. | سینسر درجہ حرارت ناپتا ہے۔
+> 공장에 센서를 설치했어요. | We installed sensors in the factory. | فیکٹری میں سینسر لگائے۔
+> 움직임 센서가 있어서 불이 켜져요. | A motion sensor turns on the lights. | حرکت کا سینسر بتی جلاتا ہے۔
++ 기기 | 機器 | gigi | noun | device, equipment | آلہ | Science & Technology | 2 |
+> 측정 기기를 빌렸어요. | We borrowed measuring equipment. | پیمائش کا آلہ ادھار لیا۔
+> 전자 기기를 꺼 주세요. | Please turn off electronic devices. | الیکٹرانک آلات بند کریں۔
+> 이 기기는 사용하기 쉬워요. | This device is easy to use. | یہ آلہ استعمال میں آسان ہے۔
++ 인증하다 | 認證- | injeunghada | verb | to certify, verify, authenticate | تصدیق کرنا | Media & Technology | 3 | 인증 = certification, authentication.
+> 휴대폰으로 본인을 인증하세요. | Verify your identity with your phone. | فون سے اپنی تصدیق کریں۔
+> 정부가 품질을 인증했어요. | The government certified the quality. | حکومت نے معیار کی تصدیق کی۔
+> 인증 번호를 입력하세요. | Enter the verification code. | تصدیقی نمبر درج کریں۔
++ 인증서 | 認證書 | injeungseo | noun | certificate | سند، سرٹیفکیٹ | Media & Technology | 3 |
+> 인증서를 발급받았어요. | I was issued a certificate. | سرٹیفکیٹ جاری ہوا۔
+> 공동 인증서로 로그인하세요. | Log in with your joint certificate. | سرٹیفکیٹ سے لاگ ان کریں۔
+> 품질 인증서가 필요해요. | A quality certificate is needed. | معیار کا سرٹیفکیٹ چاہیے۔
++ 제공하다 | 提供- | jegonghada | verb | to provide, offer | فراہم کرنا | Academic & Formal | 2 | 제공 = provision.
+> 무료로 서비스를 제공해요. | We provide the service for free. | سروس مفت فراہم کرتے ہیں۔
+> 정보를 제공해 주셔서 감사합니다. | Thank you for providing the information. | معلومات فراہم کرنے کا شکریہ۔
+> 점심 식사가 제공됩니다. | Lunch will be provided. | دوپہر کا کھانا فراہم کیا جائے گا۔
++ 제작하다 | 製作- | jejakada | verb | to produce, make (films, products) | تیار کرنا | Media & Technology | 2 | 제작 = production.
+> 홍보 영상을 제작했어요. | We produced a promotional video. | تشہیری ویڈیو تیار کی۔
+> 이 영화는 한국에서 제작됐어요. | This movie was made in Korea. | یہ فلم کوریا میں بنی۔
+> 시제품 제작에 한 달 걸려요. | Making the prototype takes a month. | آزمائشی پروڈکٹ بنانے میں ایک مہینہ لگتا ہے۔
++ 관리하다 | 管理- | gwallihada | verb | to manage, take care of | سنبھالنا، انتظام کرنا | Work & Employment | 2 | 관리 = management.
+> 건강을 잘 관리하세요. | Take good care of your health. | صحت کا خیال رکھیں۔
+> 데이터를 체계적으로 관리해요. | We manage the data systematically. | ڈیٹا منظم طریقے سے سنبھالتے ہیں۔
+> 이 건물은 시에서 관리해요. | The city manages this building. | یہ عمارت شہر کی انتظامیہ سنبھالتی ہے۔
++ 모니터링하다 |  | moniteoringhada | verb | to monitor | نگرانی کرنا | Science & Technology | 3 | 모니터링 = monitoring.
+> 배출량을 실시간으로 모니터링해요. | We monitor emissions in real time. | اخراج کی براہ راست نگرانی کرتے ہیں۔
+> 환자 상태를 모니터링하고 있어요. | We're monitoring the patient's condition. | مریض کی حالت پر نظر ہے۔
+> 모니터링 결과를 보고했어요. | We reported the monitoring results. | نگرانی کے نتائج رپورٹ کیے۔
++ 매칭하다 |  | maechinghada | verb | to match (people, companies) | ملانا، جوڑنا | Economy & Business | 3 | 매칭 = matching.
+> 기업과 연구자를 매칭해요. | We match companies with researchers. | کمپنیوں کو محققین سے ملاتے ہیں۔
+> 멘토와 학생을 매칭했어요. | We matched mentors with students. | رہنماؤں کو طلبہ سے جوڑا۔
+> 자동 매칭 시스템이 있어요. | There's an automatic matching system. | خود کار جوڑنے کا نظام ہے۔

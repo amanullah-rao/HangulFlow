@@ -1,0 +1,293 @@
+# Documents, slides and design (from the learner's own word list)
++ 제목 | 題目 | jemok | noun | title, heading | عنوان | Media & Technology | 1 |
+> 책 제목이 뭐예요? | What's the title of the book? | کتاب کا عنوان کیا ہے؟
+> 슬라이드 제목을 크게 써 주세요. | Make the slide title bigger. | سلائیڈ کا عنوان بڑا لکھیں۔
+> 제목만 봐도 내용을 알 수 있어요. | You can tell the content from the title alone. | صرف عنوان سے مواد سمجھ آتا ہے۔
++ 문구 | 文句 | mungu | noun | phrase, wording | عبارت، جملہ | Media & Technology | 2 | 문구 (文具) = stationery, a different word.
+> 광고 문구를 바꿨어요. | We changed the ad wording. | اشتہار کی عبارت بدلی۔
+> 이 문구가 더 자연스러워요. | This wording sounds more natural. | یہ عبارت زیادہ فطری ہے۔
+> 마지막 문구를 수정해 주세요. | Please revise the last phrase. | آخری جملہ درست کریں۔
++ 문장 | 文章 | munjang | noun | sentence | جملہ | Education & University | 1 |
+> 이 문장을 번역해 주세요. | Please translate this sentence. | اس جملے کا ترجمہ کریں۔
+> 문장이 너무 길어요. | The sentence is too long. | جملہ بہت لمبا ہے۔
+> 짧은 문장으로 쓰세요. | Write in short sentences. | چھوٹے جملوں میں لکھیں۔
++ 글씨 |  | geulssi | noun | handwriting; letters, text | لکھائی | Education & University | 1 |
+> 글씨가 너무 작아요. | The text is too small. | لکھائی بہت چھوٹی ہے۔
+> 그는 글씨를 잘 써요. | He has good handwriting. | اس کی لکھائی اچھی ہے۔
+> 글씨를 굵게 바꿨어요. | I made the text bold. | لکھائی موٹی کر دی۔
++ 글자 |  | geulja | noun | letter, character | حرف | Education & University | 1 |
+> 한글은 글자가 24개예요. | Hangul has 24 letters. | ہنگل میں چوبیس حروف ہیں۔
+> 글자 크기를 키워 주세요. | Please enlarge the font size. | حروف کا سائز بڑا کریں۔
+> 한 글자가 틀렸어요. | One letter is wrong. | ایک حرف غلط ہے۔
++ 글씨체 | -體 | geulssiche | noun | font, typeface; handwriting style | فونٹ، طرز تحریر | Media & Technology | 2 | Also 글꼴, 폰트.
+> 글씨체를 통일해 주세요. | Please use one font throughout. | ایک ہی فونٹ استعمال کریں۔
+> 이 글씨체가 읽기 편해요. | This font is easy to read. | یہ فونٹ پڑھنے میں آسان ہے۔
+> 그녀의 글씨체가 예뻐요. | Her handwriting is pretty. | اس کی لکھائی خوبصورت ہے۔
++ 텍스트 |  | tekseuteu | noun | text | متن | Media & Technology | 2 |
+> 슬라이드에 텍스트가 너무 많아요. | There's too much text on the slide. | سلائیڈ پر بہت زیادہ متن ہے۔
+> 텍스트를 복사해서 붙였어요. | I copied and pasted the text. | متن کاپی کر کے لگایا۔
+> 이미지와 텍스트를 함께 쓰세요. | Use images and text together. | تصویر اور متن ساتھ استعمال کریں۔
++ 오타 | 誤打 | ota | noun | typo | ٹائپنگ کی غلطی | Media & Technology | 2 |
+> 제목에 오타가 있어요. | There's a typo in the title. | عنوان میں ٹائپنگ کی غلطی ہے۔
+> 제출 전에 오타를 확인하세요. | Check for typos before submitting. | جمع کرانے سے پہلے غلطیاں دیکھیں۔
+> 오타를 고쳤어요. | I fixed the typo. | غلطی درست کر دی۔
++ 맞춤법 | -法 | matchumbeop | noun | spelling (rules) | املا | Education & University | 2 |
+> 맞춤법이 틀렸어요. | The spelling is wrong. | املا غلط ہے۔
+> 맞춤법 검사기를 사용하세요. | Use a spell checker. | املا چیکر استعمال کریں۔
+> 한국어 맞춤법은 어려워요. | Korean spelling is hard. | کورین املا مشکل ہے۔
++ 오류 | 誤謬 | oryu | noun | error | خرابی، غلطی | Media & Technology | 2 |
+> 시스템 오류가 발생했어요. | A system error occurred. | سسٹم میں خرابی ہوئی۔
+> 계산에 오류가 있어요. | There's an error in the calculation. | حساب میں غلطی ہے۔
+> 오류를 수정했습니다. | The error has been fixed. | خرابی درست کر دی گئی۔
++ 교정하다 | 校正- | gyojeonghada | verb | to proofread, correct | پروف پڑھنا، درست کرنا | Academic & Formal | 3 | 교정 = proofreading; 교정 (矯正) = correction of teeth/posture.
+> 원고를 교정했어요. | I proofread the manuscript. | مسودے کی پروف خوانی کی۔
+> 친구가 제 글을 교정해 줬어요. | A friend corrected my writing. | دوست نے میری تحریر درست کی۔
+> 출판 전에 다시 교정해야 해요. | It needs proofreading again before publishing. | اشاعت سے پہلے دوبارہ پروف پڑھنا ہے۔
++ 정렬하다 | 整列- | jeongnyeolhada | verb | to align, sort, line up | ترتیب دینا، سیدھا کرنا | Media & Technology | 2 | 정렬 = alignment, sorting.
+> 텍스트를 가운데로 정렬하세요. | Center-align the text. | متن کو درمیان میں ترتیب دیں۔
+> 이름순으로 정렬했어요. | I sorted them by name. | نام کے لحاظ سے ترتیب دی۔
+> 사진들을 한 줄로 정렬했어요. | I lined up the photos in a row. | تصویریں ایک قطار میں لگائیں۔
++ 배치하다 | 配置- | baechihada | verb | to arrange, place, deploy | ترتیب سے رکھنا | Media & Technology | 2 | 배치 = layout, arrangement.
+> 그림을 오른쪽에 배치했어요. | I placed the picture on the right. | تصویر دائیں طرف رکھی۔
+> 가구 배치를 바꿨어요. | I rearranged the furniture. | فرنیچر کی ترتیب بدلی۔
+> 직원을 각 부서에 배치했어요. | Staff were assigned to each department. | عملے کو ہر شعبے میں تعینات کیا۔
++ 간격 | 間隔 | gangyeok | noun | gap, spacing, interval | فاصلہ، وقفہ | Media & Technology | 2 |
+> 줄 간격을 넓혀 주세요. | Please widen the line spacing. | سطروں کا فاصلہ بڑھائیں۔
+> 버스는 10분 간격으로 와요. | The bus comes every ten minutes. | بس ہر دس منٹ بعد آتی ہے۔
+> 의자 사이의 간격이 좁아요. | The gap between the chairs is narrow. | کرسیوں کے درمیان فاصلہ کم ہے۔
++ 여백 | 餘白 | yeobaek | noun | blank space, margin | خالی جگہ، حاشیہ | Media & Technology | 3 |
+> 여백을 충분히 두세요. | Leave enough white space. | کافی خالی جگہ چھوڑیں۔
+> 페이지 여백이 너무 좁아요. | The page margins are too narrow. | صفحے کا حاشیہ بہت کم ہے۔
+> 여백이 있으면 깔끔해 보여요. | White space makes it look clean. | خالی جگہ سے صاف ستھرا لگتا ہے۔
++ 레이아웃 |  | reiaut | noun | layout | ترتیب، خاکہ | Media & Technology | 2 |
+> 슬라이드 레이아웃을 바꿨어요. | I changed the slide layout. | سلائیڈ کی ترتیب بدلی۔
+> 레이아웃이 깔끔해요. | The layout is clean. | خاکہ صاف ستھرا ہے۔
+> 모바일 레이아웃도 확인하세요. | Check the mobile layout too. | موبائل خاکہ بھی دیکھیں۔
++ 화살표 | -標 | hwasalpyo | noun | arrow (symbol) | تیر کا نشان | Media & Technology | 1 |
+> 화살표 방향으로 가세요. | Go in the direction of the arrow. | تیر کی سمت جائیں۔
+> 화살표로 흐름을 표시했어요. | I showed the flow with arrows. | تیروں سے ترتیب دکھائی۔
+> 오른쪽 화살표를 누르세요. | Press the right arrow. | دایاں تیر دبائیں۔
++ 아이콘 |  | aikon | noun | icon | آئیکن | Media & Technology | 1 |
+> 아이콘을 클릭하세요. | Click the icon. | آئیکن پر کلک کریں۔
+> 아이콘 크기를 맞춰 주세요. | Please match the icon sizes. | آئیکنز کا سائز برابر کریں۔
+> 앱 아이콘을 바꿨어요. | We changed the app icon. | ایپ کا آئیکن بدلا۔
++ 도형 | 圖形 | dohyeong | noun | shape, figure | شکل | Media & Technology | 2 |
+> 동그라미, 세모 같은 도형을 넣었어요. | I added shapes like circles and triangles. | دائرے، مثلث جیسی اشکال ڈالیں۔
+> 도형 안에 글을 쓰세요. | Write the text inside the shape. | شکل کے اندر متن لکھیں۔
+> 수학 시간에 도형을 배웠어요. | We learned about shapes in math class. | ریاضی میں اشکال پڑھیں۔
++ 이미지 |  | imiji | noun | image; reputation | تصویر؛ ساکھ | Media & Technology | 1 |
+> 이미지를 넣으면 이해가 쉬워요. | Adding images makes it easier to understand. | تصویر سے سمجھنا آسان ہوتا ہے۔
+> 이미지 파일이 너무 커요. | The image file is too big. | تصویر کی فائل بہت بڑی ہے۔
+> 회사 이미지가 좋아졌어요. | The company's image has improved. | کمپنی کی ساکھ بہتر ہوئی۔
++ 스크린샷 |  | seukeurinsyat | noun | screenshot | اسکرین شاٹ | Media & Technology | 1 |
+> 오류 화면을 스크린샷으로 보내 주세요. | Send a screenshot of the error. | خرابی کا اسکرین شاٹ بھیجیں۔
+> 스크린샷을 찍었어요. | I took a screenshot. | اسکرین شاٹ لیا۔
+> 슬라이드에 앱 스크린샷을 넣었어요. | I put app screenshots on the slide. | سلائیڈ پر ایپ کے اسکرین شاٹ لگائے۔
++ 슬라이드 |  | seullaideu | noun | slide (presentation) | سلائیڈ | Media & Technology | 1 |
+> 다음 슬라이드로 넘어가겠습니다. | Let's move to the next slide. | اگلی سلائیڈ پر چلتے ہیں۔
+> 슬라이드가 20장이에요. | There are twenty slides. | بیس سلائیڈز ہیں۔
+> 슬라이드 디자인을 통일했어요. | We unified the slide design. | سلائیڈز کا ڈیزائن یکساں کیا۔
++ 페이지 |  | peiji | noun | page | صفحہ | Media & Technology | 1 | Native: 쪽.
+> 10페이지를 펴세요. | Open to page 10. | صفحہ دس کھولیں۔
+> 페이지 번호를 넣어 주세요. | Please add page numbers. | صفحہ نمبر ڈالیں۔
+> 이 페이지는 비어 있어요. | This page is blank. | یہ صفحہ خالی ہے۔
++ 쪽 |  | jjok | noun | page; side, direction | صفحہ؛ طرف | Education & University | 1 | 오른쪽 = right side. 쪽수 = number of pages.
+> 교과서 25쪽을 보세요. | Look at page 25 of the textbook. | نصابی کتاب کا صفحہ پچیس دیکھیں۔
+> 보고서는 10쪽 이내로 쓰세요. | Keep the report within ten pages. | رپورٹ دس صفحات کے اندر لکھیں۔
+> 이쪽으로 오세요. | Come this way. | اس طرف آئیں۔
++ 쪽수 | -數 | jjoksu | noun | number of pages; page number | صفحات کی تعداد | Education & University | 2 |
+> 쪽수를 표시해 주세요. | Please mark the page numbers. | صفحہ نمبر لکھیں۔
+> 쪽수 제한이 있어요. | There's a page limit. | صفحات کی حد ہے۔
+> 책의 쪽수가 300쪽이에요. | The book is 300 pages long. | کتاب تین سو صفحات کی ہے۔
++ 슬래시 |  | seullaesi | noun | slash (/) | سلیش | Media & Technology | 2 |
+> 날짜를 슬래시로 구분하세요. | Separate the date with slashes. | تاریخ سلیش سے الگ کریں۔
+> 주소에 슬래시가 빠졌어요. | A slash is missing from the address. | پتے میں سلیش رہ گیا۔
+> 11 슬래시 17이라고 쓰세요. | Write it as 11 slash 17. | گیارہ سلیش سترہ لکھیں۔
++ 대시 |  | daesi | noun | dash (—) | ڈیش | Media & Technology | 2 |
+> 대시로 설명을 덧붙였어요. | I added an explanation with a dash. | ڈیش لگا کر وضاحت کی۔
+> 전화번호에 대시를 넣으세요. | Put dashes in the phone number. | فون نمبر میں ڈیش لگائیں۔
+> 대시 대신 쉼표를 쓰세요. | Use a comma instead of a dash. | ڈیش کی جگہ کاما لگائیں۔
++ 색상 | 色相 | saeksang | noun | color, hue | رنگ | Media & Technology | 2 | Casual: 색, 색깔, 컬러.
+> 색상을 하나로 통일하세요. | Use one color throughout. | ایک ہی رنگ استعمال کریں۔
+> 다른 색상도 있어요? | Do you have it in other colors? | کیا دوسرے رنگ بھی ہیں؟
+> 밝은 색상이 눈에 띄어요. | Bright colors stand out. | چمکدار رنگ نمایاں ہوتے ہیں۔
++ 검은색 | -色 | geomeunsaek | noun | black (color) | کالا رنگ | Media & Technology | 1 | Also 검정색, 검정.
+> 검은색 정장을 입었어요. | I wore a black suit. | کالا سوٹ پہنا۔
+> 글씨는 검은색으로 해 주세요. | Please make the text black. | لکھائی کالی کریں۔
+> 검은색 배경에 흰 글씨를 썼어요. | I used white text on a black background. | کالے پس منظر پر سفید لکھائی کی۔
++ 배경색 | 背景色 | baegyeongsaek | noun | background color | پس منظر کا رنگ | Media & Technology | 2 |
+> 배경색을 흰색으로 바꿨어요. | I changed the background to white. | پس منظر سفید کر دیا۔
+> 배경색이 너무 어두워요. | The background color is too dark. | پس منظر بہت گہرا ہے۔
+> 배경색과 글씨 색이 비슷해요. | The background and text colors are too similar. | پس منظر اور لکھائی کا رنگ ملتا جلتا ہے۔
++ 명암 | 明暗 | myeongam | noun | light and shade, contrast | روشنی اور سایہ | Media & Technology | 3 |
+> 명암을 조절하세요. | Adjust the contrast. | کنٹراسٹ ٹھیک کریں۔
+> 그림에 명암을 넣었어요. | I added shading to the drawing. | تصویر میں روشنی اور سایہ ڈالا۔
+> 명암 대비가 커서 잘 보여요. | The strong contrast makes it easy to see. | واضح کنٹراسٹ سے اچھی طرح نظر آتا ہے۔
++ 조합 | 組合 | johap | noun | combination; union, association | امتزاج؛ انجمن | Academic & Formal | 2 |
+> 색 조합이 예뻐요. | The color combination is pretty. | رنگوں کا امتزاج خوبصورت ہے۔
+> 이 두 기술의 조합이 핵심이에요. | Combining these two technologies is the key. | ان دو ٹیکنالوجیز کا امتزاج اہم ہے۔
+> 노동조합에 가입했어요. | I joined the labor union. | مزدور یونین میں شامل ہوا۔
++ 포인트 |  | pointeu | noun | point; key point; accent | نکتہ؛ پوائنٹس | Media & Technology | 1 |
+> 포인트 색으로 빨간색을 썼어요. | We used red as an accent color. | نمایاں رنگ کے طور پر سرخ استعمال کیا۔
+> 이게 이번 발표의 포인트예요. | This is the key point of the presentation. | یہ اس پریزنٹیشن کا اہم نکتہ ہے۔
+> 포인트를 모아서 커피를 샀어요. | I saved points and bought coffee. | پوائنٹس جمع کر کے کافی خریدی۔
++ 상단 | 上端 | sangdan | noun | top (part) | اوپر کا حصہ | Places & Directions | 2 |
+> 화면 상단에 메뉴가 있어요. | The menu is at the top of the screen. | اسکرین کے اوپر مینو ہے۔
+> 로고를 상단에 넣었어요. | I put the logo at the top. | لوگو اوپر لگایا۔
+> 페이지 상단을 보세요. | Look at the top of the page. | صفحے کا اوپر والا حصہ دیکھیں۔
++ 하단 | 下端 | hadan | noun | bottom (part) | نیچے کا حصہ | Places & Directions | 2 |
+> 페이지 하단에 번호가 있어요. | The number is at the bottom of the page. | صفحے کے نیچے نمبر ہے۔
+> 화면 하단의 버튼을 누르세요. | Press the button at the bottom of the screen. | اسکرین کے نیچے والا بٹن دبائیں۔
+> 연락처는 하단에 적었어요. | I wrote the contact details at the bottom. | رابطہ معلومات نیچے لکھیں۔
++ 좌측 | 左側 | jwacheuk | noun | left side (formal) | بائیں طرف | Places & Directions | 2 | Everyday: 왼쪽.
+> 좌측 상단을 보세요. | Look at the upper left. | اوپر بائیں طرف دیکھیں۔
+> 엘리베이터는 좌측에 있어요. | The elevator is on the left. | لفٹ بائیں طرف ہے۔
+> 좌측 통행을 해 주세요. | Please keep to the left. | بائیں طرف چلیں۔
++ 우측 | 右側 | ucheuk | noun | right side (formal) | دائیں طرف | Places & Directions | 2 | Everyday: 오른쪽.
+> 우측에 그래프를 넣었어요. | I put the graph on the right. | دائیں طرف گراف لگایا۔
+> 출구는 우측에 있습니다. | The exit is on the right. | باہر نکلنے کا راستہ دائیں طرف ہے۔
+> 우측 하단의 버튼을 누르세요. | Press the button at the bottom right. | نیچے دائیں والا بٹن دبائیں۔
++ 중앙 | 中央 | jungang | noun | center, middle; central | مرکز | Places & Directions | 2 | 중앙 정부 = central government.
+> 제목을 중앙에 두세요. | Put the title in the center. | عنوان درمیان میں رکھیں۔
+> 광장 중앙에 분수가 있어요. | There's a fountain in the center of the square. | چوک کے بیچ فوارہ ہے۔
+> 중앙 정부와 지방 정부가 협력해요. | The central and local governments cooperate. | مرکزی اور مقامی حکومت تعاون کرتی ہیں۔
++ 모서리 |  | moseori | noun | corner, edge | کونا | Places & Directions | 2 |
+> 책상 모서리에 부딪혔어요. | I bumped into the corner of the desk. | میز کے کونے سے ٹکرایا۔
+> 사진 모서리를 둥글게 만드세요. | Round the corners of the photo. | تصویر کے کونے گول کریں۔
+> 페이지 모서리를 접었어요. | I folded the corner of the page. | صفحے کا کونا موڑا۔
++ 위쪽 |  | wijjok | noun | upper side, above | اوپر کی طرف | Places & Directions | 1 |
+> 위쪽으로 올라가세요. | Go up. | اوپر کی طرف جائیں۔
+> 그림을 조금 위쪽으로 옮겨 주세요. | Move the picture up a little. | تصویر تھوڑی اوپر کریں۔
+> 위쪽 서랍에 있어요. | It's in the upper drawer. | اوپر والی دراز میں ہے۔
++ 아래쪽 |  | araejjok | noun | lower side, below | نیچے کی طرف | Places & Directions | 1 |
+> 아래쪽에 설명을 넣었어요. | I put the explanation underneath. | وضاحت نیچے ڈالی۔
+> 아래쪽으로 내려가면 입구가 있어요. | Go down and you'll find the entrance. | نیچے جائیں تو داخلہ ہے۔
+> 화면 아래쪽을 보세요. | Look at the bottom of the screen. | اسکرین کے نچلے حصے کو دیکھیں۔
++ 밑 |  | mit | noun | bottom, below, under | نیچے | Places & Directions | 1 |
+> 책상 밑에 고양이가 있어요. | There's a cat under the desk. | میز کے نیچے بلی ہے۔
+> 이름은 사진 밑에 쓰세요. | Write the name below the photo. | نام تصویر کے نیچے لکھیں۔
+> 다리 밑으로 강이 흘러요. | A river flows under the bridge. | پل کے نیچے دریا بہتا ہے۔
++ 앞부분 | -部分 | apbubun | noun | front part, beginning | ابتدائی حصہ | Academic & Formal | 2 |
+> 영화 앞부분이 지루했어요. | The beginning of the movie was boring. | فلم کا ابتدائی حصہ بورنگ تھا۔
+> 발표 앞부분에서 문제를 소개했어요. | I introduced the problem at the start of the presentation. | پریزنٹیشن کے شروع میں مسئلہ بتایا۔
+> 앞부분만 읽었어요. | I only read the first part. | صرف ابتدائی حصہ پڑھا۔
++ 뒷부분 | -部分 | dwitbubun | noun | latter part, end | آخری حصہ | Academic & Formal | 2 |
+> 책의 뒷부분이 더 재미있어요. | The latter part of the book is more fun. | کتاب کا آخری حصہ زیادہ دلچسپ ہے۔
+> 뒷부분은 제가 설명할게요. | I'll explain the second half. | آخری حصہ میں سمجھاؤں گا۔
+> 영상 뒷부분을 잘라 냈어요. | I cut out the end of the video. | ویڈیو کا آخری حصہ کاٹ دیا۔
++ 수평 | 水平 | supyeong | noun | horizontal, level | افقی | Science & Technology | 3 |
+> 선을 수평으로 그으세요. | Draw the line horizontally. | لکیر افقی کھینچیں۔
+> 사진이 수평이 안 맞아요. | The photo isn't level. | تصویر سیدھی نہیں۔
+> 두 그룹은 수평적인 관계예요. | The two groups have an equal relationship. | دونوں گروہوں کا تعلق برابری کا ہے۔
++ 수직 | 垂直 | sujik | noun | vertical | عمودی | Science & Technology | 3 |
+> 수직으로 세워 주세요. | Stand it up vertically. | عمودی کھڑا کریں۔
+> 수직 막대그래프를 사용했어요. | We used a vertical bar chart. | عمودی بار گراف استعمال کیا۔
+> 회사의 수직적인 문화가 바뀌었어요. | The company's hierarchical culture changed. | کمپنی کی درجہ بندی والی ثقافت بدلی۔
++ 조정하다 | 調整- | jojeonghada | verb | to adjust | ایڈجسٹ کرنا | Common Verbs & Adjectives | 2 | 조정 = adjustment.
+> 의자 높이를 조정했어요. | I adjusted the chair height. | کرسی کی اونچائی ٹھیک کی۔
+> 일정을 조정할 수 있을까요? | Could we adjust the schedule? | کیا شیڈول بدل سکتے ہیں؟
+> 글자 위치를 조정해 주세요. | Please adjust the position of the text. | متن کی جگہ ٹھیک کریں۔
++ 추가하다 | 追加- | chugahada | verb | to add | شامل کرنا | Common Verbs & Adjectives | 2 | 추가 = addition, extra.
+> 슬라이드를 한 장 추가했어요. | I added one slide. | ایک سلائیڈ شامل کی۔
+> 메뉴에 음료를 추가해 주세요. | Please add a drink to the order. | آرڈر میں مشروب شامل کریں۔
+> 추가 비용이 있어요? | Is there an extra charge? | کیا اضافی خرچ ہے؟
++ 삭제하다 | 削除- | sakjehada | verb | to delete | حذف کرنا | Media & Technology | 2 | 삭제 = deletion.
+> 이 문장을 삭제하세요. | Delete this sentence. | یہ جملہ حذف کریں۔
+> 실수로 파일을 삭제했어요. | I deleted the file by mistake. | غلطی سے فائل حذف کر دی۔
+> 불필요한 내용은 삭제했어요. | I deleted the unnecessary content. | غیر ضروری مواد حذف کیا۔
++ 애니메이션 |  | aenimeisyeon | noun | animation | اینیمیشن | Media & Technology | 1 |
+> 애니메이션 효과를 넣었어요. | I added animation effects. | اینیمیشن اثرات ڈالے۔
+> 일본 애니메이션을 좋아해요. | I like Japanese animation. | جاپانی اینیمیشن پسند ہے۔
+> 애니메이션 영상으로 서비스를 설명했어요. | We explained the service with an animated video. | اینیمیشن ویڈیو سے سروس سمجھائی۔
++ 자막 | 字幕 | jamak | noun | subtitles, captions | سب ٹائٹل | Media & Technology | 2 |
+> 한국어 자막으로 영화를 봐요. | I watch movies with Korean subtitles. | کورین سب ٹائٹل کے ساتھ فلم دیکھتا ہوں۔
+> 영상에 자막을 넣었어요. | I added captions to the video. | ویڈیو میں سب ٹائٹل ڈالے۔
+> 자막 없이 이해할 수 있어요. | I can understand without subtitles. | بغیر سب ٹائٹل کے سمجھ آتا ہے۔
++ 음성 | 音聲 | eumseong | noun | voice, audio | آواز | Media & Technology | 2 | 음성 (陰性) = negative (test result).
+> 음성 메시지를 남겼어요. | I left a voice message. | صوتی پیغام چھوڑا۔
+> 영상에 음성이 안 나와요. | There's no audio in the video. | ویڈیو میں آواز نہیں آ رہی۔
+> 음성 인식 기능이 있어요. | It has voice recognition. | آواز پہچاننے کی سہولت ہے۔
++ 컷 |  | keot | noun | cut; shot, frame (film) | کٹ؛ منظر | Media & Technology | 2 |
+> 이 컷은 다시 찍읍시다. | Let's reshoot this shot. | یہ منظر دوبارہ فلماتے ہیں۔
+> 영상을 컷으로 나눠 편집했어요. | I edited the video into cuts. | ویڈیو کو حصوں میں ایڈٹ کیا۔
+> 네 컷 만화를 그렸어요. | I drew a four-panel comic. | چار خانوں کا کارٹون بنایا۔
++ 재생하다 | 再生- | jaesaenghada | verb | to play (media); to regenerate, recycle | چلانا (ویڈیو)؛ دوبارہ استعمال | Media & Technology | 2 | 재생 = playback; recycling.
+> 영상을 재생해 주세요. | Please play the video. | ویڈیو چلائیں۔
+> 동영상이 재생되지 않아요. | The video won't play. | ویڈیو نہیں چل رہی۔
+> 종이를 재생해서 사용해요. | We recycle and reuse paper. | کاغذ کو دوبارہ استعمال کرتے ہیں۔
++ 시청하다 | 視聽- | sicheonghada | verb | to watch (TV, video) | دیکھنا (ٹی وی) | Media & Technology | 2 | 시청 (市廳) = city hall, a different word.
+> 영상을 끝까지 시청해 주세요. | Please watch the video to the end. | ویڈیو آخر تک دیکھیں۔
+> 많은 사람이 뉴스를 시청했어요. | Many people watched the news. | بہت لوگوں نے خبریں دیکھیں۔
+> 시청해 주셔서 감사합니다. | Thank you for watching. | دیکھنے کا شکریہ۔
++ 기획서 | 企劃書 | gihoekseo | noun | project proposal, plan document | منصوبے کی دستاویز | Work & Employment | 2 |
+> 기획서를 작성했어요. | I wrote a project proposal. | منصوبے کی دستاویز لکھی۔
+> 기획서 마감이 내일이에요. | The proposal is due tomorrow. | منصوبہ کل جمع کرانا ہے۔
+> 팀장님이 기획서를 검토하셨어요. | The team leader reviewed the plan. | ٹیم لیڈر نے دستاویز دیکھی۔
++ 제안서 | 提案書 | jeanseo | noun | proposal (document) | تجویز نامہ | Work & Employment | 2 |
+> 제안서를 고객에게 보냈어요. | We sent the proposal to the client. | تجویز نامہ گاہک کو بھیجا۔
+> 사업 제안서를 준비하고 있어요. | We're preparing a business proposal. | کاروباری تجویز تیار کر رہے ہیں۔
+> 제안서가 채택됐어요. | The proposal was accepted. | تجویز منظور ہو گئی۔
++ 계획서 | 計劃書 | gyehoekseo | noun | plan (written) | منصوبہ نامہ | Work & Employment | 2 |
+> 연구 계획서를 제출했어요. | I submitted my research plan. | تحقیقی منصوبہ جمع کرایا۔
+> 사업 계획서가 필요해요. | A business plan is needed. | کاروباری منصوبہ نامہ درکار ہے۔
+> 계획서대로 진행하고 있어요. | We're proceeding according to plan. | منصوبے کے مطابق چل رہے ہیں۔
++ 파워포인트 |  | pawopointeu | noun | PowerPoint | پاورپوائنٹ | Media & Technology | 1 | Casual: 피피티 (PPT).
+> 파워포인트로 발표 자료를 만들었어요. | I made the slides in PowerPoint. | پاورپوائنٹ میں سلائیڈز بنائیں۔
+> 피피티 파일을 보내 주세요. | Please send the PPT file. | پی پی ٹی فائل بھیجیں۔
+> 파워포인트 템플릿을 골랐어요. | I chose a PowerPoint template. | پاورپوائنٹ ٹیمپلیٹ چنا۔
++ 문서 | 文書 | munseo | noun | document | دستاویز | Work & Employment | 2 |
+> 문서를 저장했어요. | I saved the document. | دستاویز محفوظ کی۔
+> 공식 문서로 제출하세요. | Submit it as an official document. | سرکاری دستاویز کی صورت جمع کرائیں۔
+> 문서를 PDF로 바꿨어요. | I converted the document to PDF. | دستاویز کو پی ڈی ایف میں بدلا۔
++ 파일 |  | pail | noun | file | فائل | Media & Technology | 1 |
+> 파일을 첨부했어요. | I attached the file. | فائل منسلک کی۔
+> 파일이 열리지 않아요. | The file won't open. | فائل نہیں کھل رہی۔
+> 파일 이름을 바꿔 주세요. | Please rename the file. | فائل کا نام بدلیں۔
++ 브로슈어 |  | beurosyueo | noun | brochure | بروشر | Media & Technology | 2 |
+> 행사 브로슈어를 받았어요. | I got the event brochure. | تقریب کا بروشر ملا۔
+> 브로슈어에 서비스를 소개했어요. | We introduced the service in a brochure. | بروشر میں سروس متعارف کرائی۔
+> 브로슈어를 영어로도 만들었어요. | We made the brochure in English too. | بروشر انگریزی میں بھی بنایا۔
++ 포스터 |  | poseuteo | noun | poster | پوسٹر | Media & Technology | 1 |
+> 벽에 포스터를 붙였어요. | I put a poster on the wall. | دیوار پر پوسٹر لگایا۔
+> 영화 포스터가 멋있어요. | The movie poster is cool. | فلم کا پوسٹر شاندار ہے۔
+> 홍보 포스터를 디자인했어요. | I designed a promotional poster. | تشہیری پوسٹر ڈیزائن کیا۔
++ 현수막 | 懸垂幕 | hyeonsumak | noun | banner (hung) | بینر | Media & Technology | 2 |
+> 입구에 현수막을 걸었어요. | We hung a banner at the entrance. | داخلے پر بینر لگایا۔
+> 현수막에 행사 이름이 있어요. | The event name is on the banner. | بینر پر تقریب کا نام ہے۔
+> 축하 현수막을 만들었어요. | We made a congratulations banner. | مبارکباد کا بینر بنایا۔
++ 사례집 | 事例集 | saryejip | noun | collection of case studies | مثالوں کا مجموعہ | Academic & Formal | 3 | 사례 = case, example.
+> 우수 사례집을 발간했어요. | We published a collection of best practices. | بہترین مثالوں کا مجموعہ شائع کیا۔
+> 사례집에 우리 팀이 실렸어요. | Our team was featured in the casebook. | مجموعے میں ہماری ٹیم شامل ہوئی۔
+> 사례집을 참고해서 계획을 세웠어요. | We planned with reference to the case studies. | مثالوں کے مجموعے سے مدد لے کر منصوبہ بنایا۔
++ 시안 | 試案 | sian | noun | draft design, mock-up proposal | ابتدائی ڈیزائن | Media & Technology | 3 |
+> 디자인 시안을 세 개 만들었어요. | I made three draft designs. | تین ابتدائی ڈیزائن بنائے۔
+> 시안 중에서 하나를 골라 주세요. | Please pick one of the drafts. | ابتدائی ڈیزائنوں میں سے ایک چنیں۔
+> 첫 번째 시안이 마음에 들어요. | I like the first draft. | پہلا ڈیزائن پسند آیا۔
++ 디자인 |  | dijain | noun | design | ڈیزائن | Media & Technology | 1 |
+> 디자인이 깔끔해요. | The design is clean. | ڈیزائن صاف ستھرا ہے۔
+> 앱 디자인을 바꿨어요. | We changed the app design. | ایپ کا ڈیزائن بدلا۔
+> 시각 디자인을 전공했어요. | I majored in visual design. | بصری ڈیزائن میں تعلیم حاصل کی۔
++ 시각화하다 | 視覺化- | sigakhwahada | verb | to visualize | بصری شکل دینا | Science & Technology | 3 | 시각화 = visualization.
+> 데이터를 그래프로 시각화했어요. | I visualized the data as a graph. | ڈیٹا کو گراف کی شکل دی۔
+> 정보를 시각화하면 이해가 쉬워요. | Visualizing information makes it easier to understand. | معلومات بصری ہوں تو سمجھنا آسان ہے۔
+> 시각화 도구를 사용했어요. | We used a visualization tool. | بصری ٹول استعمال کیا۔
++ 시각 | 視覺 | sigak | noun | sight, visual sense; viewpoint | بصارت؛ نقطہ نظر | Science & Technology | 3 | 시각 자료 = visual aids. 시각 (時刻) = time of day.
+> 시각 자료를 활용하세요. | Make use of visual aids. | بصری مواد استعمال کریں۔
+> 새로운 시각으로 문제를 봤어요. | We looked at the problem from a new angle. | نئے نقطہ نظر سے مسئلہ دیکھا۔
+> 시각 장애인을 위한 서비스예요. | It's a service for the visually impaired. | نابینا افراد کے لیے سروس ہے۔
++ 구성하다 | 構成- | guseonghada | verb | to compose, organize, make up | ترتیب دینا، تشکیل دینا | Academic & Formal | 2 | 구성 = composition, structure.
+> 발표를 세 부분으로 구성했어요. | I organized the presentation into three parts. | پریزنٹیشن تین حصوں میں ترتیب دی۔
+> 팀은 다섯 명으로 구성돼요. | The team consists of five people. | ٹیم پانچ افراد پر مشتمل ہے۔
+> 화면 구성이 깔끔해요. | The screen layout is clean. | اسکرین کی ترتیب صاف ہے۔
++ 전개하다 | 展開- | jeongaehada | verb | to develop, unfold (a story, argument) | آگے بڑھانا | Academic & Formal | 3 | 전개 = development.
+> 이야기를 흥미롭게 전개했어요. | The story unfolded in an interesting way. | کہانی دلچسپ انداز میں آگے بڑھی۔
+> 논리적으로 주장을 전개하세요. | Develop your argument logically. | دلیل کو منطقی انداز میں آگے بڑھائیں۔
+> 사건이 빠르게 전개됐어요. | Events unfolded quickly. | واقعات تیزی سے رونما ہوئے۔
++ 친화적 | 親和的 | chinhwajeok | noun | friendly (to something) | دوستانہ، موافق | Academic & Formal | 3 | 사용자 친화적 = user-friendly; 환경 친화적 = eco-friendly.
+> 사용자 친화적인 디자인이에요. | It's a user-friendly design. | یہ صارف دوست ڈیزائن ہے۔
+> 환경 친화적인 제품을 사요. | I buy eco-friendly products. | ماحول دوست مصنوعات خریدتا ہوں۔
+> 노인 친화적인 도시를 만들어요. | We're building an elderly-friendly city. | بزرگ دوست شہر بنا رہے ہیں۔
++ -형 | 型 | -hyeong | grammar | -type, -style (suffix) | قسم، طرز | Grammar Patterns | 3 | 카드형 = card-style; 참여형 = participatory; 연동형 = linked; 반응형 = responsive.
+> 정보를 카드형으로 보여 줘요. | It shows information in card style. | معلومات کارڈ کی طرز میں دکھاتا ہے۔
+> 시민 참여형 프로그램이에요. | It's a citizen-participation program. | یہ شہریوں کی شرکت والا پروگرام ہے۔
+> 반응형 웹사이트를 만들었어요. | We built a responsive website. | ریسپانسو ویب سائٹ بنائی۔

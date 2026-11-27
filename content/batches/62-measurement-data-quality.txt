@@ -1,0 +1,281 @@
+# Measurement, verification and data quality (from the learner's own word list)
++ 측정값 | 測定- | cheukjeonggap | noun | measured value | پیمائش کی قدر | Science & Technology | 3 | 측정하다 = to measure.
+> 측정값을 기록하세요. | Record the measured values. | پیمائش کی قدریں درج کریں۔
+> 측정값이 기준을 넘었어요. | The measured value exceeded the standard. | پیمائش کی قدر معیار سے بڑھ گئی۔
+> 두 측정값이 달라요. | The two measurements differ. | دونوں پیمائشیں مختلف ہیں۔
++ 실측 | 實測 | silcheuk | noun | actual measurement | اصل پیمائش | Science & Technology | 3 |
+> 계산 대신 실측했어요. | We measured it directly instead of calculating. | حساب کے بجائے اصل پیمائش کی۔
+> 실측 데이터가 더 정확해요. | Measured data is more accurate. | اصل پیمائش کا ڈیٹا زیادہ درست ہے۔
+> 방 크기를 실측했어요. | I measured the room's actual size. | کمرے کا اصل سائز ناپا۔
++ 계측하다 | 計測- | gyecheukada | verb | to measure (with instruments) | آلات سے ناپنا | Science & Technology | 3 | 계측 = measurement.
+> 센서로 온도를 계측해요. | We measure temperature with sensors. | سینسر سے درجہ حرارت ناپتے ہیں۔
+> 전력 사용량을 계측했어요. | We metered power consumption. | بجلی کا استعمال ناپا۔
+> 계측 결과를 분석했어요. | We analyzed the measurement results. | پیمائش کے نتائج کا تجزیہ کیا۔
++ 계측기 | 計測器 | gyecheukgi | noun | measuring instrument | پیمائشی آلہ | Science & Technology | 3 |
+> 계측기를 설치했어요. | We installed measuring instruments. | پیمائشی آلات لگائے۔
+> 계측기가 고장 났어요. | The meter broke down. | پیمائشی آلہ خراب ہو گیا۔
+> 계측기를 정기적으로 점검해요. | We inspect the instruments regularly. | آلات کی باقاعدہ جانچ کرتے ہیں۔
++ 검침하다 | 檢針- | geomchimhada | verb | to read a meter | میٹر پڑھنا | Daily Life in Korea | 3 | 검침 = meter reading.
+> 매달 전기를 검침해요. | The electricity meter is read monthly. | ہر مہینے بجلی کا میٹر پڑھا جاتا ہے۔
+> 검침원이 왔어요. | The meter reader came. | میٹر پڑھنے والا آیا۔
+> 원격으로 검침할 수 있어요. | Meters can be read remotely. | دور سے میٹر پڑھا جا سکتا ہے۔
++ 계량기 | 計量器 | gyeryanggi | noun | meter (gas, water, electricity) | میٹر | Daily Life in Korea | 2 |
+> 수도 계량기가 얼었어요. | The water meter froze. | پانی کا میٹر جم گیا۔
+> 계량기 숫자를 확인했어요. | I checked the meter reading. | میٹر کی ریڈنگ دیکھی۔
+> 전기 계량기를 교체했어요. | We replaced the electricity meter. | بجلی کا میٹر بدلا۔
++ 유량계 | 流量計 | yuryanggye | noun | flow meter | بہاؤ میٹر | Science & Technology | 3 | 유량 = flow rate.
+> 유량계로 가스 양을 측정해요. | We measure the gas volume with a flow meter. | بہاؤ میٹر سے گیس کی مقدار ناپتے ہیں۔
+> 유량계를 배관에 달았어요. | We fitted a flow meter to the pipe. | پائپ پر بہاؤ میٹر لگایا۔
+> 유량계 값이 이상해요. | The flow meter reading looks wrong. | بہاؤ میٹر کی ریڈنگ عجیب ہے۔
++ 분석기 | 分析器 | bunseokgi | noun | analyzer | تجزیہ کار آلہ | Science & Technology | 3 |
+> 가스 분석기로 농도를 측정해요. | We measure concentration with a gas analyzer. | گیس تجزیہ کار سے ارتکاز ناپتے ہیں۔
+> 분석기가 비싸요. | The analyzer is expensive. | تجزیہ کار آلہ مہنگا ہے۔
+> 이동식 분석기를 빌렸어요. | We borrowed a portable analyzer. | قابل منتقلی تجزیہ کار ادھار لیا۔
++ 농도 | 濃度 | nongdo | noun | concentration, density | ارتکاز | Science & Technology | 3 |
+> 미세먼지 농도가 높아요. | Fine-dust concentration is high. | باریک گرد کا ارتکاز زیادہ ہے۔
+> 이산화탄소 농도를 측정했어요. | We measured the CO2 concentration. | کاربن ڈائی آکسائیڈ کا ارتکاز ناپا۔
+> 소금물 농도를 맞췄어요. | I adjusted the salt water concentration. | نمکین پانی کا ارتکاز ٹھیک کیا۔
++ 유량 | 流量 | yuryang | noun | flow rate, volume of flow | بہاؤ کی مقدار | Science & Technology | 3 |
+> 배출가스 유량을 측정해요. | We measure the exhaust gas flow. | خارج گیس کا بہاؤ ناپتے ہیں۔
+> 강의 유량이 늘었어요. | The river's flow increased. | دریا کا بہاؤ بڑھا۔
+> 유량과 농도로 배출량을 계산해요. | Emissions are calculated from flow and concentration. | بہاؤ اور ارتکاز سے اخراج کا حساب لگاتے ہیں۔
++ 시료 | 試料 | siryo | noun | sample (for testing) | نمونہ | Science & Technology | 3 |
+> 시료를 실험실로 보냈어요. | We sent the sample to the lab. | نمونہ لیبارٹری بھیجا۔
+> 물 시료를 채취했어요. | We collected a water sample. | پانی کا نمونہ لیا۔
+> 시료를 분석하는 데 일주일 걸려요. | Analyzing the sample takes a week. | نمونے کے تجزیے میں ایک ہفتہ لگتا ہے۔
++ 채취 | 採取 | chaechwi | noun | collection, sampling, extraction | حاصل کرنا، نمونہ لینا | Science & Technology | 3 | 채취하다 = to collect.
+> 시료 채취 방법을 배웠어요. | I learned how to collect samples. | نمونہ لینے کا طریقہ سیکھا۔
+> 혈액을 채취했어요. | Blood was drawn. | خون کا نمونہ لیا گیا۔
+> 산에서 나물을 채취해요. | People gather wild greens in the mountains. | پہاڑوں سے جنگلی سبزیاں چنتے ہیں۔
++ 샘플링 |  | saempeulling | noun | sampling | نمونہ گیری | Science & Technology | 3 | 샘플 = sample.
+> 무작위 샘플링을 했어요. | We did random sampling. | اتفاقی نمونہ گیری کی۔
+> 샘플링 주기를 정했어요. | We set the sampling interval. | نمونہ گیری کا وقفہ طے کیا۔
+> 샘플링 오차를 줄여야 해요. | We need to reduce sampling error. | نمونہ گیری کی غلطی کم کرنی ہے۔
++ 시험실 | 試驗室 | siheomsil | noun | testing laboratory | تجربہ گاہ | Science & Technology | 3 | Also 실험실.
+> 공인 시험실에 분석을 맡겼어요. | We sent it to an accredited lab for analysis. | تجزیے کے لیے منظور شدہ تجربہ گاہ بھیجا۔
+> 시험실 결과가 나왔어요. | The lab results are out. | تجربہ گاہ کے نتائج آ گئے۔
+> 시험실 장비가 최신이에요. | The lab equipment is state of the art. | تجربہ گاہ کے آلات جدید ہیں۔
++ 정밀도 | 精密度 | jeongmildo | noun | precision | باریکی، درستگی | Science & Technology | 3 | 정밀하다 = to be precise.
+> 측정 정밀도가 높아요. | The measurement precision is high. | پیمائش کی درستگی زیادہ ہے۔
+> 정밀도를 높이려고 장비를 바꿨어요. | We changed equipment to raise precision. | درستگی بڑھانے کے لیے آلات بدلے۔
+> 센서의 정밀도를 확인하세요. | Check the sensor's precision. | سینسر کی درستگی دیکھیں۔
++ 보정하다 | 補正- | bojeonghada | verb | to correct, calibrate | درست کرنا | Science & Technology | 3 | 보정 = correction, calibration.
+> 측정값을 온도에 맞게 보정했어요. | We corrected the readings for temperature. | پیمائش کو درجہ حرارت کے مطابق درست کیا۔
+> 사진 색을 보정했어요. | I color-corrected the photo. | تصویر کا رنگ درست کیا۔
+> 센서를 주기적으로 보정해요. | We calibrate the sensors periodically. | سینسرز کو وقتاً فوقتاً درست کرتے ہیں۔
++ 검교정 | 檢校正 | geomgyojeong | noun | calibration and verification (of instruments) | آلات کی جانچ اور درستی | Science & Technology | 3 |
+> 계측기는 매년 검교정을 받아요. | Instruments are calibrated every year. | آلات ہر سال جانچے اور درست کیے جاتے ہیں۔
+> 검교정 성적서를 제출하세요. | Submit the calibration certificate. | جانچ کا سرٹیفکیٹ جمع کرائیں۔
+> 검교정 비용이 들어요. | Calibration costs money. | جانچ پر خرچ آتا ہے۔
++ 오차 | 誤差 | ocha | noun | error, margin of error | فرق، خطا | Science & Technology | 3 |
+> 오차 범위는 2%예요. | The margin of error is 2%. | خطا کی حد دو فیصد ہے۔
+> 측정 오차를 줄였어요. | We reduced measurement error. | پیمائش کی خطا کم کی۔
+> 오차가 너무 커요. | The error is too large. | فرق بہت زیادہ ہے۔
++ 편차 | 偏差 | pyeoncha | noun | deviation, variation | انحراف | Science & Technology | 3 | 표준편차 = standard deviation.
+> 지역 간 편차가 커요. | There's large variation between regions. | علاقوں کے درمیان بڑا فرق ہے۔
+> 표준편차를 계산했어요. | We calculated the standard deviation. | معیاری انحراف کا حساب لگایا۔
+> 측정값의 편차가 작아요. | The measured values vary little. | پیمائش میں فرق کم ہے۔
++ 불확실성 | 不確實性 | bulhwaksilseong | noun | uncertainty | غیر یقینی | Science & Technology | 3 |
+> 경제 불확실성이 커졌어요. | Economic uncertainty has grown. | معاشی غیر یقینی بڑھ گئی۔
+> 측정 불확실성을 표시했어요. | We showed the measurement uncertainty. | پیمائش کی غیر یقینی ظاہر کی۔
+> 불확실성을 줄이려면 데이터가 필요해요. | We need data to reduce uncertainty. | غیر یقینی کم کرنے کے لیے ڈیٹا چاہیے۔
++ 표본 | 標本 | pyobon | noun | sample (statistics); specimen | نمونہ | Science & Technology | 3 |
+> 표본 100개를 조사했어요. | We surveyed 100 samples. | سو نمونوں کا جائزہ لیا۔
+> 표본이 너무 작아요. | The sample is too small. | نمونہ بہت چھوٹا ہے۔
+> 곤충 표본을 만들었어요. | I made an insect specimen. | کیڑے کا نمونہ بنایا۔
++ 대표성 | 代表性 | daepyoseong | noun | representativeness | نمائندگی | Science & Technology | 3 |
+> 표본의 대표성이 중요해요. | The sample's representativeness matters. | نمونے کی نمائندگی اہم ہے۔
+> 이 조사는 대표성이 부족해요. | This survey isn't representative enough. | یہ سروے کافی نمائندہ نہیں۔
+> 대표성 있는 지점을 골랐어요. | We chose representative sites. | نمائندہ مقامات چنے۔
++ 재현성 | 再現性 | jaehyeonseong | noun | reproducibility | دہرانے کی صلاحیت | Science & Technology | 3 |
+> 실험의 재현성을 확인했어요. | We confirmed the experiment's reproducibility. | تجربے کے دہرائے جا سکنے کی تصدیق کی۔
+> 재현성이 없으면 믿기 어려워요. | Without reproducibility, it's hard to trust. | دہرایا نہ جا سکے تو یقین مشکل ہے۔
+> 재현성 높은 방법을 썼어요. | We used a highly reproducible method. | آسانی سے دہرایا جانے والا طریقہ استعمال کیا۔
++ 정량적 | 定量的 | jeongnyangjeok | noun | quantitative | مقداری | Academic & Formal | 3 |
+> 정량적으로 분석했어요. | We analyzed it quantitatively. | مقداری تجزیہ کیا۔
+> 정량적 데이터가 필요해요. | Quantitative data is needed. | مقداری ڈیٹا درکار ہے۔
+> 효과를 정량적으로 보여 주세요. | Show the effect in numbers. | اثر کو اعداد میں دکھائیں۔
++ 정성적 | 定性的 | jeongseongjeok | noun | qualitative | معیاری (کیفیتی) | Academic & Formal | 3 |
+> 정성적 평가도 함께 했어요. | We also did a qualitative assessment. | کیفیتی جائزہ بھی لیا۔
+> 인터뷰로 정성적 자료를 모았어요. | We gathered qualitative data through interviews. | انٹرویوز سے کیفیتی مواد جمع کیا۔
+> 정성적인 효과도 있어요. | There are qualitative effects too. | کیفیتی اثرات بھی ہیں۔
++ 정확성 | 正確性 | jeonghwakseong | noun | accuracy | درستی | Science & Technology | 3 |
+> 데이터의 정확성이 중요해요. | Data accuracy matters. | ڈیٹا کی درستی اہم ہے۔
+> 정확성을 높였어요. | We improved accuracy. | درستی بڑھائی۔
+> 번역의 정확성을 확인했어요. | We checked the translation's accuracy. | ترجمے کی درستی دیکھی۔
++ 신뢰성 | 信賴性 | silloeseong | noun | reliability, credibility | اعتبار | Science & Technology | 3 | 신뢰도 = degree of reliability.
+> 결과의 신뢰성을 확보했어요. | We ensured the results are reliable. | نتائج کا اعتبار یقینی بنایا۔
+> 신뢰성 있는 자료를 쓰세요. | Use reliable sources. | قابل اعتماد مواد استعمال کریں۔
+> 신뢰성이 떨어지는 정보예요. | It's unreliable information. | ناقابل اعتماد معلومات ہیں۔
++ 객관성 | 客觀性 | gaekgwanseong | noun | objectivity | معروضیت | Academic & Formal | 3 |
+> 평가의 객관성을 유지해요. | We keep the evaluation objective. | جانچ کی معروضیت برقرار رکھتے ہیں۔
+> 객관성이 부족한 기사예요. | It's an article lacking objectivity. | معروضیت سے خالی خبر ہے۔
+> 제삼자가 객관성을 보장해요. | A third party ensures objectivity. | تیسرا فریق معروضیت یقینی بناتا ہے۔
++ 공정성 | 公正性 | gongjeongseong | noun | fairness | انصاف | Society & Culture | 3 |
+> 심사의 공정성이 중요해요. | Fairness in judging is important. | جانچ میں انصاف اہم ہے۔
+> 공정성 문제가 제기됐어요. | Questions of fairness were raised. | انصاف کا سوال اٹھا۔
+> 공정성을 위해 무작위로 정해요. | It's decided randomly for fairness. | انصاف کے لیے اتفاقی طور پر طے ہوتا ہے۔
++ 투명성 | 透明性 | tumyeongseong | noun | transparency | شفافیت | Society & Culture | 3 |
+> 예산 사용의 투명성을 높였어요. | We made budget use more transparent. | بجٹ کے استعمال میں شفافیت بڑھائی۔
+> 투명성이 신뢰를 만들어요. | Transparency builds trust. | شفافیت اعتماد پیدا کرتی ہے۔
+> 데이터를 투명하게 공개해요. | We disclose data transparently. | ڈیٹا شفاف طریقے سے ظاہر کرتے ہیں۔
++ 증빙하다 | 證憑- | jeungbinghada | verb | to provide proof, document | ثبوت دینا | Economy & Business | 3 | 증빙 = supporting evidence; 증빙 서류 = supporting documents.
+> 영수증으로 비용을 증빙해요. | We document expenses with receipts. | رسیدوں سے خرچ کا ثبوت دیتے ہیں۔
+> 증빙 서류를 제출하세요. | Submit supporting documents. | ثبوتی کاغذات جمع کرائیں۔
+> 감축 실적을 증빙해야 해요. | Reduction results must be documented. | کمی کا ثبوت دینا ہوگا۔
++ 공인 | 公認 | gongin | noun | official recognition, certified | سرکاری طور پر منظور | Academic & Formal | 3 | 공인된 = certified. 공인 (公人) = public figure.
+> 공인 기관에서 측정했어요. | It was measured by a certified agency. | منظور شدہ ادارے نے ناپا۔
+> 공인 시험에 합격했어요. | I passed an officially recognized exam. | سرکاری طور پر منظور شدہ امتحان پاس کیا۔
+> 공인된 방법만 인정돼요. | Only certified methods are accepted. | صرف منظور شدہ طریقے قبول ہیں۔
++ 제삼자 | 第三者 | jesamja | noun | third party | تیسرا فریق | Academic & Formal | 3 |
+> 제삼자 검증을 받았어요. | It was verified by a third party. | تیسرے فریق سے تصدیق کروائی۔
+> 제삼자에게 정보를 주지 않아요. | We don't give information to third parties. | تیسرے فریق کو معلومات نہیں دیتے۔
+> 제삼자의 입장에서 보세요. | Look at it as a third party would. | تیسرے فریق کی نظر سے دیکھیں۔
++ 외부 | 外部 | oebu | noun | outside, external | بیرونی | Academic & Formal | 2 |
+> 외부 전문가를 초청했어요. | We invited outside experts. | بیرونی ماہرین کو بلایا۔
+> 외부 기관의 검증을 받아요. | It's verified by an external agency. | بیرونی ادارہ تصدیق کرتا ہے۔
+> 외부 소음이 심해요. | The noise from outside is bad. | باہر کا شور بہت ہے۔
++ 표준 | 標準 | pyojun | noun | standard | معیار | Academic & Formal | 2 | 표준어 = standard language.
+> 국제 표준을 따라요. | We follow international standards. | بین الاقوامی معیار کی پیروی کرتے ہیں۔
+> 표준 방법으로 측정했어요. | We measured with the standard method. | معیاری طریقے سے ناپا۔
+> 표준어를 사용하세요. | Use the standard language. | معیاری زبان استعمال کریں۔
++ 표준화 | 標準化 | pyojunhwa | noun | standardization | معیار بندی | Academic & Formal | 3 |
+> 측정 방법을 표준화했어요. | We standardized the measurement method. | پیمائش کا طریقہ معیاری بنایا۔
+> 표준화된 양식을 써요. | We use a standardized form. | معیاری فارم استعمال کرتے ہیں۔
+> 표준화가 안 되어 비교가 어려워요. | Without standardization, comparison is hard. | معیار بندی نہ ہونے سے موازنہ مشکل ہے۔
++ 국제 | 國際 | gukje | noun | international | بین الاقوامی | Society & Culture | 2 |
+> 국제 회의에 참석했어요. | I attended an international conference. | بین الاقوامی کانفرنس میں شریک ہوا۔
+> 국제 표준에 맞췄어요. | We met international standards. | بین الاقوامی معیار پر پورا اترے۔
+> 국제 협력이 필요해요. | International cooperation is needed. | بین الاقوامی تعاون درکار ہے۔
++ 국내 | 國內 | gungnae | noun | domestic, within the country | ملکی | Society & Culture | 2 | Opposite: 국외, 해외.
+> 국내 여행을 자주 해요. | I often travel within the country. | اکثر ملک کے اندر سفر کرتا ہوں۔
+> 국내 기업이 참여했어요. | Domestic companies took part. | ملکی کمپنیوں نے حصہ لیا۔
+> 국내 최초의 서비스예요. | It's the first such service in the country. | ملک کی پہلی ایسی سروس ہے۔
++ 프로토콜 |  | peurotokol | noun | protocol | پروٹوکول | Science & Technology | 3 |
+> 측정 프로토콜을 따랐어요. | We followed the measurement protocol. | پیمائش کے پروٹوکول پر عمل کیا۔
+> 온실가스 프로토콜 기준이에요. | It's based on the GHG Protocol. | گرین ہاؤس گیس پروٹوکول پر مبنی ہے۔
+> 안전 프로토콜이 있어요. | There's a safety protocol. | حفاظتی پروٹوکول ہے۔
++ 방법론 | 方法論 | bangbeomnon | noun | methodology | طریقہ کار | Academic & Formal | 3 |
+> 연구 방법론을 설명했어요. | I explained the research methodology. | تحقیقی طریقہ کار بتایا۔
+> 국제적으로 인정된 방법론이에요. | It's an internationally recognized methodology. | بین الاقوامی طور پر تسلیم شدہ طریقہ کار ہے۔
+> 방법론에 문제가 있어요. | There's a problem with the methodology. | طریقہ کار میں مسئلہ ہے۔
++ 인벤토리 |  | inbentori | noun | inventory | فہرست، انوینٹری | Environment | 3 | 온실가스 인벤토리 = greenhouse gas inventory.
+> 온실가스 인벤토리를 만들었어요. | We built a greenhouse gas inventory. | گرین ہاؤس گیس کی فہرست بنائی۔
+> 인벤토리를 매년 갱신해요. | The inventory is updated yearly. | فہرست ہر سال تازہ ہوتی ہے۔
+> 재고 인벤토리를 확인했어요. | We checked the stock inventory. | اسٹاک کی فہرست دیکھی۔
++ 추적하다 | 追跡- | chujeokada | verb | to track, trace | پیچھا کرنا، ٹریک کرنا | Science & Technology | 3 | 추적 = tracking.
+> 배송을 추적할 수 있어요. | You can track the delivery. | ڈیلیوری ٹریک کر سکتے ہیں۔
+> 배출량 변화를 추적해요. | We track changes in emissions. | اخراج میں تبدیلی پر نظر رکھتے ہیں۔
+> 경찰이 범인을 추적했어요. | The police tracked the criminal. | پولیس نے مجرم کا پیچھا کیا۔
++ 점검하다 | 點檢- | jeomgeomhada | verb | to inspect, check | معائنہ کرنا | Science & Technology | 2 | 점검 = inspection.
+> 장비를 정기적으로 점검해요. | We inspect the equipment regularly. | آلات کا باقاعدہ معائنہ کرتے ہیں۔
+> 출발 전에 차를 점검했어요. | I checked the car before leaving. | روانگی سے پہلے گاڑی چیک کی۔
+> 시스템 점검 중입니다. | The system is under inspection. | نظام کی جانچ جاری ہے۔
++ 교체하다 | 交替- | gyochehada | verb | to replace, change | بدلنا | Science & Technology | 2 | 교체 = replacement.
+> 낡은 센서를 교체했어요. | We replaced the old sensor. | پرانا سینسر بدلا۔
+> 선수를 교체했어요. | They substituted a player. | کھلاڑی تبدیل کیا۔
+> 필터를 3개월마다 교체하세요. | Replace the filter every three months. | ہر تین مہینے فلٹر بدلیں۔
++ 할당하다 | 割當- | haldanghada | verb | to allocate, assign | مختص کرنا | Economy & Business | 3 | 할당 = allocation; 할당량 = quota.
+> 기업마다 배출권을 할당해요. | Allowances are allocated to each company. | ہر کمپنی کو اجازت نامے مختص ہوتے ہیں۔
+> 각자에게 일을 할당했어요. | We assigned tasks to each person. | ہر ایک کو کام سونپا۔
+> 할당량을 다 채웠어요. | We met the quota. | مقررہ حصہ پورا کیا۔
++ 배분하다 | 配分- | baebunhada | verb | to distribute, allocate | تقسیم کرنا | Economy & Business | 3 | 배분 = distribution.
+> 예산을 부서별로 배분했어요. | The budget was distributed by department. | بجٹ شعبہ وار تقسیم کیا۔
+> 공장 배출량을 제품에 배분해요. | Factory emissions are allocated to products. | فیکٹری کا اخراج مصنوعات میں تقسیم کرتے ہیں۔
+> 이익을 공정하게 배분했어요. | Profits were distributed fairly. | منافع منصفانہ تقسیم ہوا۔
++ 연간 | 年間 | yeongan | noun | annual, per year | سالانہ | Time & Numbers | 2 |
+> 연간 배출량을 보고해요. | We report annual emissions. | سالانہ اخراج رپورٹ کرتے ہیں۔
+> 연간 이용권을 샀어요. | I bought an annual pass. | سالانہ پاس خریدا۔
+> 연간 매출이 늘었어요. | Annual sales increased. | سالانہ فروخت بڑھی۔
++ 연례 | 年例 | yeollye | noun | annual (yearly event) | سالانہ (روایتی) | Time & Numbers | 3 | 연례행사 = annual event.
+> 연례 보고서를 발간했어요. | We published the annual report. | سالانہ رپورٹ شائع کی۔
+> 연례행사로 축제가 열려요. | The festival is held as an annual event. | میلہ سالانہ تقریب کے طور پر ہوتا ہے۔
+> 연례 회의에 참석했어요. | I attended the annual meeting. | سالانہ اجلاس میں شریک ہوا۔
++ 매월 | 每月 | maewol | noun | every month | ہر مہینے | Time & Numbers | 2 | Everyday: 매달.
+> 매월 보고서를 제출해요. | We submit a report every month. | ہر مہینے رپورٹ جمع کراتے ہیں۔
+> 매월 첫째 주에 회의해요. | We meet in the first week of each month. | ہر مہینے کے پہلے ہفتے میٹنگ ہوتی ہے۔
+> 매월 이용료가 나가요. | The fee is charged monthly. | ہر مہینے فیس کٹتی ہے۔
++ 매년 | 每年 | maenyeon | noun | every year | ہر سال | Time & Numbers | 1 |
+> 매년 고향에 가요. | I go home every year. | ہر سال گھر جاتا ہوں۔
+> 매년 배출량이 줄고 있어요. | Emissions are falling every year. | ہر سال اخراج کم ہو رہا ہے۔
+> 이 행사는 매년 열려요. | This event is held every year. | یہ تقریب ہر سال ہوتی ہے۔
++ 전년 | 前年 | jeonnyeon | noun | previous year | پچھلا سال | Time & Numbers | 3 | 전년 대비 = year on year.
+> 전년보다 매출이 늘었어요. | Sales rose over the previous year. | پچھلے سال سے فروخت بڑھی۔
+> 전년 대비 10% 감소했어요. | It fell 10% year on year. | پچھلے سال کے مقابلے دس فیصد کم ہوا۔
+> 전년 자료와 비교했어요. | We compared it with last year's data. | پچھلے سال کے ڈیٹا سے موازنہ کیا۔
++ 대비 | 對比 | daebi | noun | compared to, contrast | کے مقابلے میں | Academic & Formal | 3 | 대비 (對備) = preparation, a different word.
+> 작년 대비 물가가 올랐어요. | Prices rose compared to last year. | پچھلے سال کے مقابلے مہنگائی بڑھی۔
+> 가격 대비 품질이 좋아요. | The quality is good for the price. | قیمت کے لحاظ سے معیار اچھا ہے۔
+> 색의 대비가 강해요. | The color contrast is strong. | رنگوں کا تضاد واضح ہے۔
++ 변화량 | 變化量 | byeonhwaryang | noun | amount of change | تبدیلی کی مقدار | Science & Technology | 3 |
+> 온도 변화량을 측정했어요. | We measured the change in temperature. | درجہ حرارت میں تبدیلی ناپی۔
+> 배출량의 변화량을 그래프로 그렸어요. | We graphed the change in emissions. | اخراج کی تبدیلی کا گراف بنایا۔
+> 변화량이 크지 않아요. | The change isn't large. | تبدیلی زیادہ نہیں۔
++ 구간 | 區間 | gugan | noun | section, interval, segment | حصہ، مرحلہ | Academic & Formal | 3 |
+> 이 구간은 공사 중이에요. | This section is under construction. | یہ حصہ زیر تعمیر ہے۔
+> 배출이 많은 구간을 찾았어요. | We found the high-emission segments. | زیادہ اخراج والے حصے ڈھونڈے۔
+> 가격 구간별로 나눴어요. | We divided them by price range. | قیمت کی حدود کے لحاظ سے تقسیم کیا۔
++ 단위 | 單位 | danwi | noun | unit | اکائی | Science & Technology | 2 |
+> 단위를 꼭 쓰세요. | Be sure to write the units. | اکائی ضرور لکھیں۔
+> 무게 단위는 킬로그램이에요. | The unit of weight is the kilogram. | وزن کی اکائی کلوگرام ہے۔
+> 팀 단위로 움직여요. | We move as teams. | ٹیموں کی صورت میں چلتے ہیں۔
++ 정기 | 定期 | jeonggi | noun | regular, periodic | باقاعدہ | Academic & Formal | 2 | 정기적으로 = regularly.
+> 정기 점검을 받았어요. | We had a regular inspection. | باقاعدہ معائنہ کروایا۔
+> 정기적으로 운동해요. | I exercise regularly. | باقاعدگی سے ورزش کرتا ہوں۔
+> 정기 회의는 매주 월요일이에요. | The regular meeting is every Monday. | باقاعدہ میٹنگ ہر پیر کو ہوتی ہے۔
++ 주기 | 週期 | jugi | noun | cycle, period, interval | دور، وقفہ | Science & Technology | 3 | 주기적 = periodic.
+> 측정 주기는 한 달이에요. | The measurement interval is one month. | پیمائش کا وقفہ ایک مہینہ ہے۔
+> 생활 주기가 바뀌었어요. | My daily routine changed. | روزمرہ کا معمول بدلا۔
+> 주기를 짧게 하면 정확해져요. | A shorter interval makes it more accurate. | وقفہ کم ہو تو زیادہ درست ہوتا ہے۔
++ 주기적 | 週期的 | jugijeok | noun | periodic | وقتاً فوقتاً | Academic & Formal | 3 | 주기적으로 = periodically.
+> 주기적으로 데이터를 백업해요. | We back up the data periodically. | وقتاً فوقتاً ڈیٹا کا بیک اپ لیتے ہیں۔
+> 주기적인 검사가 필요해요. | Periodic checks are needed. | وقتاً فوقتاً جانچ ضروری ہے۔
+> 주기적으로 연락하고 있어요. | We keep in touch periodically. | وقتاً فوقتاً رابطے میں ہیں۔
++ 상시 | 常時 | sangsi | noun | at all times, constant | ہمیشہ، مستقل | Academic & Formal | 3 |
+> 상시 모니터링 시스템이에요. | It's a constant monitoring system. | مستقل نگرانی کا نظام ہے۔
+> 상시 채용 중이에요. | We're hiring on a rolling basis. | مسلسل بھرتی جاری ہے۔
+> 상시 근무자가 있어요. | There's staff on duty at all times. | ہر وقت عملہ موجود ہوتا ہے۔
++ 연속 | 連續 | yeonsok | noun | continuity, in a row | مسلسل | Time & Numbers | 2 | 연속으로 = consecutively.
+> 3년 연속 1위를 했어요. | We came first three years in a row. | تین سال مسلسل پہلی پوزیشن آئی۔
+> 연속 측정 장비를 설치했어요. | We installed continuous measuring equipment. | مسلسل پیمائش کا آلہ لگایا۔
+> 실수가 연속으로 나왔어요. | Mistakes happened one after another. | پے در پے غلطیاں ہوئیں۔
++ 지점 | 地點 | jijeom | noun | point, spot; branch (office) | مقام؛ شاخ | Places & Directions | 2 | 지점 (支店) = branch office.
+> 측정 지점을 다섯 곳 정했어요. | We chose five measuring points. | پیمائش کے پانچ مقامات چنے۔
+> 사고 지점에 경찰이 왔어요. | Police came to the accident spot. | حادثے کی جگہ پولیس آئی۔
+> 은행 지점이 문을 닫았어요. | The bank branch closed. | بینک کی شاخ بند ہو گئی۔
++ 횟수 | 回數 | hoetsu | noun | number of times, frequency | تعداد، بار | Time & Numbers | 2 |
+> 측정 횟수를 늘렸어요. | We increased the number of measurements. | پیمائش کی تعداد بڑھائی۔
+> 운동 횟수가 줄었어요. | I exercise less often. | ورزش کی تعداد کم ہو گئی۔
+> 지각 횟수가 많아요. | He's often late. | دیر سے آنے کی تعداد زیادہ ہے۔
++ 재측정 | 再測定 | jaecheukjeong | noun | re-measurement | دوبارہ پیمائش | Science & Technology | 3 |
+> 값이 이상해서 재측정했어요. | The value was odd, so we measured again. | قدر عجیب تھی، دوبارہ ناپا۔
+> 재측정을 요청했어요. | We requested a re-measurement. | دوبارہ پیمائش کی درخواست کی۔
+> 재측정 비용은 무료예요. | Re-measurement is free. | دوبارہ پیمائش مفت ہے۔
++ 재제출 | 再提出 | jaejechul | noun | resubmission | دوبارہ جمع کرانا | Academic & Formal | 3 |
+> 보고서 재제출을 요청받았어요. | We were asked to resubmit the report. | رپورٹ دوبارہ جمع کرانے کا کہا گیا۔
+> 수정 후 재제출했어요. | I resubmitted after revising. | ترمیم کے بعد دوبارہ جمع کرایا۔
+> 재제출 기한은 금요일이에요. | The resubmission deadline is Friday. | دوبارہ جمع کرانے کی آخری تاریخ جمعہ ہے۔
++ 반려 | 返戾 | ballyeo | noun | return, rejection (of a submission) | واپس کرنا، مسترد | Academic & Formal | 3 | 반려 (伴侶) = companion: 반려동물 = pet.
+> 서류가 반려됐어요. | The documents were returned (rejected). | کاغذات واپس کر دیے گئے۔
+> 반려 사유를 확인하세요. | Check the reason for rejection. | مسترد ہونے کی وجہ دیکھیں۔
+> 반려동물을 키워요. | I have a pet. | میرے پاس پالتو جانور ہے۔
++ 미완료 | 未完了 | miwallyo | noun | incomplete, not finished | نامکمل | Academic & Formal | 3 | 완료 = completion.
+> 미완료 항목이 두 개 있어요. | There are two incomplete items. | دو نامکمل مدیں ہیں۔
+> 제출이 미완료 상태예요. | The submission is incomplete. | جمع کرانا ابھی نامکمل ہے۔
+> 미완료 과제를 먼저 끝내세요. | Finish the incomplete tasks first. | پہلے نامکمل کام ختم کریں۔
++ 사후 | 事後 | sahu | noun | after the fact, follow-up | بعد از واقعہ | Academic & Formal | 3 | 사후 관리 = after-sales service, follow-up.
+> 사후 관리도 해 드려요. | We also provide follow-up service. | بعد کی دیکھ بھال بھی کرتے ہیں۔
+> 사후 검증을 실시했어요. | We conducted post-verification. | بعد میں تصدیق کی۔
+> 사후에 보고하면 안 돼요. | You can't report it after the fact. | بعد میں رپورٹ کرنا درست نہیں۔
++ -별 | 別 | -byeol | grammar | by, per each (suffix) | ہر ایک کے لحاظ سے | Grammar Patterns | 2 | 팀별 = by team; 월별 = monthly; 제품별 = by product; 분야별 = by field.
+> 팀별로 발표하겠습니다. | Each team will present in turn. | ہر ٹیم الگ الگ پریزنٹیشن دے گی۔
+> 제품별 배출량을 비교했어요. | We compared emissions by product. | پروڈکٹ وار اخراج کا موازنہ کیا۔
+> 월별 사용량을 확인하세요. | Check the monthly usage. | ماہانہ استعمال دیکھیں۔
++ -당 | 當 | -dang | grammar | per (suffix) | فی | Grammar Patterns | 3 | 1인당 = per person; 건당 = per case; 생산량당 = per unit of output.
+> 1인당 만 원이에요. | It's 10,000 won per person. | فی شخص دس ہزار وون ہے۔
+> 측정은 건당 50만 원이에요. | Measurement is 500,000 won per job. | پیمائش فی کام پانچ لاکھ وون ہے۔
+> 제품당 탄소 배출량을 계산해요. | We calculate carbon emissions per product. | فی پروڈکٹ کاربن اخراج کا حساب لگاتے ہیں۔
++ -율/-률 | 率 | -yul/-ryul | grammar | rate, ratio (suffix) | شرح | Grammar Patterns | 3 | -율 after a vowel or ㄴ (참여율, 감소율); -률 elsewhere (진행률, 감축률).
+> 참여율이 높아졌어요. | The participation rate rose. | شرکت کی شرح بڑھی۔
+> 감축률이 목표를 넘었어요. | The reduction rate exceeded the target. | کمی کی شرح ہدف سے بڑھ گئی۔
+> 진행률이 80%예요. | Progress is at 80%. | پیش رفت اسی فیصد ہے۔

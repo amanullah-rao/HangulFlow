@@ -1,0 +1,237 @@
+# Business strategy and evaluation (from the learner's own word list)
++ 비즈니스 |  | bijeuniseu | noun | business | کاروبار | Economy & Business | 2 | Native: 사업.
+> 비즈니스 모델을 설명해 주세요. | Please explain your business model. | اپنا کاروباری ماڈل بتائیں۔
+> 비즈니스 회의가 있어요. | I have a business meeting. | کاروباری میٹنگ ہے۔
+> 비즈니스 영어를 배워요. | I'm learning business English. | کاروباری انگریزی سیکھ رہا ہوں۔
++ 모델 |  | model | noun | model (system; fashion model) | ماڈل | Economy & Business | 2 |
+> 수익 모델이 확실해야 해요. | The revenue model must be clear. | آمدنی کا ماڈل واضح ہونا چاہیے۔
+> 이 차는 최신 모델이에요. | This car is the latest model. | یہ گاڑی تازہ ترین ماڈل ہے۔
+> 그녀는 패션 모델이에요. | She is a fashion model. | وہ فیشن ماڈل ہے۔
++ 사업성 | 事業性 | saeopseong | noun | business viability | کاروباری افادیت | Economy & Business | 3 |
+> 사업성을 검토했어요. | We reviewed the business viability. | کاروباری افادیت کا جائزہ لیا۔
+> 아이디어는 좋지만 사업성이 낮아요. | The idea is good, but its viability is low. | خیال اچھا ہے مگر کاروباری لحاظ سے کمزور ہے۔
+> 사업성 분석 결과를 발표했어요. | We presented the viability analysis. | افادیت کے تجزیے کے نتائج پیش کیے۔
++ 시장성 | 市場性 | sijangseong | noun | marketability | بازار میں مانگ | Economy & Business | 3 |
+> 이 제품은 시장성이 있어요. | This product is marketable. | اس پروڈکٹ کی بازار میں مانگ ہے۔
+> 시장성을 조사했어요. | We researched marketability. | بازار میں مانگ کا جائزہ لیا۔
+> 시장성이 부족하다는 평가를 받았어요. | It was judged to lack marketability. | مانگ کم ہونے کی رائے دی گئی۔
++ 수익성 | 收益性 | suikseong | noun | profitability | منافع بخشی | Economy & Business | 3 |
+> 수익성을 높여야 해요. | We need to improve profitability. | منافع بڑھانا ہوگا۔
+> 수익성이 좋은 사업이에요. | It's a profitable business. | یہ منافع بخش کاروبار ہے۔
+> 수익성보다 공공성이 중요해요. | The public good matters more than profit. | منافع سے زیادہ عوامی فائدہ اہم ہے۔
++ 공공성 | 公共性 | gonggongseong | noun | public nature, public interest | عوامی مفاد | Society & Culture | 3 |
+> 이 사업은 공공성이 커요. | This project serves the public interest. | یہ منصوبہ عوامی مفاد کا ہے۔
+> 공공성을 고려해서 무료로 운영해요. | We run it free of charge for the public good. | عوامی مفاد میں مفت چلاتے ہیں۔
+> 의료의 공공성을 강조했어요. | They stressed the public nature of healthcare. | صحت کے عوامی پہلو پر زور دیا۔
++ 타당성 | 妥當性 | tadangseong | noun | feasibility, validity | قابل عمل ہونا | Academic & Formal | 3 | 타당성 조사 = feasibility study.
+> 타당성 조사를 실시했어요. | We conducted a feasibility study. | قابل عمل ہونے کا جائزہ لیا۔
+> 계획의 타당성을 검토해요. | We assess the plan's validity. | منصوبے کی درستی جانچتے ہیں۔
+> 주장에 타당성이 있어요. | The argument is valid. | دلیل میں وزن ہے۔
++ 현실성 | 現實性 | hyeonsilseong | noun | realism, practicality | حقیقت پسندی | Academic & Formal | 3 |
+> 이 계획은 현실성이 없어요. | This plan isn't realistic. | یہ منصوبہ حقیقت پسندانہ نہیں۔
+> 현실성 있는 목표를 세우세요. | Set realistic goals. | حقیقت پسندانہ اہداف بنائیں۔
+> 심사위원이 현실성을 물었어요. | The judges asked about practicality. | ججوں نے عملی ہونے کا پوچھا۔
++ 독창성 | 獨創性 | dokchangseong | noun | originality | انفرادیت | Academic & Formal | 3 |
+> 아이디어의 독창성이 뛰어나요. | The idea is highly original. | خیال بہت منفرد ہے۔
+> 독창성을 평가해요. | Originality is assessed. | انفرادیت کی جانچ ہوتی ہے۔
+> 독창성이 부족해요. | It lacks originality. | انفرادیت کی کمی ہے۔
++ 확장성 | 擴張性 | hwakjangseong | noun | scalability, expandability | توسیع کی گنجائش | Economy & Business | 3 |
+> 이 서비스는 확장성이 좋아요. | This service is highly scalable. | اس سروس میں توسیع کی اچھی گنجائش ہے۔
+> 다른 지역으로의 확장성을 보여 주세요. | Show how it could expand to other regions. | دوسرے علاقوں تک پھیلاؤ کی گنجائش دکھائیں۔
+> 확장성을 고려해서 설계했어요. | We designed it with scalability in mind. | توسیع کو مدنظر رکھ کر ڈیزائن کیا۔
++ 전문성 | 專門性 | jeonmunseong | noun | expertise | مہارت | Work & Employment | 3 |
+> 전문성을 갖춘 인재가 필요해요. | We need people with expertise. | ماہر افراد کی ضرورت ہے۔
+> 그 분야의 전문성이 높아요. | Their expertise in the field is high. | اس شعبے میں اعلیٰ مہارت ہے۔
+> 전문성을 키우려고 공부해요. | I study to build expertise. | مہارت بڑھانے کے لیے پڑھتا ہوں۔
++ 지속성 | 持續性 | jisokseong | noun | continuity, sustainability | پائیداری | Academic & Formal | 3 | 지속 가능한 = sustainable.
+> 사업의 지속성이 중요해요. | The project's sustainability matters. | منصوبے کی پائیداری اہم ہے۔
+> 지속성을 위해 재원을 마련했어요. | We secured funds for continuity. | تسلسل کے لیے وسائل جمع کیے۔
+> 효과의 지속성을 확인했어요. | We confirmed the effect lasts. | اثر کے دیرپا ہونے کی تصدیق کی۔
++ 효율성 | 效率性 | hyoyulseong | noun | efficiency | کارکردگی | Academic & Formal | 3 | 효율적 = efficient.
+> 에너지 효율성을 높였어요. | We improved energy efficiency. | توانائی کی کارکردگی بڑھائی۔
+> 업무 효율성이 떨어졌어요. | Work efficiency dropped. | کام کی کارکردگی کم ہو گئی۔
+> 비용 대비 효율성을 따져 봐요. | Let's weigh cost-effectiveness. | لاگت کے مقابلے میں افادیت دیکھتے ہیں۔
++ 차별화하다 | 差別化- | chabyeolhwahada | verb | to differentiate | ممتاز بنانا | Economy & Business | 3 | 차별화 = differentiation.
+> 경쟁사와 차별화해야 해요. | We have to differentiate ourselves from competitors. | حریفوں سے ممتاز ہونا ہوگا۔
+> 차별화된 서비스를 제공해요. | We offer a differentiated service. | منفرد سروس فراہم کرتے ہیں۔
+> 디자인으로 차별화했어요. | We stood out through design. | ڈیزائن سے نمایاں ہوئے۔
++ 차별점 | 差別點 | chabyeoljeom | noun | point of difference | امتیازی نکتہ | Economy & Business | 3 |
+> 기존 서비스와의 차별점이 뭐예요? | How is it different from existing services? | موجودہ سروسز سے کیا فرق ہے؟
+> 차별점을 강조해서 발표했어요. | We stressed what sets us apart. | اپنے امتیازی پہلو پر زور دیا۔
+> 우리의 차별점은 정확성이에요. | Our difference is accuracy. | ہماری انفرادیت درستی ہے۔
++ 강점 | 强點 | gangjeom | noun | strength, strong point | خوبی | Work & Employment | 2 | Opposite: 약점.
+> 제 강점은 성실함이에요. | My strength is diligence. | میری خوبی محنت ہے۔
+> 이 제품의 강점을 설명해 주세요. | Explain this product's strengths. | اس پروڈکٹ کی خوبیاں بتائیں۔
+> 강점을 살려서 일해요. | I work by making the most of my strengths. | اپنی خوبیوں کو کام میں لاتا ہوں۔
++ 대안 | 代案 | daean | noun | alternative | متبادل | Academic & Formal | 2 |
+> 다른 대안이 있어요? | Is there another alternative? | کوئی اور متبادل ہے؟
+> 대안을 찾아야 해요. | We need to find an alternative. | متبادل ڈھونڈنا ہوگا۔
+> 대안 에너지에 투자해요. | We invest in alternative energy. | متبادل توانائی میں سرمایہ لگاتے ہیں۔
++ 방안 | 方案 | bangan | noun | plan, measure, way | تدبیر | Academic & Formal | 3 |
+> 해결 방안을 제시했어요. | We proposed a solution. | حل کی تدبیر پیش کی۔
+> 비용을 줄이는 방안을 찾고 있어요. | We're looking for ways to cut costs. | خرچ کم کرنے کے طریقے ڈھونڈ رہے ہیں۔
+> 여러 방안을 비교했어요. | We compared several options. | کئی تدابیر کا موازنہ کیا۔
++ 문제점 | 問題點 | munjejeom | noun | problem, issue, weak point | خامی، مسئلہ | Academic & Formal | 2 |
+> 기존 방식의 문제점을 분석했어요. | We analyzed the problems with the old method. | پرانے طریقے کی خامیوں کا تجزیہ کیا۔
+> 문제점을 개선했어요. | We fixed the weak points. | خامیاں دور کیں۔
+> 가장 큰 문제점은 비용이에요. | The biggest problem is cost. | سب سے بڑا مسئلہ خرچ ہے۔
++ 방향성 | 方向性 | banghyangseong | noun | direction, orientation | سمت | Academic & Formal | 3 |
+> 프로젝트의 방향성을 정했어요. | We set the project's direction. | منصوبے کی سمت طے کی۔
+> 방향성이 분명해야 해요. | The direction must be clear. | سمت واضح ہونی چاہیے۔
+> 멘토가 방향성을 잡아 줬어요. | The mentor helped us find our direction. | رہنما نے سمت دکھائی۔
++ 보완책 | 補完策 | bowanchaek | noun | supplementary measure | تکمیلی اقدام | Academic & Formal | 3 | 보완하다 = to supplement.
+> 문제에 대한 보완책을 마련했어요. | We prepared measures to address the problem. | مسئلے کے لیے تکمیلی اقدامات کیے۔
+> 보완책이 필요해요. | Supplementary measures are needed. | اضافی اقدامات درکار ہیں۔
+> 정부가 보완책을 발표했어요. | The government announced additional measures. | حکومت نے اضافی اقدامات کا اعلان کیا۔
++ 우선순위 | 優先順位 | useonsunwi | noun | priority (order) | ترجیح | Work & Employment | 2 |
+> 우선순위를 정하세요. | Set your priorities. | ترجیحات طے کریں۔
+> 안전이 최우선순위예요. | Safety is the top priority. | حفاظت اولین ترجیح ہے۔
+> 일의 우선순위를 바꿨어요. | I changed the order of priorities. | کاموں کی ترجیح بدلی۔
++ 로드맵 |  | rodeumaep | noun | roadmap | لائحہ عمل | Economy & Business | 3 |
+> 5년 로드맵을 발표했어요. | We presented a five-year roadmap. | پانچ سالہ لائحہ عمل پیش کیا۔
+> 로드맵에 따라 진행해요. | We proceed according to the roadmap. | لائحہ عمل کے مطابق چلتے ہیں۔
+> 탄소중립 로드맵을 세웠어요. | We drew up a carbon-neutrality roadmap. | کاربن نیوٹرلٹی کا لائحہ عمل بنایا۔
++ 단기 | 短期 | dangi | noun | short-term | قلیل مدتی | Time & Numbers | 2 |
+> 단기 목표를 세웠어요. | I set short-term goals. | قلیل مدتی اہداف بنائے۔
+> 단기 아르바이트를 했어요. | I did a short-term part-time job. | مختصر مدت کی جز وقتی نوکری کی۔
+> 단기적으로는 비용이 들어요. | It costs money in the short term. | مختصر مدت میں خرچ آتا ہے۔
++ 중기 | 中期 | junggi | noun | mid-term | درمیانی مدت | Time & Numbers | 3 |
+> 중기 계획을 발표했어요. | We announced a mid-term plan. | درمیانی مدت کا منصوبہ پیش کیا۔
+> 중기적으로 시장을 넓힐 거예요. | We'll expand the market in the mid term. | درمیانی مدت میں منڈی بڑھائیں گے۔
+> 단기, 중기, 장기로 나눴어요. | We divided it into short, mid and long term. | قلیل، درمیانی اور طویل مدت میں تقسیم کیا۔
++ 장기 | 長期 | janggi | noun | long-term | طویل مدتی | Time & Numbers | 2 | 장기 (臟器) = organ (body).
+> 장기 목표는 해외 진출이에요. | Our long-term goal is to go overseas. | طویل مدتی ہدف بیرون ملک جانا ہے۔
+> 장기 투자가 필요해요. | Long-term investment is needed. | طویل مدتی سرمایہ کاری درکار ہے۔
+> 장기적으로 보면 이익이에요. | In the long run, it's a gain. | طویل مدت میں یہ فائدہ ہے۔
++ 단계적 | 段階的 | dangyejeok | noun | step-by-step, phased | مرحلہ وار | Academic & Formal | 3 | 단계적으로 = in stages.
+> 단계적으로 확대할 계획이에요. | We plan to expand in phases. | مرحلہ وار بڑھانے کا منصوبہ ہے۔
+> 단계적인 접근이 필요해요. | A step-by-step approach is needed. | مرحلہ وار طریقہ درکار ہے۔
+> 규제를 단계적으로 강화해요. | Regulations are tightened in stages. | قوانین مرحلہ وار سخت ہوتے ہیں۔
++ 추진하다 | 推進- | chujinhada | verb | to push forward, pursue (a project) | آگے بڑھانا | Academic & Formal | 3 | 추진 = promotion, drive.
+> 정부가 새 정책을 추진해요. | The government is pursuing a new policy. | حکومت نئی پالیسی آگے بڑھا رہی ہے۔
+> 사업을 적극적으로 추진했어요. | We actively pushed the project forward. | منصوبہ پوری طرح آگے بڑھایا۔
+> 추진 일정을 공유했어요. | We shared the implementation schedule. | عمل درآمد کا شیڈول شیئر کیا۔
++ 확장하다 | 擴張- | hwakjanghada | verb | to expand | پھیلانا، وسعت دینا | Economy & Business | 3 | 확장 = expansion.
+> 서비스를 전국으로 확장했어요. | We expanded the service nationwide. | سروس پورے ملک میں پھیلائی۔
+> 공장을 확장할 계획이에요. | We plan to expand the factory. | فیکٹری بڑھانے کا ارادہ ہے۔
+> 도로 확장 공사를 해요. | They're widening the road. | سڑک چوڑی کی جا رہی ہے۔
++ 확산하다 | 擴散- | hwaksanhada | verb | to spread | پھیلنا، پھیلانا | Society & Culture | 3 | 확산 = spread.
+> 바이러스가 빠르게 확산했어요. | The virus spread quickly. | وائرس تیزی سے پھیلا۔
+> 좋은 사례를 확산해야 해요. | Good practices should be spread. | اچھی مثالیں پھیلانی چاہئیں۔
+> 소문이 온라인으로 확산됐어요. | The rumor spread online. | افواہ آن لائن پھیل گئی۔
++ 적용하다 | 適用- | jeogyonghada | verb | to apply | لاگو کرنا | Academic & Formal | 2 | 적용 = application.
+> 새 기술을 현장에 적용했어요. | We applied the new technology on site. | نئی ٹیکنالوجی موقع پر لاگو کی۔
+> 할인이 적용됐어요. | The discount was applied. | رعایت لاگو ہو گئی۔
+> 이 규칙은 모두에게 적용돼요. | This rule applies to everyone. | یہ اصول سب پر لاگو ہے۔
++ 활용하다 | 活用- | hwaryonghada | verb | to make use of, utilize | استعمال میں لانا | Academic & Formal | 2 | 활용 = utilization.
+> 데이터를 활용해서 분석했어요. | We analyzed using the data. | ڈیٹا سے فائدہ اٹھا کر تجزیہ کیا۔
+> 시간을 잘 활용하세요. | Make good use of your time. | وقت کا اچھا استعمال کریں۔
+> 남은 재료를 활용했어요. | I used up the leftover ingredients. | بچے ہوئے اجزاء استعمال کیے۔
++ 수립하다 | 樹立- | suriphada | verb | to establish, draw up (a plan) | وضع کرنا | Academic & Formal | 3 | 수립 = establishment.
+> 감축 계획을 수립했어요. | We drew up a reduction plan. | کمی کا منصوبہ وضع کیا۔
+> 정책을 수립하는 데 시간이 걸려요. | Establishing policy takes time. | پالیسی بنانے میں وقت لگتا ہے۔
+> 신기록을 수립했어요. | They set a new record. | نیا ریکارڈ قائم کیا۔
++ 달성 | 達成 | dalseong | noun | achievement, attainment | حصول | Academic & Formal | 3 | 달성하다 = to achieve.
+> 목표 달성을 축하합니다! | Congratulations on reaching the goal! | ہدف حاصل کرنے پر مبارک ہو!
+> 2050년까지 탄소중립을 달성해요. | We'll reach carbon neutrality by 2050. | دو ہزار پچاس تک کاربن نیوٹرلٹی حاصل کریں گے۔
+> 달성률이 90%예요. | The achievement rate is 90%. | حصول کی شرح نوے فیصد ہے۔
++ 실적 | 實績 | siljeok | noun | performance, track record, results | کارکردگی | Economy & Business | 3 |
+> 올해 실적이 좋아요. | This year's results are good. | اس سال کی کارکردگی اچھی ہے۔
+> 감축 실적을 보고했어요. | We reported the reduction results. | کمی کی کارکردگی رپورٹ کی۔
+> 영업 실적에 따라 보너스를 받아요. | Bonuses depend on sales performance. | فروخت کی کارکردگی پر بونس ملتا ہے۔
++ 검토하다 | 檢討- | geomtohada | verb | to review, examine | جائزہ لینا | Academic & Formal | 2 | 검토 = review.
+> 계약서를 꼼꼼히 검토했어요. | I reviewed the contract carefully. | معاہدے کا بغور جائزہ لیا۔
+> 제안을 검토해 보겠습니다. | We'll consider the proposal. | تجویز پر غور کریں گے۔
+> 실현 가능성을 검토했어요. | We examined the feasibility. | قابل عمل ہونے کا جائزہ لیا۔
++ 현황 | 現況 | hyeonhwang | noun | current status, present situation | موجودہ صورتحال | Academic & Formal | 3 |
+> 배출 현황을 조사했어요. | We surveyed the current emissions status. | اخراج کی موجودہ صورتحال کا جائزہ لیا۔
+> 진행 현황을 보고해 주세요. | Please report on the progress. | پیش رفت کی صورتحال بتائیں۔
+> 현황을 한눈에 볼 수 있어요. | You can see the current status at a glance. | موجودہ صورتحال ایک نظر میں دیکھ سکتے ہیں۔
++ 이슈 |  | isyu | noun | issue, hot topic | مسئلہ، موضوع | Society & Culture | 2 |
+> 요즘 환경이 큰 이슈예요. | The environment is a big issue these days. | آج کل ماحول بڑا موضوع ہے۔
+> 기술적인 이슈가 있어요. | There's a technical issue. | تکنیکی مسئلہ ہے۔
+> 그 뉴스가 이슈가 됐어요. | That news became a hot topic. | وہ خبر موضوع بحث بن گئی۔
++ 타깃 |  | tagit | noun | target | ہدف | Economy & Business | 2 | 타깃층 = target audience.
+> 우리 타깃은 중소기업이에요. | Our target is SMEs. | ہمارا ہدف چھوٹے کاروبار ہیں۔
+> 타깃 고객을 정했어요. | We defined our target customers. | ہدف گاہک طے کیے۔
+> 20대를 타깃으로 한 광고예요. | It's an ad targeting people in their twenties. | بیس سال کے نوجوانوں کے لیے اشتہار ہے۔
++ 수치 | 數値 | suchi | noun | figure, numerical value | عدد، شرح | Science & Technology | 3 | 수치 (羞恥) = shame.
+> 정확한 수치를 제시하세요. | Give exact figures. | درست اعداد پیش کریں۔
+> 수치가 기준보다 높아요. | The figure is above the standard. | عدد معیار سے زیادہ ہے۔
+> 수치로 보면 효과가 분명해요. | In numbers, the effect is clear. | اعداد میں اثر واضح ہے۔
++ 리스크 |  | riseukeu | noun | risk | خطرہ | Economy & Business | 2 | Native: 위험.
+> 리스크를 줄이는 방법이 있어요. | There are ways to reduce risk. | خطرہ کم کرنے کے طریقے ہیں۔
+> 리스크가 큰 투자예요. | It's a high-risk investment. | زیادہ خطرے والی سرمایہ کاری ہے۔
+> 리스크 관리가 중요해요. | Risk management is important. | خطرے کا انتظام اہم ہے۔
++ 대응력 | 對應力 | daeeungnyeok | noun | ability to respond, responsiveness | ردعمل کی صلاحیت | Academic & Formal | 3 | 대응 = response.
+> 위기 대응력을 키워야 해요. | We need to build crisis responsiveness. | بحران سے نمٹنے کی صلاحیت بڑھانی ہے۔
+> 기업의 대응력이 약해요. | The company's response capacity is weak. | کمپنی کی ردعمل کی صلاحیت کمزور ہے۔
+> 규제에 대한 대응력을 높였어요. | We improved our ability to respond to regulations. | قوانین سے نمٹنے کی صلاحیت بڑھائی۔
++ 안정성 | 安定性 | anjeongseong | noun | stability | استحکام | Academic & Formal | 3 | 안전성 (安全性) = safety.
+> 시스템의 안정성을 확인했어요. | We checked the system's stability. | نظام کے استحکام کی جانچ کی۔
+> 직업의 안정성을 원해요. | I want job stability. | ملازمت میں استحکام چاہتا ہوں۔
+> 가격 안정성이 중요해요. | Price stability is important. | قیمتوں کا استحکام اہم ہے۔
++ 선정 | 選定 | seonjeong | noun | selection | انتخاب | Academic & Formal | 3 | 선정되다 = to be selected.
+> 우수 팀으로 선정됐어요. | We were selected as an outstanding team. | بہترین ٹیم کے طور پر چنے گئے۔
+> 지원 대상 선정 기준을 발표했어요. | They announced the selection criteria. | انتخاب کے معیار کا اعلان کیا۔
+> 장소 선정이 어려워요. | Choosing a venue is hard. | جگہ کا انتخاب مشکل ہے۔
++ 우수 | 優秀 | usu | noun | excellence, outstanding | بہترین | Academic & Formal | 3 | 우수하다 = to be excellent.
+> 우수 사례로 소개됐어요. | It was presented as an outstanding example. | بہترین مثال کے طور پر پیش کیا گیا۔
+> 우수상을 받았어요. | We won the excellence award. | بہترین کارکردگی کا انعام ملا۔
+> 성적 우수 학생에게 장학금을 줘요. | Top students get scholarships. | اچھے نمبر والے طلبہ کو وظیفہ ملتا ہے۔
++ 수혜 | 受惠 | suhye | noun | receiving benefits | فائدہ اٹھانا | Society & Culture | 3 | 수혜자 = beneficiary.
+> 지원 사업의 수혜 기업이에요. | It's a beneficiary of the support program. | امدادی پروگرام سے مستفید کمپنی ہے۔
+> 수혜 대상을 넓혔어요. | They widened the pool of beneficiaries. | مستفید ہونے والوں کا دائرہ بڑھایا۔
+> 많은 사람이 정책의 수혜를 받았어요. | Many people benefited from the policy. | بہت لوگوں نے پالیسی سے فائدہ اٹھایا۔
++ 수행 | 遂行 | suhaeng | noun | carrying out, performance (of duties) | انجام دہی | Work & Employment | 3 | 수행하다 = to carry out.
+> 과제를 성공적으로 수행했어요. | We carried out the project successfully. | کام کامیابی سے انجام دیا۔
+> 업무 수행 능력이 뛰어나요. | Their job performance is excellent. | کام انجام دینے کی صلاحیت بہترین ہے۔
+> 연구 수행 기간은 1년이에요. | The research period is one year. | تحقیق کی مدت ایک سال ہے۔
++ 하이브리드 |  | haibeurideu | noun | hybrid | ہائبرڈ | Science & Technology | 2 |
+> 하이브리드 자동차를 샀어요. | I bought a hybrid car. | ہائبرڈ گاڑی خریدی۔
+> 온라인과 오프라인 하이브리드 수업이에요. | It's a hybrid online and offline class. | آن لائن اور آف لائن ملی جلی کلاس ہے۔
+> 하이브리드 방식으로 운영해요. | We run it in a hybrid way. | ملے جلے طریقے سے چلاتے ہیں۔
++ 기술적 | 技術的 | gisuljeok | noun | technical | تکنیکی | Science & Technology | 3 |
+> 기술적인 문제가 생겼어요. | A technical problem came up. | تکنیکی مسئلہ پیدا ہوا۔
+> 기술적으로 가능해요. | It's technically possible. | تکنیکی طور پر ممکن ہے۔
+> 기술적 지원을 받았어요. | We received technical support. | تکنیکی مدد ملی۔
++ 기술력 | 技術力 | gisullyeok | noun | technological capability | تکنیکی صلاحیت | Science & Technology | 3 |
+> 우리 회사는 기술력이 뛰어나요. | Our company has excellent technology. | ہماری کمپنی کی تکنیکی صلاحیت بہترین ہے۔
+> 기술력을 인정받았어요. | Our technology was recognized. | تکنیکی صلاحیت کو تسلیم کیا گیا۔
+> 기술력을 키우려고 투자해요. | We invest to build technological capability. | تکنیکی صلاحیت بڑھانے کے لیے سرمایہ لگاتے ہیں۔
++ 혁신적 | 革新的 | hyeoksinjeok | noun | innovative | جدید، انقلابی | Science & Technology | 3 |
+> 혁신적인 아이디어예요. | It's an innovative idea. | یہ جدید خیال ہے۔
+> 혁신적인 기술로 문제를 해결했어요. | We solved the problem with innovative technology. | جدید ٹیکنالوجی سے مسئلہ حل کیا۔
+> 회사가 혁신적으로 바뀌었어요. | The company changed in an innovative way. | کمپنی انقلابی انداز میں بدلی۔
++ 신박하다 | 新- | sinbakada | adjective | to be fresh and clever (slang) | نیا اور زبردست ہونا | Idioms & Expressions | 2 | Casual slang: 신기하다 + 대박.
+> 아이디어가 정말 신박해요! | The idea is really clever! | خیال واقعی زبردست ہے!
+> 신박한 물건을 샀어요. | I bought a clever gadget. | ایک انوکھی چیز خریدی۔
+> 그 방법 신박하다! | That method is genius! | یہ طریقہ تو کمال ہے!
++ 경제적 | 經濟的 | gyeongjejeok | noun | economic; economical | معاشی؛ کفایتی | Economy & Business | 2 |
+> 경제적인 이유로 포기했어요. | I gave up for financial reasons. | معاشی وجوہات سے چھوڑ دیا۔
+> 대중교통이 더 경제적이에요. | Public transport is more economical. | پبلک ٹرانسپورٹ زیادہ کفایتی ہے۔
+> 경제적 효과가 커요. | The economic effect is large. | معاشی اثر بڑا ہے۔
++ 사회적 | 社會的 | sahoejeok | noun | social | سماجی | Society & Culture | 2 |
+> 사회적 문제가 되고 있어요. | It's becoming a social problem. | یہ سماجی مسئلہ بن رہا ہے۔
+> 사회적 거리를 유지하세요. | Keep a social distance. | سماجی فاصلہ رکھیں۔
+> 기업의 사회적 책임이 중요해요. | Corporate social responsibility matters. | کمپنیوں کی سماجی ذمہ داری اہم ہے۔
++ 환경적 | 環境的 | hwangyeongjeok | noun | environmental | ماحولیاتی | Environment | 3 |
+> 환경적 영향을 평가했어요. | We assessed the environmental impact. | ماحولیاتی اثر کا جائزہ لیا۔
+> 환경적으로 좋은 선택이에요. | It's an environmentally good choice. | ماحولیاتی طور پر اچھا انتخاب ہے۔
+> 환경적인 측면도 고려하세요. | Consider the environmental aspect too. | ماحولیاتی پہلو بھی دیکھیں۔
++ 정책적 | 政策的 | jeongchaekjeok | noun | policy-related, in terms of policy | پالیسی کے لحاظ سے | Society & Culture | 3 |
+> 정책적인 지원이 필요해요. | Policy support is needed. | پالیسی کی سطح پر مدد درکار ہے۔
+> 정책적으로 해결해야 해요. | It has to be solved through policy. | پالیسی کے ذریعے حل کرنا ہوگا۔
+> 정책적 의미가 커요. | It has major policy implications. | اس کی پالیسی اہمیت بڑی ہے۔
++ 사업적 | 事業的 | saeopjeok | noun | business-related, commercial | کاروباری | Economy & Business | 3 |
+> 사업적인 관계로 만났어요. | We met through business. | کاروباری تعلق سے ملے۔
+> 사업적 가치가 있어요. | It has commercial value. | اس کی کاروباری قدر ہے۔
+> 사업적으로 성공했어요. | It succeeded commercially. | کاروباری طور پر کامیاب ہوا۔
++ 금전적 | 金錢的 | geumjeonjeok | noun | monetary, financial | مالی | Shopping & Money | 3 |
+> 금전적인 보상을 받았어요. | We received monetary compensation. | مالی معاوضہ ملا۔
+> 금전적 손해가 컸어요. | The financial loss was big. | مالی نقصان بڑا تھا۔
+> 금전적으로 여유가 없어요. | I'm short on money. | مالی گنجائش نہیں ہے۔
++ 재정적 | 財政的 | jaejeongjeok | noun | financial, fiscal | مالیاتی | Economy & Business | 3 | 재정 = finances.
+> 재정적인 지원이 필요해요. | Financial support is needed. | مالی امداد درکار ہے۔
+> 회사가 재정적으로 어려워요. | The company is in financial difficulty. | کمپنی مالی مشکل میں ہے۔
+> 재정적 부담을 줄였어요. | We reduced the financial burden. | مالی بوجھ کم کیا۔
